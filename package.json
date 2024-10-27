@@ -1,0 +1,19 @@
+{
+  "name": "animealcinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@extractus/article-extractor": "^8.0.15",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "i": "^0.3.7",
+    "npm": "^10.9.0"
+  }
+}
