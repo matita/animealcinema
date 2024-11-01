@@ -4,6 +4,7 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import * as htmlparser2 from 'htmlparser2';
 import * as fs from 'fs/promises';
+import slug from 'slug';
 
 const {
   GOOGLE_ALERT_RSS,
@@ -11,39 +12,29 @@ const {
 } = process.env;
 
 async function fetchArticles(rssUrl) {
+  console.log('Fetching rss from', rssUrl);
   const feedResponse = await axios.get(rssUrl);
   const feed = htmlparser2.parseFeed(feedResponse.data, { xmlMode: true });
-  const articlesAndAnime = [];
-  for (const item of feed.items) {
+  console.log(`Found ${feed.items.length} items`);
+
+  feed.items.forEach((item) => {
     const googleUrl = new URL(item.link);
     const articleUrl = googleUrl.host === 'www.google.com'
       ? googleUrl.searchParams.get('url')
-      : item.link; 
+      : item.link;
 
-    articlesAndAnime.push({
-      title: item.title,
-      link: articleUrl,
-      description: item.description,
-      pubDate: item.pubDate,
-      animeMovies: await extractAnimeMovies(articleUrl),
-    });
-  }
-  
-  return articlesAndAnime;
+    item.link = articleUrl;
+  });
+
+  return feed;
 }
 
-async function extractAnimeMovies(link) {
-  const article = await extract(link);
-  if (!article) {
-    console.log('No article found at', link);
-    return null;
-  }
+const pad = (n) => `0${n}`.slice(-2);
+const formatDate = (date) => `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
 
-  const $ = cheerio.load(article.content);
-  const articleText = $.text().trim().replace(/[\n\s]+/g, ' ');
-  
+async function extractAnimeMoviesFromText(articleText, publishedDate) {
   const prompt = `
-    ${article.published ? `Current date is ${article.published.split('T')[0]}.` : ''}
+    ${publishedDate ? `Current date is ${formatDate(publishedDate)}.` : ''}
     Extract all Japanese anime movies mentioned in this article that you are sure will be going to be released in italian movie theaters
     with their next and last release dates in italian movie theaters as a JSON array. 
     Format: [{"title": "Movie Title", "release_date": "YYYY-MM-DD", "end_date": "YYYY-MM-DD"}]. 
@@ -78,19 +69,103 @@ async function extractAnimeMovies(link) {
 
     try {
       const animeList = JSON.parse(answer);
-      // console.log('Extracted Anime Movies:', animeList);
       return animeList;
     } catch (error) {
       console.error('Error parsing response as JSON:', answer);
-      return null;
     }
   } catch (error) {
     console.error('API request failed:', error.response ? error.response.data : error.message);
   }
+
+  return null;
 }
 
-const articles = await fetchArticles(GOOGLE_ALERT_RSS);
-await fs.writeFile('articles.json', JSON.stringify(articles, null, 2));
+async function extractAnimeMovies(link, pubDate) {
+  const article = await extract(link);
+  if (!article) {
+    console.log('No article found at', link);
+    return null;
+  }
+
+  const publishedDate = (article.published && new Date(article.published)) || pubDate;
+
+  const $ = cheerio.load(article.content);
+  const articleText = $.text().trim().replace(/[\n\s]+/g, ' ');
+  
+  return {
+    ...article,
+    publishedDate,
+    animeList: await extractAnimeMoviesFromText(articleText, publishedDate),
+  };
+}
+
+function processMovie(movie, fromArticle, existingMovies) {
+  const movieSlug = slug(movie.title);
+  const existingMovie = existingMovies[movieSlug];
+  if (existingMovie?.lastSourceDate >= fromArticle.publishedDate) {
+    return;
+  }
+
+  const sources = existingMovie?.sources ?? [];
+  if (!sources.some((source) => source.url === fromArticle.url)) {
+    const { url, title, description, publishedDate } = fromArticle;
+    sources.push({ url, title, description, publishedDate });
+  }
+
+  const updatedMovie = {
+    ...(existingMovie ?? {}),
+    title: existingMovie?.title ?? movie.title,
+    slug: movieSlug,
+    lastSourceDate: fromArticle.publishedDate,
+    release_date: existingMovie?.release_date ?? movie.release_date,
+    end_date: existingMovie?.end_date ?? movie.end_date,
+    sources,
+  };
+  existingMovies[movieSlug] = updatedMovie;
+}
+
+const SOURCES_FILE = './data/sources.json';
+const MOVIES_FILE = './data/movies.json';
+
+const sources = JSON.parse(`${await fs.readFile(SOURCES_FILE)}`);
+const existingMovies = JSON.parse(`${await fs.readFile(MOVIES_FILE)}`);
+console.log(`Currently known movies:`, Object.values(existingMovies).length);
+
+for (const source of sources) {
+  console.log(`Fetching from source ${source.name}`);
+  const feed = await fetchArticles(source.url);
+  const lastUpdateDate = source.lastUpdateDate && new Date(source.lastUpdateDate);
+  if (lastUpdateDate && feed.updated <= lastUpdateDate) {
+    console.log(`Skipping source because it was updated before ${lastUpdateDate.toISOString()}`);
+    continue;
+  }
+
+  const urls = feed.items.map((item) => item.link);
+  for (const articleUrl of urls) {
+    if (!articleUrl) {
+      continue;
+    }
+  
+    console.log(`Extracting movies from ${articleUrl}`);
+    const article = await extractAnimeMovies(articleUrl);
+    console.log(`Found ${article.animeList.length} movies`);
+  
+    for (const movie of article.animeList) {
+      processMovie(movie, article, existingMovies);
+    }
+  }
+  
+  console.log('Saving movies file');
+  await fs.writeFile(MOVIES_FILE, JSON.stringify(existingMovies, null, 2));
+  console.log('Saved movies file');
+  
+  source.lastUpdateDate = feed.updated;
+  console.log('Saving sources file');
+  await fs.writeFile(SOURCES_FILE, JSON.stringify(sources, null, 2));
+  console.log('Saved sources file');
+}
+
+
 
 
 // Example usage:
