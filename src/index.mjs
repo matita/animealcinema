@@ -5,6 +5,7 @@ import * as cheerio from 'cheerio';
 import * as htmlparser2 from 'htmlparser2';
 import * as fs from 'fs/promises';
 import slug from 'slug';
+import Eleventy from '@11ty/eleventy';
 
 const {
   GOOGLE_ALERT_RSS,
@@ -124,11 +125,20 @@ function processMovie(movie, fromArticle, existingMovies) {
   existingMovies[movieSlug] = updatedMovie;
 }
 
-const SOURCES_FILE = './data/sources.json';
-const MOVIES_FILE = './data/movies.json';
+async function loadExistingMovies(path) {
+  const content = await fs.readFile(path);
+  const movies = JSON.parse(content);
+  return movies.reduce((aggregator, movie) => {
+    aggregator[movie.slug] = movie;
+    return aggregator;
+  }, {});
+}
+
+const SOURCES_FILE = './_input/_data/sources.json';
+const MOVIES_FILE = './_input/_data/movies.json';
 
 const sources = JSON.parse(`${await fs.readFile(SOURCES_FILE)}`);
-const existingMovies = JSON.parse(`${await fs.readFile(MOVIES_FILE)}`);
+const existingMovies = await loadExistingMovies(MOVIES_FILE);
 console.log(`Currently known movies:`, Object.values(existingMovies).length);
 
 for (const source of sources) {
@@ -156,7 +166,7 @@ for (const source of sources) {
   }
   
   console.log('Saving movies file');
-  await fs.writeFile(MOVIES_FILE, JSON.stringify(existingMovies, null, 2));
+  await fs.writeFile(MOVIES_FILE, JSON.stringify(Object.values(existingMovies), null, 2));
   console.log('Saved movies file');
   
   source.lastUpdateDate = feed.updated;
@@ -164,6 +174,11 @@ for (const source of sources) {
   await fs.writeFile(SOURCES_FILE, JSON.stringify(sources, null, 2));
   console.log('Saved sources file');
 }
+
+console.log('Building website');
+const eleventy = new Eleventy('./_input');
+await eleventy.write();
+console.log('Built website');
 
 
 
