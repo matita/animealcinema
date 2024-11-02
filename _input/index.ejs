@@ -10,29 +10,57 @@
   const announcedMovies = movies
     .filter(m => !m.release_date)
     .sort((a, b) => a.title.localeCompare(b.title));
+
+  const relevantMovies = movies
+    .filter((m) => !m.end_date || new Date(m.end_date) > now)
+    .sort((a, b) => a.release_date.localeCompare(b.release_date))
+    .reduce((agg, movie) => {
+      const releaseDate = new Date(movie.release_date);
+      const relativeDate = (movie.release_date && formatRelativeDate(releaseDate)) || 'Annunciati';
+      agg[relativeDate] = agg[relativeDate] || [];
+      agg[relativeDate].push(movie);
+      return agg;
+    }, {});
+
+  function formatRelativeDate(date) {
+    const now = new Date();
+    const d = date instanceof Date ? date : new Date(date);
+    const diffTime = d - now;
+    const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24));
+    
+    let unit;
+    let value;
+    
+    /* if (Math.abs(diffDays) < 7) {
+        unit = 'day';
+        value = diffDays;
+    } else */if (Math.abs(diffDays) < 30) {
+        unit = 'week';
+        value = Math.round(diffDays / 7);
+    } else if (Math.abs(diffDays) < 365) {
+        unit = 'month';
+        value = Math.round(diffDays / 30);
+    } else {
+        unit = 'year';
+        value = Math.round(diffDays / 365);
+    }
+    
+    return new Intl.RelativeTimeFormat('it', { numeric: 'auto' }).format(value, unit);
+  }
 %>
 
-<h1>Anime al cinema in Italia</h1>
+<div class="hero">
+  <h1>Anime al cinema in Italia</h1>
+</div>
 
-<h2>Al cinema oggi</h2>
-<ul>
-<% for (const movie of showingMovies) { %>
-  <%- include('_includes/movie', { movie }) %>
-<% } %>
-</ul>
+<% for (const label in relevantMovies) { %>
+  <h2><%= label %></h2>
 
-<h2>Prossimamente</h2>
-<ul>
-<% for (const movie of comingMovies) { %>
-  <%- include('_includes/movie', { movie }) %>
+  <ul>
+    <% for (const movie of relevantMovies[label]) { %>
+      <%- include('_includes/movie', { movie }) %>
+    <% } %>
+  </ul>
 <% } %>
-</ul>
-
-<h2>Annunciati</h2>
-<ul>
-<% for (const movie of announcedMovies) { %>
-  <%- include('_includes/movie', { movie }) %>
-<% } %>
-</ul>
 
 <%- include('_includes/footer') %>

@@ -5,7 +5,6 @@ import * as cheerio from 'cheerio';
 import * as htmlparser2 from 'htmlparser2';
 import * as fs from 'fs/promises';
 import slug from 'slug';
-import Eleventy from '@11ty/eleventy';
 
 const {
   GOOGLE_ALERT_RSS,
@@ -174,11 +173,6 @@ for (const source of sources) {
   await fs.writeFile(SOURCES_FILE, JSON.stringify(sources, null, 2));
   console.log('Saved sources file');
 }
-
-console.log('Building website');
-const eleventy = new Eleventy('./_input');
-await eleventy.write();
-console.log('Built website');
 
 
 
