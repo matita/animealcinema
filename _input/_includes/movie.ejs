@@ -1,0 +1,47 @@
+<%
+function formatRelativeDate(date) {
+  const now = new Date();
+  const d = date instanceof Date ? date : new Date(date);
+  const diffTime = d - now;
+  const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24));
+  
+  let unit;
+  let value;
+  
+  /* if (Math.abs(diffDays) < 7) {
+      unit = 'day';
+      value = diffDays;
+  } else */if (Math.abs(diffDays) < 30) {
+      unit = 'week';
+      value = Math.round(diffDays / 7);
+  } else if (Math.abs(diffDays) < 365) {
+      unit = 'month';
+      value = Math.round(diffDays / 30);
+  } else {
+      unit = 'year';
+      value = Math.round(diffDays / 365);
+  }
+  
+  return new Intl.RelativeTimeFormat('it', { numeric: 'auto' }).format(value, unit);
+}
+
+function formatDate(date) {
+  const d = date instanceof Date ? date : new Date(date);
+  return new Intl.DateTimeFormat('it', {
+    dateStyle: 'full',
+    // timeStyle: 'long',
+    // timeZone: 'Australia/Sydney',
+  }).format(d)
+}
+%>
+
+<li>
+  <div><%= movie.title %></div>
+  <div style="color:#555">
+    Da <%= formatDate(movie.release_date) %> 
+    <% if (movie.end_date) { %>
+      a <%= formatDate(movie.end_date) %>
+    <% } %>
+    - <%= formatRelativeDate(movie.release_date) %>
+  </div>
+</li>

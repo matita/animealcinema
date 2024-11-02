@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-ejs": "^1.0.0",
     "@extractus/article-extractor": "^8.0.15",
     "axios": "^1.7.7",
     "cheerio": "^1.0.0",

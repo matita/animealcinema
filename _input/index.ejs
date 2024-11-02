@@ -1,0 +1,38 @@
+<%- include('_includes/header') %>
+<%
+  const now = new Date();
+  const showingMovies = movies
+    .filter(m => new Date(m.release_date) < now && (!m.end_date || new Date(m.end_date) > now))
+    .sort((a, b) => a.title.localeCompare(b.title));
+  const comingMovies = movies
+    .filter(m => new Date(m.release_date) > now)
+    .sort((a, b) => a.release_date.localeCompare(b.release_date));
+  const announcedMovies = movies
+    .filter(m => !m.release_date)
+    .sort((a, b) => a.title.localeCompare(b.title));
+%>
+
+<h1>Anime al cinema in Italia</h1>
+
+<h2>Al cinema oggi</h2>
+<ul>
+<% for (const movie of showingMovies) { %>
+  <%- include('_includes/movie', { movie }) %>
+<% } %>
+</ul>
+
+<h2>Prossimamente</h2>
+<ul>
+<% for (const movie of comingMovies) { %>
+  <%- include('_includes/movie', { movie }) %>
+<% } %>
+</ul>
+
+<h2>Annunciati</h2>
+<ul>
+<% for (const movie of announcedMovies) { %>
+  <%- include('_includes/movie', { movie }) %>
+<% } %>
+</ul>
+
+<%- include('_includes/footer') %>
