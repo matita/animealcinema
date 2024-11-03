@@ -49,18 +49,22 @@
   }
 %>
 
-<div class="hero">
-  <h1>Anime al cinema in Italia</h1>
-</div>
-
+<main>
+  <div class="hero">
+    <h1>Anime al cinema in Italia</h1>
+  </div>
+  
 <% for (const label in relevantMovies) { %>
-  <h2><%= label %></h2>
-
-  <ul>
-    <% for (const movie of relevantMovies[label]) { %>
-      <%- include('_includes/movie', { movie }) %>
-    <% } %>
-  </ul>
+  <section>
+    <h2><%= label %></h2>
+  
+    <div class="movie-list">
+      <% for (const movie of relevantMovies[label]) { %>
+        <%- include('_includes/movie', { movie }) %>
+      <% } %>
+      </div>
+  </section>
 <% } %>
+</main>
 
 <%- include('_includes/footer') %>

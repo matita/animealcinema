@@ -6,9 +6,26 @@
   <title>Anime al cinema in Italia</title>
 
   <style>
-    body {
+    html, body {
       margin: 0;
       padding: 0;
+      height: 100%;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    main {
+      flex: 1;
+      text-align: center;
+    }
+
+    footer {
+      font-size: .8em;
+      color: #ccc;
+      text-align: center;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -24,12 +41,26 @@
       line-height: 1.5;
     }
 
+    section {
+      padding: 1rem;
+    }
+
+    section + section {
+      margin-top: 2rem;
+    }
+
     .hero {
       background-color: #555;
       color: #eee;
       padding: 2em;
       text-align: center;
     }
+
+    .movie-list-item {
+      margin-top: 1em;
+    }
   </style>
+
+  <!-- Last build: <%= new Date() %> -->
 </head>
 <body>

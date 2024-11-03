@@ -6,9 +6,26 @@
   <title>Anime al cinema in Italia</title>
 
   <style>
-    body {
+    html, body {
       margin: 0;
       padding: 0;
+      height: 100%;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    main {
+      flex: 1;
+      text-align: center;
+    }
+
+    footer {
+      font-size: .8em;
+      color: #ccc;
+      text-align: center;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -24,70 +41,91 @@
       line-height: 1.5;
     }
 
+    section {
+      padding: 1rem;
+    }
+
+    section + section {
+      margin-top: 2rem;
+    }
+
     .hero {
       background-color: #555;
       color: #eee;
       padding: 2em;
       text-align: center;
     }
+
+    .movie-list-item {
+      margin-top: 1em;
+    }
   </style>
+
+  <!-- Last build: Sun Nov 03 2024 13:25:09 GMT+0100 (Central European Standard Time) -->
 </head>
 <body>
 
 
-<div class="hero">
-  <h1>Anime al cinema in Italia</h1>
-</div>
+<main>
+  <div class="hero">
+    <h1>Anime al cinema in Italia</h1>
+  </div>
+  
 
-
-  <h2>questa settimana</h2>
-
-  <ul>
-    
+  <section>
+    <h2>questa settimana</h2>
+  
+    <div class="movie-list">
       
+        
 
-<li>
-  <div>THE LAST: NARUTO THE MOVIE</div>
+<div class="movie-list-item">
+  <h3>THE LAST: NARUTO THE MOVIE</h3>
   <div style="color:#555">
     Da lunedì 4 novembre 2024 
     
       a mercoledì 6 novembre 2024
     
   </div>
-</li>
-    
-  </ul>
-
-  <h2>mese prossimo</h2>
-
-  <ul>
-    
+</div>
       
+      </div>
+  </section>
 
-<li>
-  <div>OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO</div>
+  <section>
+    <h2>mese prossimo</h2>
+  
+    <div class="movie-list">
+      
+        
+
+<div class="movie-list-item">
+  <h3>OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO</h3>
   <div style="color:#555">
     Da lunedì 9 dicembre 2024 
     
       a mercoledì 11 dicembre 2024
     
   </div>
-</li>
-    
+</div>
       
+        
 
-<li>
-  <div>Interstella 5555: The 5tory of the 5ecret 5tar 5ystem</div>
+<div class="movie-list-item">
+  <h3>Interstella 5555: The 5tory of the 5ecret 5tar 5ystem</h3>
   <div style="color:#555">
     Da giovedì 12 dicembre 2024 
     
       a domenica 15 dicembre 2024
     
   </div>
-</li>
-    
-  </ul>
+</div>
+      
+      </div>
+  </section>
 
+</main>
 
+  <footer>Ultimo aggiornamento: domenica 3 novembre 2024 alle ore 13:25:09 CET</footer>
 </body>
 </html>
