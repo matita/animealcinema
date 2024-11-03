@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "fetch-and-build": "node src/index.mjs && npx @11ty/eleventy --input=_input",
-    "dev": "npx @11ty/eleventy --input=_input --serve"
+    "fetch": "node src/index.mjs",
+    "build": "npx @11ty/eleventy --input=_input",
+    "dev": "npm run build -- --serve"
   },
   "author": "",
   "license": "ISC",
