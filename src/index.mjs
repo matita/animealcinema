@@ -38,7 +38,7 @@ async function extractAnimeMoviesFromText(articleText, publishedDate) {
     Extract all Japanese anime movies mentioned in this article that you are sure will be going to be released in italian movie theaters
     with their next and last release dates in italian movie theaters as a JSON array. 
     Format: [{"title": "Movie Title", "release_date": "YYYY-MM-DD", "end_date": "YYYY-MM-DD"}]. 
-    If you're not sure of the release date, do not return the "release_date" field.
+    If you're not sure of the release date in Italian movie theaters, do not return the "release_date" field.
     If end date is unknown, do not return the field "end_date".
     Always respond with only JSON, never wrap it in markdown.
     Article: ${articleText}`.trim().replace(/[\n\s]+/g, ' ');
