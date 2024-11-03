@@ -6,7 +6,8 @@
   "scripts": {
     "fetch": "node src/index.mjs",
     "build": "npx @11ty/eleventy --input=_input",
-    "dev": "npm run build -- --serve"
+    "dev": "npm run build -- --serve",
+    "deploy": "npx surge ./_site --domain animealcinema.surge.sh"
   },
   "author": "",
   "license": "ISC",
@@ -20,6 +21,7 @@
     "htmlparser2": "^9.1.0",
     "i": "^0.3.7",
     "npm": "^10.9.0",
-    "slug": "^10.0.0"
+    "slug": "^10.0.0",
+    "surge": "^0.24.6"
   }
 }
