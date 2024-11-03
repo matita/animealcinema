@@ -101,7 +101,8 @@ async function extractAnimeMovies(link, pubDate) {
 
 function processMovie(movie, fromArticle, existingMovies) {
   const movieSlug = slug(movie.title);
-  const existingMovie = existingMovies[movieSlug];
+  const existingMovie = existingMovies[movieSlug] || Object.values(existingMovies).find((m) => m.aliases?.includes(movieSlug));
+  const finalSlug = existingMovie?.slug ?? movieSlug;
   if (existingMovie?.lastSourceDate >= fromArticle.publishedDate) {
     return;
   }
@@ -115,13 +116,13 @@ function processMovie(movie, fromArticle, existingMovies) {
   const updatedMovie = {
     ...(existingMovie ?? {}),
     title: existingMovie?.title ?? movie.title,
-    slug: movieSlug,
+    slug: finalSlug,
     lastSourceDate: fromArticle.publishedDate,
     release_date: existingMovie?.release_date ?? movie.release_date,
     end_date: existingMovie?.end_date ?? movie.end_date,
     sources,
   };
-  existingMovies[movieSlug] = updatedMovie;
+  existingMovies[finalSlug] = updatedMovie;
 }
 
 async function loadExistingMovies(path) {
@@ -157,6 +158,10 @@ for (const source of sources) {
   
     console.log(`Extracting movies from ${articleUrl}`);
     const article = await extractAnimeMovies(articleUrl);
+    if (!article) {
+      continue;
+    }
+
     console.log(`Found ${article.animeList.length} movies`);
   
     for (const movie of article.animeList) {

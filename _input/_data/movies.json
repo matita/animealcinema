@@ -2,6 +2,9 @@
   {
     "title": "Haikyuu!! The Dumpster Battle",
     "slug": "haikyuu-the-dumpster-battle",
+    "aliases": [
+      "haikyu-the-dumpster-battle"
+    ],
     "release_date": "2024-06-01",
     "end_date": "2024-06-03",
     "sources": [
@@ -9,13 +12,19 @@
         "url": "https://www.gamesurf.it/news/haikyuu-la-battaglia-della-discarica-debutta-su-crunchyroll-dopo-il-successo-nei-cinema",
         "title": "Il primo film conclusivo di Haikyuu!! debutta in streaming su Crunchyroll",
         "description": "Haikyuu!! The Dumpster Battle, il primo dei film conclusivi della serie anime, sarà disponibile su Crunchyroll dal 1° novembre con doppiaggio e sottotitoli in italiano e altre lingue."
+      },
+      {
+        "url": "https://www.mangaforever.net/7266390513/crunchyroll-pubblica-haikyu-the-dumpster-battle-uno-dei-migliori-film-anime-del-2024",
+        "title": "Crunchyroll pubblica Haikyu: The Dumpster Battle",
+        "description": "Crunchyroll pubblica Haikyu: The Dumpster Battle, uno dei migliori film anime del 2024                                        Un grande...",
+        "publishedDate": "2024-11-01T15:19:28.000Z"
       }
-    ]
+    ],
+    "lastSourceDate": "2024-11-01T15:19:28.000Z"
   },
   {
     "title": "OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO",
     "slug": "overlord-il-film-capitolo-del-santo-regno",
-    "lastSourceDate": "2024-10-31T00:00:00.000Z",
     "release_date": "2024-12-09",
     "end_date": "2024-12-11",
     "sources": [
@@ -24,8 +33,15 @@
         "title": "OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO arriva al cinema",
         "description": "Nexo Digital annuncia che il film animato OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO arriverà al cinema per un evento speciale. Il lungometraggio sarà disponibile per un periodo limitato il 9, il 10 e l’11...",
         "publishedDate": "2024-10-31T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.voto10.it/cinema/overlord-il-film-capitolo-del-santo-regno-per-la-prima-volta-al-cinema/",
+        "title": "Overlord - il Film: Capitolo del Santo Regno per la prima volta al cinema - Voto 10 - Solo il meglio",
+        "description": "Overlord - il Film: Capitolo del Santo Regno arriva per la prima volta al cinema solo per tre giorni, il 9, 10 e 11 dicembre. Il film targato Yamato Video è il quarto attesissimo appuntamento della St",
+        "publishedDate": "2024-11-01T09:00:40.000Z"
       }
-    ]
+    ],
+    "lastSourceDate": "2024-11-01T09:00:40.000Z"
   },
   {
     "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
