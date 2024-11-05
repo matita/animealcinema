@@ -61,7 +61,7 @@
   {
     "title": "THE LAST: NARUTO THE MOVIE",
     "slug": "the-last-naruto-the-movie",
-    "lastSourceDate": "2024-10-31T00:00:00.000Z",
+    "lastSourceDate": "2024-11-04T13:16:00.000Z",
     "release_date": "2024-11-04",
     "end_date": "2024-11-06",
     "sources": [
@@ -70,6 +70,33 @@
         "title": "OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO arriva al cinema",
         "description": "Nexo Digital annuncia che il film animato OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO arriverà al cinema per un evento speciale. Il lungometraggio sarà disponibile per un periodo limitato il 9, il 10 e l’11...",
         "publishedDate": "2024-10-31T00:00:00.000Z"
+      },
+      {
+        "url": "https://anime.everyeye.it/articoli/recensione-the-last-naruto-the-movie-film-fondamentale-shippuden-64720.html",
+        "title": "The Last - Naruto the Movie Recensione: un film fondamentale per Shippuden",
+        "description": "The Last - Naruto The Movie è una delle pochissime (due, in verità) pellicole cinematografiche canoniche per il franchise di Masashi Kishimoto. Non perché le precedenti opere presentino chissà quali...",
+        "publishedDate": null
+      },
+      {
+        "url": "https://anime.everyeye.it/notizie/naruto-shippuden-episodi-riguardare-vedere-the-last-753887.html",
+        "title": "Naruto Shippuden, quali episodi riguardare prima di vedere The Last?",
+        "description": "In arrivo al cinema in Italia per tre giorni, dal 4 al 6 novembre, The Last: Naruto The Movie chiude la saga animata di Shippuden, perciò abbiamo fatto una breve lista di quali episodi vedere per arrivare...",
+        "publishedDate": "2024-11-04T13:16:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Solo Leveling -ReAwakening",
+    "slug": "solo-leveling-reawakening",
+    "lastSourceDate": "2024-11-04T16:25:15.324Z",
+    "release_date": "2024-12-02",
+    "end_date": "2024-12-04",
+    "sources": [
+      {
+        "url": "https://www.wired.it/article/crunchyroll-anime-in-arrivo-2025/",
+        "title": "Tutti gli anime in arrivo su Crunchyroll nel 2025",
+        "description": "… più qualche titolo che vedremo già dallle prossime settimane. La piattaforma di streaming dedicata all'animazione orientale ha presentato a Lucca Comics & Games un palinsesto ricchissimo e all'insegna del fantasy",
+        "publishedDate": "2024-11-04T16:25:15.324Z"
       }
     ]
   }
