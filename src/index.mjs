@@ -6,10 +6,32 @@ import * as htmlparser2 from 'htmlparser2';
 import * as fs from 'fs/promises';
 import slug from 'slug';
 
-const {
-  GOOGLE_ALERT_RSS,
-  OPENAI_API_KEY,
-} = process.env;
+class Logger {
+  date
+  filePath
+  lastOperation
+
+  constructor() {
+    this.date = new Date();
+    const formattedDate = `${formatDate(this.date)} ${formatTime(this.date)}`;
+    this.filePath = `./fetchlogs/${formattedDate}.md`;
+    this.appendLine(`# ${formattedDate}`);
+  }
+
+  log(...args) {
+    globalThis.console.log(...args);
+    return this.appendLine(args.join(' '));
+  }
+
+  async appendLine(text) {
+    await this.lastOperation;
+    return this.lastOperation = fs.appendFile(this.filePath, `${text}  \n`);
+  }
+}
+
+let console;
+
+const { OPENAI_API_KEY } = process.env;
 
 async function fetchArticles(rssUrl) {
   console.log('Fetching rss from', rssUrl);
@@ -31,6 +53,7 @@ async function fetchArticles(rssUrl) {
 
 const pad = (n) => `0${n}`.slice(-2);
 const formatDate = (date) => `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
+const formatTime = (date) => `${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}`;
 
 async function extractAnimeMoviesFromText(articleText, publishedDate) {
   const prompt = `
@@ -42,6 +65,9 @@ async function extractAnimeMoviesFromText(articleText, publishedDate) {
     If end date is unknown, do not return the field "end_date".
     Always respond with only JSON, never wrap it in markdown.
     Article: ${articleText}`.trim().replace(/[\n\s]+/g, ' ');
+
+  console.log('--- prompt ---');
+  console.log(prompt);
   
   try {
     const response = await axios.post(
@@ -137,6 +163,7 @@ async function loadExistingMovies(path) {
 const SOURCES_FILE = './_input/_data/sources.json';
 const MOVIES_FILE = './_input/_data/movies.json';
 
+console = new Logger();
 const sources = JSON.parse(`${await fs.readFile(SOURCES_FILE)}`);
 const existingMovies = await loadExistingMovies(MOVIES_FILE);
 console.log(`Currently known movies:`, Object.values(existingMovies).length);
@@ -165,6 +192,8 @@ for (const source of sources) {
     console.log(`Found ${article.animeList.length} movies`);
   
     for (const movie of article.animeList) {
+      console.log(`--- processing movie ---`);
+      console.log(JSON.stringify(movie, null, 2));
       processMovie(movie, article, existingMovies);
     }
   }
