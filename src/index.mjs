@@ -115,7 +115,7 @@ function processMovie(movie, fromArticle, existingMovies) {
 
   const updatedMovie = {
     ...(existingMovie ?? {}),
-    title: existingMovie?.title ?? movie.title,
+    title: existingMovie?.title ?? movie.title ?? '',
     slug: finalSlug,
     lastSourceDate: fromArticle.publishedDate,
     release_date: existingMovie?.release_date ?? movie.release_date,
