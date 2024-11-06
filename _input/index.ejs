@@ -13,7 +13,7 @@
 
   const relevantMovies = movies
     .filter((m) => !m.end_date || new Date(m.end_date) > now)
-    .sort((a, b) => a.release_date.localeCompare(b.release_date))
+    .sort((a, b) => a.release_date?.localeCompare(b.release_date))
     .reduce((agg, movie) => {
       const releaseDate = new Date(movie.release_date);
       const relativeDate = (movie.release_date && formatRelativeDate(releaseDate)) || 'Annunciati';
