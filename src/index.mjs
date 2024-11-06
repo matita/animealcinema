@@ -14,7 +14,7 @@ class Logger {
   constructor() {
     this.date = new Date();
     const formattedDate = `${formatDate(this.date)} ${formatTime(this.date)}`;
-    this.filePath = `./fetchlogs/${formattedDate}.md`;
+    this.filePath = `./_input/fetchlogs/${formattedDate}.md`;
     this.appendLine(`# ${formattedDate}`);
   }
 
