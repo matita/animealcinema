@@ -25,7 +25,9 @@ class Logger {
 
   async appendLine(text) {
     await this.lastOperation;
-    return this.lastOperation = fs.appendFile(this.filePath, `${text}  \n`);
+    const textWithLinks = text
+      .replace(/(https?:\/\/[^$\s]+)/g, '[$1]($1)')
+    return this.lastOperation = fs.appendFile(this.filePath, `${textWithLinks}  \n`);
   }
 }
 
@@ -190,6 +192,7 @@ for (const source of sources) {
     }
 
     console.log(`Found ${article.animeList.length} movies`);
+    console.log('```json\n' + JSON.stringify(article, null, 2) + '\n```');
   
     for (const movie of article.animeList) {
       console.log(`--- processing movie ---`);
