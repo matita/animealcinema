@@ -11,11 +11,11 @@ function formatDate(date) {
 
 <div class="movie-list-item">
   <h3><%= movie.title %></h3>
-  <% if (movie.release_date) { %> 
+  <% if (movie.theaterReleaseDate) { %> 
   <div style="color:#555">
-    Da <%= formatDate(movie.release_date) %> 
-    <% if (movie.end_date) { %>
-      a <%= formatDate(movie.end_date) %>
+    Da <%= formatDate(movie.theaterReleaseDate) %> 
+    <% if (movie.theaterEndDate) { %>
+      a <%= formatDate(movie.theaterEndDate) %>
     <% } %>
   </div>
   <% } %>

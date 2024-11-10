@@ -5,8 +5,8 @@
     "aliases": [
       "haikyu-the-dumpster-battle"
     ],
-    "release_date": "2024-06-01",
-    "end_date": "2024-06-03",
+    "theaterReleaseDate": "2024-06-01",
+    "theaterEndDate": "2024-06-03",
     "sources": [
       {
         "url": "https://www.gamesurf.it/news/haikyuu-la-battaglia-della-discarica-debutta-su-crunchyroll-dopo-il-successo-nei-cinema",
@@ -25,8 +25,8 @@
   {
     "title": "OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO",
     "slug": "overlord-il-film-capitolo-del-santo-regno",
-    "release_date": "2024-12-09",
-    "end_date": "2024-12-11",
+    "theaterReleaseDate": "2024-12-09",
+    "theaterEndDate": "2024-12-11",
     "sources": [
       {
         "url": "https://www.akibagamers.it/31-10-2024/overlord-il-film-capitolo-del-santo-regno-arriva-al-cinema/",
@@ -59,8 +59,8 @@
     "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
     "slug": "interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem",
     "lastSourceDate": "2024-11-08T09:00:42.000Z",
-    "release_date": "2024-12-12",
-    "end_date": "2024-12-15",
+    "theaterReleaseDate": "2024-12-12",
+    "theaterEndDate": "2024-12-15",
     "sources": [
       {
         "url": "https://www.akibagamers.it/31-10-2024/interstella-5555-arriva-al-cinema-in-edizione-4k/",
@@ -80,8 +80,8 @@
     "title": "THE LAST: NARUTO THE MOVIE",
     "slug": "the-last-naruto-the-movie",
     "lastSourceDate": "2024-11-09T10:12:00.000Z",
-    "release_date": "2024-11-04",
-    "end_date": "2024-11-06",
+    "theaterReleaseDate": "2024-11-04",
+    "theaterEndDate": "2024-11-06",
     "sources": [
       {
         "url": "https://www.akibagamers.it/31-10-2024/overlord-il-film-capitolo-del-santo-regno-arriva-al-cinema/",
@@ -125,8 +125,8 @@
     "title": "Solo Leveling -ReAwakening",
     "slug": "solo-leveling-reawakening",
     "lastSourceDate": "2024-11-04T16:25:15.324Z",
-    "release_date": "2024-12-02",
-    "end_date": "2024-12-04",
+    "theaterReleaseDate": "2024-12-02",
+    "theaterEndDate": "2024-12-04",
     "sources": [
       {
         "url": "https://www.wired.it/article/crunchyroll-anime-in-arrivo-2025/",
@@ -140,7 +140,7 @@
     "title": "Boruto - Naruto The Movie",
     "slug": "boruto-naruto-the-movie",
     "lastSourceDate": "2024-11-06T15:23:00.000Z",
-    "release_date": "2025",
+    "theaterReleaseDate": "2025",
     "sources": [
       {
         "url": "https://anime.everyeye.it/notizie/boruto-naruto-the-movie-arriva-italia-chi-doppiatori-boruto-sarada-754488.html",
@@ -154,7 +154,7 @@
     "title": "Look Back",
     "slug": "look-back",
     "lastSourceDate": "2024-11-08T11:22:00.000Z",
-    "release_date": "2024-11-05",
+    "theaterReleaseDate": "2024-11-05",
     "sources": [
       {
         "url": "https://anime.everyeye.it/notizie/miglior-anime-2024-disponibile-italia-quando-esce-755044.html",

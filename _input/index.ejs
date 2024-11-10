@@ -2,21 +2,21 @@
 <%
   const now = new Date();
   const showingMovies = movies
-    .filter(m => new Date(m.release_date) < now && (!m.end_date || new Date(m.end_date) > now))
+    .filter(m => new Date(m.theaterReleaseDate) < now && (!m.theaterEndDate || new Date(m.theaterEndDate) > now))
     .sort((a, b) => a.title.localeCompare(b.title));
   const comingMovies = movies
-    .filter(m => new Date(m.release_date) > now)
-    .sort((a, b) => a.release_date.localeCompare(b.release_date));
+    .filter(m => new Date(m.theaterReleaseDate) > now)
+    .sort((a, b) => a.theaterReleaseDate.localeCompare(b.theaterReleaseDate));
   const announcedMovies = movies
-    .filter(m => !m.release_date)
+    .filter(m => !m.theaterReleaseDate)
     .sort((a, b) => a.title.localeCompare(b.title));
 
   const relevantMovies = movies
-    .filter((m) => !m.end_date || new Date(m.end_date) > now)
-    .sort((a, b) => a.release_date?.localeCompare(b.release_date))
+    .filter((m) => !m.theaterEndDate || new Date(m.theaterEndDate) > now)
+    .sort((a, b) => a.theaterReleaseDate?.localeCompare(b.theaterReleaseDate))
     .reduce((agg, movie) => {
-      const releaseDate = new Date(movie.release_date);
-      const relativeDate = (movie.release_date && formatRelativeDate(releaseDate)) || 'Annunciati';
+      const releaseDate = new Date(movie.theaterReleaseDate);
+      const relativeDate = (movie.theaterReleaseDate && formatRelativeDate(releaseDate)) || 'Annunciati';
       agg[relativeDate] = agg[relativeDate] || [];
       agg[relativeDate].push(movie);
       return agg;

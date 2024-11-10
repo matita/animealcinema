@@ -7,7 +7,7 @@
     "animeList": [
       {
         "title": "Haikyuu!! The Dumpster Battle",
-        "release_date": "2024-06-01"
+        "theaterReleaseDate": "2024-06-01"
       }
     ]
   },
@@ -26,8 +26,8 @@
     "animeList": [
       {
         "title": "OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO",
-        "release_date": "2024-12-09",
-        "end_date": "2024-12-11"
+        "theaterReleaseDate": "2024-12-09",
+        "theaterEndDate": "2024-12-11"
       }
     ]
   },
@@ -39,8 +39,8 @@
     "animeList": [
       {
         "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
-        "release_date": "2024-12-12",
-        "end_date": "2024-12-15"
+        "theaterReleaseDate": "2024-12-12",
+        "theaterEndDate": "2024-12-15"
       }
     ]
   },

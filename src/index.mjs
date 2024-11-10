@@ -62,9 +62,9 @@ async function extractAnimeMoviesFromText(articleText, publishedDate) {
     ${publishedDate ? `Current date is ${formatDate(publishedDate)}.` : ''}
     Extract all Japanese anime movies mentioned in this article that you are sure will be going to be released in italian movie theaters
     with their next and last release dates in italian movie theaters as a JSON array. 
-    Format: [{"title": "Movie Title", "release_date": "YYYY-MM-DD", "end_date": "YYYY-MM-DD"}]. 
-    If you're not sure of the release date in Italian movie theaters, do not return the "release_date" field.
-    If end date is unknown, do not return the field "end_date".
+    Format: [{"title": "Movie Title", "theaterReleaseDate": "YYYY-MM-DD", "theaterEndDate": "YYYY-MM-DD"}]. 
+    If you're not sure of the release date in Italian movie theaters, do not return the "theaterReleaseDate" field.
+    If end date is unknown, do not return the field "theaterEndDate".
     Always respond with only JSON, never wrap it in markdown.
     Article: ${articleText}`.trim().replace(/[\n\s]+/g, ' ');
 
@@ -152,8 +152,8 @@ function processMovie(movie, fromArticle, existingMovies) {
     title: existingMovie?.title ?? movie.title ?? '',
     slug: finalSlug,
     lastSourceDate: fromArticle.publishedDate,
-    release_date: existingMovie?.release_date ?? movie.release_date,
-    end_date: existingMovie?.end_date ?? movie.end_date,
+    theaterReleaseDate: existingMovie?.theaterReleaseDate ?? movie.theaterReleaseDate,
+    theaterEndDate: existingMovie?.theaterEndDate ?? movie.theaterEndDate,
     sources,
   };
   existingMovies[finalSlug] = updatedMovie;
