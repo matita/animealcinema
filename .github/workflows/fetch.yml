@@ -33,6 +33,7 @@ jobs:
       run: |
         git config --global user.name 'Matteo'
         git config --global user.email 'matitald+animealcinema@gmail.com'
+        git add .
         git commit -am "Automated build"
         git push
     - name: Deploy to animealcinema.surge.sh
