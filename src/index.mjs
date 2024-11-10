@@ -109,22 +109,28 @@ async function extractAnimeMoviesFromText(articleText, publishedDate) {
 }
 
 async function extractAnimeMovies(link, pubDate) {
-  const article = await extract(link);
-  if (!article) {
-    console.log('No article found at', link);
+  try {
+    const article = await extract(link);
+    if (!article) {
+      console.log('No article found at', link);
+      return null;
+    }
+  
+    const publishedDate = (article.published && new Date(article.published)) || pubDate;
+  
+    const $ = cheerio.load(article.content);
+    const articleText = $.text().trim().replace(/[\n\s]+/g, ' ');
+    
+    return {
+      ...article,
+      publishedDate,
+      animeList: await extractAnimeMoviesFromText(articleText, publishedDate),
+    };
+  } catch (err) {
+    console.log(`!!! Error while extracting article from '${link}'`);
+    console.log(err);
     return null;
   }
-
-  const publishedDate = (article.published && new Date(article.published)) || pubDate;
-
-  const $ = cheerio.load(article.content);
-  const articleText = $.text().trim().replace(/[\n\s]+/g, ' ');
-  
-  return {
-    ...article,
-    publishedDate,
-    animeList: await extractAnimeMoviesFromText(articleText, publishedDate),
-  };
 }
 
 function processMovie(movie, fromArticle, existingMovies) {
