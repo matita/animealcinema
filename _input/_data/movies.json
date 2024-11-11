@@ -155,5 +155,33 @@
         "publishedDate": "2024-11-06T15:23:00.000Z"
       }
     ]
+  },
+  {
+    "title": "Hayao Miyazaki e l’airone",
+    "slug": "hayao-miyazaki-e-lairone",
+    "lastSourceDate": "2024-11-11T11:52:54.000Z",
+    "theaterReleaseDate": "2024-11-25",
+    "theaterEndDate": "2024-11-27",
+    "sources": [
+      {
+        "url": "https://fumettologica.it/2024/11/hayao-miyazaki-airone-documentario/",
+        "title": "Il documentario su Miyazaki e la lavorazione de \"Il ragazzo e l’airone\" al cinema solo 3 giorni",
+        "description": "Presentato in anteprima al Festival di Cannes 2024, in occasione della Palma d’oro onoraria allo Studio Ghibli, Hayao Miyazaki e l’airone di Kaku Arakawa sarà distribuito nei cinema italiani da Lucky Red il...",
+        "publishedDate": "2024-11-11T11:52:54.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Il ragazzo e l’airone",
+    "slug": "il-ragazzo-e-lairone",
+    "lastSourceDate": "2024-11-11T11:52:54.000Z",
+    "sources": [
+      {
+        "url": "https://fumettologica.it/2024/11/hayao-miyazaki-airone-documentario/",
+        "title": "Il documentario su Miyazaki e la lavorazione de \"Il ragazzo e l’airone\" al cinema solo 3 giorni",
+        "description": "Presentato in anteprima al Festival di Cannes 2024, in occasione della Palma d’oro onoraria allo Studio Ghibli, Hayao Miyazaki e l’airone di Kaku Arakawa sarà distribuito nei cinema italiani da Lucky Red il...",
+        "publishedDate": "2024-11-11T11:52:54.000Z"
+      }
+    ]
   }
 ]
