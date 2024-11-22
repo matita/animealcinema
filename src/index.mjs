@@ -5,6 +5,7 @@ import * as cheerio from 'cheerio';
 import * as htmlparser2 from 'htmlparser2';
 import * as fs from 'fs/promises';
 import slug from 'slug';
+import { getImagePath, searchMovie } from './api/tmdb.mjs';
 
 class Logger {
   date
@@ -172,6 +173,12 @@ const SOURCES_FILE = './_input/_data/sources.json';
 const MOVIES_FILE = './_input/_data/movies.json';
 
 console = new Logger();
+// const movie = await searchMovie('Daft Punk & Leiji Matsumoto’s Interstella 5555: The 5tory of the 5ecret 5tar 5ystem');
+// console.log('Movie');
+// console.log(JSON.stringify(movie, null, 2));
+// console.log(movie?.poster_path && getImagePath(movie.poster_path));
+// process.exit(0);
+
 const sources = JSON.parse(`${await fs.readFile(SOURCES_FILE)}`);
 const existingMovies = await loadExistingMovies(MOVIES_FILE);
 console.log(`Currently known movies:`, Object.values(existingMovies).length);

@@ -7,7 +7,8 @@
     "fetch": "node src/index.mjs",
     "build": "npx @11ty/eleventy --input=_input",
     "dev": "npm run build -- --serve",
-    "deploy": "npx surge ./_site --domain animealcinema.surge.sh"
+    "deploy": "npx surge ./_site --domain animealcinema.surge.sh",
+    "deploy-site": "npx surge ./_site --domain prova.animealcinemainitalia.it"
   },
   "author": "",
   "license": "ISC",
