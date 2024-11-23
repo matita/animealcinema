@@ -17,4 +17,13 @@ export const searchMovie = async (title) => {
   return response?.data?.results?.sort((a, b) => b.popularity - a.popularity)?.[0];
 }
 
-export const getImagePath = (fileName) => `https://image.tmdb.org/t/p/w500${fileName}`;
+/**
+ * 
+ * @param {string} fileName 
+ * @param {object} options 
+ * @param {'w342'|'w500'|'original'} options.size
+ * @returns 
+ */
+export const getImagePath = (fileName, { size = 'w500' }) => {
+  return `https://image.tmdb.org/t/p/${size}${fileName}`;
+};

@@ -6,6 +6,8 @@ import * as htmlparser2 from 'htmlparser2';
 import * as fs from 'fs/promises';
 import slug from 'slug';
 import { getImagePath, searchMovie } from './api/tmdb.mjs';
+import { formatDate, formatTime, download } from './utils.mjs';
+import path from 'path';
 
 class Logger {
   date
@@ -53,10 +55,6 @@ async function fetchArticles(rssUrl) {
 
   return feed;
 }
-
-const pad = (n) => `0${n}`.slice(-2);
-const formatDate = (date) => `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
-const formatTime = (date) => `${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}`;
 
 async function extractAnimeMoviesFromText(articleText, publishedDate) {
   const prompt = `
@@ -171,6 +169,7 @@ async function loadExistingMovies(path) {
 
 const SOURCES_FILE = './_input/_data/sources.json';
 const MOVIES_FILE = './_input/_data/movies.json';
+const IMAGE_DIR = './_input/images';
 
 console = new Logger();
 // const movie = await searchMovie('Daft Punk & Leiji Matsumoto’s Interstella 5555: The 5tory of the 5ecret 5tar 5ystem');
@@ -182,6 +181,34 @@ console = new Logger();
 const sources = JSON.parse(`${await fs.readFile(SOURCES_FILE)}`);
 const existingMovies = await loadExistingMovies(MOVIES_FILE);
 console.log(`Currently known movies:`, Object.values(existingMovies).length);
+
+for (const movie of Object.values(existingMovies)) {
+  if (movie.tmdbMovie) {
+    continue;
+  }
+
+  console.log(`Searching TMDB for '${movie.title}'`);
+  const tmdbMovie = await searchMovie(movie.title);
+  if (!tmdbMovie) {
+    console.log('No match found on TMDB');
+    continue;
+  }
+
+  console.log(`Found a '${tmdbMovie.title}'`);
+  movie.tmdbMovie = tmdbMovie;
+
+  const posterUrlx1 = getImagePath(tmdbMovie.poster_path, { size: 'w342' });
+  const fileNamex1 = path.basename(posterUrlx1);
+  const filePathx1 = path.resolve(IMAGE_DIR, 'w342', fileNamex1);
+  console.log(`Downloading ${posterUrlx1} to ${filePathx1}`);
+  await download(posterUrlx1, filePathx1);
+  
+  const posterUrlx2 = getImagePath(tmdbMovie.poster_path, { size: 'w500' });
+  const fileNamex2 = path.basename(posterUrlx1);
+  const filePathx2 = path.resolve(IMAGE_DIR, 'w500', fileNamex2);
+  console.log(`Downloading ${posterUrlx2} to ${filePathx2}`);
+  await download(posterUrlx2, filePathx2);
+}
 
 for (const source of sources) {
   console.log(`Fetching from source ${source.name}`);

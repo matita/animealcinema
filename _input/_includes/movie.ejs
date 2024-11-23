@@ -10,6 +10,9 @@ function formatDate(date) {
 %>
 
 <div class="movie-list-item">
+  <% if (movie.tmdbMovie?.poster_path) { %>
+    <img src="/images/w342<%= movie.tmdbMovie.poster_path %>" />
+  <% } %>
   <h3><%= movie.title %></h3>
   <% if (movie.theaterReleaseDate) { %> 
   <div style="color:#555">

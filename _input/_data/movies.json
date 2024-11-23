@@ -20,7 +20,26 @@
         "publishedDate": "2024-11-01T15:19:28.000Z"
       }
     ],
-    "lastSourceDate": "2024-11-01T15:19:28.000Z"
+    "lastSourceDate": "2024-11-01T15:19:28.000Z",
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/xMM0RE6WjfmZKtffj2JReMjNhDC.jpg",
+      "genre_ids": [
+        16,
+        18
+      ],
+      "id": 1012201,
+      "original_language": "ja",
+      "original_title": "劇場版ハイキュー!! ゴミ捨て場の決戦",
+      "overview": "Shoyo Hinata si unisce al club di pallavolo della Karasuno High per diventare come il suo idolo, un ex giocatore della Karasuno conosciuto come il \"\"Piccolo Gigante\"\". Ma Hinata scopre presto di dover fare squadra con la sua nemesi delle scuole medie, Tobio Kageyama. I loro stili contrastanti si trasformano in un'arma sorprendente, ma riusciranno a battere la scuola rivale Nekoma High nell'attesissima \"\"Dumpster Battle\"\", la tanto attesa resa dei conti tra due squadre di sfavoriti?",
+      "popularity": 68.608,
+      "poster_path": "/gMkHkJ1DZ8UhRLQU7176rU1kKhA.jpg",
+      "release_date": "2024-02-16",
+      "title": "HAIKYU!! Battaglia all'ultimo Rifiuto",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 141
+    }
   },
   {
     "title": "OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO",
@@ -59,7 +78,28 @@
         "publishedDate": "2024-11-16T00:00:00.000Z"
       }
     ],
-    "lastSourceDate": "2024-11-16T00:00:00.000Z"
+    "lastSourceDate": "2024-11-16T00:00:00.000Z",
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        14
+      ],
+      "id": 1014505,
+      "original_language": "ja",
+      "original_title": "劇場版「オーバーロード」聖王国編",
+      "overview": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "popularity": 761.706,
+      "poster_path": "/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
+      "release_date": "2024-09-20",
+      "title": "Overlord: Il film - Capitolo del Santo Regno",
+      "video": false,
+      "vote_average": 7.824,
+      "vote_count": 17
+    }
   },
   {
     "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
@@ -92,7 +132,28 @@
         "description": "Un evento unico per riscoprire il capolavoro musicale e visivo che ha segnato una generazione.Dal 12 al 15 dicembre, le sale cinematografiche accoglieranno un evento straordinario: il ritorno in versione...",
         "publishedDate": "2024-11-19T13:53:46.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/p1XtUnWJrmVNqyhYJGIatMNt8C1.jpg",
+      "genre_ids": [
+        16,
+        878,
+        10402,
+        12
+      ],
+      "id": 11049,
+      "original_language": "en",
+      "original_title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+      "overview": "Quattro talentuosi musicisti vengono rapiti da un produttore discografico che li spaccia per umani. Shep, un pilota spaziale innamorato della bassista Stella, li segue fin sulla Terra. Riprogrammati per dimenticare le loro vere identità e rinominati in The Crescendolls, il gruppo anche qui guadagna in poco tempo un enorme successo grazie al loro pop. Ad un concerto, Shep riesce a liberare tutti i musicisti ad esclusione di Stella, e i membri della band cominciano così sia a riscoprire chi sono veramente, sia a pensare ad un piano per liberare la compagna.",
+      "popularity": 21.384,
+      "poster_path": "/2lhOV8CCqsiGL1aIFvQzI0WLTek.jpg",
+      "release_date": "2003-05-28",
+      "title": "Interstella 5555",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 422
+    }
   },
   {
     "title": "THE LAST: NARUTO THE MOVIE",
@@ -137,7 +198,27 @@
         "description": "In arrivo al cinema in Italia per tre giorni, dal 4 al 6 novembre, The Last: Naruto The Movie chiude la saga animata di Shippuden, perciò abbiamo fatto una breve lista di quali episodi vedere per arrivare...",
         "publishedDate": "2024-11-09T10:12:00.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/sqnjUZlq8TGK2E3LaGIPnZMd7WQ.jpg",
+      "genre_ids": [
+        28,
+        10749,
+        16
+      ],
+      "id": 317442,
+      "original_language": "ja",
+      "original_title": "THE LAST -NARUTO THE MOVIE-",
+      "overview": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo.\r Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
+      "popularity": 60.046,
+      "poster_path": "/9D8UBGepMAq4HLznjk2JaNcxpmc.jpg",
+      "release_date": "2014-12-06",
+      "title": "The Last: Naruto the Movie",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 2224
+    }
   },
   {
     "title": "Solo Leveling -ReAwakening",
@@ -176,7 +257,28 @@
         "description": "©Solo Leveling Animation Partners            Sony Pictures ha svelato il trailer di Solo Leveling -ReAwakening-, anime che riunisce un riassunto della prima stagione dell’anime Solo Leveling. Oltre a...",
         "publishedDate": "2024-11-16T09:25:19.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/2WxrXF1pm3vFGuXoUfJMA7JQmiQ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        16
+      ],
+      "id": 1357633,
+      "original_language": "ja",
+      "original_title": "俺だけレベルアップな件 -ReAwakening-",
+      "overview": "È passato più di un decennio da quando è apparso improvvisamente un percorso chiamato “cancello” che collega questo mondo a un'altra dimensione risvegliando persone con poteri sovrumani chiamate “cacciatori”. I cacciatori usano i loro poteri sovrumani per conquistare i dungeon all'interno del cancello per guadagnarsi da vivere. Sung Jinwoo, un cacciatore di rango inferiore, è considerato il cacciatore più debole di tutta l'umanità. Un giorno si imbatte in un doppio dungeon, ovvero uno di alto livello nascosto in uno di basso. Davanti a Jinwoo, gravemente ferito e in punto di morte, si apre una misteriosa finestra di ricerca.",
+      "popularity": 33.913,
+      "poster_path": "/6A1MQxkf5QtZLsT0ETNzlwZDVSm.jpg",
+      "release_date": "2024-11-26",
+      "title": "Solo Leveling ReAwakening",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   },
   {
     "title": "Boruto - Naruto The Movie",
@@ -190,7 +292,29 @@
         "description": "The Last Naruto The Movie è al cinema e c'è una bellissima sorpresa: Yamato Video ha infatti annunciato che anche Boruto - Naruto The Movie arriverà al cinema nei prossimi mesi, ed ecco le prime informazioni,...",
         "publishedDate": "2024-11-06T15:23:00.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/51oaRzcFOAZzxOVbQQHnSbbuSJU.jpg",
+      "genre_ids": [
+        12,
+        28,
+        16,
+        35,
+        14
+      ],
+      "id": 347201,
+      "original_language": "ja",
+      "original_title": "BORUTO -NARUTO THE MOVIE-",
+      "overview": "Il vivace Boruto Uzumaki, figlio del Settimo Hokage Naruto, è un abile ninja che possiede la stessa sfacciataggine e passione di suo padre. Tuttavia, la costante assenza di suo padre, impegnato con i suoi doveri di Hokage, mette un freno al fuoco di Boruto. Finisce per incontrare l'amico di suo padre, Sasuke, e chiede di diventare... il suo apprendista!? Si alza il sipario sulla storia della nuova generazione!",
+      "popularity": 47.864,
+      "poster_path": "/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg",
+      "release_date": "2015-08-07",
+      "title": "Boruto: Naruto the Movie",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1557
+    }
   },
   {
     "title": "Hayao Miyazaki e l’airone",
@@ -211,7 +335,25 @@
         "description": "La fama del film animato Il ragazzo e L'airone non accenna a fermarsi, tanto che molto presto al cinema arriverà il film dedicato alla genesi dell'acclamato capolavoro giapponese, Hayao Miyazaki e...",
         "publishedDate": "2024-11-16T09:52:00.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/mX2bJCjDZQRsKJNcZuimHMQejtD.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1292585,
+      "original_language": "ja",
+      "original_title": "宮﨑駿と青サギと… ～「君たちはどう生きるか」への道～",
+      "overview": "Documentario che racconta la realizzazione de \"Il ragazzo e l’airone\", girato con accesso esclusivo allo Studio Ghibli nel corso di sette anni sorprendenti. È anche la testimonianza della collaborazione tra il regista Hayao Miyazaki e il produttore Toshio Suzuki mentre eseguono un’intricata danza di inganno e amicizia, rispecchiando quella di Mahito e l’Airone, mentre Suzuki spinge Miyazaki sempre più a esplorare la sua creatività…",
+      "popularity": 5.658,
+      "poster_path": "/1JFaVNQPp17XiboCLEuv4tnuu8.jpg",
+      "release_date": "2024-10-10",
+      "title": "Hayao Miyazaki e l'airone",
+      "video": false,
+      "vote_average": 9,
+      "vote_count": 1
+    }
   },
   {
     "title": "Il ragazzo e l’airone",
@@ -224,7 +366,29 @@
         "description": "Presentato in anteprima al Festival di Cannes 2024, in occasione della Palma d’oro onoraria allo Studio Ghibli, Hayao Miyazaki e l’airone di Kaku Arakawa sarà distribuito nei cinema italiani da Lucky Red il...",
         "publishedDate": "2024-11-11T11:52:54.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        10751,
+        18
+      ],
+      "id": 508883,
+      "original_language": "ja",
+      "original_title": "君たちはどう生きるか",
+      "overview": "Spinto dal desiderio di rivedere sua madre, Mahito, un ragazzo di 12 anni, si avventura in un regno abitato dai vivi e dai morti. un luogo fantastico dove la morte finisce e la vita trova un nuovo inizio. Una storia sul mistero della vita e la creazione, in omaggio all’amicizia, direttamente dalla mente del maestro Hayao Miyazaki.",
+      "popularity": 102.044,
+      "poster_path": "/p9tHvoXaIUapKWygs1DKKkvVjCY.jpg",
+      "release_date": "2023-07-14",
+      "title": "Il ragazzo e l'airone",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1819
+    }
   },
   {
     "title": "Daft Punk & Leiji Matsumoto’s Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
@@ -253,6 +417,26 @@
         "description": "Il film continua a riscuotere successo anche in home video, dopo l'uscita al cinema e in streaming.                                                                        Pubblicato il 22 Novembre 2024...",
         "publishedDate": "2024-11-22T10:39:45.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/rBgzI1a126JWA7YJd7p1NBmC61z.jpg",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 783675,
+      "original_language": "ja",
+      "original_title": "THE FIRST SLAM DUNK",
+      "overview": "Ryōta Miyagi è sempre stato legato al basket grazie al fratello maggiore Sota, deceduto in un incidente in mare quando Ryōta era piccolo. Ora playmaker della squadra di basket della Shohoku, Ryōta si prepara con i suoi compagni a sfidare \"l'imbattibile\" Sannoh, il team campione del torneo nazionale.",
+      "popularity": 27.568,
+      "poster_path": "/A93VYgcBAdBbvdApUtmvLtLe6sf.jpg",
+      "release_date": "2022-12-03",
+      "title": "The First Slam Dunk",
+      "video": false,
+      "vote_average": 7.83,
+      "vote_count": 392
+    }
   }
 ]
