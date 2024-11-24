@@ -7,6 +7,9 @@ export const formatDate = (date) => `${date.getFullYear()}-${pad(date.getMonth()
 export const formatTime = (date) => `${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}`;
 
 export const download = async (url, filePath) => {
+  if (await (fs.access(filePath, fs.constants.F_OK).catch((err) => {}))) {
+    return;
+  }
   const response = await axios.get(url, { responseType: 'arraybuffer' });
   const buffer = Buffer.from(response.data, 'binary');
   const dirPath = path.dirname(filePath);

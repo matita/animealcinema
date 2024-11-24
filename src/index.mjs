@@ -182,34 +182,6 @@ const sources = JSON.parse(`${await fs.readFile(SOURCES_FILE)}`);
 const existingMovies = await loadExistingMovies(MOVIES_FILE);
 console.log(`Currently known movies:`, Object.values(existingMovies).length);
 
-for (const movie of Object.values(existingMovies)) {
-  if (movie.tmdbMovie) {
-    continue;
-  }
-
-  console.log(`Searching TMDB for '${movie.title}'`);
-  const tmdbMovie = await searchMovie(movie.title);
-  if (!tmdbMovie) {
-    console.log('No match found on TMDB');
-    continue;
-  }
-
-  console.log(`Found a '${tmdbMovie.title}'`);
-  movie.tmdbMovie = tmdbMovie;
-
-  const posterUrlx1 = getImagePath(tmdbMovie.poster_path, { size: 'w342' });
-  const fileNamex1 = path.basename(posterUrlx1);
-  const filePathx1 = path.resolve(IMAGE_DIR, 'w342', fileNamex1);
-  console.log(`Downloading ${posterUrlx1} to ${filePathx1}`);
-  await download(posterUrlx1, filePathx1);
-  
-  const posterUrlx2 = getImagePath(tmdbMovie.poster_path, { size: 'w500' });
-  const fileNamex2 = path.basename(posterUrlx1);
-  const filePathx2 = path.resolve(IMAGE_DIR, 'w500', fileNamex2);
-  console.log(`Downloading ${posterUrlx2} to ${filePathx2}`);
-  await download(posterUrlx2, filePathx2);
-}
-
 for (const source of sources) {
   console.log(`Fetching from source ${source.name}`);
   const feed = await fetchArticles(source.url);
@@ -239,6 +211,40 @@ for (const source of sources) {
       console.log(JSON.stringify(movie, null, 2));
       processMovie(movie, article, existingMovies);
     }
+  }
+
+  for (const movie of Object.values(existingMovies)) {
+    if (movie.tmdbMovie) {
+      continue;
+    }
+  
+    console.log(`Searching TMDB for '${movie.title}'`);
+    const tmdbMovie = await searchMovie(movie.title);
+    if (!tmdbMovie) {
+      console.log('No match found on TMDB');
+      continue;
+    }
+  
+    console.log(`Found a '${tmdbMovie.title}'`);
+    movie.tmdbMovie = tmdbMovie;
+  
+    const posterUrlx1 = getImagePath(tmdbMovie.poster_path, { size: 'w342' });
+    const fileNamex1 = path.basename(posterUrlx1);
+    const filePathx1 = path.resolve(IMAGE_DIR, 'w342', fileNamex1);
+    console.log(`Downloading ${posterUrlx1} to ${filePathx1}`);
+    await download(posterUrlx1, filePathx1);
+    
+    const posterUrlx2 = getImagePath(tmdbMovie.poster_path, { size: 'w500' });
+    const fileNamex2 = path.basename(posterUrlx2);
+    const filePathx2 = path.resolve(IMAGE_DIR, 'w500', fileNamex2);
+    console.log(`Downloading ${posterUrlx2} to ${filePathx2}`);
+    await download(posterUrlx2, filePathx2);
+
+    const backdropUrl = getImagePath(tmdbMovie.backdrop_path, { size: 'w1280' });
+    const fileNameBackdrop = path.basename(backdropUrl);
+    const backdropPath = path.resolve(IMAGE_DIR, 'w1280', fileNameBackdrop);
+    console.log(`Downloading ${backdropUrl} to ${backdropPath}`);
+    await download(backdropUrl, backdropPath);
   }
   
   console.log('Saving movies file');

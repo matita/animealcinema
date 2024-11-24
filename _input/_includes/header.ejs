@@ -15,6 +15,8 @@
     body {
       display: flex;
       flex-direction: column;
+      font-family: Helvetica, Arial, sans-serif;
+      font-weight: 300;
     }
 
     main {
@@ -32,6 +34,7 @@
       text-transform: uppercase;
       margin-top: .5em;
       margin-bottom: .5em;
+      font-weight: 300;
     }
 
     h1, h2, h3, h4, h5, h6, p, ul, ol {
@@ -54,16 +57,27 @@
       color: #eee;
       padding: 2em;
       text-align: center;
+      background-size: cover;
+      background-position: center;
+    }
+
+    .hero h1 {
+      text-shadow: 0 0 3px black;
+      font-weight: bold;
     }
 
     .movie-list {
       display: flex;
       justify-content: center;
+      flex-wrap: wrap;
+      gap: 1rem;
     }
 
     .movie-list-item {
-      margin: 1em;
-      width: 220px;
+      margin-top: 1em;
+      max-width: 220px;
+      flex: 0 0 calc(50% - 1rem);
+      box-sizing: border-box;
     }
 
     .movie-list-item-poster {

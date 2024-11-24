@@ -1,5 +1,9 @@
 <%
 function formatDate(date) {
+  if (typeof date === 'string' && /^\d{4}$/.test(date)) {
+    return date;
+  }
+
   const d = date instanceof Date ? date : new Date(date);
   return new Intl.DateTimeFormat('it', {
     dateStyle: 'full',

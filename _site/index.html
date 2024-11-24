@@ -15,6 +15,8 @@
     body {
       display: flex;
       flex-direction: column;
+      font-family: Helvetica, Arial, sans-serif;
+      font-weight: 300;
     }
 
     main {
@@ -32,6 +34,7 @@
       text-transform: uppercase;
       margin-top: .5em;
       margin-bottom: .5em;
+      font-weight: 300;
     }
 
     h1, h2, h3, h4, h5, h6, p, ul, ol {
@@ -54,16 +57,27 @@
       color: #eee;
       padding: 2em;
       text-align: center;
+      background-size: cover;
+      background-position: center;
+    }
+
+    .hero h1 {
+      text-shadow: 0 0 3px black;
+      font-weight: bold;
     }
 
     .movie-list {
       display: flex;
       justify-content: center;
+      flex-wrap: wrap;
+      gap: 1rem;
     }
 
     .movie-list-item {
-      margin: 1em;
-      width: 220px;
+      margin-top: 1em;
+      max-width: 220px;
+      flex: 0 0 calc(50% - 1rem);
+      box-sizing: border-box;
     }
 
     .movie-list-item-poster {
@@ -71,13 +85,13 @@
     }
   </style>
 
-  <!-- Last build: Sun Nov 24 2024 14:09:41 GMT+0000 (Coordinated Universal Time) -->
+  <!-- Last build: Sun Nov 24 2024 17:54:31 GMT+0100 (Central European Standard Time) -->
 </head>
 <body>
 
 
 <main>
-  <div class="hero">
+  <div class="hero" style="background-image: url(/images/w1280/hkJhGayONXn96CqIRM9GhWKnlCf.jpg)">
     <h1>Anime al cinema in Italia</h1>
   </div>
   
@@ -175,7 +189,7 @@
   </section>
 
   <section>
-    <h2>mese prossimo</h2>
+    <h2>Annunciati</h2>
   
     <div class="movie-list">
       
@@ -188,7 +202,7 @@
   <h3>Boruto - Naruto The Movie</h3>
    
   <div style="color:#555">
-    Da mercoledì 1 gennaio 2025 
+    Da 2025 
     
   </div>
   
@@ -200,6 +214,6 @@
 </main>
 
   
-  <footer>Ultimo aggiornamento: 24/11/2024, 15:09 &middot; Ultimo build: 24/11/2024, 15:09</footer>
+  <footer>Ultimo aggiornamento: 24/11/2024, 17:54 &middot; Ultimo build: 24/11/2024, 17:54</footer>
 </body>
 </html>

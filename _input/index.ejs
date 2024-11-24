@@ -16,11 +16,19 @@
     .sort((a, b) => a.theaterReleaseDate?.localeCompare(b.theaterReleaseDate))
     .reduce((agg, movie) => {
       const releaseDate = new Date(movie.theaterReleaseDate);
-      const relativeDate = (movie.theaterReleaseDate && formatRelativeDate(releaseDate)) || 'Annunciati';
+      const relativeDate = (movie.theaterReleaseDate && !/^\d{4}$/.test(movie.theaterReleaseDate) && formatRelativeDate(releaseDate)) || 'Annunciati';
       agg[relativeDate] = agg[relativeDate] || [];
       agg[relativeDate].push(movie);
       return agg;
     }, {});
+
+  function mostPopularBackdrop() {
+    const backdropPath = Object.values(relevantMovies).flat()
+      .filter((m) => m.tmdbMovie?.backdrop_path)
+      .sort((a, b) => b.tmdbMovie.popularity - a.tmdbMovie.popularity)
+      [0]?.tmdbMovie.backdrop_path;
+    return backdropPath && `/images/w1280${backdropPath}`;
+  }
 
   function formatRelativeDate(date) {
     const now = new Date();
@@ -31,9 +39,9 @@
     let unit;
     let value;
     
-    /* if (Math.abs(diffDays) < 7) {
+    /*if (Math.abs(diffDays) < 7) {
         unit = 'day';
-        value = diffDays;
+        value = diffDays + 1;
     } else */if (Math.abs(diffDays) < 30) {
         unit = 'week';
         value = Math.round(diffDays / 7);
@@ -50,7 +58,7 @@
 %>
 
 <main>
-  <div class="hero">
+  <div class="hero" style="background-image: url(<%= mostPopularBackdrop() %>)">
     <h1>Anime al cinema in Italia</h1>
   </div>
   
