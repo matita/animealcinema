@@ -372,5 +372,41 @@
       "vote_average": 9,
       "vote_count": 1
     }
+  },
+  {
+    "title": "Overlord Il Film: Capitolo del Santo",
+    "slug": "overlord-il-film-capitolo-del-santo",
+    "lastSourceDate": "2024-11-30T11:17:17.000Z",
+    "theaterReleaseDate": "2024-12-09",
+    "theaterEndDate": "2024-12-11",
+    "sources": [
+      {
+        "url": "https://www.cinefily.com/2024/11/30/film-in-uscita-al-cinema-a-dicembre-2024/",
+        "title": "Film in uscita al cinema a Dicembre 2024 - Cinefily",
+        "description": "Ultimo mese dell’anno pieno di sorprese e di potenziali blockbuster. Finalmente, arriva nei nostri cinema “La Stanza Accanto”, di Pedro Almodovar che potrebbe riservare grandi sorprese ai Golden Globe e agli...",
+        "publishedDate": "2024-11-30T11:17:17.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        14
+      ],
+      "id": 1014505,
+      "original_language": "ja",
+      "original_title": "劇場版「オーバーロード」聖王国編",
+      "overview": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "popularity": 425.752,
+      "poster_path": "/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
+      "release_date": "2024-09-20",
+      "title": "Overlord: Il film - Capitolo del Santo Regno",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 21
+    }
   }
 ]
