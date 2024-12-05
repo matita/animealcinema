@@ -429,5 +429,39 @@
         "publishedDate": "2024-12-05T15:32:11.000Z"
       }
     ]
+  },
+  {
+    "title": "The Tunnel to Summer the Exit of Goodbyes",
+    "slug": "the-tunnel-to-summer-the-exit-of-goodbyes",
+    "lastSourceDate": "2024-12-05T17:36:20.000Z",
+    "sources": [
+      {
+        "url": "https://www.mangaforever.net/7266391617/the-tunnel-to-summer-the-exit-of-goodbyes-dettagli-edizione-home-video-anime-factory",
+        "title": "The Tunnel to Summer the Exit of Goodbyes: dettagli edizione home video",
+        "description": "Il film ha riportato al cinema le storie d'amore sospese nel tempo degli anime.                                                                        Pubblicato il 5 Dicembre 2024 alle...",
+        "publishedDate": "2024-12-05T17:36:20.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/vGZHjvyAcmD1mHg5kLwITCgh74U.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749,
+        14
+      ],
+      "id": 916192,
+      "original_language": "ja",
+      "original_title": "夏へのトンネル、さよならの出口",
+      "overview": "Secondo alcune voci, il tunnel di Urashima consente, attraversandolo, di raggiungere ciò che il cuore desidera… in cambio di alcuni anni della tua vita. Quando Kaoru si imbatte nel tunnel della leggenda, il ragazzo pensa a Karen, sorellina che ha perso anni prima in un incidente. Indeciso sul da farsi, a convincerlo a sfidare spazio e tempo è Anzu, studentessa appena trasferitasi. Ma cosa vorrà la giovane da Kaoru? E cosa rimarrà a quest’ultimo, dopo che il tunnel avrà finito con lui?",
+      "popularity": 125.896,
+      "poster_path": "/so3KRcToWtDaR2Ece4DkVFBFvNe.jpg",
+      "release_date": "2022-09-09",
+      "title": "The Tunnel to Summer, the Exit of Goodbyes",
+      "video": false,
+      "vote_average": 7.733,
+      "vote_count": 172
+    }
   }
 ]
