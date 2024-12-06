@@ -507,13 +507,25 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2024-12-06T00:00:00.000Z",
+    "lastSourceDate": "2024-12-06T11:55:14.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
         "title": "Attack on Titan: THE LAST ATTACK arriva al cinema in Italia",
         "description": "Crunchyroll e Sony Pictures Entertainment annunciano l’acquisizione dei diritti per il lungometraggio animato Attack on Titan: THE LAST ATTACK per i territori occidentali, tra cui anche l’Italia. Il film...",
         "publishedDate": "2024-12-06T00:00:00.000Z"
+      },
+      {
+        "url": "https://anime.everyeye.it/notizie/attack-on-titan-the-last-attack-notizia-film-arriva-italia-al-cinema-762308.html",
+        "title": "Attack on Titan The Last Attack: grande notizia, il film arriva in Italia al cinema!",
+        "description": "È ufficiale! Il fenomeno globale Attack on Titan approda finalmente anche nelle sale cinematografiche italiane con l’attesissimo film Attack on Titan: The Last Attack.Crunchyroll, il principale distributore...",
+        "publishedDate": "2024-12-06T10:48:00.000Z"
+      },
+      {
+        "url": "https://www.drcommodore.it/2024/12/06/crunchyroll-attack-on-titan-movie/",
+        "title": "Crunchyroll porterà nei cinema il film Attack on Titan: THE LAST ATTACK all'inizio del 2025",
+        "description": "Nella notte Crunchyroll ha annunciato diverse novità durante il suo industry panel all’evento CCXP in Brasile, tra cui spicca l’annuncio della distribuzione cinematografica mondiale del film Attack on Titan:...",
+        "publishedDate": "2024-12-06T11:55:14.000Z"
       }
     ],
     "tmdbMovie": {
@@ -534,6 +546,7 @@
       "video": true,
       "vote_average": 9.5,
       "vote_count": 2
-    }
+    },
+    "theaterReleaseDate": "2025-01-01"
   }
 ]
