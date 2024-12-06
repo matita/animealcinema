@@ -463,5 +463,39 @@
       "vote_average": 7.733,
       "vote_count": 172
     }
+  },
+  {
+    "title": "Il Signore degli Anelli – La guerra dei Rohirrim",
+    "slug": "il-signore-degli-anelli-la-guerra-dei-rohirrim",
+    "lastSourceDate": "2024-12-06T02:32:00.000Z",
+    "theaterReleaseDate": "2025-01-01",
+    "sources": [
+      {
+        "url": "https://startupitalia.eu/lifestyle/nuova-trilogia-signore-degli-anelli/",
+        "title": "Una nuova trilogia de Il Signore degli Anelli? Cosa ha detto la sceneggiatrice Philippa Boyens - StartupItalia",
+        "description": "Tra poche settimane uscirà al cinema l'anime \"La guerra dei Rohirrim\". E nei prossimi anni potrebbero uscire altri sceneggiati  La lore de Il Signore degli Anelli è ancora fitta e molte sono le storie...",
+        "publishedDate": "2024-12-06T02:32:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4ZXzO32rKk5bSoDZA6KpTzVJA.jpg",
+      "genre_ids": [
+        16,
+        14,
+        28
+      ],
+      "id": 839033,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The War of the Rohirrim",
+      "overview": "183 anni prima degli aventi del Signore degli Anelli, Helm Mandimartello, re di Rohan, e la sua famiglia difendono il loro regno da un esercito di Dunlandiani. A prendersi il ruolo di protagonista della battaglia, però, è soprattutto Hèra, figlia di Helm dal temperamento ribelle che non esiterà a scendere in campo per difendere il proprio popolo.",
+      "popularity": 267.466,
+      "poster_path": "/vNVAJb5gmQP0wjd1LDxu0eI6Thl.jpg",
+      "release_date": "2024-12-05",
+      "title": "Il Signore degli Anelli - La guerra dei Rohirrim",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 6
+    }
   }
 ]
