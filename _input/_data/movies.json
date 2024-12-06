@@ -467,7 +467,7 @@
   {
     "title": "Il Signore degli Anelli – La guerra dei Rohirrim",
     "slug": "il-signore-degli-anelli-la-guerra-dei-rohirrim",
-    "lastSourceDate": "2024-12-06T02:32:00.000Z",
+    "lastSourceDate": "2024-12-06T10:12:12.000Z",
     "theaterReleaseDate": "2025-01-01",
     "sources": [
       {
@@ -475,6 +475,12 @@
         "title": "Una nuova trilogia de Il Signore degli Anelli? Cosa ha detto la sceneggiatrice Philippa Boyens - StartupItalia",
         "description": "Tra poche settimane uscirà al cinema l'anime \"La guerra dei Rohirrim\". E nei prossimi anni potrebbero uscire altri sceneggiati  La lore de Il Signore degli Anelli è ancora fitta e molte sono le storie...",
         "publishedDate": "2024-12-06T02:32:00.000Z"
+      },
+      {
+        "url": "https://www.cineblog.it/post/il-signore-degli-anelli-la-guerra-dei-rohirrim-colonna-sonora",
+        "title": "Il Signore degli Anelli - La guerra dei Rohirrim: video anteprima di otto minuti e colonna sonora del film anime (al cinema dal 1° gennaio 2025)",
+        "description": "Home  Animazione  Il Signore degli Anelli – La guerra dei Rohirrim: video anteprima di otto minuti e colonna sonora del film anime (al cinema dal 1° gennaio 2025)            Nuova Clip estesa e soundtrack...",
+        "publishedDate": "2024-12-06T10:12:12.000Z"
       }
     ],
     "tmdbMovie": {
@@ -496,6 +502,38 @@
       "video": false,
       "vote_average": 8,
       "vote_count": 6
+    }
+  },
+  {
+    "title": "Attack on Titan: THE LAST ATTACK",
+    "slug": "attack-on-titan-the-last-attack",
+    "lastSourceDate": "2024-12-06T00:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
+        "title": "Attack on Titan: THE LAST ATTACK arriva al cinema in Italia",
+        "description": "Crunchyroll e Sony Pictures Entertainment annunciano l’acquisizione dei diritti per il lungometraggio animato Attack on Titan: THE LAST ATTACK per i territori occidentali, tra cui anche l’Italia. Il film...",
+        "publishedDate": "2024-12-06T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 1333100,
+      "original_language": "ja",
+      "original_title": "進撃の巨人 THE LAST ATTACK",
+      "overview": "A compilation movie for Attack on Titan: Final Season - The Final Chapters.",
+      "popularity": 11.799,
+      "poster_path": "/gzs2XMWatrPjVJputJUugbKA4Z.jpg",
+      "release_date": "2024-11-08",
+      "title": "Attack on Titan: THE LAST ATTACK",
+      "video": true,
+      "vote_average": 9.5,
+      "vote_count": 2
     }
   }
 ]
