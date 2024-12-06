@@ -507,7 +507,7 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2024-12-06T14:10:00.000Z",
+    "lastSourceDate": "2024-12-06T11:55:14.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -566,5 +566,32 @@
       "vote_count": 2
     },
     "theaterReleaseDate": "2025-01-01"
+  },
+  {
+    "title": "L'attacco dei giganti: The Last attack",
+    "slug": "lattacco-dei-giganti-the-last-attack",
+    "lastSourceDate": "2024-12-06T13:30:00.000Z",
+    "sources": [
+      {
+        "url": "https://cinema.everyeye.it/notizie/attacco-giganti-the-last-attack-arrivera-cinema-italia-ufficiale-762297.html",
+        "title": "L'attacco dei giganti: The last attack arriverà al cinema in Italia! Ufficiale",
+        "description": "Tra i nuovi film anime giapponesi in arrivo al cinema in Italia, possiamo aggiungere anche L'attacco dei giganti: The Last attack, i cui diritti di distribuzione sono stati acquisiti ufficialmente da...",
+        "publishedDate": "2024-12-06T13:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "La Caccia a Gollum",
+    "slug": "la-caccia-a-gollum",
+    "lastSourceDate": "2024-12-06T02:32:00.000Z",
+    "theaterReleaseDate": "2026-01-01",
+    "sources": [
+      {
+        "url": "https://startupitalia.eu/lifestyle/nuova-trilogia-signore-degli-anelli/",
+        "title": "Una nuova trilogia de Il Signore degli Anelli? Cosa ha detto la sceneggiatrice Philippa Boyens - StartupItalia",
+        "description": "Tra poche settimane uscirà al cinema l'anime \"La guerra dei Rohirrim\". E nei prossimi anni potrebbero uscire altri sceneggiati  La lore de Il Signore degli Anelli è ancora fitta e molte sono le storie...",
+        "publishedDate": "2024-12-06T02:32:00.000Z"
+      }
+    ]
   }
 ]
