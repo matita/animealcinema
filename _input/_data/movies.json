@@ -507,7 +507,7 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2024-12-06T18:34:45.000Z",
+    "lastSourceDate": "2024-12-07T10:30:00.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -550,6 +550,12 @@
         "title": "Attack on Titan: il film arriva finalmente al cinema in Italia!",
         "description": "Ma prima di continuare con la lettura abbiamo entusiasmanti novità da condividere con te. A breve sarà disponibile Hall of Series Plus, il nostro servizio in abbonamento che ti permetterà di accedere a...",
         "publishedDate": "2024-12-06T18:34:45.000Z"
+      },
+      {
+        "url": "https://www.comingsoon.it/cinema/news/attack-on-titan-the-last-attack-l-anime-prossimamente-al-cinema-da/n192185/",
+        "title": "Attack on Titan: THE LAST ATTACK, l'anime prossimamente al cinema da Crunchyroll e Sony Pictures! ",
+        "description": "La Eagle Pictures, per conto di Sony Pictures e Crunchyroll, distribuirà al cinema nel 2025 Attack on Titan: THE LAST ATTACK, unione degli ultimi due capitoli della popolarissima serie L'attacco dei giganti.",
+        "publishedDate": "2024-12-07T10:30:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -599,5 +605,39 @@
         "publishedDate": "2024-12-06T02:32:00.000Z"
       }
     ]
+  },
+  {
+    "title": "Overlord - Il Film",
+    "slug": "overlord-il-film",
+    "lastSourceDate": "2024-12-05T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.deejay.it/programmi/deejay-chiama-italia/puntate/deejay-chiama-italia-del-05-12-2024/",
+        "title": "Puntata del 05/12/2024",
+        "description": "dalla puntata del: 5 dicembre 2024            durata: 01:33:43                Tanti ospiti oggi a Dj Chiama Italia: lo scrittore Giuseppe Catozzella presenta il film tratto dal suo libro Non dirmi che hai...",
+        "publishedDate": "2024-12-05T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        14
+      ],
+      "id": 1014505,
+      "original_language": "ja",
+      "original_title": "劇場版「オーバーロード」聖王国編",
+      "overview": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "popularity": 349.287,
+      "poster_path": "/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
+      "release_date": "2024-09-20",
+      "title": "Overlord: Il film - Capitolo del Santo Regno",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 21
+    }
   }
 ]
