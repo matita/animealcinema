@@ -709,5 +709,40 @@
         "publishedDate": "2024-12-10T18:53:06.000Z"
       }
     ]
+  },
+  {
+    "title": "Overlord – Il Capitolo del Santo Regno",
+    "slug": "overlord-il-capitolo-del-santo-regno",
+    "lastSourceDate": "2024-12-12T13:37:13.000Z",
+    "theaterReleaseDate": "2024-09-01",
+    "sources": [
+      {
+        "url": "https://www.vgmag.it/326003/overlord-il-capitolo-del-santo-regno/",
+        "title": "Overlord – Il Capitolo del Santo Regno Recensione: una dominazione strategica - Vgmag.it",
+        "description": "Il Re Stregone è morto… ma sarà vero? Overlord – Il Capitolo del Santo Regno approda nei cinema il quarto ed ultimo appuntamento di questa stagione di Anime Al Cinema, il progetto esclusivo di Nexo Studios in...",
+        "publishedDate": "2024-12-12T13:37:13.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        14
+      ],
+      "id": 1014505,
+      "original_language": "ja",
+      "original_title": "劇場版「オーバーロード」聖王国編",
+      "overview": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "popularity": 384.706,
+      "poster_path": "/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
+      "release_date": "2024-09-20",
+      "title": "Overlord: Il film - Capitolo del Santo Regno",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 22
+    }
   }
 ]
