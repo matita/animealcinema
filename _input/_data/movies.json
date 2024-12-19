@@ -750,5 +750,40 @@
       "vote_average": 7.9,
       "vote_count": 22
     }
+  },
+  {
+    "title": "Paprika – Sognando un sogno",
+    "slug": "paprika-sognando-un-sogno",
+    "lastSourceDate": "2024-12-19T11:49:10.000Z",
+    "theaterReleaseDate": "2025-01-17",
+    "theaterEndDate": "2025-01-19",
+    "sources": [
+      {
+        "url": "https://www.animaku.it/il-capolavoro-di-satoshi-kon-paprika-torna-nei-cinema-italiani/",
+        "title": "Paprika - sognando un sogno torna nei cinema italiani - Animaku",
+        "description": "Un viaggio tra sogno e realtà Gli appassionati di animazione giapponese hanno già un appuntamento imperdibile per il nuovo anno, Paprika – Sognando un sogno, il celebre film del regista Satoshi Kon, tornerà...",
+        "publishedDate": "2024-12-19T11:49:10.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
+      "genre_ids": [
+        16,
+        878,
+        53
+      ],
+      "id": 4977,
+      "original_language": "ja",
+      "original_title": "パプリカ",
+      "overview": "In un futuro non troppo lontano l'invenzione della DC Mini permette agli psicoanalisti di immergersi nei sogni, e quindi nel subconscio, dei propri pazienti in modo da conoscere e curare stati alterati e problematiche nascoste dell'io. La dottoressa Atsuko Chiba, sotto lo pseudonimo di Paprika, comincia ad utilizzare questa procedura anche al di fuori della struttura ospedaliera in cui è capo della ricerca, sempre con il fine di aiutare le persone traumatizzate da eventi passati. Essendo la procedura ad alto rischio e ancora in via sperimentale, le DC Mini vengono custodite con la massima attenzione.",
+      "popularity": 30.98,
+      "poster_path": "/pxezos6BvRbDLpl6g1wR02XyBa9.jpg",
+      "release_date": "2006-10-21",
+      "title": "Paprika - Sognando un sogno",
+      "video": false,
+      "vote_average": 7.813,
+      "vote_count": 2430
+    }
   }
 ]
