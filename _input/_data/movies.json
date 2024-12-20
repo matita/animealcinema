@@ -525,7 +525,7 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2008-10-13T00:00:00.000Z",
+    "lastSourceDate": "2024-12-20T00:00:00.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -604,6 +604,12 @@
         "title": "Attack on Titan: The Last Attack, Crunchyroll prende i diritti in Italia",
         "description": "Crunchyroll, la casa per eccellenza degli anime in tutto il mondo, ha annunciato oggi al CCXP di aver acquisito i diritti per le sale nordamericane e per alcune sale internazionali del film dark epic fantasy...",
         "publishedDate": "2024-12-08T11:00:27.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/105608-attack-on-titan-the-last-attack-ecco-la-data-di-uscita-nei-cinema-italiani",
+        "title": "Attack on Titan THE LAST ATTACK: ecco la data di uscita nei cinema italiani",
+        "description": "CRUNCHYROLL ANNUNCIA LA DATA DI USCITA ITALIANA DI ATTACK ON TITAN: THE LAST ATTACK Il film anime è una combinazione unica dei due episodi finali dell’acclamata serie per un’esperienza cinematografica senza...",
+        "publishedDate": "2024-12-20T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -625,7 +631,8 @@
       "vote_average": 9.5,
       "vote_count": 2
     },
-    "theaterReleaseDate": "2025-01-01"
+    "theaterReleaseDate": "2025-01-01",
+    "theaterEndDate": "2024-03-05"
   },
   {
     "title": "L'attacco dei giganti: The Last attack",
@@ -791,5 +798,20 @@
       "vote_average": 7.813,
       "vote_count": 2430
     }
+  },
+  {
+    "title": "HELLO! SPANK. IL FILM. LE PENE D’AMORE DI SPANK",
+    "slug": "hello-spank-il-film-le-pene-damore-di-spank",
+    "lastSourceDate": "2024-12-20T12:02:22.000Z",
+    "theaterReleaseDate": "2024-02-13",
+    "theaterEndDate": "2024-02-16",
+    "sources": [
+      {
+        "url": "https://www.corrierenerd.it/a-san-valentino-al-cinema-hello-spank-con-il-matrimonio-piu-atteso-dellanno/",
+        "title": "A San Valentino al cinema HELLO! SPANK con il matrimonio più atteso dell’anno",
+        "description": "Dal 13 al 16 febbraio arriverà per la prima volta nelle sale italiane (elenco a breve su nexostudios.it e prevendite aperte dal 16 gennaio) HELLO! SPANK. IL FILM. LE PENE D’AMORE DI SPANK del 1982, il film...",
+        "publishedDate": "2024-12-20T12:02:22.000Z"
+      }
+    ]
   }
 ]
