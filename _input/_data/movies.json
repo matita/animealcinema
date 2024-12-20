@@ -525,7 +525,7 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2024-12-20T15:21:00.000Z",
+    "lastSourceDate": "2024-12-20T15:46:38.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -622,6 +622,12 @@
         "title": "Attack on Titan - The Last Attack, ecco la data ufficiale dell'uscita cinematografica in Italia!",
         "description": "Crunchyroll e Sony Pictures Entertainment hanno annunciato la data ufficiale in cui i fan di uno degli anime più celebri degli ultimi anni potranno ammirarne al cinema il gran finale: Attack on Titan - The Last Attack arriva in uscita evento a marzo.",
         "publishedDate": "2024-12-20T15:21:00.000Z"
+      },
+      {
+        "url": "https://www.manganime.it/news/attack-on-titan-the-last-attack-arriva-cinema-finale-serie/",
+        "title": "Attack On Titan: The Last Attack arriva al cinema per l'epico finale di serie • Manganime",
+        "description": "Con Attack on Titan: THE LAST ATTACK, che contiene gli ultimi due episodi dell’acclamato anime, potrete finalmente godervi al cinema l’epico finale della serie in un unico grande film!  L’umanità ha sempre...",
+        "publishedDate": "2024-12-20T15:46:38.000Z"
       }
     ],
     "tmdbMovie": {
@@ -649,15 +655,23 @@
   {
     "title": "L'attacco dei giganti: The Last attack",
     "slug": "lattacco-dei-giganti-the-last-attack",
-    "lastSourceDate": "2024-12-06T13:30:00.000Z",
+    "lastSourceDate": "2024-12-20T15:19:31.000Z",
     "sources": [
       {
         "url": "https://cinema.everyeye.it/notizie/attacco-giganti-the-last-attack-arrivera-cinema-italia-ufficiale-762297.html",
         "title": "L'attacco dei giganti: The last attack arriverà al cinema in Italia! Ufficiale",
         "description": "Tra i nuovi film anime giapponesi in arrivo al cinema in Italia, possiamo aggiungere anche L'attacco dei giganti: The Last attack, i cui diritti di distribuzione sono stati acquisiti ufficialmente da...",
         "publishedDate": "2024-12-06T13:30:00.000Z"
+      },
+      {
+        "url": "https://www.drcommodore.it/2024/12/20/lattacco-dei-giganti-the-last-attack-cinema-italia/",
+        "title": "L'attacco dei Giganti - The Last Attack arriva anche in Italia a marzo 2025",
+        "description": "L’attacco dei Giganti: The Last Attack, il film conclusivo dell’acclamata serie anime, è pronto a sbarcare nei cinema di tutto il mondo grazie alla distribuzione di Crunchyroll e Sony Pictures Entertainment....",
+        "publishedDate": "2024-12-20T15:19:31.000Z"
       }
-    ]
+    ],
+    "theaterReleaseDate": "2025-03-03",
+    "theaterEndDate": "2025-03-05"
   },
   {
     "title": "La Caccia a Gollum",
@@ -773,7 +787,7 @@
   {
     "title": "Paprika – Sognando un sogno",
     "slug": "paprika-sognando-un-sogno",
-    "lastSourceDate": "2024-12-19T11:49:10.000Z",
+    "lastSourceDate": "2024-12-19T00:00:00.000Z",
     "theaterReleaseDate": "2025-01-17",
     "theaterEndDate": "2025-01-19",
     "sources": [
