@@ -961,5 +961,40 @@
       "vote_average": 7.834,
       "vote_count": 401
     }
+  },
+  {
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "slug": "the-lord-of-the-rings-the-war-of-the-rohirrim",
+    "lastSourceDate": "2024-12-24T00:00:00.000Z",
+    "theaterReleaseDate": "2025-01-01",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/105644-il-signore-degli-anelli-la-guerra-dei-rohirrim-non-decolla-al-botteghino-e-va-sul-digitale",
+        "title": "Il Signore degli Anelli - La guerra dei Rohirrim non decolla al botteghino e va sul digitale",
+        "description": "La Warner Bros. ha rivelato lunedì che The Lord of the Rings: The War of the Rohirrim , l'ultimo lungometraggio di Kenji Kamiyama (Seirei no moribito, Ghost in the Shell Stand Alone Complex) realizzato in...",
+        "publishedDate": "2024-12-24T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/A6vAMO3myroRfBwSZetY4GVqaW4.jpg",
+      "genre_ids": [
+        16,
+        14,
+        28,
+        12
+      ],
+      "id": 839033,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The War of the Rohirrim",
+      "overview": "183 anni prima degli aventi del Signore degli Anelli, Helm Mandimartello, re di Rohan, e la sua famiglia difendono il loro regno da un esercito di Dunlandiani. A prendersi il ruolo di protagonista della battaglia, però, è soprattutto Hèra, figlia di Helm dal temperamento ribelle che non esiterà a scendere in campo per difendere il proprio popolo.",
+      "popularity": 190.271,
+      "poster_path": "/vNVAJb5gmQP0wjd1LDxu0eI6Thl.jpg",
+      "release_date": "2024-12-05",
+      "title": "Il Signore degli Anelli - La guerra dei Rohirrim",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 83
+    }
   }
 ]
