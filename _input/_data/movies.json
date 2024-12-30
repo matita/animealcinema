@@ -996,5 +996,40 @@
       "vote_average": 6.5,
       "vote_count": 83
     }
+  },
+  {
+    "title": "Famiglia",
+    "slug": "famiglia",
+    "lastSourceDate": "2024-12-29T00:00:00.000Z",
+    "theaterReleaseDate": "2024-12-19",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/105352-welcome-live-action-le-novita-streaming-di-dicembre-29-12-2024",
+        "title": "Welcome Live Action: le novità streaming di dicembre (29-12-2024)",
+        "description": "Avere la curiosità di vedere qualche drama o film giapponese... ma non sapere come o dove reperire i sottotitoli in italiano. Rilassarsi un momento sul divano col desiderio di guardarsi qualcosa in TV, avendo...",
+        "publishedDate": "2024-12-29T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        10751
+      ],
+      "id": 9806,
+      "original_language": "en",
+      "original_title": "The Incredibles",
+      "overview": "Bob Parr, noto a tutti come Mr. Incredible, è sempre stato considerato uno dei più importanti supereroi del mondo. Dopo quindici anni di lavoro nel salvare vite e risolvere problemi Bob e sua moglie, altrettanto supereroina, si sono ritirati a vita privata con i loro figli. Bob cerca di combattere la noia e il sovrappeso e sogna di tornare all'azione. L'occasione si presenta quando un misterioso messaggio lo convoca su un'isola per una missione segretissima.",
+      "popularity": 92.858,
+      "poster_path": "/YC2HuIkt6JOyOInuSRnRR9iVLE.jpg",
+      "release_date": "2004-10-27",
+      "title": "Gli Incredibili - Una \"normale\" famiglia di supereroi",
+      "video": false,
+      "vote_average": 7.709,
+      "vote_count": 17684
+    }
   }
 ]
