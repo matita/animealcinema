@@ -1043,5 +1043,39 @@
       "vote_average": 7.709,
       "vote_count": 17684
     }
+  },
+  {
+    "title": "La guerra dei Rohirrim",
+    "slug": "la-guerra-dei-rohirrim",
+    "lastSourceDate": "2025-01-01T16:14:38.000Z",
+    "sources": [
+      {
+        "url": "https://stream24.ilsole24ore.com/video/italia/cinema-spettacoli-magazine--112025/AGtmr44B",
+        "title": "Cinema & Spettacoli Magazine - 1/1/2025 - Il Sole 24 ORE",
+        "description": "AbbonatiHomePageSezioni24+FinanzaFinanza Personale by Plus24MercatiMagazineVideoGalleryPodcastLab 24NewsletterDossierEbookPer i professionistiQuotidiani digitaliRadio 24Sole 24 Ore...",
+        "publishedDate": "2025-01-01T16:14:38.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/A6vAMO3myroRfBwSZetY4GVqaW4.jpg",
+      "genre_ids": [
+        16,
+        14,
+        28,
+        12
+      ],
+      "id": 839033,
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The War of the Rohirrim",
+      "overview": "183 anni prima degli aventi del Signore degli Anelli, Helm Mandimartello, re di Rohan, e la sua famiglia difendono il loro regno da un esercito di Dunlandiani. A prendersi il ruolo di protagonista della battaglia, però, è soprattutto Hèra, figlia di Helm dal temperamento ribelle che non esiterà a scendere in campo per difendere il proprio popolo.",
+      "popularity": 1056.755,
+      "poster_path": "/vNVAJb5gmQP0wjd1LDxu0eI6Thl.jpg",
+      "release_date": "2024-12-05",
+      "title": "Il Signore degli Anelli - La guerra dei Rohirrim",
+      "video": false,
+      "vote_average": 6.844,
+      "vote_count": 147
+    }
   }
 ]
