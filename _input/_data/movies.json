@@ -479,7 +479,7 @@
   {
     "title": "Il Signore degli Anelli – La guerra dei Rohirrim",
     "slug": "il-signore-degli-anelli-la-guerra-dei-rohirrim",
-    "lastSourceDate": "2025-01-01T11:42:49.000Z",
+    "lastSourceDate": "2025-01-01T16:14:38.000Z",
     "theaterReleaseDate": "2025-01-01",
     "sources": [
       {
@@ -517,6 +517,12 @@
         "title": "Il Signore degli Anelli - La Guerra dei Rohirrim: le action figures ufficiali del film anime di Kenji Kamiyama (Al cinema dal 1° gennaio)",
         "description": "Tamashii Nations ha svelato due action figures di Bandai basate sul nuovo film anime Il Signore degli Anelli - La Guerra dei Rohirrim - Al cinema con Warner Bros. Italia dal 1° gennaio 2025",
         "publishedDate": "2025-01-01T11:42:49.000Z"
+      },
+      {
+        "url": "https://stream24.ilsole24ore.com/video/italia/cinema-spettacoli-magazine--112025/AGtmr44B",
+        "title": "Cinema & Spettacoli Magazine - 1/1/2025 - Il Sole 24 ORE",
+        "description": "AbbonatiHomePageSezioni24+FinanzaFinanza Personale by Plus24MercatiMagazineVideoGalleryPodcastLab 24NewsletterDossierEbookPer i professionistiQuotidiani digitaliRadio 24Sole 24 Ore...",
+        "publishedDate": "2025-01-01T16:14:38.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1076,6 +1082,41 @@
       "video": false,
       "vote_average": 6.844,
       "vote_count": 147
+    }
+  },
+  {
+    "title": "Cure",
+    "slug": "cure",
+    "lastSourceDate": "2025-01-02T11:45:00.000Z",
+    "theaterReleaseDate": "2025-04-01",
+    "sources": [
+      {
+        "url": "https://cinema.everyeye.it/notizie/leggendario-horror-giapponese-uscire-cinema-italia-non-perdetevelo-768298.html",
+        "title": "Questo leggendario horror giapponese sta per uscire al cinema in Italia, non perdetevelo!",
+        "description": "Dopo avervi parlato della recensione di Hideo Kojima per Cloud di Kiyoshi Kurosawa, non possiamo che ricordarvi che presto in Italia arriverà al cinema quello che è forse il più grande capolavoro del maestro...",
+        "publishedDate": "2025-01-02T11:45:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/rGZkErhzQyBaCrwQyRjRfrEM0EZ.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "id": 336843,
+      "original_language": "en",
+      "original_title": "Maze Runner: The Death Cure",
+      "overview": "Thomas e gli altri ribelli non si sono ancora dati per vinti e, mentre il mondo va sempre più in malora, continuano a lottare per proteggere i propri amici, in particolare per salvare Minho e altri giovani catturati da Wicked e fuggire poi insieme a loro verso lidi migliori con una nave. Quando si accorgono che Minho non è però tra i ragazzi che hanno estratto da un treno in corsa, Thomas decide di andare nella tana del leone, in una città fortificata da Wicked per fare un ultimo tentativo di salvare l'amico. Diversi altri ribelli si rifiutano di lasciarlo andare da solo e si aggregano alla difficile missione, ma a complicare le cose è soprattutto Teresa, che dopo averli traditi è diventata una ricercatrice di Wicked e rivela una posizione ambigua verso entrambe le fazioni, che rischia di compromettere i piani ribelli.",
+      "popularity": 40.119,
+      "poster_path": "/gcoYF3jguCglMhyMy8RKEMMfU9M.jpg",
+      "release_date": "2018-01-10",
+      "title": "Maze Runner - La rivelazione",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 7807
     }
   }
 ]
