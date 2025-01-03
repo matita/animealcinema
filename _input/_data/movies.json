@@ -479,7 +479,7 @@
   {
     "title": "Il Signore degli Anelli – La guerra dei Rohirrim",
     "slug": "il-signore-degli-anelli-la-guerra-dei-rohirrim",
-    "lastSourceDate": "2025-01-02T20:53:00.000Z",
+    "lastSourceDate": "2025-01-02T16:00:00.000Z",
     "theaterReleaseDate": "2025-01-01",
     "sources": [
       {
@@ -1162,6 +1162,42 @@
       "video": false,
       "vote_average": 6.632,
       "vote_count": 5964
+    }
+  },
+  {
+    "title": "Hello! Spank. Le pene d’amore di Spank",
+    "slug": "hello-spank-le-pene-damore-di-spank",
+    "lastSourceDate": "2025-01-03T10:48:07.000Z",
+    "theaterReleaseDate": "2025-02-13",
+    "theaterEndDate": "2025-02-16",
+    "sources": [
+      {
+        "url": "https://fumettologica.it/2025/01/hello-spank-film-anime-cinema-italia/",
+        "title": "Il film di \"Hello! Spank\" arriva al cinema a San Valentino",
+        "description": "Dal 13 al 16 febbraio prossimi arriverà per la prima volta nei cinema il film Hello! Spank. Le pene d’amore di Spank, dedicato al personaggio protagonista della apprezzata serie animata degli anni Ottanta...",
+        "publishedDate": "2025-01-03T10:48:07.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/3tXCbPSkNryTr8q1ph0whkCBF7Z.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10749,
+        18
+      ],
+      "id": 507477,
+      "original_language": "ja",
+      "original_title": "おはよう!スパンク",
+      "overview": "L'imbranato cagnolino amico di Aiko, si innamora a prima vista della cagnetta Anna. Sho Shimada, il padrone di Anna, si trasferisce nella classe di Aiko. Complici una serie di battibecchi e la malattia di Anna, i due si avvicinano l'un l'altra. Tuttavia, all'improvviso, Sho deve trasferirsi in America per studiare violino e si preoccupa perché non riesce a dirlo ad Aiko. La ragazza, che ha sentito parlare di questo fatto dalla madre di lui, vorrebbe costruire insieme a Sho dei bei ricordi nel tempo che resta loro da passare insieme prima della partenza…",
+      "popularity": 0.907,
+      "poster_path": "/rRTatqGpv0age68k6D0lgGzKCgG.jpg",
+      "release_date": "1982-03-13",
+      "title": "Hello Spank - Le pene d'amore di Spank",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1
     }
   }
 ]
