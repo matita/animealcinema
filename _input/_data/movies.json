@@ -567,7 +567,7 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2025-01-08T11:40:59.000Z",
+    "lastSourceDate": "2025-01-13T00:00:00.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -718,6 +718,12 @@
         "title": "Crunchyroll manga tornerà anche in Italia? - Animaku",
         "description": "Lancio iniziale e futuri aggiornamenti Crunchyroll ha annunciato, durante la conferenza stampa al Consumer Electronics Show (CES) di Sony, il lancio di una nuova app dedicata ai manga. La piattaforma,...",
         "publishedDate": "2025-01-08T11:40:59.000Z"
+      },
+      {
+        "url": "https://www.akibagamers.it/13-01-2025/attack-on-titan-the-last-attack-primo-trailer-per-evento-cinematografico/",
+        "title": "Attack on Titan: THE LAST ATTACK - Primo trailer per l'evento cinematografico",
+        "description": "Crunchyroll ha rilasciato il primo trailer per Attack on Titan: THE LAST ATTACK, che arriverà nei cinema italiani per un’evento speciale. Come precedentemente anticipato il lungometraggio unisce gli episodi...",
+        "publishedDate": "2025-01-13T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1438,6 +1444,42 @@
       "video": false,
       "vote_average": 6.3,
       "vote_count": 3
+    }
+  },
+  {
+    "title": "Boruto",
+    "slug": "boruto",
+    "lastSourceDate": "2025-01-13T13:19:00.000Z",
+    "theaterReleaseDate": "2025-01-01",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/01/13/naruto-burger-king/",
+        "title": "Naruto avvia una collaborazione con Burger King!",
+        "description": "Dopo One Piece, la catena di fast food Burger King ha scelto di avviare una collaborazione con un altro franchise di anime e manga molto famoso, ovverosia Naruto. La serie creata da Masashi Kishimoto a fine...",
+        "publishedDate": "2025-01-13T13:19:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/51oaRzcFOAZzxOVbQQHnSbbuSJU.jpg",
+      "genre_ids": [
+        12,
+        28,
+        16,
+        35,
+        14
+      ],
+      "id": 347201,
+      "original_language": "ja",
+      "original_title": "BORUTO -NARUTO THE MOVIE-",
+      "overview": "Il vivace Boruto Uzumaki, figlio del Settimo Hokage Naruto, è un abile ninja che possiede la stessa sfacciataggine e passione di suo padre. Tuttavia, la costante assenza di suo padre, impegnato con i suoi doveri di Hokage, mette un freno al fuoco di Boruto. Finisce per incontrare l'amico di suo padre, Sasuke, e chiede di diventare... il suo apprendista!? Si alza il sipario sulla storia della nuova generazione!",
+      "popularity": 66.608,
+      "poster_path": "/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg",
+      "release_date": "2015-08-07",
+      "title": "Boruto: Naruto the Movie",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1573
     }
   }
 ]
