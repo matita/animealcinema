@@ -1404,5 +1404,40 @@
       "vote_average": 7.5,
       "vote_count": 2382
     }
+  },
+  {
+    "title": "I Colori dell'Anima - The Colors Within",
+    "slug": "i-colori-dellanima-the-colors-within",
+    "lastSourceDate": "2025-01-13T11:00:00.000Z",
+    "theaterReleaseDate": "2025-02-24",
+    "theaterEndDate": "2025-02-26",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/colori-anima-poster-esclusiva-italiana-anime-studio-dandadan-770914.html",
+        "title": "I Colori dell'Anima, poster in esclusiva italiana per l'anime dallo studio di DanDaDan",
+        "description": "Dall’unione della visionaria regista Naoko Yamada, conosciuta per aver diretto le pellicole di A Silent Voice e Liz e l’uccellino azzurro, e lo stile inconfondibile dello studio d’animazione Science SARU è...",
+        "publishedDate": "2025-01-13T11:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/mFC52cN0oz1WqTXR0jRT69oHKTp.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10402
+      ],
+      "id": 1056444,
+      "original_language": "ja",
+      "original_title": "きみの色",
+      "overview": "Totsuko è una liceale che vive a Nagasaki. La ragazza ama molto la musica e ha un potere speciale, riesce a vedere le emozioni delle persone sotto forma di colori. Ogni persona si presenta ai suoi occhi circondata da colori specifici che le fanno capire se sia triste, felice o arrabbiata. Questa dote fa di lei una ragazzina molto sensibile e sempre attenta a preoccuparsi dello stato d’animo delle persone che la circondano. La persona che emana il suo colore preferito è la sua compagna di scuola Kimi. Un giorno, in una libreria, incontra Rui, un ragazzo con una grande passione per la musica come lei. Incantata e ispirata da Kimi e Rui, Totsuko sogna di formare con loro una band, è così che i tre iniziano a esercitarsi in una vecchia chiesa su un’isola. Grazie alla musica, scopriranno una forte amicizia e i veri colori che portano dentro…",
+      "popularity": 12.637,
+      "poster_path": "/gOWDvzglcQZOQPqGfVF6hfOhMNT.jpg",
+      "release_date": "2024-08-30",
+      "title": "I colori dell'anima",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 3
+    }
   }
 ]
