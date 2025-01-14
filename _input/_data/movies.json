@@ -1517,5 +1517,41 @@
       "vote_average": 7.5,
       "vote_count": 1573
     }
+  },
+  {
+    "title": "Le pene d’amore di Spank",
+    "slug": "le-pene-damore-di-spank",
+    "lastSourceDate": "2025-01-14T11:53:54.000Z",
+    "theaterReleaseDate": "2025-02-13",
+    "theaterEndDate": "2025-02-16",
+    "sources": [
+      {
+        "url": "https://www.cinetivu.com/cinetv-oggi/hello-spank-in-uscita-al-cinema-le-ultime-anticipazioni/",
+        "title": "Hello! Spank in uscita al cinema: le ultime anticipazioni",
+        "description": "Qualcuno ricorderà quando Hello! Spank ha fatto il suo debutto in tv, era il 7 marzo del 1981, ormai più di quarant’anni fa e bisogna dire come questo manga abbia accompagnato i pomeriggi di tanti bambini...",
+        "publishedDate": "2025-01-14T11:53:54.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/3tXCbPSkNryTr8q1ph0whkCBF7Z.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10749,
+        18
+      ],
+      "id": 507477,
+      "original_language": "ja",
+      "original_title": "おはよう!スパンク",
+      "overview": "L'imbranato cagnolino amico di Aiko, si innamora a prima vista della cagnetta Anna. Sho Shimada, il padrone di Anna, si trasferisce nella classe di Aiko. Complici una serie di battibecchi e la malattia di Anna, i due si avvicinano l'un l'altra. Tuttavia, all'improvviso, Sho deve trasferirsi in America per studiare violino e si preoccupa perché non riesce a dirlo ad Aiko. La ragazza, che ha sentito parlare di questo fatto dalla madre di lui, vorrebbe costruire insieme a Sho dei bei ricordi nel tempo che resta loro da passare insieme prima della partenza…",
+      "popularity": 3.616,
+      "poster_path": "/rRTatqGpv0age68k6D0lgGzKCgG.jpg",
+      "release_date": "1982-03-13",
+      "title": "Hello Spank - Le pene d'amore di Spank",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1
+    }
   }
 ]
