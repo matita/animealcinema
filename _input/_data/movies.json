@@ -1559,5 +1559,38 @@
       "vote_average": 6,
       "vote_count": 1
     }
+  },
+  {
+    "title": "I Colori dell’Anima",
+    "slug": "i-colori-dellanima",
+    "lastSourceDate": "2025-01-15T09:55:00.000Z",
+    "theaterReleaseDate": "2025-02-24",
+    "theaterEndDate": "2025-02-26",
+    "sources": [
+      {
+        "url": "https://cpop.it/notizie/i-colori-dellanima-film-naoko-yamada-cinema-data-uscita",
+        "title": "I Colori dell’Anima: l’atteso film di Naoko Yamada arriva nei cinema italiani a febbraio",
+        "description": "Anime Factory ha annunciato ufficialmente che The Colors Within (Kimi no Iro), il nuovo film della celebre regista Naoko Yamada, arriverà nei cinema italiani con il titolo I Colori dell’Anima: questo evento...",
+        "publishedDate": "2025-01-15T09:55:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/pFq6tKCgi3LFjzeGC7rEJsL6gK2.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 34308,
+      "original_language": "en",
+      "original_title": "Modigliani",
+      "overview": "Eravamo rimasti a Montparnasse 19di Jacques Becker e con Gerard Philipe, da allora un \"Modi\", inedito in Italia, ed ora questo inenarrabile I colori dell'anima - Modigliani. È una pellicola che crea disagio, tra luci ed ombre, impressioni geniali e cadute rovinose nell'agiografia e nella convenzione narrativa. Ma di certo il regista Mick Davis merita l'onore delle armi. C'è, nel percorso finale dell'esistenza del nostro grande pittore, una notevole sensibilità registica. Davis con ben assestati colpi di pennello (!) mostra impietosamente la Parigi del primo ventennio del secolo scorso, con la fotografia e le scenografie che ricordano i dagherrotipi, quelle stampe un po' bruciate che riconducono al passato con un velo di malinconia,..",
+      "popularity": 16.469,
+      "poster_path": "/s9jSDxAL8qPjirhVbqnBLvETkxn.jpg",
+      "release_date": "2004-05-18",
+      "title": "I colori dell'anima",
+      "video": false,
+      "vote_average": 7.078,
+      "vote_count": 193
+    }
   }
 ]
