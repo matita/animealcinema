@@ -573,7 +573,7 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2025-01-14T16:02:34.000Z",
+    "lastSourceDate": "2025-01-15T00:00:00.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -760,6 +760,12 @@
         "title": "Attack on Titan: il film conclusivo arriva nei cinema italiani a marzo",
         "description": "Crunchyroll e Sony Pictures Entertainment hanno annunciato l'uscita nelle sale italiane di Attack on Titan: THE LAST ATTACK il 3, 4 e 5 marzo 2025. Il film, della durata di 145 minuti, presenterà gli",
         "publishedDate": "2025-01-14T16:02:34.000Z"
+      },
+      {
+        "url": "https://popcorntv.it/anime-manga/lattacco-dei-giganti-e-stato-rilasciato-il-trailer-del-film/75241",
+        "title": "L'attacco dei giganti: ecco il trailer del film in arrivo nei cinema italiani",
+        "description": "Ormai è ufficiale, il grande evento cinematografico Attack on Titan: The last attack sta per arrivare nei cinema italiani. Nelle giornate del 3, del 4 e del 5 marzo sarà infatti possibile assistere al film...",
+        "publishedDate": "2025-01-15T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1591,6 +1597,41 @@
       "video": false,
       "vote_average": 7.078,
       "vote_count": 193
+    }
+  },
+  {
+    "title": "Let Me Eat Your Pancreas",
+    "slug": "let-me-eat-your-pancreas",
+    "lastSourceDate": "2025-01-15T12:05:07.000Z",
+    "theaterReleaseDate": "2025-02-03",
+    "theaterEndDate": "2025-02-05",
+    "sources": [
+      {
+        "url": "https://www.mangaforever.net/7266392591/voglio-mangiare-il-tuo-pancreas-film-live-action-uscita-italia",
+        "title": "Voglio mangiare il tuo pancreas: il film live action arriva in Italia",
+        "description": "La pellicola fa parte del nuovo progetto I Love Japan di Dynit e Adler Entertainment.                                                                        Pubblicato il 15 Gennaio 2025 alle...",
+        "publishedDate": "2025-01-15T12:05:07.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749
+      ],
+      "id": 504253,
+      "original_language": "ja",
+      "original_title": "君の膵臓をたべたい",
+      "overview": "La giovane Sakura è gravemente malata e non le restano molti giorni da vivere, ma nessuno lo sa. Finché il timido e introverso Haruki non lo scopre, in maniera del tutto casuale. Tra i due nasce un complicato rapporto di amicizia, che insegnerà molto a entrambi sulla vita e sull'affetto reciproco.",
+      "popularity": 23.757,
+      "poster_path": "/2ezMKcw090lTq7dA7AY0lr2gOP1.jpg",
+      "release_date": "2018-09-01",
+      "title": "Voglio mangiare il tuo pancreas",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 1566
     }
   }
 ]
