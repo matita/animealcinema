@@ -573,7 +573,7 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2025-01-15T00:00:00.000Z",
+    "lastSourceDate": "2025-01-23T16:38:57.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -766,6 +766,12 @@
         "title": "L'attacco dei giganti: ecco il trailer del film in arrivo nei cinema italiani",
         "description": "Ormai è ufficiale, il grande evento cinematografico Attack on Titan: The last attack sta per arrivare nei cinema italiani. Nelle giornate del 3, del 4 e del 5 marzo sarà infatti possibile assistere al film...",
         "publishedDate": "2025-01-15T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.drcommodore.it/2025/01/23/lattacco-dei-giganti-dynit-adler/",
+        "title": "L'attacco dei Giganti: i primi due film riassuntivi tornano al cinema il 10 febbraio grazie a Dynit e Adler Entertainment",
+        "description": "Pochi giorni fa, Dynit e Adler Entertainment hanno annunciato l’avvio del nuovo progetto cinematografico I Love Japan, che nel suo primo ciclo vedrà l’arrivo di tre film live-action giapponesi incentrati...",
+        "publishedDate": "2025-01-23T16:38:57.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1852,5 +1858,92 @@
       "vote_average": 6.4,
       "vote_count": 14
     }
+  },
+  {
+    "title": "L'attacco dei Giganti Parte 1 - L'arco e la freccia cremisi",
+    "slug": "lattacco-dei-giganti-parte-1-larco-e-la-freccia-cremisi",
+    "lastSourceDate": "2025-01-23T16:38:57.000Z",
+    "theaterReleaseDate": "2025-02-10",
+    "theaterEndDate": "2025-02-12",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/01/23/lattacco-dei-giganti-dynit-adler/",
+        "title": "L'attacco dei Giganti: i primi due film riassuntivi tornano al cinema il 10 febbraio grazie a Dynit e Adler Entertainment",
+        "description": "Pochi giorni fa, Dynit e Adler Entertainment hanno annunciato l’avvio del nuovo progetto cinematografico I Love Japan, che nel suo primo ciclo vedrà l’arrivo di tre film live-action giapponesi incentrati...",
+        "publishedDate": "2025-01-23T16:38:57.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/1tmIKXWWDAvMJbbo66HrpZtHCb6.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14
+      ],
+      "id": 379088,
+      "original_language": "ja",
+      "original_title": "劇場版「進撃の巨人」前編〜紅蓮の弓矢〜",
+      "overview": "L'opera è ambientata in un mondo dove i superstiti dell'umanità vivono all'interno di città circondate da enormi mura difensive a causa dell'improvvisa comparsa dei Giganti, enormi creature umanoidi che divorano gli uomini senza un apparente motivo. La storia ruota attorno al giovane Eren Jaeger e a sua sorella adottiva Mikasa Ackermann, le cui vite vengono stravolte dall'attacco di un gigante colossale che conduce alla distruzione della loro città e alla morte della loro madre",
+      "popularity": 21.426,
+      "poster_path": "/k4E04qJvSTQYUPOpYp5YYvdrdcc.jpg",
+      "release_date": "2014-11-22",
+      "title": "L'attacco dei giganti - Il film - Parte 1: L'arco e la freccia cremisi",
+      "video": true,
+      "vote_average": 8.1,
+      "vote_count": 447
+    }
+  },
+  {
+    "title": "L'attacco dei Giganti Parte 2 - Le ali della libertà",
+    "slug": "lattacco-dei-giganti-parte-2-le-ali-della-liberta",
+    "lastSourceDate": "2025-01-23T16:38:57.000Z",
+    "theaterReleaseDate": "2025-02-10",
+    "theaterEndDate": "2025-02-12",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/01/23/lattacco-dei-giganti-dynit-adler/",
+        "title": "L'attacco dei Giganti: i primi due film riassuntivi tornano al cinema il 10 febbraio grazie a Dynit e Adler Entertainment",
+        "description": "Pochi giorni fa, Dynit e Adler Entertainment hanno annunciato l’avvio del nuovo progetto cinematografico I Love Japan, che nel suo primo ciclo vedrà l’arrivo di tre film live-action giapponesi incentrati...",
+        "publishedDate": "2025-01-23T16:38:57.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/a9PEsiwYwP7Uu90OBoumqPnTlGd.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        12
+      ],
+      "id": 330081,
+      "original_language": "ja",
+      "original_title": "劇場版「進撃の巨人」後編～自由の翼～",
+      "overview": "Eren scopre che è stato rinchiuso per molto tempo nei sotterranei della sede della commissione e che verrà sottoposto al giudizio della corte marziale, presieduta dal comandante supremo Dallis Zacklay, l'uomo a capo di tutti i tre Corpi militari. Mentre il Corpo di Guarnigione ha del tutto rinunciato ad avanzare pretese su Eren per il terrore che la sua trasformazione in Gigante suscita in molti dei suoi uomini, il Corpo di Gendarmeria desidera studiarlo minuziosamente per poi eliminarlo. La sua unica speranza di salvezza è costituita dal Corpo di Ricerca, nel quale Erin desidera entrare da tempo. Il Corpo lo utilizzerebbe infatti in battaglia per eliminare il maggior numero possibile di nemici...",
+      "popularity": 30.594,
+      "poster_path": "/r1Vw2VNCENU7rl217A2bdDgmpjy.jpg",
+      "release_date": "2015-06-27",
+      "title": "L'attacco dei giganti - Il film - Parte 2: Le ali della libertà",
+      "video": true,
+      "vote_average": 8.2,
+      "vote_count": 324
+    }
+  },
+  {
+    "title": "L'Attacco dei Giganti - Il Film Parte 1 - L’Arco e la Freccia Cremisi e Parte 2 - Le Ali della Libertà",
+    "slug": "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia-cremisi-e-parte-2-le-ali-della-liberta",
+    "lastSourceDate": "2025-01-23T15:00:00.000Z",
+    "theaterReleaseDate": "2025-02-10",
+    "theaterEndDate": "2025-02-12",
+    "sources": [
+      {
+        "url": "https://cpop.it/notizie/lattacco-dei-giganti-il-film-parte-1-e-2-nei-cinema-in-italia-data-e-trailer",
+        "title": "L'attacco dei Giganti Il Film Parte 1 e 2 nei cinema in Italia: data e trailer",
+        "description": "L’Attacco dei Giganti - Il Film Parte 1 - L’Arco e la Freccia Cremisi e Parte 2 - Le Ali della Libertà arrivano nei cinema italiani per la rassegna I Love Japan di Adler Entertainment in collaborazione con...",
+        "publishedDate": "2025-01-23T15:00:00.000Z"
+      }
+    ]
   }
 ]
