@@ -1662,7 +1662,7 @@
   {
     "title": "Let Me Eat Your Pancreas",
     "slug": "let-me-eat-your-pancreas",
-    "lastSourceDate": "2025-01-23T15:45:12.000Z",
+    "lastSourceDate": "2025-01-24T00:00:00.000Z",
     "theaterReleaseDate": "2025-02-03",
     "theaterEndDate": "2025-02-05",
     "sources": [
@@ -1775,7 +1775,7 @@
   {
     "title": "L’Attacco dei Giganti - Il Film Parte 2 - Le Ali della Libertà",
     "slug": "lattacco-dei-giganti-il-film-parte-2-le-ali-della-liberta",
-    "lastSourceDate": "2025-01-23T20:38:32.000Z",
+    "lastSourceDate": "2025-01-24T00:00:00.000Z",
     "theaterReleaseDate": "2025-02-10",
     "theaterEndDate": "2025-02-12",
     "sources": [
@@ -1829,7 +1829,7 @@
   {
     "title": "Your Eyes Tell",
     "slug": "your-eyes-tell",
-    "lastSourceDate": "2025-01-23T15:45:12.000Z",
+    "lastSourceDate": "2025-01-24T00:00:00.000Z",
     "theaterReleaseDate": "2025-04-07",
     "theaterEndDate": "2025-04-09",
     "sources": [
@@ -1881,7 +1881,7 @@
   {
     "title": "April Come She Will",
     "slug": "april-come-she-will",
-    "lastSourceDate": "2025-01-23T15:45:12.000Z",
+    "lastSourceDate": "2025-01-24T00:00:00.000Z",
     "theaterReleaseDate": "2025-04-28",
     "theaterEndDate": "2025-04-30",
     "sources": [
@@ -2074,5 +2074,75 @@
         "publishedDate": "2025-01-24T00:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "I colori dell’anima – The Colors Within (Kimi no Iro)",
+    "slug": "i-colori-dellanima-the-colors-within-kimi-no-iro",
+    "lastSourceDate": "2025-01-24T15:49:57.000Z",
+    "theaterReleaseDate": "2025-02-24",
+    "theaterEndDate": "2025-02-26",
+    "sources": [
+      {
+        "url": "https://www.moviedigger.it/i-colori-dellanima/",
+        "title": "I COLORI DELL'ANIMA | Il nuovo film d'animazione di Naoko Yamada in Italia con Anime Factory",
+        "description": "In anteprima assoluta, grazie ad Anime Factory, vi presentiamo le prime immagini de I colori dell’anima – The Colors Within (Kimi no Iro), il nuovo film animato di Naoko Yamada, già acclamata regista de La...",
+        "publishedDate": "2025-01-24T15:49:57.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/mFC52cN0oz1WqTXR0jRT69oHKTp.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10402
+      ],
+      "id": 1056444,
+      "original_language": "ja",
+      "original_title": "きみの色",
+      "overview": "Totsuko è una liceale che vive a Nagasaki. La ragazza ama molto la musica e ha un potere speciale, riesce a vedere le emozioni delle persone sotto forma di colori. Ogni persona si presenta ai suoi occhi circondata da colori specifici che le fanno capire se sia triste, felice o arrabbiata. Questa dote fa di lei una ragazzina molto sensibile e sempre attenta a preoccuparsi dello stato d’animo delle persone che la circondano. La persona che emana il suo colore preferito è la sua compagna di scuola Kimi. Un giorno, in una libreria, incontra Rui, un ragazzo con una grande passione per la musica come lei. Incantata e ispirata da Kimi e Rui, Totsuko sogna di formare con loro una band, è così che i tre iniziano a esercitarsi in una vecchia chiesa su un’isola. Grazie alla musica, scopriranno una forte amicizia e i veri colori che portano dentro…",
+      "popularity": 18.291,
+      "poster_path": "/cylEwJWKN20TDgqlmY8xEgscDNt.jpg",
+      "release_date": "2024-08-30",
+      "title": "I colori dell'anima",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 4
+    }
+  },
+  {
+    "title": "I Want to Eat Your Pancreas",
+    "slug": "i-want-to-eat-your-pancreas",
+    "lastSourceDate": "2025-01-24T11:00:00.000Z",
+    "theaterReleaseDate": "2025-02-03",
+    "theaterEndDate": "2025-02-05",
+    "sources": [
+      {
+        "url": "https://cinema.everyeye.it/notizie/let-eat-your-pancreas-arriva-sala-live-action-voglio-mangiare-pancreas-773871.html",
+        "title": "Let me eat your pancreas: arriva in sala il live-action di Voglio mangiare il tuo pancreas",
+        "description": "Oltre al recente annuncio del remake live-action di Solo Leveling, in queste ore è stata annunciata l'uscita in Italia al cinema di Let me eat your pancreas, adattamento live-action del famoso manga che già...",
+        "publishedDate": "2025-01-24T11:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749
+      ],
+      "id": 504253,
+      "original_language": "ja",
+      "original_title": "君の膵臓をたべたい",
+      "overview": "La giovane Sakura è gravemente malata e non le restano molti giorni da vivere, ma nessuno lo sa. Finché il timido e introverso Haruki non lo scopre, in maniera del tutto casuale. Tra i due nasce un complicato rapporto di amicizia, che insegnerà molto a entrambi sulla vita e sull'affetto reciproco.",
+      "popularity": 40.557,
+      "poster_path": "/2ezMKcw090lTq7dA7AY0lr2gOP1.jpg",
+      "release_date": "2018-09-01",
+      "title": "Voglio mangiare il tuo pancreas",
+      "video": false,
+      "vote_average": 8.237,
+      "vote_count": 1570
+    }
   }
 ]
