@@ -1492,7 +1492,7 @@
   {
     "title": "I Colori dell'Anima - The Colors Within",
     "slug": "i-colori-dellanima-the-colors-within",
-    "lastSourceDate": "2025-01-24T11:30:00.000Z",
+    "lastSourceDate": "2025-01-25T07:38:12.000Z",
     "theaterReleaseDate": "2025-02-24",
     "theaterEndDate": "2025-02-26",
     "sources": [
@@ -1519,6 +1519,12 @@
         "title": "I colori dell’anima – The Colors Within si mostra nel trailer italiano",
         "description": "Anime Factory ha rilasciato il primo trailer italiano per I colori dell’anima – The Colors Within, film animato di Naoko Yamada. Come precedentemente anticipato il film arriverà nelle sale cinematografiche...",
         "publishedDate": "2025-01-24T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.4pareteita.it/2025/01/25/i-colori-dellanima-the-colors-within-trama-trailer-quando-esce-cinema/",
+        "title": "I colori dell'anima - The colors within: trama, trailer e quando esce",
+        "description": "La regista de La forma della voce torna finalmente anche nei cinema italiani con il suo nuovo lungometraggio, in uscita come evento speciale: quando sarà possibile vederlo su grande schermo?",
+        "publishedDate": "2025-01-25T07:38:12.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2149,6 +2155,41 @@
       "original_title": "君の膵臓をたべたい",
       "overview": "La giovane Sakura è gravemente malata e non le restano molti giorni da vivere, ma nessuno lo sa. Finché il timido e introverso Haruki non lo scopre, in maniera del tutto casuale. Tra i due nasce un complicato rapporto di amicizia, che insegnerà molto a entrambi sulla vita e sull'affetto reciproco.",
       "popularity": 40.557,
+      "poster_path": "/2ezMKcw090lTq7dA7AY0lr2gOP1.jpg",
+      "release_date": "2018-09-01",
+      "title": "Voglio mangiare il tuo pancreas",
+      "video": false,
+      "vote_average": 8.237,
+      "vote_count": 1570
+    }
+  },
+  {
+    "title": "Voglio mangiare il tuo pancreas",
+    "slug": "voglio-mangiare-il-tuo-pancreas",
+    "lastSourceDate": "2025-01-24T11:00:00.000Z",
+    "theaterReleaseDate": "2025-02-03",
+    "theaterEndDate": "2025-02-05",
+    "sources": [
+      {
+        "url": "https://cinema.everyeye.it/notizie/let-eat-your-pancreas-arriva-sala-live-action-voglio-mangiare-pancreas-773871.html",
+        "title": "Let me eat your pancreas: arriva in sala il live-action di Voglio mangiare il tuo pancreas",
+        "description": "Oltre al recente annuncio del remake live-action di Solo Leveling, in queste ore è stata annunciata l'uscita in Italia al cinema di Let me eat your pancreas, adattamento live-action del famoso manga che già...",
+        "publishedDate": "2025-01-24T11:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749
+      ],
+      "id": 504253,
+      "original_language": "ja",
+      "original_title": "君の膵臓をたべたい",
+      "overview": "La giovane Sakura è gravemente malata e non le restano molti giorni da vivere, ma nessuno lo sa. Finché il timido e introverso Haruki non lo scopre, in maniera del tutto casuale. Tra i due nasce un complicato rapporto di amicizia, che insegnerà molto a entrambi sulla vita e sull'affetto reciproco.",
+      "popularity": 34.091,
       "poster_path": "/2ezMKcw090lTq7dA7AY0lr2gOP1.jpg",
       "release_date": "2018-09-01",
       "title": "Voglio mangiare il tuo pancreas",
