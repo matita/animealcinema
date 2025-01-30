@@ -996,7 +996,7 @@
   {
     "title": "HELLO! SPANK. IL FILM. LE PENE D’AMORE DI SPANK",
     "slug": "hello-spank-il-film-le-pene-damore-di-spank",
-    "lastSourceDate": "2025-01-30T08:00:00.000Z",
+    "lastSourceDate": "2025-01-30T18:01:15.000Z",
     "theaterReleaseDate": "2024-02-13",
     "theaterEndDate": "2024-02-16",
     "sources": [
@@ -1095,8 +1095,35 @@
         "title": "Hello! Spank: tutte le curiosità sull’anime",
         "description": "Hello! Spank è uno degli anime più iconici degli anni ’80, una serie capace di mescolare risate, emozioni e momenti indimenticabili. Dietro le avventure del buffo cagnolino bianco e della sua padroncina Aiko...",
         "publishedDate": "2025-01-30T08:00:00.000Z"
+      },
+      {
+        "url": "https://www.nientepopcorn.it/notizie/prossimamente-al-cinema/film-al-cinema-febbraio-2025-film-titoli-strani-147465/",
+        "title": "Film al cinema febbraio 2025: 3 film con titoli strani",
+        "description": "Film in programmazione al cinema a febbraio 2025: NientePopcorn.it segnala 3 titoli. Sono tutti film con titoli strani, assurdi, originali.                                       Consigli cinema...",
+        "publishedDate": "2025-01-30T18:01:15.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/3tXCbPSkNryTr8q1ph0whkCBF7Z.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10749,
+        18
+      ],
+      "id": 507477,
+      "original_language": "ja",
+      "original_title": "おはよう!スパンク",
+      "overview": "L'imbranato cagnolino amico di Aiko, si innamora a prima vista della cagnetta Anna. Sho Shimada, il padrone di Anna, si trasferisce nella classe di Aiko. Complici una serie di battibecchi e la malattia di Anna, i due si avvicinano l'un l'altra. Tuttavia, all'improvviso, Sho deve trasferirsi in America per studiare violino e si preoccupa perché non riesce a dirlo ad Aiko. La ragazza, che ha sentito parlare di questo fatto dalla madre di lui, vorrebbe costruire insieme a Sho dei bei ricordi nel tempo che resta loro da passare insieme prima della partenza…",
+      "popularity": 2.176,
+      "poster_path": "/rRTatqGpv0age68k6D0lgGzKCgG.jpg",
+      "release_date": "1982-03-13",
+      "title": "Hello! Spank: Il film - Le pene d'amore di Spank",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1
+    }
   },
   {
     "title": "The First Slam Dunk",
