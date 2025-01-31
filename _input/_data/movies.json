@@ -2305,5 +2305,40 @@
       "vote_average": 7.027,
       "vote_count": 475
     }
+  },
+  {
+    "title": "Dragon Ball Z: La battaglia degli dei",
+    "slug": "dragon-ball-z-la-battaglia-degli-dei",
+    "lastSourceDate": "2025-01-31T11:42:20.000Z",
+    "theaterReleaseDate": "2025-03-16",
+    "theaterEndDate": "2025-03-19",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/01/31/dragon-ball-z-dei-cinema/",
+        "title": "Dragon Ball Z: La battaglia degli dei torna nei cinema italiani anche in versione estesa",
+        "description": "A marzo Akira Toriyama avrebbe compiuto 70 anni, per questo Nexo Digital riporterà nei cinema italiano il film Dragon Ball Z: La battaglia degli dei, uscito originariamente nel 2012. Il film – che in seguito...",
+        "publishedDate": "2025-01-31T11:42:20.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/7fVH3iPculxmygNnm1W3FAQFAo7.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878
+      ],
+      "id": 126963,
+      "original_language": "ja",
+      "original_title": "ドラゴンボールZ 神と神",
+      "overview": "Alcuni anni dopo la titanica battaglia con Majin Bu che ha determinato il destino dell'intero universo, la Terra ha vissuto un periodo di pace, ma ora deve fronteggiare un nuovo pericolo. Il Dio della distruzione Bills, che mantiene l'equilibrio dell'intero universo, si è risvegliato da un lungo sonno; egli è capace di distruggere solo per diletto e il suo ritorno genera panico sia nei Re Kaioh che nei Kaiohshin. Venuti a sapere di un Saiyan che ha sconfitto Freezer e dopo aver sognato che lo stesso guerriero potesse trasformarsi in Super Saiyan God, Bills e Whis raggiungono Goku sul pianeta di Re Kaioh. Entusiasta della comparsa di un forte avversario dopo tanto tempo, il Saiyan ignora gli avvertimenti di Re Kaioh e sfida il Dio della distruzione nella sua forma di Super Saiyan 3, ma non può far nulla contro il suo immenso potere e viene sconfitto con un colpo di mano sul collo dopo pochi secondi dall'inizio dello scontro.",
+      "popularity": 40.039,
+      "poster_path": "/lD5bcYmLW7vMkaLEl3m7UIEs7u6.jpg",
+      "release_date": "2013-03-30",
+      "title": "Dragon Ball Z - La battaglia degli Dei",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1539
+    }
   }
 ]
