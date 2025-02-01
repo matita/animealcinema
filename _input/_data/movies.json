@@ -2382,5 +2382,40 @@
       "vote_average": 6.8,
       "vote_count": 1539
     }
+  },
+  {
+    "title": "Mobile Suit Gundam SEED FREEDOM",
+    "slug": "mobile-suit-gundam-seed-freedom",
+    "lastSourceDate": "2025-02-01T00:00:00.000Z",
+    "theaterReleaseDate": "2024-05-01",
+    "sources": [
+      {
+        "url": "https://www.akibagamers.it/01-02-2025/gundam-seed-freedom-e-disponibile-in-italia-su-netflix/",
+        "title": "Gundam SEED FREEDOM è disponibile in Italia su Netflix",
+        "description": "Dopo essere approdato nei cinema italiani lo scorso maggio, circa quattro mesi dopo l’esordio nei cinema giapponesi, Mobile Suit Gundam SEED FREEDOM è finalmente disponibile su Netflix anche in Italia a...",
+        "publishedDate": "2025-02-01T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/fU3oaBud5SZadw6k1ycftYedmXJ.jpg",
+      "genre_ids": [
+        16,
+        878,
+        28,
+        18
+      ],
+      "id": 1146972,
+      "original_language": "ja",
+      "original_title": "機動戦士ガンダムSEED FREEDOM",
+      "overview": "Nell’anno 75 dell’era cosmica (C.E. 75) gli scontri continuano. Ci sono movimenti indipendentisti, e aggressioni da parte di Blue Cosmos...  Leggi tutto  Per riportare la calma viene fondata un'agenzia di monitoraggio della pace globale, la COMPASS, di cui Lacus è il primo presidente. Come membri della COMPASS, Kira e i suoi compagni intervengono in numerosi scontri regionali. Poi una neonata nazione chiamata Foundation propone un'operazione congiunta contro una roccaforte Blue Cosmos",
+      "popularity": 28.474,
+      "poster_path": "/dOV647Jpk7XbQaEhIMOLcbYzlLU.jpg",
+      "release_date": "2024-01-26",
+      "title": "Mobile Suit Gundam SEED FREEDOM",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 54
+    }
   }
 ]
