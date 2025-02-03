@@ -2429,5 +2429,40 @@
       "vote_average": 6.7,
       "vote_count": 54
     }
+  },
+  {
+    "title": "Versailles no bara",
+    "slug": "versailles-no-bara",
+    "lastSourceDate": "2025-02-02T00:00:00.000Z",
+    "theaterReleaseDate": "2025-01-31",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/106026-versailles-no-bara-il-film-la-recensione-del-film-appena-uscito-in-giappone",
+        "title": "Versailles no bara - Il film: la recensione del film appena uscito in Giappone",
+        "description": "Vi riportiamo qui di seguito una recensione con spoiler realizzata da Mario Pasqualini (Dimensione Fumetto) che ci ha gentilmente concesso le sue impressioni a caldo sulla pellicola recentemente uscita in...",
+        "publishedDate": "2025-02-02T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4kfiAHJuw4eXgMf1xyTG2potyQd.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18,
+        36
+      ],
+      "id": 1021679,
+      "original_language": "ja",
+      "original_title": "ベルサイユのばら",
+      "overview": "Oscar François de Jarjayes is a young noblewoman raised as a son by her father. As commander of Marie Antoinette's palace guard, Oscar is brought face-to-face with the luxury of King Louis XVI's court at Versailles. Joined by her servant André, Oscar is privy to the intrigue and deceit of France's last great royal regime.",
+      "popularity": 5.298,
+      "poster_path": "/nJOiv2UNhNUoUg9MvX4bzW0YX3Y.jpg",
+      "release_date": "2025-01-31",
+      "title": "The Rose of Versailles",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   }
 ]
