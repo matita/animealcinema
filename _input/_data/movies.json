@@ -2495,5 +2495,40 @@
         "publishedDate": "2025-04-02T00:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "PROPHECY",
+    "slug": "prophecy",
+    "lastSourceDate": "2025-02-06T00:00:00.000Z",
+    "theaterReleaseDate": "2025-03-24",
+    "theaterEndDate": "2025-03-26",
+    "sources": [
+      {
+        "url": "https://www.akibagamers.it/06-02-2025/prophecy-il-live-action-ispirato-allomonimo-manga-arriva-al-cinema/",
+        "title": "PROPHECY: il live action ispirato all'omonimo manga arriva al cinema",
+        "description": "Nexo Studios annuncia l’arrivo nei cinema italiani di PROPHECY, live action ispirato all’omonimo manga di Tetsuya Tsutsui. Il film sarà disponibile per un evento speciale che si terrà il 24, 25 e 26 marzo, ma...",
+        "publishedDate": "2025-02-06T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/yvD8uPr5VZNDacY6jbJpOYo0qPA.jpg",
+      "genre_ids": [
+        27,
+        14,
+        53
+      ],
+      "id": 11980,
+      "original_language": "en",
+      "original_title": "The Prophecy",
+      "overview": "L'arcangelo Gabriele scende sulla terra per prendere un'anima che gli permettera' di vincere la guerra, oramai stagnante, in Paradiso. Solamente un ex prete ed una bambina sono in grado di fermarlo.",
+      "popularity": 13.177,
+      "poster_path": "/tcJC9lSl96KbfeaxIAmlNAYPqA8.jpg",
+      "release_date": "1995-08-05",
+      "title": "L'ultima profezia",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 499
+    }
   }
 ]
