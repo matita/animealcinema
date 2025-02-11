@@ -2560,5 +2560,40 @@
       "vote_average": 6.5,
       "vote_count": 499
     }
+  },
+  {
+    "title": "Nausicaä della Valle del vento",
+    "slug": "nausicaa-della-valle-del-vento",
+    "lastSourceDate": "2015-09-21T14:21:00.000Z",
+    "theaterReleaseDate": "2015-10-05",
+    "theaterEndDate": "2015-10-07",
+    "sources": [
+      {
+        "url": "https://www.ottoetrenta.it/anime-nausicaa-della-valle-del-vento-torna-sul-grande-schermo/",
+        "title": "[Anime] “Nausicaä della Valle del vento” torna sul Grande Schermo - Ottoetrenta.it",
+        "description": "Il 5, 6 e 7 ottobre arriva nelle sale italiane Nausicaä della Valle del vento (1982), secondo lungometraggio del maestro Hayao Miyazaki, dopo lo splendido Lupin III e il castello di Cagliostro del 1979. Nausicaä della Valle del vento contribuì in maniera decisiva alla nascita del famoso Studio Ghibli. Il film verrà riproposto con un nuovo",
+        "publishedDate": "2015-09-21T14:21:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+      "genre_ids": [
+        12,
+        16,
+        14
+      ],
+      "id": 81,
+      "original_language": "ja",
+      "original_title": "風の谷のナウシカ",
+      "overview": "È trascorso un millennio da quando una serie di guerre, culminata nelle esplosioni termonucleari dei Sette Giorni del Fuoco, ha alterato l'ecosistema mondiale. Il Mare della Rovina si è espanso drammaticamente, occupando i regni degli uomini e invadendo la Terra con i suoi insetti giganti e le sue spore velenose. Solo pochi territori sono rimasti indenni, ma i loro abitanti continuano incessantemente a combattere tra loro. In un regno neutrale e pacifico, la Valle del Vento, vive la principessa Nausicaa, dotata di un potere extrasensoriale che le permette di comunicare con gli animali e con i temibili insetti Ohm. Nausicaa è convinta che la soluzione non sia attaccare gli insetti, bensì comprendere il segreto alla base del Mare della Rovina.",
+      "popularity": 29.528,
+      "poster_path": "/1yoTgmlrjHzAUSVkRSB1Zy7XHoT.jpg",
+      "release_date": "1984-03-11",
+      "title": "Nausicaä della Valle del vento",
+      "video": false,
+      "vote_average": 7.949,
+      "vote_count": 3642
+    }
   }
 ]
