@@ -573,7 +573,7 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2025-01-23T16:38:57.000Z",
+    "lastSourceDate": "2025-02-12T10:49:28.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -772,6 +772,12 @@
         "title": "L'attacco dei Giganti: i primi due film riassuntivi tornano al cinema il 10 febbraio grazie a Dynit e Adler Entertainment",
         "description": "Pochi giorni fa, Dynit e Adler Entertainment hanno annunciato l’avvio del nuovo progetto cinematografico I Love Japan, che nel suo primo ciclo vedrà l’arrivo di tre film live-action giapponesi incentrati...",
         "publishedDate": "2025-01-23T16:38:57.000Z"
+      },
+      {
+        "url": "https://www.drcommodore.it/2025/02/12/lattacco-dei-giganti-box-office/",
+        "title": "L'attacco dei Giganti Night arriva seconda al box office nei suoi primi due giorni di programmazione",
+        "description": "Il prossimo 3 marzo Crunchyroll e Sony porteranno nei cinema italiani l’ultimo film de L’attacco dei Giganti, Attack on Titan: The Last Attack, composto dagli episodi finali della quarta stagione e da una...",
+        "publishedDate": "2025-02-12T10:49:28.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2594,6 +2600,78 @@
       "video": false,
       "vote_average": 7.949,
       "vote_count": 3642
+    }
+  },
+  {
+    "title": "Parte 1 – L’arco e la freccia cremisi",
+    "slug": "parte-1-larco-e-la-freccia-cremisi",
+    "lastSourceDate": "2025-02-12T10:49:28.000Z",
+    "theaterReleaseDate": "2025-02-10",
+    "theaterEndDate": "2025-02-12",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/02/12/lattacco-dei-giganti-box-office/",
+        "title": "L'attacco dei Giganti Night arriva seconda al box office nei suoi primi due giorni di programmazione",
+        "description": "Il prossimo 3 marzo Crunchyroll e Sony porteranno nei cinema italiani l’ultimo film de L’attacco dei Giganti, Attack on Titan: The Last Attack, composto dagli episodi finali della quarta stagione e da una...",
+        "publishedDate": "2025-02-12T10:49:28.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/1tmIKXWWDAvMJbbo66HrpZtHCb6.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14
+      ],
+      "id": 379088,
+      "original_language": "ja",
+      "original_title": "劇場版「進撃の巨人」前編〜紅蓮の弓矢〜",
+      "overview": "L'opera è ambientata in un mondo dove i superstiti dell'umanità vivono all'interno di città circondate da enormi mura difensive a causa dell'improvvisa comparsa dei Giganti, enormi creature umanoidi che divorano gli uomini senza un apparente motivo. La storia ruota attorno al giovane Eren Jaeger e a sua sorella adottiva Mikasa Ackermann, le cui vite vengono stravolte dall'attacco di un gigante colossale che conduce alla distruzione della loro città e alla morte della loro madre",
+      "popularity": 20.658,
+      "poster_path": "/k4E04qJvSTQYUPOpYp5YYvdrdcc.jpg",
+      "release_date": "2014-11-22",
+      "title": "L'attacco dei giganti - Il film - Parte 1: L'arco e la freccia cremisi",
+      "video": true,
+      "vote_average": 8.068,
+      "vote_count": 450
+    }
+  },
+  {
+    "title": "Parte 2 – Le ali della libertà",
+    "slug": "parte-2-le-ali-della-liberta",
+    "lastSourceDate": "2025-02-12T10:49:28.000Z",
+    "theaterReleaseDate": "2025-02-10",
+    "theaterEndDate": "2025-02-12",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/02/12/lattacco-dei-giganti-box-office/",
+        "title": "L'attacco dei Giganti Night arriva seconda al box office nei suoi primi due giorni di programmazione",
+        "description": "Il prossimo 3 marzo Crunchyroll e Sony porteranno nei cinema italiani l’ultimo film de L’attacco dei Giganti, Attack on Titan: The Last Attack, composto dagli episodi finali della quarta stagione e da una...",
+        "publishedDate": "2025-02-12T10:49:28.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/a9PEsiwYwP7Uu90OBoumqPnTlGd.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        12
+      ],
+      "id": 330081,
+      "original_language": "ja",
+      "original_title": "劇場版「進撃の巨人」後編～自由の翼～",
+      "overview": "Eren scopre che è stato rinchiuso per molto tempo nei sotterranei della sede della commissione e che verrà sottoposto al giudizio della corte marziale, presieduta dal comandante supremo Dallis Zacklay, l'uomo a capo di tutti i tre Corpi militari. Mentre il Corpo di Guarnigione ha del tutto rinunciato ad avanzare pretese su Eren per il terrore che la sua trasformazione in Gigante suscita in molti dei suoi uomini, il Corpo di Gendarmeria desidera studiarlo minuziosamente per poi eliminarlo. La sua unica speranza di salvezza è costituita dal Corpo di Ricerca, nel quale Erin desidera entrare da tempo. Il Corpo lo utilizzerebbe infatti in battaglia per eliminare il maggior numero possibile di nemici...",
+      "popularity": 24.559,
+      "poster_path": "/r1Vw2VNCENU7rl217A2bdDgmpjy.jpg",
+      "release_date": "2015-06-27",
+      "title": "L'attacco dei giganti - Il film - Parte 2: Le ali della libertà",
+      "video": true,
+      "vote_average": 8.193,
+      "vote_count": 327
     }
   }
 ]
