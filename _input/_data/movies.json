@@ -2673,5 +2673,70 @@
       "vote_average": 8.193,
       "vote_count": 327
     }
+  },
+  {
+    "title": "Hokage – Ombra di fuoco",
+    "slug": "hokage-ombra-di-fuoco",
+    "lastSourceDate": "2025-02-12T14:34:28.000Z",
+    "theaterReleaseDate": "2025-03-13",
+    "sources": [
+      {
+        "url": "https://www.nerdevil.it/2025/02/12/hokage-ombra-di-fuoco-shinya-tsukamoto-uscita-italia/",
+        "title": "Hokage - Ombra di fuoco: l'ultimo film di Shinya Tsukamoto al cinema dal 13 marzo | Nerdevil",
+        "description": "Segui Nerdevil su Telegram! Acclamato nella sezione Orizzonti della Mostra del Cinema di Venezia 2023, Hokage – Ombra di fuoco di Shinya Tsukamoto (il leggendario autore di Tetsuo) arriva nei cinema dal 13...",
+        "publishedDate": "2025-02-12T14:34:28.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/rZ34t7qKo5v9gkIfrUpkZEDdemd.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 1077877,
+      "original_language": "ja",
+      "original_title": "ほかげ",
+      "overview": "Un mercato nero che ricomincia a prendere vita dopo la devastazione della Seconda guerra mondiale. In un piccolo ristorante giapponese quasi completamente distrutto dal fuoco, una donna si guadagna da vivere vendendo il proprio corpo. Tutta la sua famiglia è morta durante il conflitto. Un orfano di guerra entra furtivamente nella casa della donna per rubare, mentre un giovane soldato smobilitato arriva come cliente. I tre incominciano una strana vita insieme. Ma dura poco: i ricordi di guerra del soldato finiscono per distruggere le vite di tutti e tre. L’orfano, dopo aver raccontato che un venditore ambulante del mercato nero gli ha offerto un lavoro, parte con lui per un viaggio, ignorando i tentativi della donna di fermarlo. Il venditore di strada è un uomo intrepido, ma il suo viaggio ha l’orrendo scopo di porre fine alle ferite che gli sono state inflitte durante la guerra.",
+      "popularity": 2.416,
+      "poster_path": "/9jNry6VcDDl3r90QOvH17Tm9tL7.jpg",
+      "release_date": "2023-11-25",
+      "title": "Hokage - Ombra di fuoco",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 12
+    }
+  },
+  {
+    "title": "Tetsuo: The Iron Man",
+    "slug": "tetsuo-the-iron-man",
+    "lastSourceDate": "2025-02-12T14:34:28.000Z",
+    "sources": [
+      {
+        "url": "https://www.nerdevil.it/2025/02/12/hokage-ombra-di-fuoco-shinya-tsukamoto-uscita-italia/",
+        "title": "Hokage - Ombra di fuoco: l'ultimo film di Shinya Tsukamoto al cinema dal 13 marzo | Nerdevil",
+        "description": "Segui Nerdevil su Telegram! Acclamato nella sezione Orizzonti della Mostra del Cinema di Venezia 2023, Hokage – Ombra di fuoco di Shinya Tsukamoto (il leggendario autore di Tetsuo) arriva nei cinema dal 13...",
+        "publishedDate": "2025-02-12T14:34:28.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/xt75NSIlfzwPwuBsuarB3i1mBxj.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 41428,
+      "original_language": "ja",
+      "original_title": "鉄男",
+      "overview": "Un auto-feticista porta ad estreme conseguenze la sua ossessione per l'impianto di elementi metallici nel proprio corpo.",
+      "popularity": 11.769,
+      "poster_path": "/bwxZhH96ackHaC6keW5w36FbZA0.jpg",
+      "release_date": "1989-07-01",
+      "title": "Tetsuo",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 606
+    }
   }
 ]
