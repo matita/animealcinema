@@ -1012,7 +1012,6 @@
   {
     "title": "HELLO! SPANK. IL FILM. LE PENE D’AMORE DI SPANK",
     "slug": "hello-spank-il-film-le-pene-damore-di-spank",
-    "lastSourceDate": "2025-02-12T13:33:54.000Z",
     "theaterReleaseDate": "2024-02-13",
     "theaterEndDate": "2024-02-16",
     "sources": [
@@ -1139,6 +1138,12 @@
         "url": "https://www.anconatoday.it/eventi/hello-spank-film-cinema-ancona-marche.html",
         "title": "San Valentino speciale per i fan degli \"anime\": per la prima volta al cinema il film di \"Hello! Spank\"",
         "description": "Il lungometraggio dedicato al divertentissimo personaggio protagonista di una delle serie animate più seguite e amate in Italia arriva nelle sale marchigiane. Il film, targato Yamato Video, è il primo appuntamento dell’anno per la stagione degli \"Anime al Cinema\""
+      },
+      {
+        "url": "https://lifestylemadeinitaly.it/hello-spank-al-cinema-il-film-evento-per-la-prima-volta-nelle-sale/",
+        "title": "Hello! Spank al cinema: il film evento per la prima volta nelle sale",
+        "description": "Dal 13 al 16 febbraio, il mitico Spank arriva nei cinema italiani con Le pene d’amore di Spank. Un’occasione unica per rivivere un grande classico dell’animazione!\r\nGli anni ‘80 hanno regalato al mondo alcuni dei cartoni animati più",
+        "publishedDate": "2025-02-13T21:11:49.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2814,6 +2819,36 @@
       "video": false,
       "vote_average": 6.119,
       "vote_count": 354
+    }
+  },
+  {
+    "title": "Ken il Guerriero",
+    "slug": "ken-il-guerriero",
+    "sources": [
+      {
+        "url": "https://www.gamesurf.it/recensioni/film/hello-spank-il-film-mai-visto-in-italia-recensione-anime-yamato",
+        "title": "Hello Spank, recensione del film inedito, ora disponibile in Italia",
+        "description": "Hello! Spank. Il Film. Le Pene D’Amore di Spank porta in sala in Italia un anime molto amato dal pubblico della televisione lineare e la testimonianza di un’opera che oggi appare lontanissima."
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/qtr8bm14X04mcq8chjSJmNX5TJm.jpg",
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 114372,
+      "original_language": "ja",
+      "original_title": "真救世主伝説 北斗の拳 ラオウ伝 激闘の章",
+      "overview": "Alla fine del 21° secolo la terra è sconvolta da un terribile conflitto nucleare che ha portato tutte le civiltà al collasso sociale ed ambientale. Le bande saccheggiano e assalgono gli insediamenti dei sopravvissuti e la legge del più forte prevale sugli innocenti e gli indifesi. L'unica speranza per assicurare la continuità della civiltà umana è l’arrivo di un nuovo salvatore.",
+      "popularity": 11.107,
+      "poster_path": "/3imibUCkYTREDBy67xgkiuzjf6r.jpg",
+      "release_date": "2007-04-28",
+      "title": "Ken il guerriero - La leggenda di Raoul",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 75
     }
   }
 ]
