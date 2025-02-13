@@ -573,7 +573,6 @@
   {
     "title": "Attack on Titan: THE LAST ATTACK",
     "slug": "attack-on-titan-the-last-attack",
-    "lastSourceDate": "2025-02-12T10:49:28.000Z",
     "sources": [
       {
         "url": "https://www.akibagamers.it/06-12-2024/attack-on-titan-the-last-attack-arriva-al-cinema-in-italia/",
@@ -1135,6 +1134,11 @@
         "url": "https://www.gamesurf.it/recensioni/film/hello-spank-il-film-mai-visto-in-italia-recensione-anime-yamato",
         "title": "Hello Spank, recensione del film inedito, ora disponibile in Italia",
         "description": "Hello! Spank. Il Film. Le Pene D’Amore di Spank porta in sala in Italia un anime molto amato dal pubblico della televisione lineare e la testimonianza di un’opera che oggi appare lontanissima."
+      },
+      {
+        "url": "https://www.anconatoday.it/eventi/hello-spank-film-cinema-ancona-marche.html",
+        "title": "San Valentino speciale per i fan degli \"anime\": per la prima volta al cinema il film di \"Hello! Spank\"",
+        "description": "Il lungometraggio dedicato al divertentissimo personaggio protagonista di una delle serie animate più seguite e amate in Italia arriva nelle sale marchigiane. Il film, targato Yamato Video, è il primo appuntamento dell’anno per la stagione degli \"Anime al Cinema\""
       }
     ],
     "tmdbMovie": {
@@ -1571,7 +1575,7 @@
   {
     "title": "I Colori dell'Anima - The Colors Within",
     "slug": "i-colori-dellanima-the-colors-within",
-    "lastSourceDate": "2025-02-06T11:29:47.000Z",
+    "lastSourceDate": "2025-02-13T00:00:00.000Z",
     "theaterReleaseDate": "2025-02-24",
     "theaterEndDate": "2025-02-26",
     "sources": [
@@ -1610,6 +1614,12 @@
         "title": "I colori dell'anima: il nuovo film anime della regista de La forma della voce",
         "description": "Il film apre gli anime al cinema 2025 di Anime Factory e Plaion Pictures.                                                                        Pubblicato il 6 Febbraio 2025 alle...",
         "publishedDate": "2025-02-06T11:29:47.000Z"
+      },
+      {
+        "url": "https://www.akibagamers.it/13-02-2025/i-colori-dell-anima-the-colors-within-due-nuove-clip-in-italiano/",
+        "title": "I colori dell’anima – The Colors Within - Due nuove clip in italiano",
+        "description": "Anime Factory ha rilasciato due nuove clip in italiano per l’attesissimo I colori dell’anima – The Colors Within. Come precedentemente anticipato il film di Naoko Yamada arriverà nei cinema italiani per un...",
+        "publishedDate": "2025-02-13T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1708,7 +1718,7 @@
   {
     "title": "I Colori dell’Anima",
     "slug": "i-colori-dellanima",
-    "lastSourceDate": "2025-01-24T13:18:00.000Z",
+    "lastSourceDate": "2025-02-13T12:45:00.000Z",
     "theaterReleaseDate": "2025-02-24",
     "theaterEndDate": "2025-02-26",
     "sources": [
@@ -1729,6 +1739,12 @@
         "title": "I colori dell'anima, il trailer italiano dell'anime di Naoko Yamada al cinema dal 24 al 26 febbraio",
         "description": "Anime Factory di Plaion Pictures porta al cinema in uscita evento il lungometraggio anime I colori dell'anima di Naoko Yamada, già autrice di La forma della voce. Ecco trailer italiano ufficiale e poster.",
         "publishedDate": "2025-01-24T13:18:00.000Z"
+      },
+      {
+        "url": "https://anime.everyeye.it/notizie/colori-anima-cinema-italia-film-unico-makoto-shinkai-non-perdere-778820.html",
+        "title": "I colori dell'anima al cinema in Italia: un film unico per Makoto Shinkai, da non perdere",
+        "description": "In queste ore Plaion Pictures e Anime Factory hanno annunciato la data d'uscita in Italia de I colori dell'anima, nuovo acclamato film d'animazione giapponese che il celebre regista Makoto Shinkai ha promosso...",
+        "publishedDate": "2025-02-13T12:45:00.000Z"
       }
     ],
     "tmdbMovie": {
