@@ -1130,6 +1130,11 @@
         "title": "Hello! Spank il film - Le pene d’amore di Spank Recensione: un mare di ricordi - Vgmag.it",
         "description": "Siete pronti per il matrimonio dell’anno? Hello! Spank il Film – Le pene d’amore di Spank arriva per la prima volta nelle sale italiane dal 13 al 16 febbraio. La pellicola è il primo appuntamento della nuova...",
         "publishedDate": "2025-02-12T13:33:54.000Z"
+      },
+      {
+        "url": "https://www.gamesurf.it/recensioni/film/hello-spank-il-film-mai-visto-in-italia-recensione-anime-yamato",
+        "title": "Hello Spank, recensione del film inedito, ora disponibile in Italia",
+        "description": "Hello! Spank. Il Film. Le Pene D’Amore di Spank porta in sala in Italia un anime molto amato dal pubblico della televisione lineare e la testimonianza di un’opera che oggi appare lontanissima."
       }
     ],
     "tmdbMovie": {
@@ -2760,6 +2765,39 @@
       "video": false,
       "vote_average": 7,
       "vote_count": 606
+    }
+  },
+  {
+    "title": "L'attacco dei giganti",
+    "slug": "lattacco-dei-giganti",
+    "theaterReleaseDate": "2025-03-03",
+    "theaterEndDate": "2025-03-05",
+    "sources": [
+      {
+        "url": "https://www.avmagazine.it/news/cinema/attack-on-titan-the-last-attack-al-cinema-gli-ultimi-due-episodi_23486.html",
+        "title": "Attack On Titan: The Last Attack, al cinema gli ultimi due episodi",
+        "description": "Arriva al cinema il film che riunisce gli ultimi due episodi dell'acclamata serie anime L'attacco dei giganti in un'esperienza cinematografica per godere appieno del suo epico finale"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/bnuBhHLzsRapDWheh9kwNn6qZnp.jpg",
+      "genre_ids": [
+        27,
+        878,
+        28
+      ],
+      "id": 340382,
+      "original_language": "ja",
+      "original_title": "進撃の巨人 ATTACK ON TITAN エンド オブ ザ ワールド",
+      "overview": "Eren Yeager leaves to restore a break in the wall destroyed by a Titan. He comes under attack by the Titans and is cornered. Shikishima comes to his aid. The titans never stops attacking.  Eren is now injured and tries to protect Armin, but is swallowed by a titan. A Titan with black hair appears and begins to expel the other titans.",
+      "popularity": 36.684,
+      "poster_path": "/khTl77Kvwb7emwcluvwKRA7MkSs.jpg",
+      "release_date": "2015-09-01",
+      "title": "L'Attacco dei Giganti - La fine del Mondo",
+      "video": false,
+      "vote_average": 6.119,
+      "vote_count": 354
     }
   }
 ]
