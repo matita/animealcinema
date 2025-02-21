@@ -782,6 +782,12 @@
         "url": "https://www.avmagazine.it/news/cinema/attack-on-titan-the-last-attack-al-cinema-gli-ultimi-due-episodi_23486.html",
         "title": "Attack On Titan: The Last Attack, al cinema gli ultimi due episodi",
         "description": "Arriva al cinema il film che riunisce gli ultimi due episodi dell'acclamata serie anime L'attacco dei giganti in un'esperienza cinematografica per godere appieno del suo epico finale"
+      },
+      {
+        "url": "https://www.zazoom.it/2025-02-21/attack-on-titan-the-last-attack-aprono-le-vendite-per-lanime-al-cinema-solo-il-3-4-e-5-marzo/16427821/",
+        "title": "Attack on Titan |  The Last Attack aprono le vendite per l' anime al cinema solo il 3 4 e 5 marzo",
+        "description": "Movieplayer.it | 21 feb 2025\r  Tutti pronti per l'arrivo al cinema dell'anime di culto distribuito da Crunchyroll e Sony Pictures Entertainment solo il 3, 4 e 5 marzo in v.o. con sottotitoli in italiano....",
+        "publishedDate": "2025-02-21T11:54:15.000Z"
       }
     ],
     "tmdbMovie": {
@@ -804,7 +810,8 @@
       "vote_count": 2
     },
     "theaterReleaseDate": "2025-01-01",
-    "theaterEndDate": "2024-03-05"
+    "theaterEndDate": "2024-03-05",
+    "lastSourceDate": "2025-02-21T11:54:15.000Z"
   },
   {
     "title": "L'attacco dei giganti: The Last attack",
@@ -2443,7 +2450,7 @@
   {
     "title": "Dragon Ball Z: La battaglia degli dei",
     "slug": "dragon-ball-z-la-battaglia-degli-dei",
-    "lastSourceDate": "2025-02-18T00:00:00.000Z",
+    "lastSourceDate": "2025-02-20T17:00:00.000Z",
     "theaterReleaseDate": "2025-03-16",
     "theaterEndDate": "2025-03-19",
     "sources": [
@@ -2512,6 +2519,12 @@
         "title": "Coupon sconto per DRAGON BALL Z – LA BATTAGLIA DEGLI DEI e PROPHECY al cinema",
         "description": "Grazie alla collaborazione con Nexo Studios oggi vi offriamo un coupon per l’accesso ridotto al cinema per DRAGON BALL Z – LA BATTAGLIA DEGLI DEI e PROPHECY. Per ricevere lo sconto basterà mostrare il coupon...",
         "publishedDate": "2025-02-18T00:00:00.000Z"
+      },
+      {
+        "url": "https://cpop.it/articoli/beerus-dragon-ball",
+        "title": "Chi è Beerus - il cattivo di Dragon Ball Z: La Battaglia degli Dei",
+        "description": "Un essere temuto e rispettato, un dio capace di cancellare interi pianeti con un gesto della mano, ma anche un amante del cibo raffinato e del riposo prolungato. Beerus, il Dio della Distruzione dell'Universo...",
+        "publishedDate": "2025-02-20T17:00:00.000Z"
       }
     ],
     "tmdbMovie": {
