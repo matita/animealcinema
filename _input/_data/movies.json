@@ -835,7 +835,7 @@
     },
     "theaterReleaseDate": "2025-01-01",
     "theaterEndDate": "2024-03-05",
-    "lastSourceDate": "2025-02-21T13:29:36.000Z"
+    "lastSourceDate": "2025-02-21T10:44:37.000Z"
   },
   {
     "title": "L'attacco dei giganti: The Last attack",
@@ -2474,7 +2474,7 @@
   {
     "title": "Dragon Ball Z: La battaglia degli dei",
     "slug": "dragon-ball-z-la-battaglia-degli-dei",
-    "lastSourceDate": "2025-02-20T17:00:00.000Z",
+    "lastSourceDate": "2025-02-22T09:30:00.000Z",
     "theaterReleaseDate": "2025-03-16",
     "theaterEndDate": "2025-03-19",
     "sources": [
@@ -2549,6 +2549,12 @@
         "title": "Chi è Beerus - il cattivo di Dragon Ball Z: La Battaglia degli Dei",
         "description": "Un essere temuto e rispettato, un dio capace di cancellare interi pianeti con un gesto della mano, ma anche un amante del cibo raffinato e del riposo prolungato. Beerus, il Dio della Distruzione dell'Universo...",
         "publishedDate": "2025-02-20T17:00:00.000Z"
+      },
+      {
+        "url": "https://cpop.it/notizie/aperte-le-prevendite-per-dragon-ball-z-la-battaglia-degli-dei-perche-andare-al-cinema-elenco-sale",
+        "title": "Aperte le prevendite per Dragon Ball Z - La Battaglia degli Dei: perché andare al cinema? [ELENCO SALE]",
+        "description": "Sono ufficialmente aperte le prevendite per Dragon Ball Z - La Battaglia degli Dei. Un appunto imperdibile per tutti i fan di Dragon Ball e per rivivere sul grande schermo una pietra miliare nel mondo degli...",
+        "publishedDate": "2025-02-22T09:30:00.000Z"
       }
     ],
     "tmdbMovie": {
