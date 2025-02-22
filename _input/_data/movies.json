@@ -1221,6 +1221,12 @@
         "url": "https://www.animeclick.it/public_html/public/app.php/news/105538-the-first-slam-dunk-unboxing-della-blu-ray-4k-steelbook-di-anime-factory",
         "title": " The First Slam Dunk: unboxing della Blu Ray 4K Steelbook di Anime Factory | AnimeClick ",
         "description": "In occasione dello sconto sul sito Fan Factory, vi proponiamo l'unboxing della Steelbook                                                            di Ironic74                                           ..."
+      },
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1242,7 +1248,8 @@
       "video": false,
       "vote_average": 7.834,
       "vote_count": 401
-    }
+    },
+    "lastSourceDate": "2025-02-22T10:00:00.000Z"
   },
   {
     "title": "The Lord of the Rings: The War of the Rohirrim",
@@ -1624,7 +1631,7 @@
   {
     "title": "I Colori dell'Anima - The Colors Within",
     "slug": "i-colori-dellanima-the-colors-within",
-    "lastSourceDate": "2025-02-19T10:05:00.000Z",
+    "lastSourceDate": "2025-02-22T14:00:00.000Z",
     "theaterReleaseDate": "2025-02-24",
     "theaterEndDate": "2025-02-26",
     "sources": [
@@ -1675,6 +1682,12 @@
         "title": "I Colori dell'Anima - The Colors Within, in anteprima esclusiva una scena in italiano dell'anime di Naoko Yamada",
         "description": "I Colori dell'Anima - The Colors Within sarà al cinema il 24, 25 e 26 febbraio con Anime Factory: dalla regista di La forma della voce, Naoko Yamada, arriva la storia di un'amicizia cementata dalla musica e piena di delicati non detti. Ve ne presentiamo in anteprima esclusiva una scena in italiano.",
         "publishedDate": "2025-02-19T10:05:00.000Z"
+      },
+      {
+        "url": "https://www.zazoom.it/2025-02-22/i-colori-dellanima-the-colors-within-la-recensione-di-un-anime-che-scalda-il-cuore/16435155/",
+        "title": "I colori dell’anima - The Colors Within la recensione di un anime che scalda il cuore",
+        "description": "Movieplayer.it | 22 feb 2025\r  Un ottimo spunto supportato da una buona realizzazione tecnica per l'anime di Naoko Yamada. In sala per tre giorni dal 24 al 26 febbraio grazie ad animeFactory. La firma di un...",
+        "publishedDate": "2025-02-22T14:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2581,7 +2594,7 @@
   {
     "title": "Mobile Suit Gundam SEED FREEDOM",
     "slug": "mobile-suit-gundam-seed-freedom",
-    "lastSourceDate": "2025-02-01T00:00:00.000Z",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
     "theaterReleaseDate": "2024-05-01",
     "sources": [
       {
@@ -2589,6 +2602,12 @@
         "title": "Gundam SEED FREEDOM è disponibile in Italia su Netflix",
         "description": "Dopo essere approdato nei cinema italiani lo scorso maggio, circa quattro mesi dopo l’esordio nei cinema giapponesi, Mobile Suit Gundam SEED FREEDOM è finalmente disponibile su Netflix anche in Italia a...",
         "publishedDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2941,6 +2960,344 @@
       "video": false,
       "vote_average": 6.5,
       "vote_count": 75
+    }
+  },
+  {
+    "title": "Pretty Guardian Sailor Moon Cosmos – Il film",
+    "slug": "pretty-guardian-sailor-moon-cosmos-il-film",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/fXuFJB4UJ2HmEi42aF23S7OvSoH.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 968870,
+      "original_language": "ja",
+      "original_title": "劇場版 美少女戦士セーラームーンCosmos 後編",
+      "overview": "Una ad una, le amiche e le persone care di Sailor Moon vengono prese di mira da un nuovo formidabile nemico che minaccia di distruggere tutto e di dominare l'intero cosmo. Dopo perdite devastanti, Sailor Moon affronta la sua battaglia contro Shadow Galactica. La disperazione la schiaccerà o riuscirà a trovare la luce nell'oscurità?",
+      "popularity": 8.013,
+      "poster_path": "/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg",
+      "release_date": "2023-06-30",
+      "title": "Pretty Guardian Sailor Moon Cosmos: Il film - Parte 2",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 42
+    }
+  },
+  {
+    "title": "One Piece Film: Red",
+    "slug": "one-piece-film-red",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/s974GBBFZ1I4SlZHFu2XIffk1dv.jpg",
+      "genre_ids": [
+        16,
+        12,
+        28,
+        14,
+        10402
+      ],
+      "id": 900667,
+      "original_language": "ja",
+      "original_title": "ONE PIECE FILM RED",
+      "overview": "Uta: la cantante più amata al mondo. La sua voce, con cui canta nascondendo la sua vera identità, è stata descritta come \"ultraterrena\". Apparirà in pubblico per la prima volta in un concerto dal vivo. I fan di Uta, insieme a pirati eccitati, alla Marina che osserva da vicino e alla Ciurma di Cappello di Paglia che è semplicemente venuta per godersi la sua performance, si riuniscono per ascoltare la voce che il mondo intero stava aspettando. La storia inizia con il fatto scioccante che lei è la \"figlia di Shanks\". Uta sale sul palco, con il solito desiderio di \"Rendere felice il mondo con la mia musica\". C'è Gordon, un personaggio misterioso che conosce il passato di Uta e intravede l'ombra di Shanks. Su Elegia, l'isola della musica, Luffy e Uta si riuniscono per la prima volta dall'ultima volta che si sono incontrati 12 anni fa nel Villaggio di Foosha.",
+      "popularity": 28.876,
+      "poster_path": "/5gwCD72Xp1GFfRT7ZClNVmwy3ap.jpg",
+      "release_date": "2022-08-06",
+      "title": "One Piece Film - Red",
+      "video": false,
+      "vote_average": 7.186,
+      "vote_count": 1041
+    }
+  },
+  {
+    "title": "Doraemon il film: Nobita e il nuovo dinosauro",
+    "slug": "doraemon-il-film-nobita-e-il-nuovo-dinosauro",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/8HK8Ce6JpAb8EJTjHKAWhnYy0xi.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        14,
+        878,
+        35
+      ],
+      "id": 682153,
+      "original_language": "ja",
+      "original_title": "映画ドラえもん のび太の新恐竜",
+      "overview": "Nobita ritrova per caso un uovo di dinosauro fossile. Ripulendolo, lo riporta al suo stato iniziale. Non passa molto tempo prima che l'uovo si schiuda e venga alla luce un piccolo dinosauro non appartenente a nessuna delle specie conosciute. Sarà l'inizio di un avventura che porterà Nobita, il gatto spaziale Doraemon e i loro amici nel Cretaceo, circa 66 milioni di anni prima.",
+      "popularity": 5.377,
+      "poster_path": "/qZQWW3HmHeV5kjyJS13aP9KdqHK.jpg",
+      "release_date": "2020-08-07",
+      "title": "Doraemon: Il film - Nobita e il nuovo dinosauro",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 45
+    }
+  },
+  {
+    "title": "Blue Giant",
+    "slug": "blue-giant",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/65TVVnWOl3ko0G2GfYcCvbSmQW8.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10402
+      ],
+      "id": 887870,
+      "original_language": "ja",
+      "original_title": "BLUE GIANT",
+      "overview": "La vita di Dai Miyamoto, studente delle superiori, viene stravolta il giorno in cui scopre il jazz. Prendendo in mano un sassofono e lasciando la sua sonnolenta città natale per i vivaci locali notturni di Tokyo, Dai scoprirà che la vita di un musicista professionista non è per i deboli di cuore, dovendo confrontarsi con ciò che significa veramente essere grandi.",
+      "popularity": 6.359,
+      "poster_path": "/auQ5ExCcuuudw0tQwG03obX5Zrh.jpg",
+      "release_date": "2023-02-17",
+      "title": "Blue Giant",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 58
+    }
+  },
+  {
+    "title": "Il castello invisibile",
+    "slug": "il-castello-invisibile",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/sxgIHRBgmJgSt7jByEM1WUk2bJt.jpg",
+      "genre_ids": [
+        16,
+        18,
+        9648,
+        14
+      ],
+      "id": 942881,
+      "original_language": "ja",
+      "original_title": "かがみの孤城",
+      "overview": "A tredici anni Kokoro trascorre le giornate nella sua stanza, affidando al brusio della televisione il compito di attutire i pensieri e i rumori della vita di fuori. Da quando le cose a scuola si sono fatte troppo difficili, e cosi che ha deciso di rispondere al disagio e al dolore. Scomparendo. Fino al giorno in cui una luce improvvisa dentro lo specchio la rapisce per trascinarla altrove: in un castello abitato da una strana Bambina e da sei ragazzi che come lei hanno smarrito qualcosa. L'innocenza dei sogni. Le istruzioni per vivere. Il coraggio che serve per accettare se stessi. Solo raccogliendo la sfida che la Bambina dalla faccia di lupo propone loro, Kokoro e gli altri potranno scoprire che cosa li ha portati fin lì. E ritrovare ognuno a suo modo la strada del mondo.",
+      "popularity": 13.063,
+      "poster_path": "/7is0nOL4857dfbehHprG1oPeRIP.jpg",
+      "release_date": "2022-12-23",
+      "title": "Il castello invisibile",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 70
+    }
+  },
+  {
+    "title": "Demon Slayer: the Movie – Il treno Mugen",
+    "slug": "demon-slayer-the-movie-il-treno-mugen",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/3FVe3OAdgz060JaxIAaUl5lo6cx.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 635302,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限列車編",
+      "overview": "Enmu, recentemente liberato dalle celle Muzan, si propone di attaccare un misterioso treno in movimento. Nel corso dell'attacco, il demone consuma molti passeggeri. Tanjiro Kamado viene in soccorso, ma questo treno in movimento trasporta più di un cattivo demone da combattere.",
+      "popularity": 40.227,
+      "poster_path": "/kgfLM9MqLcYY7qcW4mwPM2JAU5a.jpg",
+      "release_date": "2020-10-16",
+      "title": "Demon Slayer - Il treno Mugen",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 4009
+    }
+  },
+  {
+    "title": "Hunter X Hunter: Phantom Rouge",
+    "slug": "hunter-x-hunter-phantom-rouge",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/rnogMbA8NCYjBa2ZYVEGvQb3k1R.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        28
+      ],
+      "id": 211755,
+      "original_language": "ja",
+      "original_title": "劇場版 HUNTER×HUNTER 緋色の幻影",
+      "overview": "Kurapika è diventato un cacciatore per vendicarsi del gruppo criminale di classe A Phantom Troupe che ha massacrato il suo clan per i loro occhi unici. Gli occhi del clan Kurta diventano scarlatti nei momenti di rabbia o agitazione emotiva e sono considerati i tesori più belli del mondo. Kurapika continua a inseguire la Compagnia Fantasma, ma un gruppo sconosciuto ha rubato i suoi \"occhi scarlatti\". Con l'aiuto di Gon, Killua e Leorio, la vita di Kurapika è stata salvata. Tuttavia, la Phantom Troupe si presenta davanti a loro e blocca la loro strada. La vera identità di quella con il tatuaggio del ragno n ° 4 sta per essere svelata",
+      "popularity": 10.102,
+      "poster_path": "/tBbr1LJn5rrP08Y16jJAKwLEECf.jpg",
+      "release_date": "2013-01-12",
+      "title": "Hunter x Hunter: Phantom Rouge",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 190
+    }
+  },
+  {
+    "title": "Hunter x Hunter: The Last Mission",
+    "slug": "hunter-x-hunter-the-last-mission",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/tRtsrGm6DEQtAmStDTTH4R8A5Yf.jpg",
+      "genre_ids": [
+        12,
+        16,
+        28,
+        14
+      ],
+      "id": 239523,
+      "original_language": "ja",
+      "original_title": "劇場版 HUNTER×HUNTER -The LAST MISSION-",
+      "overview": "Isaac Netero è il presidente della Hunter Association. Decenni fa ha sigillato Jed, un cacciatore che aveva imparato l'uso di On, l'\"ombra\" oscura di Nen. Gli utenti di Now On sono riapparsi al torneo \"Battle Olympia\" di Heaven's Arena. Per Netero questa è l'ultima missione: proteggere l'Associazione e il mondo da una minaccia mossa dall'odio e dalla sete di vendetta. E avrà bisogno di tutto l'aiuto possibile per avere successo.",
+      "popularity": 9.809,
+      "poster_path": "/zbmRzkxKeDjoYh5757d7RXiX2by.jpg",
+      "release_date": "2013-12-27",
+      "title": "Hunter x Hunter: The Last Mission",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 180
+    }
+  },
+  {
+    "title": "My Hero Academia The Movie: World Heroes’ Mission",
+    "slug": "my-hero-academia-the-movie-world-heroes-mission",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/g3pIN5kRvmtcdtzjsJomZ1sw2QO.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 768744,
+      "original_language": "ja",
+      "original_title": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+      "overview": "Un misterioso gruppo chiamato Humarize crede fermamente nella teoria della Quirk Singularity Doomsday, secondo la quale quando i quirk si mescolano ulteriormente con le generazioni future, questo potere porterà alla fine dell'umanità. Per salvare tutti, i Pro-Eroi di tutto il mondo chiedono agli eroi in formazione della UA Academy di aiutarli e di formare una squadra di eroi selezionati a livello mondiale.",
+      "popularity": 20.269,
+      "poster_path": "/6P3WlVBSVCzpPNQcl8sGGRYEzwE.jpg",
+      "release_date": "2021-08-06",
+      "title": "My Hero Academia: The Movie - World Heroes' Mission",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 564
+    }
+  },
+  {
+    "title": "Baki Hanma VS Kengan Ashura",
+    "slug": "baki-hanma-vs-kengan-ashura",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1263421,
+      "original_language": "ja",
+      "original_title": "範馬刃牙VSケンガンアシュラ",
+      "overview": "Siamo alla resa dei conti per eccellenza. I combattenti più forti di \"Baki Hanma\" e \"Kengan Ashura\" si scontrano in questo potente crossover di arti marziali senza precedenti.",
+      "popularity": 33.123,
+      "poster_path": "/etbHJxil0wHvYOCmibzFLsMcl2C.jpg",
+      "release_date": "2024-06-05",
+      "title": "Baki Hanma VS Kengan Ashura",
+      "video": false,
+      "vote_average": 7.486,
+      "vote_count": 291
     }
   }
 ]
