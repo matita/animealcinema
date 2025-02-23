@@ -3374,5 +3374,40 @@
       "vote_average": 7.4,
       "vote_count": 2022
     }
+  },
+  {
+    "title": "Il ragazzo e l'airone",
+    "slug": "il-ragazzo-e-lairone",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/epW5UkPSonOOtZQ39JKrmlSFk8S.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        10751,
+        18
+      ],
+      "id": 508883,
+      "original_language": "ja",
+      "original_title": "君たちはどう生きるか",
+      "overview": "Spinto dal desiderio di rivedere sua madre, Mahito, un ragazzo di 12 anni, si avventura in un regno abitato dai vivi e dai morti. un luogo fantastico dove la morte finisce e la vita trova un nuovo inizio. Una storia sul mistero della vita e la creazione, in omaggio all’amicizia, direttamente dalla mente del maestro Hayao Miyazaki.",
+      "popularity": 33.85,
+      "poster_path": "/p9tHvoXaIUapKWygs1DKKkvVjCY.jpg",
+      "release_date": "2023-07-14",
+      "title": "Il ragazzo e l'airone",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 2022
+    }
   }
 ]
