@@ -3409,5 +3409,130 @@
       "vote_average": 7.4,
       "vote_count": 2022
     }
+  },
+  {
+    "title": "City Hunter",
+    "slug": "city-hunter",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/fKjC37jKT1Ks1WAFzdX9Eu2DOWS.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1061990,
+      "original_language": "ja",
+      "original_title": "シティーハンター",
+      "overview": "Tiratore eccezionale e playboy impenitente, l'investigatore privato Ryo Saeba si allea malvolentieri con la sorella del suo defunto partner per indagare sulla sua morte.",
+      "popularity": 13.71,
+      "poster_path": "/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg",
+      "release_date": "2024-04-24",
+      "title": "City Hunter",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 206
+    }
+  },
+  {
+    "title": "Tokyo Override",
+    "slug": "tokyo-override",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Ni no Kuni",
+    "slug": "ni-no-kuni",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/f7anbqCTDcZPWxJsqRPqemFwXCD.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        10751,
+        14,
+        10749
+      ],
+      "id": 594188,
+      "original_language": "ja",
+      "original_title": "二ノ国",
+      "overview": "Due giovani come tanti cercano con la magia di salvare la vita a una loro amica e alla sua controparte di un altro mondo. A complicare il tutto arriva, però, l'amore.",
+      "popularity": 4.27,
+      "poster_path": "/iWv2NrpgJLQBvPfgAvaomXohJie.jpg",
+      "release_date": "2019-08-23",
+      "title": "Ni no Kuni",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 253
+    }
+  },
+  {
+    "title": "Poupelle della città dei camini",
+    "slug": "poupelle-della-citta-dei-camini",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "La tomba delle lucciole",
+    "slug": "la-tomba-delle-lucciole",
+    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "sources": [
+      {
+        "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
+        "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
+        "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
+        "publishedDate": "2025-02-22T10:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aL34lOl8LIYne86HxVahUT1yYNt.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 38473,
+      "original_language": "ja",
+      "original_title": "火垂るの墓",
+      "overview": "Il film è incentrato sulla storia di due fratelli, Setsuko e Seita, che vivono in Giappone durante la Seconda Guerra Mondiale.  Dopo la morte della madre, uccisa da un raid aereo, vengono ospitati a casa di alcuni parenti. Ma quando il conflitto inizia ad inasprirsi, i due bambini scappano dalla città, e trovano riparo in un'abitazione abbandonata.  In attesa della fine del conflitto, e del ritorno del padre (partito in guerra) i due bambini cercano di sopravvivere aiutandosi a vicenda.",
+      "popularity": 2.696,
+      "poster_path": "/kQ29Tp6L43o1hVbyXxdtxAtLtZ3.jpg",
+      "release_date": "2008-07-05",
+      "title": "Una tomba per lucciole",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 15
+    }
   }
 ]
