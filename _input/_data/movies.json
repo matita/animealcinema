@@ -3688,5 +3688,40 @@
       "vote_average": 0,
       "vote_count": 0
     }
+  },
+  {
+    "title": "Il Castello dell'Infinito",
+    "slug": "il-castello-dellinfinito",
+    "lastSourceDate": "2025-03-06T17:30:00.000Z",
+    "theaterReleaseDate": "2025-09-11",
+    "sources": [
+      {
+        "url": "https://cpop.it/notizie/demon-slayer-contro-i-campioni-mlb-in-un-corto-unico-2025-03-06",
+        "title": "Demon Slayer contro i campioni MLB in un corto animato",
+        "description": "La collaborazione inaspettata tra Demon Slayer e il baseball americano ha portato alla luce un cortometraggio animato che sta facendo impazzire i fan di entrambi i mondi. L'annuncio di questa partnership tra...",
+        "publishedDate": "2025-03-06T17:30:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編",
+      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
+      "popularity": 79.306,
+      "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   }
 ]
