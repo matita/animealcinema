@@ -3580,7 +3580,7 @@
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Il Castello dell'Infinito",
     "slug": "demon-slayer-kimetsu-no-yaiba-il-castello-dellinfinito",
-    "lastSourceDate": "2025-03-06T00:00:00.000Z",
+    "lastSourceDate": "2025-03-06T07:52:44.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -3606,6 +3606,12 @@
         "title": "Demon Slayer - Il Castello dell'Infinito: annunciata la data d'uscita nei cinema italiani",
         "description": "Crunchyroll ha annunciato che Demon Slayer: Kimetsu no Yaiba - Il Castello dell'Infinito, il primo film della trilogia che adatterà l'arco finale del manga di Koyoharu Gotouge, uscirà nelle sale italiane a...",
         "publishedDate": "2025-03-06T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.vgmag.it/341721/demon-slayer-il-castello-dellinfinito-ecco-le-data-duscita-in-italia-del-film/",
+        "title": "Demon Slayer Il Castello dell'Infinito: ecco le data d'uscita in Italia del film - Vgmag.it",
+        "description": "Crunchyroll, la casa per eccellenza degli anime in tutto il mondo, ha annunciato oggi la data d’uscita al cinema dell’atteso Demon Slayer: Kimetsu no Yaiba Il Castello dell’Infinito. Il primo film dell’epica...",
+        "publishedDate": "2025-03-06T07:52:44.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3622,6 +3628,41 @@
       "original_title": "劇場版「鬼滅の刃」無限城編",
       "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
       "popularity": 71.026,
+      "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
+    "title": "Demon Slayer: Il Castello dell'Infinito",
+    "slug": "demon-slayer-il-castello-dellinfinito",
+    "lastSourceDate": "2025-03-06T09:00:58.000Z",
+    "theaterReleaseDate": "2025-09-11",
+    "sources": [
+      {
+        "url": "https://it.ign.com/demon-slayer-il-castello-dellinfinito-parte-1/216770/news/demon-slayer-il-castello-dellinfinito-arrivera-in-italia-a-settembre-trailer-e-data-duscita-nei-cine",
+        "title": "Demon Slayer: Il Castello dell'Infinito arriverà in Italia a settembre, trailer e data d'uscita nei cinema",
+        "description": "Due mesi dopo l'uscita in Giappone.                                                                        Pubblicato: Giovedì 06 Marzo 2025...",
+        "publishedDate": "2025-03-06T09:00:58.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編",
+      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
+      "popularity": 79.306,
       "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
       "release_date": "2025-07-18",
       "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
