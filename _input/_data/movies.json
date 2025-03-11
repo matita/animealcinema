@@ -3768,5 +3768,40 @@
       "vote_average": 0,
       "vote_count": 0
     }
+  },
+  {
+    "title": "Demon Slayer",
+    "slug": "demon-slayer",
+    "lastSourceDate": "2025-11-03T00:00:00.000Z",
+    "theaterReleaseDate": "2025-09-12",
+    "sources": [
+      {
+        "url": "https://popcorntv.it/anime-manga/demon-slayer-il-nuovo-film-arriva-in-italia-ecco-quando/75417",
+        "title": "Demon Slayer: svelate le date dell'uscita del film in tutto il mondo",
+        "description": "La serie di Demon Slayer sta per tornare in grande stile con tre film che racchiuderanno la nuova stagione. Una stagione ricca di avventure e con un arco narrativo a dir poco intenso e con colpi di scena in...",
+        "publishedDate": "2025-11-03T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編",
+      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
+      "popularity": 10.115,
+      "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   }
 ]
