@@ -950,7 +950,28 @@
         "description": "Aniplex ha pubblicato il nuovo trailer di Demon Slayer: Kimetsu no Yaiba Infinity Castle, la trilogia del “Castello dell’Infinito“ che concluderà l’anime tratto dal manga di Koyoharu Gotoge, con il primo film...",
         "publishedDate": "2024-12-10T18:53:06.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編",
+      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
+      "popularity": 10.115,
+      "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   },
   {
     "title": "Overlord – Il Capitolo del Santo Regno",
