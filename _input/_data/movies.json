@@ -3803,5 +3803,40 @@
       "vote_average": 0,
       "vote_count": 0
     }
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "slug": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
+    "lastSourceDate": "2025-03-12T10:05:00.000Z",
+    "theaterReleaseDate": "2025-09-11",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/demon-slayer-castello-infinito-trama-uscita-curiosita-film-785044.html",
+        "title": "Demon Slayer: Il Castello dell'infinito, trama, uscita e curiosità sul film",
+        "description": "L'anime di Demon Slayer ha concluso la quarta stagione l'anno scorso con il suo adattamento dell'arco dell'Allenamento dei Pilastri. È stato quindi rapidamente confermato che l'anime sarebbe continuato, ma...",
+        "publishedDate": "2025-03-12T10:05:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編",
+      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
+      "popularity": 6.069,
+      "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   }
 ]
