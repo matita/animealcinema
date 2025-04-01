@@ -1403,7 +1403,7 @@
   {
     "title": "Cure",
     "slug": "cure",
-    "lastSourceDate": "2025-03-07T17:17:45.000Z",
+    "lastSourceDate": "2025-04-01T14:00:00.000Z",
     "theaterReleaseDate": "2025-04-01",
     "sources": [
       {
@@ -1417,6 +1417,18 @@
         "title": "Cure, di Kiyoshi Kurosawa, finalmente arriva in Italia - Animaku",
         "description": "Un thriller che lascia il segno (X) Nel panorama del cinema giapponese degli anni ’90, pochi film hanno avuto un impatto così profondo e duraturo come Cure di Kiyoshi Kurosawa. Questo thriller psicologico,...",
         "publishedDate": "2025-03-07T17:17:45.000Z"
+      },
+      {
+        "url": "https://www.akibagamers.it/01-04-2025/cure-di-kurosawa-kiyoshi-arriva-nei-cinema-italiani/",
+        "title": "CURE di Kurosawa Kiyoshi arriva nei cinema italiani",
+        "description": "Double Line annuncia l’arrivo nei cinema italiani di CURE, horror psicologico del 1997 scritto e diretto da Kurosawa Kiyoshi. Non solo si tratta della prima volta che il film arriva al cinema in Italia, ma si...",
+        "publishedDate": "2025-04-01T00:00:00.000Z"
+      },
+      {
+        "url": "https://cinema.everyeye.it/notizie/cure-esce-cinema-italia-cosa-sapere-capolavoro-horror-790050.html",
+        "title": "Cure esce per la prima volta al cinema in Italia: cosa sapere su un capolavoro dell'horror",
+        "description": "Tra i tanti nuovi film in arrivo al cinema questa settimana ce n'è uno che esattamente nuovo non è, ma che fa il suo esordio assoluto sui nostri grandi schermi: per la prima volta dall'uscita originale nel...",
+        "publishedDate": "2025-04-01T14:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1444,13 +1456,19 @@
   {
     "title": "Cloud",
     "slug": "cloud",
-    "lastSourceDate": "2025-01-02T11:45:00.000Z",
+    "lastSourceDate": "2025-04-01T14:00:00.000Z",
     "sources": [
       {
         "url": "https://cinema.everyeye.it/notizie/leggendario-horror-giapponese-uscire-cinema-italia-non-perdetevelo-768298.html",
         "title": "Questo leggendario horror giapponese sta per uscire al cinema in Italia, non perdetevelo!",
         "description": "Dopo avervi parlato della recensione di Hideo Kojima per Cloud di Kiyoshi Kurosawa, non possiamo che ricordarvi che presto in Italia arriverà al cinema quello che è forse il più grande capolavoro del maestro...",
         "publishedDate": "2025-01-02T11:45:00.000Z"
+      },
+      {
+        "url": "https://cinema.everyeye.it/notizie/cure-esce-cinema-italia-cosa-sapere-capolavoro-horror-790050.html",
+        "title": "Cure esce per la prima volta al cinema in Italia: cosa sapere su un capolavoro dell'horror",
+        "description": "Tra i tanti nuovi film in arrivo al cinema questa settimana ce n'è uno che esattamente nuovo non è, ma che fa il suo esordio assoluto sui nostri grandi schermi: per la prima volta dall'uscita originale nel...",
+        "publishedDate": "2025-04-01T14:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1472,7 +1490,8 @@
       "video": false,
       "vote_average": 6.632,
       "vote_count": 5964
-    }
+    },
+    "theaterReleaseDate": "2025-04-17"
   },
   {
     "title": "Hello! Spank. Le pene d’amore di Spank",
