@@ -2140,7 +2140,7 @@
   {
     "title": "Your Eyes Tell",
     "slug": "your-eyes-tell",
-    "lastSourceDate": "2025-03-26T16:15:00.000Z",
+    "lastSourceDate": "2025-04-04T05:24:15.000Z",
     "theaterReleaseDate": "2025-04-07",
     "theaterEndDate": "2025-04-09",
     "sources": [
@@ -2179,6 +2179,12 @@
         "title": "Your Eyes Tell: le prime clip italiane del film di Takahiro Miki",
         "description": "Adler Entertainment in collaborazione con Dynit è lieta di rilasciare le prime clip italiane di Your Eyes Tell (Kimi no Me ga Toikaketeiru), il teen drama che arriverà per la prima volta nelle sale italiane...",
         "publishedDate": "2025-03-26T16:15:00.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/your-eyes-tell-al-cinema-dal-7-al-9-aprile-2025/",
+        "title": "Your Eyes Tell al cinema dal 7 al 9 aprile 2025",
+        "description": "News Anime Marco Strignano 04/04/2025  Adler Entertainment in collaborazione con Dynit ha annunciato l’arrivo delle prime clip italiane di Your Eyes Tell, il teen drama che arriverà per la prima volta nelle...",
+        "publishedDate": "2025-04-04T05:24:15.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4027,6 +4033,41 @@
       "video": false,
       "vote_average": 5.297,
       "vote_count": 571
+    }
+  },
+  {
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "slug": "chainsaw-man-the-movie-reze-arc",
+    "lastSourceDate": "2025-04-04T13:30:47.000Z",
+    "theaterReleaseDate": "2025-10-30",
+    "sources": [
+      {
+        "url": "https://it.ign.com/chainsaw-man-the-movie-reze-arc/217450/news/chainsaw-man-reze-arc-il-film-anime-di-mappa-uscira-il-30-ottobre-in-italia",
+        "title": "Chainsaw Man: Reze Arc, il film anime di MAPPA uscirà il 30 ottobre in Italia",
+        "description": "Appena un mese dopo l'uscita in Giappone.                                                                                    Aggiornato: Venerdì 04 Aprile 2025...",
+        "publishedDate": "2025-04-04T13:30:47.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "genre_ids": [
+        16,
+        28,
+        27,
+        14
+      ],
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "チェンソーマン レゼ篇",
+      "overview": "Denji became “Chainsaw Man”, a boy with a devil’s heart, and is now part of Special Division 4’s devil hunters. After a date with Makima, the woman of his dreams, Denji takes shelter from the rain. There he meets Reze, a girl who works in a café.",
+      "popularity": 2.3448,
+      "poster_path": "/dcqMi5WkJW20NpI7yESFukEdJYo.jpg",
+      "release_date": "2025-09-19",
+      "title": "Chainsaw Man – The Movie: Reze Arc",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     }
   }
 ]
