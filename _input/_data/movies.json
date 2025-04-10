@@ -4081,5 +4081,39 @@
       "vote_average": 0,
       "vote_count": 0
     }
+  },
+  {
+    "title": "Le Rose di Versailles - Lady Oscar",
+    "slug": "le-rose-di-versailles-lady-oscar",
+    "lastSourceDate": null,
+    "theaterReleaseDate": "2025-04-18",
+    "sources": [
+      {
+        "url": "https://www.comingsoon.it/film/le-rose-di-versailles-lady-oscar/67055/scheda/",
+        "title": "Le Rose di Versailles - Lady Oscar - Film (2025)",
+        "description": "Le Rose di Versailles Lady Oscar, scheda del film di Ai Yoshimura, con Miyuki Sawashiro, Toshiyuki Toyonaga e Takuya Eguchi, leggi la trama e la recensione, guarda il trailer, ecco quando, come e dove vedere il Film al Cinema, in TV e in Streaming Online.\r\n",
+        "publishedDate": null
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4kfiAHJuw4eXgMf1xyTG2potyQd.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 1021679,
+      "original_language": "ja",
+      "original_title": "ベルサイユのばら",
+      "overview": "Nell'era della rivoluzione, Maria Antonietta e la sua protettrice Oscar François de Jarjayes devono affrontare scelte difficili mentre si affermano nei rispettivi ruoli.",
+      "popularity": 1.1844,
+      "poster_path": "/vsidzuUbJPvYevMT48wfpvgqzHd.jpg",
+      "release_date": "2025-01-31",
+      "title": "Le rose di Versailles - Lady Oscar",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   }
 ]
