@@ -4127,5 +4127,46 @@
       "vote_average": 0,
       "vote_count": 0
     }
+  },
+  {
+    "title": "Porco Rosso",
+    "slug": "porco-rosso",
+    "lastSourceDate": "2025-04-19T07:29:21.000Z",
+    "theaterReleaseDate": "2025-04-25",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/106772-porco-rosso-di-hayao-miyazaki-torna-al-cinema-il-25-aprile",
+        "title": "Porco Rosso di Hayao Miyazaki torna al cinema il 25 aprile",
+        "description": "Riportiamo il comunicato giunto in redazione:Celebriamo il 25 Aprile con Porco Rosso al cinema Proiezioni speciali del film di Hayao Miyazaki per il Giorno della Liberazione \"Piuttosto che diventare un...",
+        "publishedDate": "2025-04-19T00:00:00.000Z"
+      },
+      {
+        "url": "https://pressview.it/porco-rosso-torna-al-cinema-il-25-aprile-il-film-di-hayao-miyazaki/",
+        "title": "Porco Rosso, torna al cinema il 25 aprile il film di Hayao Miyazaki",
+        "description": "Torna al cinema il 25 aprile 2025 Porco Rosso di Hayao Miyazaki, uno dei suoi capolavori in cui è più esplicito il legame del maestro giapponese con l’Italia. Anime che racconta una storia che inneggia alla...",
+        "publishedDate": "2025-04-19T07:29:21.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/pFalq14lacs2oO7Q6YKiNqz5uAC.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        12
+      ],
+      "id": 11621,
+      "original_language": "ja",
+      "original_title": "紅の豚",
+      "overview": "In quella che Miyazaki Hayao definisce “l’epoca degli idrovolanti”, Marco Pagot è un ex-pilota che si è misteriosamente ritrovato nelle mutate sembianze di un maiale antropomorfo. Con il nome di battaglia di Porco Rosso, vola alla ventura sui cieli dell’Adriatico a bordo del suo idrovolante vermiglio, sfuggendo al giogo fascista e sbarcando il lunario come cacciatore di taglie. Ma l’arrivo del pilota americano Curtis, assoldato dai Pirati del Cielo, lo costringerà a nuove battaglie per salvare il proprio onore e quello di una radiosa fanciulla, per la riconquista di un perduto amore e della fiducia nell’umanità.",
+      "popularity": 4.8638,
+      "poster_path": "/tf8bPa4RhARqQhZZlhBPHMRKsoV.jpg",
+      "release_date": "1992-07-18",
+      "title": "Porco Rosso",
+      "video": false,
+      "vote_average": 7.799,
+      "vote_count": 3385
+    }
   }
 ]
