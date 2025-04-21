@@ -4168,5 +4168,40 @@
       "vote_average": 7.799,
       "vote_count": 3385
     }
+  },
+  {
+    "title": "My Hero Academia The Movie: You're Next",
+    "slug": "my-hero-academia-the-movie-youre-next",
+    "lastSourceDate": "2025-04-21T00:00:00.000Z",
+    "theaterReleaseDate": "2024-10-10",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/106799-my-hero-academia-youre-next-il-film-e-disponibile-su-crunchyroll",
+        "title": "My Hero Academia - You're Next: il film è disponibile su Crunchyroll",
+        "description": "Tramite il suo sito ufficiale, Crunchyroll ha comunicato l'arrivo sulla piattaforma, anche con doppiaggio italiano, di My Hero Academia The Movie: You're Next, quarta pellicola del franchise tratto...",
+        "publishedDate": "2025-04-21T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/hd1TvTUGjkoYoqvXYfSBpI5Ri9B.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 1159311,
+      "original_language": "ja",
+      "original_title": "僕のヒーローアカデミア THE MOVIE ユアネクスト",
+      "overview": "In una società in cui eroi e cattivi si scontrano continuamente in nome della pace e del caos, Deku, uno studente della U.A. High School che aspira a diventare il miglior eroe possibile, affronta il cattivo che imita l'eroe che ammira da tempo. Riusciranno Deku e il resto della U.A. High Class 1-A a proteggere il mondo ponendo fine a Dark Might, l'uomo che sostiene di essere il nuovo Simbolo della Pace?",
+      "popularity": 18.6407,
+      "poster_path": "/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",
+      "release_date": "2024-08-02",
+      "title": "My Hero Academia: You're Next",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 110
+    }
   }
 ]
