@@ -3514,13 +3514,19 @@
   {
     "title": "Il ragazzo e l'airone",
     "slug": "il-ragazzo-e-lairone",
-    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "lastSourceDate": "2025-04-22T08:44:20.000Z",
     "sources": [
       {
         "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
         "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
         "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
         "publishedDate": "2025-02-22T10:00:00.000Z"
+      },
+      {
+        "url": "https://www.afnews.info/w22/2025/04/22/a-maggio-torna-al-cinema-massimo-la-rassegna-critica-dedicata-agli-anime-dautore/",
+        "title": "A maggio torna al Cinema Massimo la rassegna critica dedicata agli Anime d'autore - afNews - Always Forward - Fumetto Animazione et al",
+        "description": "Dal 5 al 26 maggio tornerà per il terzo anno consecutivo la rassegna torinese dedicata al cinema d’animazione giapponese. L’appuntamento, a cura di Alessandra Richetto, è ancora una volta presso al Cinema...",
+        "publishedDate": "2025-04-22T08:44:20.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3544,7 +3550,8 @@
       "video": false,
       "vote_average": 7.4,
       "vote_count": 2022
-    }
+    },
+    "theaterReleaseDate": "2025-05-05"
   },
   {
     "title": "City Hunter",
@@ -4202,6 +4209,74 @@
       "video": false,
       "vote_average": 6.9,
       "vote_count": 110
+    }
+  },
+  {
+    "title": "Millennium Actress",
+    "slug": "millennium-actress",
+    "lastSourceDate": "2025-04-22T08:44:20.000Z",
+    "theaterReleaseDate": "2025-05-12",
+    "sources": [
+      {
+        "url": "https://www.afnews.info/w22/2025/04/22/a-maggio-torna-al-cinema-massimo-la-rassegna-critica-dedicata-agli-anime-dautore/",
+        "title": "A maggio torna al Cinema Massimo la rassegna critica dedicata agli Anime d'autore - afNews - Always Forward - Fumetto Animazione et al",
+        "description": "Dal 5 al 26 maggio tornerà per il terzo anno consecutivo la rassegna torinese dedicata al cinema d’animazione giapponese. L’appuntamento, a cura di Alessandra Richetto, è ancora una volta presso al Cinema...",
+        "publishedDate": "2025-04-22T08:44:20.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/crCC2MUWEi9AkY5C3VD96HXMSq0.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749,
+        14
+      ],
+      "id": 33320,
+      "original_language": "ja",
+      "original_title": "千年女優",
+      "overview": "Gen'ya Tachibana, il boss di uno studio televisivo è intenzionato a realizzare un documentario sulla stella cinematografica del secolo passato, la famosa Chiyoko Fujiwara, ormai settantenne, e insieme al cameraman Kyōji Ida raggiunge l'abitazione di questa, situata in un luogo piuttosto sperduto. Infatti la bellissima Chiyoko, dopo una lunga carriera cinematografica, si ritirò misteriosamente nell'anonimato. Una volta giunti a casa dell'anziana donna, Genya Tachibana, che aveva lavorato in passato con la donna, si fa trasportare dal racconto della donna che mischia vita privata ad aneddoti relativi al suo lavoro, fino a confondere sempre più le sue esperienze personali con la trama di tutti i suoi film...",
+      "popularity": 2.2289,
+      "poster_path": "/hlblOom21GZFdygnRr3OXIrz5O.jpg",
+      "release_date": "2002-09-14",
+      "title": "Millennium Actress",
+      "video": false,
+      "vote_average": 7.835,
+      "vote_count": 893
+    }
+  },
+  {
+    "title": "Summer Wars",
+    "slug": "summer-wars",
+    "lastSourceDate": "2025-04-22T08:44:20.000Z",
+    "theaterReleaseDate": "2025-05-26",
+    "sources": [
+      {
+        "url": "https://www.afnews.info/w22/2025/04/22/a-maggio-torna-al-cinema-massimo-la-rassegna-critica-dedicata-agli-anime-dautore/",
+        "title": "A maggio torna al Cinema Massimo la rassegna critica dedicata agli Anime d'autore - afNews - Always Forward - Fumetto Animazione et al",
+        "description": "Dal 5 al 26 maggio tornerà per il terzo anno consecutivo la rassegna torinese dedicata al cinema d’animazione giapponese. L’appuntamento, a cura di Alessandra Richetto, è ancora una volta presso al Cinema...",
+        "publishedDate": "2025-04-22T08:44:20.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
+      "genre_ids": [
+        16,
+        878
+      ],
+      "id": 28874,
+      "original_language": "ja",
+      "original_title": "サマーウォーズ",
+      "overview": "Chi non conosce i giochi virtuali che simulano una vita parallela, quante ore passate a giocare nei panni di chi ci piacerebbe essere anche nella realtà? Ora immaginate che questo mondo di dati influenzi anche la vita reale, provocando danni anche gravi. Degli avatar che, pur non rispecchiando del tutto la nostra persona, hanno accesso a informazioni a seconda del proprio tipo di lavoro. Questo è il mondo di OZ virtuale, nel quale è coinvolta gran parte della popolazione mondiale.La storia di Summer Wars è incentrata su questo \"gioco\" nel quale un'AI (artificial intelligence) inizia a creare scompiglio, provocando danni anche al mondo reale...",
+      "popularity": 6.3678,
+      "poster_path": "/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
+      "release_date": "2009-08-01",
+      "title": "Summer Wars",
+      "video": false,
+      "vote_average": 7.441,
+      "vote_count": 948
     }
   }
 ]
