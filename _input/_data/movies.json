@@ -355,7 +355,7 @@
   {
     "title": "Boruto - Naruto The Movie",
     "slug": "boruto-naruto-the-movie",
-    "lastSourceDate": "2025-01-13T13:19:00.000Z",
+    "lastSourceDate": "2025-05-08T10:14:45.000Z",
     "theaterReleaseDate": "2025",
     "sources": [
       {
@@ -369,6 +369,12 @@
         "title": "Naruto avvia una collaborazione con Burger King!",
         "description": "Dopo One Piece, la catena di fast food Burger King ha scelto di avviare una collaborazione con un altro franchise di anime e manga molto famoso, ovverosia Naruto. La serie creata da Masashi Kishimoto a fine...",
         "publishedDate": "2025-01-13T13:19:00.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/boruto-naruto-the-movie-cinema-italiani/",
+        "title": "BORUTO: NARUTO THE MOVIE nei cinema italiani",
+        "description": "News AnimeBORUTO: NARUTO THE MOVIE: Per la prima volta nei cinema italiani Redazione 08/05/2025   Dal 23 al 25 giugno 2025, il pubblico italiano potrà finalmente vivere sul grande schermo l’esperienza di...",
+        "publishedDate": "2025-05-08T10:14:45.000Z"
       }
     ],
     "tmdbMovie": {
@@ -392,7 +398,8 @@
       "video": false,
       "vote_average": 7.5,
       "vote_count": 1557
-    }
+    },
+    "theaterEndDate": "2025-06-25"
   },
   {
     "title": "Hayao Miyazaki e l’airone",
