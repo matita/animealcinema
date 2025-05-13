@@ -4473,5 +4473,52 @@
         "publishedDate": "2025-05-13T11:54:40.000Z"
       }
     ]
+  },
+  {
+    "title": "Hidden Inventory / Premature Death",
+    "slug": "hidden-inventory-premature-death",
+    "lastSourceDate": "2025-05-13T13:09:09.000Z",
+    "sources": [
+      {
+        "url": "https://www.unita.tv/spettacolo/jujutsu-kaisen-il-film-hidden-inventory-e-la-mini-serie-juju-stroll-in-arrivo-questestate-in-italia/55064/",
+        "title": "Jujutsu kaisen: il film hidden inventory e la mini-serie juju stroll in arrivo quest’estate in Italia",
+        "description": "Jujutsu Kaisen annuncia il film Hidden Inventory / Premature Death e la mini-serie Juju Stroll, offrendo ai fan un'esperienza cinematografica coinvolgente e momenti di vita quotidiana dei protagonisti.",
+        "publishedDate": "2025-05-13T13:09:09.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 1338799,
+      "original_language": "ja",
+      "original_title": "劇場版総集編 呪術廻戦 懐玉・玉折",
+      "overview": "Pursued by a religious cult and other curse users, Satoru Gojo and Suguru Geto are the only sorcerers capable of carrying the difficult task of protecting Riko Amanai, a student who has been designated to be sacrificed as the Star Plasma Vessel, until she can fulfill her duty.",
+      "popularity": 2.5881,
+      "poster_path": "/jHeBCMom4fJK2f6KCnpuTODWpla.jpg",
+      "release_date": "2025-05-30",
+      "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
+    "title": "DandaDan Stagione 2 - EvilEye",
+    "slug": "dandadan-stagione-2-evileye",
+    "lastSourceDate": "2025-05-13T09:00:00.000Z",
+    "theaterReleaseDate": "2025-06-04",
+    "theaterEndDate": "2025-06-08",
+    "sources": [
+      {
+        "url": "https://cpop.it/notizie/dandadan-stagione-2-al-cinema-anche-in-italia-le-date",
+        "title": "DandaDan Stagione 2 al cinema anche in Italia - le date",
+        "description": "News, recensioni, guide su fumetto, cinema & serie TV, gioco da tavolo e di ruolo e collezionismo. Tutto quello di cui hai bisogno per rimanere aggiornato sul mondo della cultura pop",
+        "publishedDate": "2025-05-13T09:00:00.000Z"
+      }
+    ]
   }
 ]
