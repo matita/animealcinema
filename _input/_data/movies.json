@@ -4452,5 +4452,26 @@
       "vote_average": 0,
       "vote_count": 0
     }
+  },
+  {
+    "title": "DanDaDan Evil Eye",
+    "slug": "dandadan-evil-eye",
+    "lastSourceDate": "2025-05-13T11:54:40.000Z",
+    "theaterReleaseDate": "2025-06-04",
+    "theaterEndDate": "2025-06-08",
+    "sources": [
+      {
+        "url": "https://movieplayer.it/news/dandadan-seconda-stagione-debutta-anteprima-grande-schermo-quando_156940/",
+        "title": "DanDaDan, la seconda stagione debutta in anteprima sul grande schermo in Italia",
+        "description": "I primi episodi della seconda stagione di DanDaDan saranno proiettati in anteprima evento nelle sale italiane prima di quest'estate.                    I primi episodi di DanDaDan Evil Eye, seconda...",
+        "publishedDate": "2025-05-13T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.unita.tv/spettacolo/dandadan-evil-eye-seconda-stagione-arriva-nei-cinema-italiani-con-un-evento-speciale-dal-4-all8-giugno/54952/",
+        "title": "Dandadan evil eye seconda stagione arriva nei cinema italiani con un evento speciale dal 4 all'8 giugno",
+        "description": "L’attesa per la seconda stagione di dandadan evil eye si conclude con una proiezione evento nei cinema italiani dal 4 all’8 giugno 2025. L’anime, tratto dal manga di yukinobu tatsu, riprende le avventure tra...",
+        "publishedDate": "2025-05-13T11:54:40.000Z"
+      }
+    ]
   }
 ]
