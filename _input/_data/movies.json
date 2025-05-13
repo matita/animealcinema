@@ -3199,13 +3199,19 @@
   {
     "title": "One Piece Film: Red",
     "slug": "one-piece-film-red",
-    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "lastSourceDate": "2025-05-12T13:15:00.000Z",
     "sources": [
       {
         "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
         "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
         "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
         "publishedDate": "2025-02-22T10:00:00.000Z"
+      },
+      {
+        "url": "https://cpop.it/notizie/ado-special-live-shinzou-al-cinema-le-date-in-italia-e-il-trailer",
+        "title": "Ado SPECIAL LIVE Shinzou al Cinema: le date in Italia e il trailer",
+        "description": "Ado, la utaite (termine che indica chi interpreta cover di canzoni Vocaloid con la propria voce reale) che prestato la sua voce al personaggio di Uta nelle parti cantate in ONE PIECE FILM RED, è diventata un...",
+        "publishedDate": "2025-05-12T13:15:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3229,7 +3235,8 @@
       "video": false,
       "vote_average": 7.186,
       "vote_count": 1041
-    }
+    },
+    "theaterEndDate": "2025-05-12"
   },
   {
     "title": "Doraemon il film: Nobita e il nuovo dinosauro",
@@ -4375,7 +4382,7 @@
   {
     "title": "Ado SPECIAL LIVE ‘Shinzou’ al Cinema",
     "slug": "ado-special-live-shinzou-al-cinema",
-    "lastSourceDate": "2025-05-12T13:15:00.000Z",
+    "lastSourceDate": "2025-05-12T00:00:00.000Z",
     "theaterReleaseDate": "2025-06-16",
     "theaterEndDate": "2025-06-18",
     "sources": [
