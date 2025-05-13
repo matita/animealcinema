@@ -4375,7 +4375,7 @@
   {
     "title": "Ado SPECIAL LIVE ‘Shinzou’ al Cinema",
     "slug": "ado-special-live-shinzou-al-cinema",
-    "lastSourceDate": "2025-05-12T00:00:00.000Z",
+    "lastSourceDate": "2025-05-12T13:15:00.000Z",
     "theaterReleaseDate": "2025-06-16",
     "theaterEndDate": "2025-06-18",
     "sources": [
@@ -4384,6 +4384,12 @@
         "title": "Ado SPECIAL LIVE ‘Shinzou’ arriva nei cinema italiani",
         "description": "Nexo Studios annuncia l’arrivo nei cinema italiani di Ado SPECIAL LIVE ‘Shinzou’, concerto del 2024 dell’artista giapponese. Sarà possibile vederlo durante una serie di proiezioni esclusive che si terranno...",
         "publishedDate": "2025-05-12T00:00:00.000Z"
+      },
+      {
+        "url": "https://cpop.it/notizie/ado-special-live-shinzou-al-cinema-le-date-in-italia-e-il-trailer",
+        "title": "Ado SPECIAL LIVE Shinzou al Cinema: le date in Italia e il trailer",
+        "description": "Ado, la utaite (termine che indica chi interpreta cover di canzoni Vocaloid con la propria voce reale) che prestato la sua voce al personaggio di Uta nelle parti cantate in ONE PIECE FILM RED, è diventata un...",
+        "publishedDate": "2025-05-12T13:15:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4398,6 +4404,40 @@
       "original_title": "劇場版 Ado SPECIAL LIVE「心臓」",
       "overview": "È una delle voci più importanti della nuova scena musicale giapponese. Non mostra il volto in pubblico e la sua identità è rimasta per molto tempo nascosta. È divenuta famosa in tutto il mondo nel 2020 con il brano Usseewa per il suo stile potente e ribelle.\r Ha prestato la voce al personaggio di Uta nelle parti cantate in One Piece Film Red, divenendo un idolo mondiale.",
       "popularity": 0.4152,
+      "poster_path": "/qZ8CAmPugSyHC5SpWFrzKIueRw4.jpg",
+      "release_date": "2025-04-18",
+      "title": "Ado SPECIAL LIVE SHINZOU al Cinema",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
+    "title": "Ado SPECIAL LIVE “Shinzou”",
+    "slug": "ado-special-live-shinzou",
+    "lastSourceDate": "2025-05-12T11:50:40.000Z",
+    "theaterReleaseDate": "2025-06-16",
+    "theaterEndDate": "2025-06-18",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/05/12/ado-shinzou-cinema/",
+        "title": "Ado SPECIAL LIVE “Shinzou” arriva nei cinema italiani grazie a Dynit e Nexo Studios",
+        "description": "L’Utaite (cantante che interpreta le canzoni dei Vocaloid con la propria voce) Ado ha soli 22 anni ma ha già conquistato ascoltatori in tutto il mondo, tanto che è considerata la voce più importante della...",
+        "publishedDate": "2025-05-12T11:50:40.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/meijJqvTcedZi7RmbNYNWRLfso0.jpg",
+      "genre_ids": [
+        10402,
+        99
+      ],
+      "id": 1377930,
+      "original_language": "ja",
+      "original_title": "劇場版 Ado SPECIAL LIVE「心臓」",
+      "overview": "È una delle voci più importanti della nuova scena musicale giapponese. Non mostra il volto in pubblico e la sua identità è rimasta per molto tempo nascosta. È divenuta famosa in tutto il mondo nel 2020 con il brano Usseewa per il suo stile potente e ribelle.\r Ha prestato la voce al personaggio di Uta nelle parti cantate in One Piece Film Red, divenendo un idolo mondiale.",
+      "popularity": 0.3728,
       "poster_path": "/qZ8CAmPugSyHC5SpWFrzKIueRw4.jpg",
       "release_date": "2025-04-18",
       "title": "Ado SPECIAL LIVE SHINZOU al Cinema",
