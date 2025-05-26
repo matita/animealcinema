@@ -933,6 +933,12 @@
         "title": "Attack on Titan: The Last Attack​, film di Yuichiro Hayashi",
         "description": "Iniziata nel lontano 2009 con la prima pubblicazione dell’omonimo manga, l’avventura di Attack on Titan si è recentemente arricchita di un nuovo capitolo. Il 3, 4 e 5 marzo, infatti, è stato trasmesso al...",
         "publishedDate": "2025-04-01T06:00:00.000Z"
+      },
+      {
+        "url": "https://www.cinematographe.it/serie-tv/crunchyroll-anime-awards-2025-solo-leveling-e-lanime-dellanno-tutti-i-vincitori/",
+        "title": "Crunchyroll Anime Awards 2025, Solo Leveling è l'anime dell'anno: tutti i vincitori",
+        "description": "Crunchyroll ha annunciato i vincitori dei Crunchyroll Anime Awards 2025 in occasione di una cerimonia dal vivo spettacolare, pensata per celebrare i creatori, i musicisti e gli artisti che rendono possibile...",
+        "publishedDate": "2025-05-26T09:40:47.000Z"
       }
     ],
     "tmdbMovie": {
@@ -956,7 +962,7 @@
     },
     "theaterReleaseDate": "2025-01-01",
     "theaterEndDate": "2024-03-05",
-    "lastSourceDate": "2025-04-01T06:00:00.000Z"
+    "lastSourceDate": "2025-05-26T09:40:47.000Z"
   },
   {
     "title": "L'attacco dei giganti: The Last attack",
@@ -1375,6 +1381,12 @@
         "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
         "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
         "publishedDate": "2025-02-22T10:00:00.000Z"
+      },
+      {
+        "url": "https://www.drcommodore.it/2025/05/26/the-space-cinema-comicon-anime-nights/",
+        "title": "The Space Cinema presenta \"Comicon Anime Nights\": in arrivo tre eventi anime con ospiti speciali in sala",
+        "description": "The Space Cinema lancia una nuova iniziativa dedicata alla grande animazione giapponese in collaborazione con COMICON, uno dei più importanti festival internazionali di cultura pop.Nasce così “COMICON ANIME...",
+        "publishedDate": "2025-05-26T09:24:55.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1397,7 +1409,7 @@
       "vote_average": 7.834,
       "vote_count": 401
     },
-    "lastSourceDate": "2025-02-22T10:00:00.000Z"
+    "lastSourceDate": "2025-05-26T09:24:55.000Z"
   },
   {
     "title": "The Lord of the Rings: The War of the Rohirrim",
@@ -4586,5 +4598,73 @@
         "publishedDate": "2025-05-13T09:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "DAN DA DAN: Evil Eye",
+    "slug": "dan-da-dan-evil-eye",
+    "lastSourceDate": "2025-05-26T09:24:55.000Z",
+    "theaterReleaseDate": "2025-06-04",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/05/26/the-space-cinema-comicon-anime-nights/",
+        "title": "The Space Cinema presenta \"Comicon Anime Nights\": in arrivo tre eventi anime con ospiti speciali in sala",
+        "description": "The Space Cinema lancia una nuova iniziativa dedicata alla grande animazione giapponese in collaborazione con COMICON, uno dei più importanti festival internazionali di cultura pop.Nasce così “COMICON ANIME...",
+        "publishedDate": "2025-05-26T09:24:55.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/oo8GVyvODffulZtxx6QWzRkrBxK.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "id": 1458844,
+      "original_language": "ja",
+      "original_title": "DAN DA DAN: Evil Eye",
+      "overview": "Momo and Okarun set out on their latest adventure, traveling to a hot springs town home rented by Jiji, Momo's childhood friend and former crush, with the goal to solve the mystery surrounding his family. When they arrive, strange locals derail their investigation before it can properly begin, and the group soon learns there's more lurking under the surface of the town than they could possibly have imagined. Theatrical event featuring four episodes of the anime, including the first three episodes of the second season, and an exclusive interview with series co-directors Fuga Yamashiro and Abel Gongora.",
+      "popularity": 2.0856,
+      "poster_path": "/qXwBSbBUIHLIoUCnfC0sjEjZ4Rw.jpg",
+      "release_date": "2025-05-30",
+      "title": "DAN DA DAN: Evil Eye",
+      "video": true,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
+    "title": "DRAGON BALL SUPER: BROLY – IL FILM",
+    "slug": "dragon-ball-super-broly-il-film",
+    "lastSourceDate": "2025-05-26T09:24:55.000Z",
+    "theaterReleaseDate": "2025-06-11",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/05/26/the-space-cinema-comicon-anime-nights/",
+        "title": "The Space Cinema presenta \"Comicon Anime Nights\": in arrivo tre eventi anime con ospiti speciali in sala",
+        "description": "The Space Cinema lancia una nuova iniziativa dedicata alla grande animazione giapponese in collaborazione con COMICON, uno dei più importanti festival internazionali di cultura pop.Nasce così “COMICON ANIME...",
+        "publishedDate": "2025-05-26T09:24:55.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/c3GXGuf5zVSM1m4n63gwCkz24N9.jpg",
+      "genre_ids": [
+        16,
+        878,
+        28
+      ],
+      "id": 34433,
+      "original_language": "ja",
+      "original_title": "ドラゴンボールＺ 燃え尽きろ!!熱戦・烈戦・超激戦",
+      "overview": "Un Super Saiyan leggendario è comparso nella galassia meridionale ed è necessario l'intervento di Goku, che arriva sul nuovo pianeta Vegeta. Anche Vegeta, Trunks e gli altri giungono sul pianeta, invitati da Paragas, un Saiyan superstite anch'egli alla ricerca del leggendario guerriero. Quando Broly, il figlio di Paragas, si imbatte con Goku, si risveglia il suo vero potere: è lui il Super Saiyan leggendario. Se lasciato senza controllo, Broly con la sua potenza distruggerebbe l'intero universo e questo Goku non può permetterlo, nonostante la sua inferiorità. Solo il potere unito di tutti i guerrieri Z può davvero sconfiggere un avversario così potente.",
+      "popularity": 8.1963,
+      "poster_path": "/h4cDdIXy460PqmUXJW5hIpuzuNV.jpg",
+      "release_date": "1993-03-06",
+      "title": "Dragon Ball Z - Il Super Saiyan della leggenda",
+      "video": false,
+      "vote_average": 7.197,
+      "vote_count": 935
+    }
   }
 ]
