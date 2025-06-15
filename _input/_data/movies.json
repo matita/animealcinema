@@ -4461,7 +4461,28 @@
         "description": "Doraemon il film: Nobita e il racconto del mondo della pittura, lungometraggio che segna il 45° anniversario dei film dedicati alla celeberrima opera di Fujiko F. Fujio, si è mostrato in un nuovo video...",
         "publishedDate": "2025-05-05T00:00:00.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/vncMpsAUDnL1JOb73e5q48gX32S.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "id": 1372489,
+      "original_language": "ja",
+      "original_title": "映画ドラえもん のび太の絵世界物語",
+      "overview": "44th film in the Doraemon the Movie series  The story is set in the magnificent medieval European world depicted in the pictures. Doraemon and his friends dive into the 'world of pictures' and have a great adventure in this completely original story!!",
+      "popularity": 5.7358,
+      "poster_path": "/82HGNhieLhn4PrMY7tMBlJq7AAS.jpg",
+      "release_date": "2025-03-07",
+      "title": "Doraemon: Il film - Nobita e il racconto  del mondo della pittura",
+      "video": true,
+      "vote_average": 5,
+      "vote_count": 3
+    }
   },
   {
     "title": "Ado SPECIAL LIVE ‘Shinzou’ al Cinema",
