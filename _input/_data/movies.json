@@ -499,6 +499,18 @@
         "url": "https://www.mymovies.it/film/2015/boruto-naruto-the-movie/news/la-recensione/",
         "title": "Boruto - Naruto the Movie, con dieci anni di ritardo, esce in Italia il grande successo anime sulla saga di Naruto Shippuden",
         "description": "Dopo la celebrazione del passato, arriva il momento di guardare avanti:&nbsp;Boruto: Naruto the Movie&nbsp;segna il naturale passaggio generazionale del celebre franchise di Masashi Kishimoto. Da luned&igrave; 23 giugno al cinema."
+      },
+      {
+        "url": "https://anime.everyeye.it/notizie/oscuro-sasuke-missione-segreta-conosce-boruto-naruto-the-movie-809350.html",
+        "title": "Il lato oscuro di Sasuke: la missione segreta che nessuno conosce in Boruto - Naruto The Movie",
+        "description": "Boruto - Naruto The Movie è arrivato finalmente nei cinema italiani e l'occasione sembra perfetta per approfondire alcuni aspetti del film. In questo caso parliamo di Sasuke Uchiha e di un dettaglio che né il...",
+        "publishedDate": "2025-06-23T10:05:00.000Z"
+      },
+      {
+        "url": "https://anime.everyeye.it/articoli/recensione-boruto-naruto-the-movie-emozionante-sfida-generazioni-65798.html",
+        "title": "Boruto Naruto the Movie Recensione: un'emozionante sfida tra generazioni",
+        "description": "Diretto da Hiroyuki Yamashita, già regista e animatore di svariate puntate di Naruto Shippuden e altri film del franchise, Boruto - Naruto The Movie è un film-ponte tra la serie principale e il suo sequel,...",
+        "publishedDate": null
       }
     ],
     "tmdbMovie": {
@@ -523,7 +535,8 @@
       "vote_average": 7.5,
       "vote_count": 1557
     },
-    "theaterEndDate": "2025-06-25"
+    "theaterEndDate": "2025-06-25",
+    "lastSourceDate": null
   },
   {
     "title": "Hayao Miyazaki e l’airone",
