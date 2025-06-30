@@ -4813,5 +4813,40 @@
         "publishedDate": "2025-06-29T00:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "Memories",
+    "slug": "memories",
+    "lastSourceDate": "2025-06-30T13:23:39.000Z",
+    "theaterReleaseDate": "2025-11-17",
+    "theaterEndDate": "2025-11-19",
+    "sources": [
+      {
+        "url": "https://fumettologica.it/2025/06/memories-otomo-cinema-anime/",
+        "title": "\"Memories\" di Otomo al cinema per soli 3 giorni",
+        "description": "Memories, il film d’animazione a episodi di Katsuhiro Otomo (Akira), sarà proiettato nei cinema italiani il 17, 18 e 19 novembre, in occasione del suo trentesimo anniversario. Si tratta di un evento, perché...",
+        "publishedDate": "2025-06-30T13:23:39.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/5eHsU7ZhDiiWaeSRWojqsaqaq7n.jpg",
+      "genre_ids": [
+        14,
+        16,
+        878
+      ],
+      "id": 42994,
+      "original_language": "ja",
+      "original_title": "MEMORIES",
+      "overview": "Prodotto dalla Bandai Visual e realizzato sulla base di un'idea di Katsuhiro Ōtomo, Memories (Memorīzu) è un film d'animazione composto da tre episodi. Nel primo, due astronauti cercano l'origine di un misterioso segnale di emergenza da loro captato, per ritrovarsi in uno strano mondo creato dai ricordi di una donna; nel secondo, un giovane chimico si trasforma per un tragico errore in una mortale arma biologica diretta verso la città di Tokio; nel terzo, una non identificata cittadina è disseminata di cannoni, che continuano a sparare verso un imprecisato e lontano nemico.",
+      "popularity": 2.7026,
+      "poster_path": "/p5vl4gMThsyw5C6ByYTVqPmF7HZ.jpg",
+      "release_date": "1995-12-23",
+      "title": "Memories",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 487
+    }
   }
 ]
