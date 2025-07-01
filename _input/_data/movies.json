@@ -3856,7 +3856,7 @@
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Il Castello dell'Infinito",
     "slug": "demon-slayer-kimetsu-no-yaiba-il-castello-dellinfinito",
-    "lastSourceDate": "2025-04-26T00:00:00.000Z",
+    "lastSourceDate": "2025-06-30T10:53:29.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -3906,6 +3906,12 @@
         "title": "Box Office Giappone: il nuovo film di Detective Conan da record e subito al comando",
         "description": "Detective Conan: One-Eyed Flashback (Meitantei Conan: Sekigan no Flashback), 28° film del franchise di Detective Conan, debutta fin da subito, come da previsione, alprimo posto del box office giapponese, con...",
         "publishedDate": "2025-04-26T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.4pareteita.it/2025/06/30/demon-slayer-il-castello-dellinfinito-trama-cast-data-uscita/",
+        "title": "Demon Slayer Il Castello dell'Infinito: trama, cast, quando esce al cinema in Italia e tutte le info - Quart4 Parete",
+        "description": "Articolo pubblicato il 30 Giugno 2025 da Bruno Santini Demon Slayer: Kimetsu no Yaiba – Il Castello dell’Infinito rappresenta il primo capitolo di una trilogia che conclude l’adattamento animato dell’omonimo...",
+        "publishedDate": "2025-06-30T10:53:29.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4817,7 +4823,7 @@
   {
     "title": "Memories",
     "slug": "memories",
-    "lastSourceDate": "2025-06-30T19:17:53.000Z",
+    "lastSourceDate": "2025-07-01T00:00:00.000Z",
     "theaterReleaseDate": "2025-11-17",
     "theaterEndDate": "2025-11-19",
     "sources": [
@@ -4832,6 +4838,12 @@
         "title": "\"Memories\" di Katsuhiro Otomo al cinema per la prima volta in Italia - Fantascienza Italia",
         "description": "Per la prima volta, il capolavoro anime Memories (1995), prodotto e co-diretto da Katsuhiro Otomo, arriva nei cinema italiani con proiezioni evento il 17, 18 e 19 novembre, in occasione del suo trentesimo...",
         "publishedDate": "2025-06-30T19:17:53.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/107451-memories-e-fullmetal-alchemist-brotherhood-arrivano-al-cinema-in-italia",
+        "title": "Memories e FullMetal Alchemist Brotherhood arrivano al cinema in Italia",
+        "description": "Riportiamo il comunicato dell'editore:di Katshuiro Otomo 30° AnniversarioAL CINEMA IL 17, 18, 19 Novembre“Memories” è un lungometraggio d’animazione a episodi, basato su tre brevi storie a fumetti di...",
+        "publishedDate": "2025-07-01T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4853,6 +4865,40 @@
       "video": false,
       "vote_average": 7.4,
       "vote_count": 487
+    }
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood 15th Anniversary Special Edition",
+    "slug": "fullmetal-alchemist-brotherhood-15th-anniversary-special-edition",
+    "lastSourceDate": "2025-07-01T00:00:00.000Z",
+    "theaterReleaseDate": "2025-12-08",
+    "theaterEndDate": "2025-12-10",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/107451-memories-e-fullmetal-alchemist-brotherhood-arrivano-al-cinema-in-italia",
+        "title": "Memories e FullMetal Alchemist Brotherhood arrivano al cinema in Italia",
+        "description": "Riportiamo il comunicato dell'editore:di Katshuiro Otomo 30° AnniversarioAL CINEMA IL 17, 18, 19 Novembre“Memories” è un lungometraggio d’animazione a episodi, basato su tre brevi storie a fumetti di...",
+        "publishedDate": "2025-07-01T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/eCJwrXmMPY5rlaRGC8IMU6Pb6iQ.jpg",
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 1412074,
+      "original_language": "ja",
+      "original_title": "《鋼之鍊金術師BROTHERHOOD 15週年特別版》",
+      "overview": "A special re-edited movie version of the last six episodes of the anime.",
+      "popularity": 0.4384,
+      "poster_path": "/bEgXvq7dxI5QCMwutzpxteiLBgo.jpg",
+      "release_date": "2024-10-25",
+      "title": "Fullmetal Alchemist 15th Anniversary Special Edition",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1
     }
   }
 ]
