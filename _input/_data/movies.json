@@ -5041,5 +5041,38 @@
       "vote_average": 10,
       "vote_count": 1
     }
+  },
+  {
+    "title": "Lupin the Third: The Movie – La stirpe immortale",
+    "slug": "lupin-the-third-the-movie-la-stirpe-immortale",
+    "lastSourceDate": "2025-07-03T06:50:19.000Z",
+    "sources": [
+      {
+        "url": "https://cineguru.screenweek.it/2025/07/cine-i-listini-di-notorious-film-club-bim-plaion-pictures-e-wanted-46513/",
+        "title": "Ciné - I listini di Notorious, Film Club, Bim, Plaion Pictures e Wanted - CineGuru",
+        "description": "Ieri, mercoledì 2 luglio, alle giornate Ciné in corso a Riccione, si è entrati nel vivo delle convention. Molte le proposte anche da parte dei distributori indipendenti. Notorious, Monica Guerritore presenta...",
+        "publishedDate": "2025-07-03T06:50:19.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4zh2QNUFoVwfnOeppEKWPXGmg0y.jpg",
+      "genre_ids": [
+        16,
+        28,
+        80
+      ],
+      "id": 1395140,
+      "original_language": "ja",
+      "original_title": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+      "overview": "The story follows Lupin and his team as they seek a treasure on a mysterious unmarked island.",
+      "popularity": 0.5662,
+      "poster_path": "/b2MPK6pGFrdNHG41CyzY0z03bBQ.jpg",
+      "release_date": "2025-06-27",
+      "title": "Lupin III: The Movie - La stirpe immortale",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1
+    }
   }
 ]
