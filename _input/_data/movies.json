@@ -5344,5 +5344,39 @@
       "vote_average": 0,
       "vote_count": 0
     }
+  },
+  {
+    "title": "Lupin The IIIRD – The Movie: La Stirpe Immortale",
+    "slug": "lupin-the-iiird-the-movie-la-stirpe-immortale",
+    "lastSourceDate": "2025-07-10T10:47:18.000Z",
+    "theaterReleaseDate": "2025-09-21",
+    "sources": [
+      {
+        "url": "https://www.vgmag.it/365885/lupin-the-3rd-the-movie-i-nuovi-film-della-serie-approdano-su-anime-factory-grazie-a-plaion-pictures/",
+        "title": "Lupin The 3rd The Movie: i nuovi film della serie approdano su Anime Factory grazie a Plaion Pictures - Vgmag.it",
+        "description": "Anime Factory, etichetta di proprietà di Plaion Pictures che racchiude il meglio dell’offerta anime, cinematografica e home video, è orgogliosa di riportare al cinema e nelle case degli italiani il ladro più...",
+        "publishedDate": "2025-07-10T10:47:18.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4zh2QNUFoVwfnOeppEKWPXGmg0y.jpg",
+      "genre_ids": [
+        16,
+        28,
+        80
+      ],
+      "id": 1395140,
+      "original_language": "ja",
+      "original_title": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+      "overview": "The story follows Lupin and his team as they seek a treasure on a mysterious unmarked island.",
+      "popularity": 0.7677,
+      "poster_path": "/hKHWpuYxHVUC9vArDqmBPMYcgbR.jpg",
+      "release_date": "2025-06-27",
+      "title": "Lupin III: The Movie - La stirpe immortale",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1
+    }
   }
 ]
