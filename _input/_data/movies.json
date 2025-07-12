@@ -5390,5 +5390,38 @@
       "vote_average": 10,
       "vote_count": 1
     }
+  },
+  {
+    "title": "Scarlet",
+    "slug": "scarlet",
+    "lastSourceDate": "2025-07-12T06:26:47.000Z",
+    "sources": [
+      {
+        "url": "https://www.mangaforever.net/arriva-nei-cinema-italiani-scarlet-il-nuovo-film-di-mamoru-hosoda/",
+        "title": "Arriva nei cinema italiani Scarlet, il nuovo film di Mamoru Hosoda",
+        "description": "News Anime Eleonora Masala 12/07/2025   Mamoru Hosoda, il regista che ha firmato film come Belle e The Boy and the Beast, porterà il suo nuovo lavoro anche in Italia. Scarlet arriverà al cinema nel 2026,...",
+        "publishedDate": "2025-07-12T06:26:47.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/g03h9TULzJZOoXA34Abp5LE7lvt.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "id": 876792,
+      "original_language": "ja",
+      "original_title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+      "overview": "L'operaio Mikami Satoru viene pugnalato da un assassino casuale e rinasce in un mondo alternativo. Ma si scopre che è rinato un viscido! Gettato in questo nuovo mondo con il nome di Rimuru, inizia la sua ricerca per creare un mondo che sia accogliente per tutte le razze.",
+      "popularity": 3.0246,
+      "poster_path": "/xITip9n9uMAUA0TU6niMXU2tbh0.jpg",
+      "release_date": "2022-11-25",
+      "title": "That Time I Got Reincarnated as a Slime Movie",
+      "video": false,
+      "vote_average": 7.379,
+      "vote_count": 413
+    }
   }
 ]
