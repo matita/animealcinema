@@ -5430,5 +5430,39 @@
       "vote_count": 413
     },
     "theaterReleaseDate": "2026"
+  },
+  {
+    "title": "Lupin The IIIRD – La Stirpe Immortale",
+    "slug": "lupin-the-iiird-la-stirpe-immortale",
+    "lastSourceDate": "2025-07-13T06:27:13.000Z",
+    "theaterReleaseDate": "2025-09-21",
+    "sources": [
+      {
+        "url": "https://www.justnerd.it/lupin-iii-torna-al-cinema-e-in-streaming-con-due-nuovi-film/",
+        "title": "Lupin III torna al cinema (e in streaming) con due nuovi film - Justnerd.it",
+        "description": "Il ladro gentiluomo più famoso dell’animazione giapponese si prepara a un doppio colpo questo autunno: Anime Factory porta in Italia due nuovi capitoli firmati Takeshi Koike: Lupin The IIIRD – The Movie: La...",
+        "publishedDate": "2025-07-13T06:27:13.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4zh2QNUFoVwfnOeppEKWPXGmg0y.jpg",
+      "genre_ids": [
+        16,
+        28,
+        80
+      ],
+      "id": 1395140,
+      "original_language": "ja",
+      "original_title": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+      "overview": "The story follows Lupin and his team as they seek a treasure on a mysterious unmarked island.",
+      "popularity": 0.6092,
+      "poster_path": "/hKHWpuYxHVUC9vArDqmBPMYcgbR.jpg",
+      "release_date": "2025-06-27",
+      "title": "Lupin III: The Movie - La stirpe immortale",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1
+    }
   }
 ]
