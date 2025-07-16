@@ -5320,13 +5320,19 @@
   {
     "title": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising",
     "slug": "puella-magi-madoka-magica-the-movie-walpurgisnacht-rising",
-    "lastSourceDate": "2025-07-05T00:00:00.000Z",
+    "lastSourceDate": "2025-07-15T00:00:00.000Z",
     "sources": [
       {
         "url": "https://www.animeclick.it/news/107490-dynit-madoka-magica-walpurgisnacht-rising-arrivera-al-cinema-in-italia",
         "title": "Dynit: Madoka Magica -Walpurgisnacht: Rising- arriverà al cinema in Italia",
         "description": "Riportiamo il comunicato dell'editore:Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-PROSSIMAMENTE AL CINEMAAniplex presenta Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising- sequel...",
         "publishedDate": "2025-07-05T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/107611-madoka-magica-walpurgisnacht-rising-arrivera-a-febbraio-del-2026",
+        "title": "Madoka Magica -Walpurgisnacht: Rising- arriverà a febbraio del 2026",
+        "description": "È stato diffuso un nuovo video promozionale di Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising-, sequel ufficiale del terzo film del franchise, Puella Magi Madoka Magica - La storia della...",
+        "publishedDate": "2025-07-15T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5349,7 +5355,8 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    }
+    },
+    "theaterReleaseDate": "2026-02-01"
   },
   {
     "title": "Lupin The IIIRD – The Movie: La Stirpe Immortale",
