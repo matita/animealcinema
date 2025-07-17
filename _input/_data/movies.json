@@ -5477,5 +5477,80 @@
       "vote_average": 10,
       "vote_count": 1
     }
+  },
+  {
+    "title": "Metropolis",
+    "slug": "metropolis",
+    "lastSourceDate": "2025-07-17T14:00:00.000Z",
+    "theaterReleaseDate": "2025-10-13",
+    "theaterEndDate": "2025-10-15",
+    "sources": [
+      {
+        "url": "https://fumettologica.it/2025/07/metropolis-otomo-cinema-anime/",
+        "title": "“Metropolis”, l'anime scritto da Otomo, al cinema per soli 3 giorni",
+        "description": "Metropolis, il film d’animazione scritto da Katsuhiro Otomo (Akira), sarà proiettato nei cinema italiani il 13, 14 e 15 ottobre in versione restaurata. Le prevendite saranno aperte dal 18 settembre mentre...",
+        "publishedDate": "2025-07-17T13:59:13.000Z"
+      },
+      {
+        "url": "https://cpop.it/notizie/metropolis-di-rintaro-e-katushiro-otomo-nei-cinema-in-italia",
+        "title": "Metropolis di Rintarō e Katushiro Ōtomo nei cinema in Italia",
+        "description": "Dopo il successo travolgente della riedizione di Akira, che ha attirato oltre 55.000 spettatori, arriva nelle sale italiane un altro tassello fondamentale dell’animazione giapponese: Metropolis. Tratto dal...",
+        "publishedDate": "2025-07-17T14:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 19,
+      "original_language": "de",
+      "original_title": "Metropolis",
+      "overview": "Nel 2026 in una megalopoli a due livelli gli operai che lavorano come schiavi nei sotterranei sono incitati alla rivolta da un robot femmineo che riproduce le fattezze di una di loro, la mite e pia Maria. L'ha costruito uno scienziato al servizio dei padroni che vuole vendicarsi del potente John Fredersen, dominatore della città. La rivolta provoca un'inondazione che colpisce i quartieri operai finché, sollecitato da Maria, Freder, figlio di Fredersen, fa da mediatore tra padroni e operai. È nato un nuovo patto sociale. Realizzato nel 1926 a costi così alti che rischiarono di far fallire la UFA, fu proiettato a Berlino il 10-1-1927. Ne esistono varie copie, ciascuna diversa dall'altra per durata e montaggio.",
+      "popularity": 4.8998,
+      "poster_path": "/b9IVtOO89Ays4v0eWfADQ4Lq3wZ.jpg",
+      "release_date": "1927-02-06",
+      "title": "Metropolis",
+      "video": false,
+      "vote_average": 8.105,
+      "vote_count": 2897
+    }
+  },
+  {
+    "title": "Tokyo Godfathers",
+    "slug": "tokyo-godfathers",
+    "lastSourceDate": "2025-07-17T14:00:00.000Z",
+    "theaterReleaseDate": "2025-11-24",
+    "theaterEndDate": "2025-11-26",
+    "sources": [
+      {
+        "url": "https://cpop.it/notizie/metropolis-di-rintaro-e-katushiro-otomo-nei-cinema-in-italia",
+        "title": "Metropolis di Rintarō e Katushiro Ōtomo nei cinema in Italia",
+        "description": "Dopo il successo travolgente della riedizione di Akira, che ha attirato oltre 55.000 spettatori, arriva nelle sale italiane un altro tassello fondamentale dell’animazione giapponese: Metropolis. Tratto dal...",
+        "publishedDate": "2025-07-17T14:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 13398,
+      "original_language": "ja",
+      "original_title": "東京ゴッドファーザーズ",
+      "overview": "Tre senzatetto trovano una neonata abbandonata la vigilia di Natale e partono alla ricerca dei genitori, incontrando lungo la via una sfilza di strani personaggi.",
+      "popularity": 2.2477,
+      "poster_path": "/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg",
+      "release_date": "2003-12-05",
+      "title": "Tokyo Godfathers",
+      "video": false,
+      "vote_average": 7.92,
+      "vote_count": 1363
+    }
   }
 ]
