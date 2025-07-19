@@ -4863,7 +4863,7 @@
   {
     "title": "Demon Slayer: Il castello dell'infinito (Akaza Sairai / Il ritorno di Akaza)",
     "slug": "demon-slayer-il-castello-dellinfinito-akaza-sairai-il-ritorno-di-akaza",
-    "lastSourceDate": "2025-06-29T00:00:00.000Z",
+    "lastSourceDate": "2025-07-19T00:00:00.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -4871,6 +4871,12 @@
         "title": "Demon Slayer - Il castello dell'Infinito: trailer ufficiale del  nuovo capitolo",
         "description": "Al seguito di una nuova trasmissione del film Demon Slayer: Il treno Mugen sulla Fuji TV, è andato anche in onda il trailer completo della pellicola successiva ovvero Demon Slayer: Il castello dell'infinito...",
         "publishedDate": "2025-06-29T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/107617-demon-slayer-il-castello-dellinfinito-debutta-il-film-e-a-shinjuku-aprono-le-porte-dellinferno",
+        "title": "Demon Slayer: Il castello dell'infinito - Debutta il film e a Shinjuku aprono le porte dell'inferno",
+        "description": "Grande era in Giappone l'attesa per l'uscita del film Demon Slayer: Il castello dell'infinito (Akaza Sairai / Il ritorno di Akaza), il primo capitolo della trilogia cinematografica che completerà...",
+        "publishedDate": "2025-07-19T00:00:00.000Z"
       }
     ]
   },
@@ -5611,6 +5617,40 @@
       "video": false,
       "vote_average": 7.92,
       "vote_count": 1363
+    }
+  },
+  {
+    "title": "Immortal Bloodline",
+    "slug": "immortal-bloodline",
+    "lastSourceDate": "2025-07-19T08:15:50.000Z",
+    "theaterReleaseDate": "2025-12-01",
+    "sources": [
+      {
+        "url": "https://www.mangaforever.net/zenigata-e-i-due-lupin/",
+        "title": "Zenigata e i Due Lupin arriva in Italia questo autunno",
+        "description": "News Anime Eleonora Masala 19/07/2025   Questo autunno vedremo in Italia Zenigata e i Due Lupin, OAV diretto da Takeshi Koike e pensato come prequel al film Immortal Bloodline, anch’esso in arrivo nello...",
+        "publishedDate": "2025-07-19T08:15:50.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4zh2QNUFoVwfnOeppEKWPXGmg0y.jpg",
+      "genre_ids": [
+        16,
+        28,
+        80
+      ],
+      "id": 1395140,
+      "original_language": "ja",
+      "original_title": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+      "overview": "The story follows Lupin and his team as they seek a treasure on a mysterious unmarked island.",
+      "popularity": 0.215,
+      "poster_path": "/hKHWpuYxHVUC9vArDqmBPMYcgbR.jpg",
+      "release_date": "2025-06-27",
+      "title": "Lupin III: The Movie - La stirpe immortale",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1
     }
   }
 ]
