@@ -5720,5 +5720,61 @@
       "vote_average": 8.2,
       "vote_count": 5
     }
+  },
+  {
+    "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
+    "slug": "jujutsu-kaisen-hidden-inventory-premature-death-the-movie",
+    "lastSourceDate": "2025-07-21T16:08:51.000Z",
+    "theaterReleaseDate": "2025-08-25",
+    "theaterEndDate": "2025-08-27",
+    "sources": [
+      {
+        "url": "https://www.akibagamers.it/21-07-2025/jujutsu-kaisen-hidden-inventory-premature-death-the-movie-arriva-al-cinema/",
+        "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie arriva al cinema",
+        "description": "Sony Pictures e Crunchyroll annunciano l’arrivo nei cinema italiani di JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie. Il film va a condensare al suo interno l’arco narrativo che racconta la...",
+        "publishedDate": "2025-07-21T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.justnerd.it/jujutsu-kaisen-il-film-hidden-inventory-premature-death-arriva-nei-cinema-italiani-ad-agosto/",
+        "title": "Jujutsu Kaisen: il film “Hidden Inventory / Premature Death” arriva nei cinema italiani ad agosto - Justnerd.it",
+        "description": "Segnate le date sul calendario e tenete pronte le maledizioni: il film Jujutsu Kaisen: Hidden Inventory / Premature Death – The Movie arriva finalmente nei cinema italiani, ma solo per tre giorni, dal 25 al...",
+        "publishedDate": "2025-07-21T16:08:51.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1338799,
+      "original_language": "ja",
+      "original_title": "劇場版総集編 呪術廻戦 懐玉・玉折",
+      "overview": "Pursued by a religious cult and other curse users, former friends Satoru Gojo and Suguru Geto are the only sorcerers capable of carrying the difficult task of protecting Riko Amanai, a student who has been designated to be sacrificed as the Star Plasma Vessel, until she can fulfill her duty.",
+      "popularity": 13.5442,
+      "poster_path": "/jHeBCMom4fJK2f6KCnpuTODWpla.jpg",
+      "release_date": "2025-05-30",
+      "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 5
+    }
+  },
+  {
+    "title": "JUJUTSU KAISEN: Il viaggio del duo più forte. Finché tutto si sgretola.",
+    "slug": "jujutsu-kaisen-il-viaggio-del-duo-piu-forte-finche-tutto-si-sgretola",
+    "lastSourceDate": "2025-07-21T00:00:00.000Z",
+    "theaterReleaseDate": "2025-08-25",
+    "theaterEndDate": "2025-08-27",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/107671-jujutsu-kaisen-hidden-inventorypremature-death-arriva-al-cinema-in-italia",
+        "title": "Jujutsu Kaisen: Hidden Inventory/Premature Death arriva al cinema in Italia",
+        "description": "Riportiamo il comunicato giunto in redazione:SONY PICTURES ITALIA è lieta di presentarvi:🔥 Il viaggio del duo più forte. Finché tutto si sgretola. 🔥25-26-27 AGOSTO SOLOALCINEMAPrima che diventassero nemici,...",
+        "publishedDate": "2025-07-21T00:00:00.000Z"
+      }
+    ]
   }
 ]
