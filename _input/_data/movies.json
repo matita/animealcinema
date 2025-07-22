@@ -5748,7 +5748,7 @@
   {
     "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
     "slug": "jujutsu-kaisen-hidden-inventory-premature-death-the-movie",
-    "lastSourceDate": "2025-07-22T12:31:18.000Z",
+    "lastSourceDate": "2025-07-22T15:00:42.000Z",
     "theaterReleaseDate": "2025-08-25",
     "theaterEndDate": "2025-08-27",
     "sources": [
@@ -5775,6 +5775,12 @@
         "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death – The Movie uscirà in Italia il 25 agosto",
         "description": "Sarà disponibile nei cinema per tre giorni.                                                    Aggiornato:: Martedì 22 Luglio 2025...",
         "publishedDate": "2025-07-22T12:31:18.000Z"
+      },
+      {
+        "url": "https://www.nerdevil.it/2025/07/22/jujutsu-kaisen-hidden-inventory-premature-death-uscita-italia/",
+        "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death nei cinema italiani ad agosto | Nerdevil",
+        "description": "Segui Nerdevil su Telegram! L’emozionante arco narrativo “Hidden Inventory / Premature Death” di Jujutsu Kaisen arriva sul grande schermo, per la gioia di vecchi e nuovi fan. Sony Pictures e...",
+        "publishedDate": "2025-07-22T15:00:42.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5812,5 +5818,40 @@
         "publishedDate": "2025-07-21T00:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "JUJUTSU KAISEN",
+    "slug": "jujutsu-kaisen",
+    "lastSourceDate": "2025-07-21T00:00:00.000Z",
+    "theaterReleaseDate": "2025-08-25",
+    "theaterEndDate": "2025-08-27",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/107671-jujutsu-kaisen-hidden-inventorypremature-death-arriva-al-cinema-in-italia",
+        "title": "Jujutsu Kaisen: Hidden Inventory/Premature Death arriva al cinema in Italia",
+        "description": "Riportiamo il comunicato giunto in redazione:SONY PICTURES ITALIA è lieta di presentarvi:🔥 Il viaggio del duo più forte. Finché tutto si sgretola. 🔥25-26-27 AGOSTO SOLOALCINEMAPrima che diventassero nemici,...",
+        "publishedDate": "2025-07-21T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1338799,
+      "original_language": "ja",
+      "original_title": "劇場版総集編 呪術廻戦 懐玉・玉折",
+      "overview": "Pursued by a religious cult and other curse users, former friends Satoru Gojo and Suguru Geto are the only sorcerers capable of carrying the difficult task of protecting Riko Amanai, a student who has been designated to be sacrificed as the Star Plasma Vessel, until she can fulfill her duty.",
+      "popularity": 13.3618,
+      "poster_path": "/jHeBCMom4fJK2f6KCnpuTODWpla.jpg",
+      "release_date": "2025-05-30",
+      "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 5
+    }
   }
 ]
