@@ -5903,5 +5903,39 @@
       "vote_average": 8.2,
       "vote_count": 5
     }
+  },
+  {
+    "title": "L’uovo dell’angelo",
+    "slug": "luovo-dellangelo",
+    "lastSourceDate": "2025-08-11T08:24:31.000Z",
+    "theaterReleaseDate": "2025-08-11",
+    "sources": [
+      {
+        "url": "https://www.drcommodore.it/2025/08/11/patlabor-film-4k/",
+        "title": "Patlabor: i primi due film della saga riceveranno una rimasterizzazione 4K",
+        "description": "Quest’anno arriverà per la prima volta nei cinema italiani L’uovo dell’angelo di Mamoru Oshii, in una versione rimasterizzata in 4K, mentre in Giappone altri due film dell’apprezzato regista riceveranno quel...",
+        "publishedDate": "2025-08-11T08:24:31.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/nZn384qWYugXu6U1N8Ya0Iv0NXE.jpg",
+      "genre_ids": [
+        16,
+        14,
+        9648
+      ],
+      "id": 15916,
+      "original_language": "ja",
+      "original_title": "天使のたまご",
+      "overview": "Una misteriosa ragazzina con un grande uovo si incontra con un soldato con il quale si scambia alcuni scomodi segreti in una solitaria, bellissima e surreale landa popolata solo da ombre irrequiete.",
+      "popularity": 2.8422,
+      "poster_path": "/dRUB7sDcedqatDfyuRqyQulmW97.jpg",
+      "release_date": "1985-12-22",
+      "title": "L'uovo dell'angelo",
+      "video": false,
+      "vote_average": 7.754,
+      "vote_count": 451
+    }
   }
 ]
