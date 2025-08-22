@@ -5974,5 +5974,40 @@
       "vote_count": 451
     },
     "theaterEndDate": "2025"
+  },
+  {
+    "title": "Chainsaw Man – Reze Arc",
+    "slug": "chainsaw-man-reze-arc",
+    "lastSourceDate": "2025-08-22T09:02:06.000Z",
+    "theaterReleaseDate": "2025-10-30",
+    "sources": [
+      {
+        "url": "https://www.mangaforever.net/chainsaw-man-reze-arc-il-film-durera-circa-1-ora-e-40-minuti/",
+        "title": "Chainsaw Man: Reze Arc – il film durerà circa 1 ora e 40 minuti",
+        "description": "News Anime Eleonora Masala 22/08/2025   Il mondo di Chainsaw Man si prepara a vivere una nuova esperienza cinematografica. Il film Chainsaw Man – Reze Arc avrà una durata di circa un’ora e quaranta minuti....",
+        "publishedDate": "2025-08-22T09:02:06.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "genre_ids": [
+        16,
+        28,
+        27,
+        14
+      ],
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "チェンソーマン レゼ篇",
+      "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+      "popularity": 3.806,
+      "poster_path": "/mxgDa8Tdkaa3YzuQY9wu4VTtky1.jpg",
+      "release_date": "2025-09-19",
+      "title": "Chainsaw Man – The Movie: Reze Arc",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   }
 ]
