@@ -3864,7 +3864,7 @@
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Il Castello dell'Infinito",
     "slug": "demon-slayer-kimetsu-no-yaiba-il-castello-dellinfinito",
-    "lastSourceDate": "2025-08-12T10:03:42.000Z",
+    "lastSourceDate": "2025-08-28T14:30:16.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -3968,6 +3968,12 @@
         "title": "Demon Slayer - Il Castello dell'Infinito: novità per il film in arrivo l'11 settembre",
         "description": "Diverse sono le novità relative a Demon Slayer: Kimetsu no Yaiba - Il Castello dell'Infinito, il primo film della trilogia che adatterà l'arco finale del manga di Koyoharu Gotouge. Le pellicola sta in queste...",
         "publishedDate": "2025-08-12T00:00:00.000Z"
+      },
+      {
+        "url": "https://libreriamo.it/intrattenimento/al-cinema-settembre-2025-film-attesi/",
+        "title": "Al cinema a Settembre 2025 i film più attesi da vedere senza scuse",
+        "description": "Dopo l’estate, quando spesso le sale si svuotano e le piattaforme digitali prendono il sopravvento, la nuova stagione cinematografica riporta pubblico e storie sul grande schermo. Quest’anno il calendario...",
+        "publishedDate": "2025-08-28T14:30:16.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6035,5 +6041,38 @@
         "publishedDate": "2025-08-26T16:34:00.000Z"
       }
     ]
+  },
+  {
+    "title": "Jujutsu Kaisen Hidden Inventory/Premature Death Arc",
+    "slug": "jujutsu-kaisen-hidden-inventorypremature-death-arc",
+    "lastSourceDate": "2025-08-28T05:57:24.000Z",
+    "sources": [
+      {
+        "url": "https://cineguru.screenweek.it/2025/08/i-puffi-debutta-in-testa-il-box-office-di-mercoledi-27-agosto-47124/",
+        "title": "I Puffi debutta in testa - Il box office di mercoledì 27 agosto - CineGuru",
+        "description": "Il film family precede Troppo cattivi 2 e l’anime Jujutsu Kaisen Hidden. Tante novità in top 10                                                                                                    Con la...",
+        "publishedDate": "2025-08-28T05:57:24.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1338799,
+      "original_language": "ja",
+      "original_title": "劇場版総集編 呪術廻戦 懐玉・玉折",
+      "overview": "Prima che diventassero nemici, Satoru Gojo e Suguru Geto erano compagni di classe e amici. A questi due potenti stregoni viene affidato il compito di proteggere Riko Amanai, una studentessa destinata a diventare il Ventre del Fluido Astrale, fino al giorno in cui dovrà compiere il suo dovere. Con una setta religiosa e degli stregoni neri alle calcagna, Gojo e Geto sono gli unici in grado di portare a termine un compito così arduo, ma questa missione segnerà i loro destini e li metterà alla prova in modi inimmaginabili.",
+      "popularity": 11.6638,
+      "poster_path": "/r7O1kG4EipX7UmKMiTmLQ6Fimsv.jpg",
+      "release_date": "2025-05-30",
+      "title": "Jujutsu Kaisen Hidden Inventory/Premature Death Arc",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 14
+    }
   }
 ]
