@@ -6074,5 +6074,72 @@
       "vote_average": 7.9,
       "vote_count": 14
     }
+  },
+  {
+    "title": "Meguru",
+    "slug": "meguru",
+    "lastSourceDate": "2025-08-28T00:00:00.000Z",
+    "theaterReleaseDate": "2024-04-15",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/107546-welcome-live-action-le-novita-streaming-di-agosto-27-08-2025",
+        "title": "Welcome Live Action: le novità streaming di agosto (27-08-2025)",
+        "description": "Avere la curiosità di vedere qualche drama o film giapponese... ma non sapere come o dove reperire i sottotitoli in italiano. Rilassarsi un momento sul divano col desiderio di guardarsi qualcosa in TV, avendo...",
+        "publishedDate": "2025-08-28T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/7ROLVPRnIMhgEt3CsjuvB1PDL8l.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1006466,
+      "original_language": "ja",
+      "original_title": "歌麿をめぐる五人の女",
+      "overview": "Kitagawa Utamaro is a famous ukiyo-e artist known for his paintings of beautiful women. The courtesan who became his model became even more popular. Ocho, a resident of an apartment building, hears about this and secretly plans to follow Otose, the owner of Mizuta-ya, who became famous as Utamaro's model. At this time, the Kano school, headed by Kano Eikawa, which was under the control of the shogunate, is dissatisfied with Utamaro's fame and tries to compromise him…",
+      "popularity": 1.9153,
+      "poster_path": "/cWq0xAWW3gyZq3pchcCu2aCFGq4.jpg",
+      "release_date": "1959-10-11",
+      "title": "Utamaro, Painter of the Woman",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
+    "title": "Takano Tofu",
+    "slug": "takano-tofu",
+    "lastSourceDate": "2025-08-28T00:00:00.000Z",
+    "theaterReleaseDate": "2024-11-10",
+    "theaterEndDate": "2025-01-15",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/107546-welcome-live-action-le-novita-streaming-di-agosto-27-08-2025",
+        "title": "Welcome Live Action: le novità streaming di agosto (27-08-2025)",
+        "description": "Avere la curiosità di vedere qualche drama o film giapponese... ma non sapere come o dove reperire i sottotitoli in italiano. Rilassarsi un momento sul divano col desiderio di guardarsi qualcosa in TV, avendo...",
+        "publishedDate": "2025-08-28T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/zgWX7NNZEjqRXIapEFiB9WtzYHv.jpg",
+      "genre_ids": [
+        10751,
+        18
+      ],
+      "id": 1167490,
+      "original_language": "ja",
+      "original_title": "高野豆腐店の春",
+      "overview": "Tatsuo e sua figlia Haru gestiscono il Takano Tofu Store a Onomichi. Quando Tatsuo scopre di essere malato, teme che sua figlia venga lasciata sola e, all' insaputa della ragazza, si propone di trovare un partner per Haru.",
+      "popularity": 1.809,
+      "poster_path": "/okYgaytwvw6iGGIoItUPupNUcvT.jpg",
+      "release_date": "2023-08-23",
+      "title": "Tofu in Japan. La ricetta segreta del Signor Takano",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 11
+    }
   }
 ]
