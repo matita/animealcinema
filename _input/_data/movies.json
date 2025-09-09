@@ -6179,5 +6179,40 @@
         "publishedDate": "2025-09-08T12:34:26.000Z"
       }
     ]
+  },
+  {
+    "title": "Ne Zha – L’ascesa del guerriero di fuoco",
+    "slug": "ne-zha-lascesa-del-guerriero-di-fuoco",
+    "lastSourceDate": "2025-09-09T08:38:59.000Z",
+    "theaterReleaseDate": "2025-11-06",
+    "sources": [
+      {
+        "url": "https://pressview.it/ne-zha-lascesa-del-guerriero-di-fuoco-lanime-piu-visto-al-mondo-arriva-in-italia-il-teaser/",
+        "title": "Ne Zha – L'ascesa del guerriero di fuoco, l'anime più visto al mondo arriva in Italia: il teaser",
+        "description": "Dopo aver conquistato il box office internazionale con incassi da record, Ne Zha – L’ascesa del guerriero di fuoco, anime che ha affascinato milioni di spettatori in tutto il mondo, arriva anche nelle sale...",
+        "publishedDate": "2025-09-09T08:38:59.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12,
+        28
+      ],
+      "id": 980477,
+      "original_language": "zh",
+      "original_title": "哪吒之魔童闹海",
+      "overview": "Ne Zha, un giovane ribelle dai poteri sovrannaturali, stringe un’alleanza instabile con il principe dei draghi, Ao Bing, in una battaglia epica per proteggere i loro rispettivi clan. Ma dopo lo scontro, i loro corpi sono sull’orlo della distruzione. Ne Zha deve così intraprendere una pericolosa missione alla ricerca di un elisir capace di salvare il corpo di Ao Bing. Durante questo viaggio tra mostri epici e leggende, Ne Zha scoprirà una cospirazione che minaccia di scatenare una guerra devastante tra il bene e il male — e dovrà affrontare forze oscure e inganni per proteggere ciò che ha di più caro.",
+      "popularity": 83.6132,
+      "poster_path": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+      "release_date": "2025-01-29",
+      "title": "Ne Zha - L'ascesa del guerriero di fuoco",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 350
+    }
   }
 ]
