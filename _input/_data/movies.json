@@ -4394,7 +4394,27 @@
         "description": "Durante il Panel dello Studio MAPPA all’Anime Expo, è stato reso disponibile un nuovo trailer di Chainsaw Man Il Film, sequel dell’anime tratto dall’omonimo manga di Tatsuki Fujimoto, che adatterà il \"Reze...",
         "publishedDate": "2025-07-04T00:00:00.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "チェンソーマン レゼ篇",
+      "overview": "Denji è diventato Chainsaw Man, il ragazzo con il cuore del demone Pochita, ed è entrato nella Quarta divisione speciale dei Devil Hunters. Dopo un appuntamento con Makima, la ragazza dei suoi sogni, Denji cerca riparo per la pioggia. Lì incontra Reze, una ragazza che lavora in un bar.",
+      "popularity": 4.9334,
+      "poster_path": "/mxgDa8Tdkaa3YzuQY9wu4VTtky1.jpg",
+      "release_date": "2025-09-19",
+      "title": "Chainsaw Man - Il film: La storia di Reze",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   },
   {
     "title": "Chainsaw Man",
@@ -5269,7 +5289,27 @@
         "description": "Segui Nerdevil su Telegram! A distanza di ben tre anni dalla serie televisiva, l’anime di Chainsaw Man prosegue al cinema con un film che adatta tutto l’arco narrativo di Reze, il nuovo esplosivo interesse...",
         "publishedDate": "2025-07-04T10:46:17.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "チェンソーマン レゼ篇",
+      "overview": "Denji è diventato Chainsaw Man, il ragazzo con il cuore del demone Pochita, ed è entrato nella Quarta divisione speciale dei Devil Hunters. Dopo un appuntamento con Makima, la ragazza dei suoi sogni, Denji cerca riparo per la pioggia. Lì incontra Reze, una ragazza che lavora in un bar.",
+      "popularity": 4.9334,
+      "poster_path": "/mxgDa8Tdkaa3YzuQY9wu4VTtky1.jpg",
+      "release_date": "2025-09-19",
+      "title": "Chainsaw Man - Il film: La storia di Reze",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   },
   {
     "title": "Oceania 2",
@@ -6064,7 +6104,27 @@
         "description": "In attesa di Chainsaw Man - Il Film: La storia di Reze, in arrivo al cinema dal 30 ottobre, la piattaforma Crunchyroll votata agli anime presenta i due film riassuntivi della prima stagione, Chainsaw Man - The Compilation Parte 1 e Chainsaw Man - The Compilation Parte 2.",
         "publishedDate": "2025-08-26T16:34:00.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "チェンソーマン レゼ篇",
+      "overview": "Denji è diventato Chainsaw Man, il ragazzo con il cuore del demone Pochita, ed è entrato nella Quarta divisione speciale dei Devil Hunters. Dopo un appuntamento con Makima, la ragazza dei suoi sogni, Denji cerca riparo per la pioggia. Lì incontra Reze, una ragazza che lavora in un bar.",
+      "popularity": 4.9334,
+      "poster_path": "/mxgDa8Tdkaa3YzuQY9wu4VTtky1.jpg",
+      "release_date": "2025-09-19",
+      "title": "Chainsaw Man - Il film: La storia di Reze",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   },
   {
     "title": "Jujutsu Kaisen Hidden Inventory/Premature Death Arc",
