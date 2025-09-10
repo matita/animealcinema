@@ -6095,7 +6095,7 @@
   {
     "title": "Chainsaw Man - Il Film: La storia di Reze",
     "slug": "chainsaw-man-il-film-la-storia-di-reze",
-    "lastSourceDate": "2025-08-26T16:34:00.000Z",
+    "lastSourceDate": "2025-09-10T15:27:06.000Z",
     "theaterReleaseDate": "2025-10-30",
     "sources": [
       {
@@ -6103,6 +6103,12 @@
         "title": "Chainsaw Man - The Compilation 1 e 2: i film anime riassuntivi su Crunchyroll in streaming",
         "description": "In attesa di Chainsaw Man - Il Film: La storia di Reze, in arrivo al cinema dal 30 ottobre, la piattaforma Crunchyroll votata agli anime presenta i due film riassuntivi della prima stagione, Chainsaw Man - The Compilation Parte 1 e Chainsaw Man - The Compilation Parte 2.",
         "publishedDate": "2025-08-26T16:34:00.000Z"
+      },
+      {
+        "url": "https://cinecittanews.it/chainsaw-man-il-celebre-anime-debutta-al-cinema/",
+        "title": "Chainsaw Man, il celebre anime debutta al cinema",
+        "description": "Diretto da Tatsuya Yoshihara, 'Chainsaw Man - Il Film: La storia di Reze' uscirà nei cinema italiani dal 23 ottobreSony Pictures ha diffuso il trailer del primo film tratto dal popolarissimo manga e anime...",
+        "publishedDate": "2025-09-10T15:27:06.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6273,6 +6279,41 @@
       "video": false,
       "vote_average": 8,
       "vote_count": 350
+    }
+  },
+  {
+    "title": "Demon Slayer - Kimetsu no Yaiba- The Movie: Infinity Castle",
+    "slug": "demon-slayer-kimetsu-no-yaiba-the-movie-infinity-castle",
+    "lastSourceDate": "2025-09-10T14:25:03.199Z",
+    "theaterReleaseDate": "2025-09-11",
+    "sources": [
+      {
+        "url": "https://tg24.sky.it/spettacolo/cinema/2025/09/10/demon-slayer-infinity-castle-film",
+        "title": "Demon Slayer -Kimetsu no Yaiba-The Movie: Infinity Castle, cosa sapere",
+        "description": "Introduzione    Demon Slayer - Kimetsu no Yaiba- The Movie: Infinity Castle, in italiano tradotto Demon Slayer: Il castello dell’infinito, è reduce dal record al botteghino in Giappone e sta per arrivare...",
+        "publishedDate": "2025-09-10T14:25:03.199Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
+      "popularity": 279.2728,
+      "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 104
     }
   }
 ]
