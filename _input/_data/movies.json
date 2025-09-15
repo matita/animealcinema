@@ -3870,7 +3870,7 @@
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Il Castello dell'Infinito",
     "slug": "demon-slayer-kimetsu-no-yaiba-il-castello-dellinfinito",
-    "lastSourceDate": "2025-09-12T08:29:52.000Z",
+    "lastSourceDate": "2025-09-15T10:11:00.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -4022,6 +4022,18 @@
         "title": "Demon Slayer, esordio strepitoso per Il Castello dell’Infinito al box office italiano - Box Office",
         "description": "Il nuovo capitolo distribuito nelle sale da Eagle Pictures ha superato in un solo giorno i dati d'incasso dei precedenti film della saga anime giapponeseIl ritorno di Demon Slayer – Kimetsu no Yaiba al cinema...",
         "publishedDate": "2025-09-12T09:50:01.000Z"
+      },
+      {
+        "url": "https://www.dituttounpop.it/box-office-italia-al-14-settembre-weekend-e-settimana-domina-damon-slayer/",
+        "title": "Box Office Italia al 14 settembre, weekend e settimana",
+        "description": "Il Box office Italia al 14 settembre ha un dominatore nell’anime Demon Slayer – Kimetsu No Yaiba: Il castello dell’infinito, un titolo molto popolare al punto che invece delle classiche uscite speciali è...",
+        "publishedDate": "2025-09-15T08:15:52.000Z"
+      },
+      {
+        "url": "https://www.comingsoon.it/cinema/news/demon-slayer-il-castello-dell-infinito-e-primo-al-boxoffice-italiano-del/n208024/",
+        "title": "Demon Slayer- Il Castello dell'Infinito è primo al boxoffice italiano del weekend, record negli USA",
+        "description": "Demon Slayer - Il Castello dell'Infinito debutta al primo posto del botteghino italiano del weekend, ma fa registare il più alto esordio di un anime negli USA. Al secondo e terzo posto da noi ci sono The Conjuring - Il rito finale e Material Love.",
+        "publishedDate": "2025-09-15T10:11:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6167,7 +6179,7 @@
   {
     "title": "Chainsaw Man - Il Film: La storia di Reze",
     "slug": "chainsaw-man-il-film-la-storia-di-reze",
-    "lastSourceDate": "2025-09-13T10:30:00.000Z",
+    "lastSourceDate": "2025-09-15T02:16:11.000Z",
     "theaterReleaseDate": "2025-10-30",
     "sources": [
       {
@@ -6211,6 +6223,12 @@
         "title": "Chainsaw Man - Il Film: La Storia di Reze, il trailer italiano dell'anime, al cinema dal 23 ottobre",
         "description": "Cruncyhroll e Sony Pictures portano al cinema dal 23 ottobre Chainsaw Man - Il Film: La Storia di Reze. Possiamo mostrarvi il trailer ufficiale in italian del lungometraggio firmato dallo studio MAPPA.",
         "publishedDate": "2025-09-13T10:30:00.000Z"
+      },
+      {
+        "url": "https://www.gamesource.it/movies/demon-slayer-il-castello-dellinfinito-conquista-il-box-office-italia-usa/",
+        "title": "Demon Slayer Il Castello dell'Infinito conquista il box office in Italia e negli USA - GameSource",
+        "description": "Demon Slayer Il Castello dell’Infinito si conferma ancora una volta un fenomeno globale, capace di fare la storia del cinema in ambito anime. Dopo aver sfondato ogni record in Giappone, la pellicola prodotta...",
+        "publishedDate": "2025-09-15T02:16:11.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6422,6 +6440,41 @@
       "video": false,
       "vote_average": 7.3,
       "vote_count": 104
+    }
+  },
+  {
+    "title": "Demon Slayer – Kimetsu No Yaiba: Il castello infinito",
+    "slug": "demon-slayer-kimetsu-no-yaiba-il-castello-infinito",
+    "lastSourceDate": "2025-09-15T07:51:50.000Z",
+    "theaterReleaseDate": "2025-09-11",
+    "sources": [
+      {
+        "url": "https://boxofficebiz.it/news/box-office-italia-incassi-sorprendenti-per-demon-slayer-kimetsu-no-yaiba-il-castello-infinito/",
+        "title": "Box office Italia: incassi sorprendenti per Demon Slayer – Kimetsu No Yaiba: Il castello infinito - Box Office",
+        "description": "Demon Slayer – Kimetsu No Yaiba: Il castello infinito è stato, indiscutibilmente, il protagonista di quest’ultimo weekend nei cinema italiani. L’anime – nuovo capitolo della saga tratta dal manga di Koyoharu...",
+        "publishedDate": "2025-09-15T07:51:50.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
+      "popularity": 780.4859,
+      "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "video": false,
+      "vote_average": 7.598,
+      "vote_count": 189
     }
   }
 ]
