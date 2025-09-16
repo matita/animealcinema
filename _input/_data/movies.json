@@ -3870,7 +3870,7 @@
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Il Castello dell'Infinito",
     "slug": "demon-slayer-kimetsu-no-yaiba-il-castello-dellinfinito",
-    "lastSourceDate": "2025-09-16T11:25:59.424Z",
+    "lastSourceDate": "2025-09-16T17:35:00.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -4063,6 +4063,12 @@
         "title": "Demon Slayer sbanca il box office italiano, battendo record su record",
         "description": "Demon Slayer: Kimetsu no Yaiba Il Castello dell’Infinito domina il botteghino del nostro Paese e vola a 353 milioni. L’animazione giapponese fa impazzire le sale nostrane    Il fenomeno anime si conferma...",
         "publishedDate": "2025-09-16T11:25:59.424Z"
+      },
+      {
+        "url": "https://www.hdblog.it/spettacolo/articoli/n631674/demon-slayer-castello-infinito-boxoffice/",
+        "title": "Kimetsu no Yaiba sbanca al cinema: debutto milionario per Il Castello dellInfinito",
+        "description": "l pubblico italiano ha accolto con entusiasmo Demon Slayer: Kimetsu no Yaiba – Il Castello dell’Infinito, il nuovo capitolo della saga anime più seguita degli ultimi anni. Nel suo primo fine settimana di...",
+        "publishedDate": "2025-09-16T17:35:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6548,6 +6554,7 @@
         "description": "Con più di 2.6 milioni di euro guadagnati in Italia, Demon Slayer: Il Castello dell'Infinito fa segnare un grande risultato al box office, seguono The Conjuring - Il rito finale e Material Love.",
         "publishedDate": "2025-09-15T10:53:43.000Z"
       }
-    ]
+    ],
+    "theaterReleaseDate": "2025-09-11"
   }
 ]
