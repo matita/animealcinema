@@ -4084,7 +4084,7 @@
   {
     "title": "Demon Slayer: Il Castello dell'Infinito",
     "slug": "demon-slayer-il-castello-dellinfinito",
-    "lastSourceDate": "2025-09-15T14:15:00.000Z",
+    "lastSourceDate": "2025-09-15T12:25:38.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -6220,7 +6220,7 @@
   {
     "title": "Chainsaw Man - Il Film: La storia di Reze",
     "slug": "chainsaw-man-il-film-la-storia-di-reze",
-    "lastSourceDate": "2025-09-15T02:16:11.000Z",
+    "lastSourceDate": "2025-09-15T00:00:00.000Z",
     "theaterReleaseDate": "2025-10-30",
     "sources": [
       {
@@ -6270,6 +6270,12 @@
         "title": "Demon Slayer Il Castello dell'Infinito conquista il box office in Italia e negli USA - GameSource",
         "description": "Demon Slayer Il Castello dell’Infinito si conferma ancora una volta un fenomeno globale, capace di fare la storia del cinema in ambito anime. Dopo aver sfondato ogni record in Giappone, la pellicola prodotta...",
         "publishedDate": "2025-09-15T02:16:11.000Z"
+      },
+      {
+        "url": "https://www.persemprenews.it/anime-fumetti/chainsaw-man-the-movie-reze-arc-in-italia-il-30-ottobre-2025/",
+        "title": "Chainsaw Man The Movie: Reze Arc in Italia il 30 Ottobre 2025 ",
+        "description": "15 Settembre 2025                                                 Lettura in    2 minChainsaw Man – Il Film: La Storia di Reze arriverà nelle sale italiane il 30 Ottobre 2025 dopo le uscite in...",
+        "publishedDate": "2025-09-15T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6517,5 +6523,19 @@
       "vote_average": 7.598,
       "vote_count": 189
     }
+  },
+  {
+    "title": "Damon Slayer: Il Castello dell’Infinito",
+    "slug": "damon-slayer-il-castello-dellinfinito",
+    "lastSourceDate": "2025-09-15T10:53:43.000Z",
+    "theaterEndDate": "2025-09-18",
+    "sources": [
+      {
+        "url": "https://www.4pareteita.it/2025/09/15/demon-slayer-il-castello-dellinfinito-incassi-box-office-italia/",
+        "title": "Demon Slayer: Il Castello dell'Infinito domina il box office in Italia, più di 2.6 milioni di incassi - Quart4 Parete",
+        "description": "Con più di 2.6 milioni di euro guadagnati in Italia, Demon Slayer: Il Castello dell'Infinito fa segnare un grande risultato al box office, seguono The Conjuring - Il rito finale e Material Love.",
+        "publishedDate": "2025-09-15T10:53:43.000Z"
+      }
+    ]
   }
 ]
