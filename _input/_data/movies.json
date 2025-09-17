@@ -6574,5 +6574,39 @@
       }
     ],
     "theaterReleaseDate": "2025-09-11"
+  },
+  {
+    "title": "Una tomba per le lucciole",
+    "slug": "una-tomba-per-le-lucciole",
+    "lastSourceDate": "2025-09-17T04:00:57.000Z",
+    "theaterReleaseDate": "2025-09-18",
+    "theaterEndDate": "2025-09-24",
+    "sources": [
+      {
+        "url": "https://www.taxidrivers.it/473524/review/in-sala/una-tomba-per-le-lucciole-illumina-i-cinema-italiani.html",
+        "title": "'Una tomba per le lucciole' illumina i cinema italiani",
+        "description": "Una tomba per le lucciole (Hotaru no haka) è uno dei più importanti e influenti film d’animazione giapponesi. Una storia toccante che intreccia momenti di poetica delicatezza al tragico destino di due fratelli e che fin dalla prima visione si imprime nella mente e nel cuore dello spettatore. Diretto da",
+        "publishedDate": "2025-09-17T04:00:57.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aL34lOl8LIYne86HxVahUT1yYNt.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 38473,
+      "original_language": "ja",
+      "original_title": "火垂るの墓",
+      "overview": "Il film è incentrato sulla storia di due fratelli, Setsuko e Seita, che vivono in Giappone durante la Seconda Guerra Mondiale.  Dopo la morte della madre, uccisa da un raid aereo, vengono ospitati a casa di alcuni parenti. Ma quando il conflitto inizia ad inasprirsi, i due bambini scappano dalla città, e trovano riparo in un'abitazione abbandonata.  In attesa della fine del conflitto, e del ritorno del padre (partito in guerra) i due bambini cercano di sopravvivere aiutandosi a vicenda.",
+      "popularity": 3.0285,
+      "poster_path": "/kQ29Tp6L43o1hVbyXxdtxAtLtZ3.jpg",
+      "release_date": "2008-07-05",
+      "title": "Tombstone of the Fireflies",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 15
+    }
   }
 ]
