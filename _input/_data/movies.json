@@ -3689,7 +3689,7 @@
   {
     "title": "Il ragazzo e l'airone",
     "slug": "il-ragazzo-e-lairone",
-    "lastSourceDate": "2025-04-22T08:44:20.000Z",
+    "lastSourceDate": "2025-09-18T09:30:00.000Z",
     "sources": [
       {
         "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
@@ -3702,6 +3702,12 @@
         "title": "A maggio torna al Cinema Massimo la rassegna critica dedicata agli Anime d'autore - afNews - Always Forward - Fumetto Animazione et al",
         "description": "Dal 5 al 26 maggio tornerà per il terzo anno consecutivo la rassegna torinese dedicata al cinema d’animazione giapponese. L’appuntamento, a cura di Alessandra Richetto, è ancora una volta presso al Cinema...",
         "publishedDate": "2025-04-22T08:44:20.000Z"
+      },
+      {
+        "url": "https://cinema.everyeye.it/notizie/film-incassano-cinema-demon-slayer-domina-numeri-box-office-828569.html",
+        "title": "Quali film incassano di più al cinema? Demon Slayer domina, i numeri dal box office",
+        "description": "Un nuovo weekend si sta avvicinando e i cinema sono pronti per tornare a riempirsi, anche sopratutto allo straordinario successo del nuovo film anime giapponese Demon Slayer: Il Castello dell'Infinito di...",
+        "publishedDate": "2025-09-18T09:30:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3824,7 +3830,7 @@
   {
     "title": "La tomba delle lucciole",
     "slug": "la-tomba-delle-lucciole",
-    "lastSourceDate": "2025-09-17T16:43:00.000Z",
+    "lastSourceDate": "2025-09-18T05:00:38.000Z",
     "sources": [
       {
         "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
@@ -3849,6 +3855,12 @@
         "title": "ANSA/ Weekend al cinema con gli italiani reduci da Venezia - Un film al giorno - Ansa.it",
         "description": "(di Giorgio Gosetti)   Undici film e una riedizione imperdibile: ecco l'offerta di titoli nelle sale italiane per questa settimana. In buona parte si tratta di proposte che hanno giocato d'anticipo come...",
         "publishedDate": "2025-09-17T16:43:00.000Z"
+      },
+      {
+        "url": "https://cinecittanews.it/la-tomba-delle-lucciole-oggi-piu-che-mai-un-capolavoro-che-tocca-il-cuore/",
+        "title": "‘La tomba delle lucciole’, un capolavoro che tocca il cuore",
+        "description": "Per Isao Takahata, maestro dell’animazione giapponese scomparso nel 2017, le grandi storie non pretendono dettagli: si imprimono nella memoria con la forza della loro epica. Lo ha spiegato lui stesso,...",
+        "publishedDate": "2025-09-18T05:00:38.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6649,6 +6661,38 @@
       "video": false,
       "vote_average": 7.3,
       "vote_count": 15
+    }
+  },
+  {
+    "title": "Capitan Harlock",
+    "slug": "capitan-harlock",
+    "lastSourceDate": "2025-09-18T09:30:00.000Z",
+    "sources": [
+      {
+        "url": "https://cinema.everyeye.it/notizie/film-incassano-cinema-demon-slayer-domina-numeri-box-office-828569.html",
+        "title": "Quali film incassano di più al cinema? Demon Slayer domina, i numeri dal box office",
+        "description": "Un nuovo weekend si sta avvicinando e i cinema sono pronti per tornare a riempirsi, anche sopratutto allo straordinario successo del nuovo film anime giapponese Demon Slayer: Il Castello dell'Infinito di...",
+        "publishedDate": "2025-09-18T09:30:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4xzUhKxWHxPjJ6h1faVMTUBDquQ.jpg",
+      "genre_ids": [
+        16,
+        878
+      ],
+      "id": 192577,
+      "original_language": "ja",
+      "original_title": "キャプテンハーロック",
+      "overview": "Il pianeta Terra, ormai abbandonato da centinaia d'anni da una popolazione troppo numerosa per contenerlo, è diventato un luogo inviolabile e quasi sacro, mantenuto tale con pugno di ferro e fermezza militare dalla coalizione Gaia. Ad essa si contrappone Capitan Harlock e la sua ciurma a bordo dell'Arcadia, a cui si è appena aggiunto un nuovo elemento: Logan, fratello dell'ufficiale disabile Ezra e dunque infiltrato di Gaia dentro l'armata di Harlock con il compito di uccidere il capitano.  Quando però Logan capirà qual è l'ideale che muove Harlock, che ha sempre percepito come un nemico, sarà pronto a schierarsi con lui contro il fratello, il quale lo accusa di aver causato la sua disabilità.",
+      "popularity": 3.4241,
+      "poster_path": "/6M6LAaSY8kWNMdBYjvTU6YuqZym.jpg",
+      "release_date": "2013-09-07",
+      "title": "Capitan Harlock",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 1052
     }
   }
 ]
