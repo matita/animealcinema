@@ -4324,7 +4324,8 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    }
+    },
+    "theaterEndDate": "2025-12-31"
   },
   {
     "title": "Il Castello dell'Infinito",
@@ -4405,7 +4406,7 @@
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "slug": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
-    "lastSourceDate": "2025-07-31T04:42:45.000Z",
+    "lastSourceDate": "2025-09-19T14:52:26.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -4443,6 +4444,12 @@
         "title": "Demon Slayer Kimetsu no Yaiba Infinity Castle: raggiunti 10 miliardi di yen di incasso in Giappone - Vgmag.it",
         "description": "Il grande successo di Demon Slayer: Kimetsu no Yaiba Infinity Castle si è rivelato a dir poco travolgente. Il primo film della trilogia, che di fatto concluderà una volta per tutta la storia dell’anime, sta...",
         "publishedDate": "2025-07-31T04:42:45.000Z"
+      },
+      {
+        "url": "https://www.vgmag.it/376487/demon-slayer-kimetsu-no-yaiba-infinity-castle-trionfa-al-box-office-italiano/",
+        "title": "Demon Slayer Kimetsu no Yaiba Infinity Castle trionfa al box office italiano - Vgmag.it",
+        "description": "Demon Slayer Kimetsu no Yaiba Infinity Castle (Demon Slayer – Il Castello dell’Infinito in italiano, qui la nostra recensione) di Aniplex, Crunchyroll e Sony Pictures Entertainment, è approdato nelle sale...",
+        "publishedDate": "2025-09-19T14:52:26.000Z"
       }
     ],
     "tmdbMovie": {
