@@ -4156,7 +4156,7 @@
   {
     "title": "Demon Slayer: Il Castello dell'Infinito",
     "slug": "demon-slayer-il-castello-dellinfinito",
-    "lastSourceDate": "2025-09-19T14:52:26.000Z",
+    "lastSourceDate": "2025-09-20T12:08:57.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -4326,6 +4326,12 @@
         "title": "Demon Slayer Kimetsu no Yaiba Infinity Castle trionfa al box office italiano - Vgmag.it",
         "description": "Demon Slayer Kimetsu no Yaiba Infinity Castle (Demon Slayer – Il Castello dell’Infinito in italiano, qui la nostra recensione) di Aniplex, Crunchyroll e Sony Pictures Entertainment, è approdato nelle sale...",
         "publishedDate": "2025-09-19T14:52:26.000Z"
+      },
+      {
+        "url": "https://kisskiss.it/cinema/cinema-in-festa-dal-21-al-25-settembre-biglietti-a-350-euro-in-tutta-italia/",
+        "title": "Cinema in Festa: dal 21 al 25 settembre biglietti a 3,50 euro in tutta Italia - KissKiss.it",
+        "description": "Dal 21 al 25 settembre 2025, l'iniziativa 'Cinema in Festa' offre biglietti a 3,50 euro per tutti i film nelle sale aderenti in Italia.\t\t\t\t \t\t\t\t \t\t\t\t\tDal 21 al 25 settembre 2025, l’iniziativa ‘Cinema in...",
+        "publishedDate": "2025-09-20T12:08:57.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6777,6 +6783,41 @@
       "video": false,
       "vote_average": 7.8,
       "vote_count": 460
+    }
+  },
+  {
+    "title": "Demon Slayer: Infinity Castle",
+    "slug": "demon-slayer-infinity-castle",
+    "lastSourceDate": "2025-09-20T10:40:00.000Z",
+    "theaterReleaseDate": "2025-01-01",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/confermato-demon-slayer-infinity-castle-non-arrivera-crunchyroll-2026-829100.html",
+        "title": "È confermato: Demon Slayer Infinity Castle non arriverà su Crunchyroll prima del 2026",
+        "description": "La fiamma della katana di Tanjiro illumina i cinema di tutto il mondo, ma sul fronte streaming arriva una doccia fredda: Demon Slayer: Infinity Castle non sbarcherà su Crunchyroll prima del 2026. E sì, per...",
+        "publishedDate": "2025-09-20T10:40:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
+      "popularity": 766.0999,
+      "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 279
     }
   }
 ]
