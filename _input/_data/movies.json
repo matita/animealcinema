@@ -6713,5 +6713,52 @@
       "vote_average": 6.6,
       "vote_count": 1052
     }
+  },
+  {
+    "title": "La ragazza che saltava nel tempo (Remaster 4K)",
+    "slug": "la-ragazza-che-saltava-nel-tempo-remaster-4k",
+    "lastSourceDate": "2025-09-19T08:30:00.000Z",
+    "theaterReleaseDate": "2025-08-15",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/demon-slayer-infinity-castle-10-film-anime-attesi-828838.html",
+        "title": "Dopo Demon Slayer: Infinity Castle, ecco i 10 film anime più attesi",
+        "description": "Oltre Demon Slayer: Il Castello dell’Infinito, l’industria anime sta preparando una nuova ondata di film capaci di emozionare, sorprendere e far discutere i fan di tutto il mondo.Dai sequel drammatici come...",
+        "publishedDate": "2025-09-19T08:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Angel’s Egg (4K)",
+    "slug": "angels-egg-4k",
+    "lastSourceDate": "2025-09-19T08:30:00.000Z",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/demon-slayer-infinity-castle-10-film-anime-attesi-828838.html",
+        "title": "Dopo Demon Slayer: Infinity Castle, ecco i 10 film anime più attesi",
+        "description": "Oltre Demon Slayer: Il Castello dell’Infinito, l’industria anime sta preparando una nuova ondata di film capaci di emozionare, sorprendere e far discutere i fan di tutto il mondo.Dai sequel drammatici come...",
+        "publishedDate": "2025-09-19T08:30:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/nZn384qWYugXu6U1N8Ya0Iv0NXE.jpg",
+      "genre_ids": [
+        16,
+        14,
+        9648
+      ],
+      "id": 15916,
+      "original_language": "ja",
+      "original_title": "天使のたまご",
+      "overview": "Una misteriosa ragazzina con un grande uovo si incontra con un soldato con il quale si scambia alcuni scomodi segreti in una solitaria, bellissima e surreale landa popolata solo da ombre irrequiete.",
+      "popularity": 4.0694,
+      "poster_path": "/dRUB7sDcedqatDfyuRqyQulmW97.jpg",
+      "release_date": "1985-12-22",
+      "title": "L'uovo dell'angelo",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 460
+    }
   }
 ]
