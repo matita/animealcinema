@@ -6347,7 +6347,7 @@
   {
     "title": "Chainsaw Man - Il Film: La storia di Reze",
     "slug": "chainsaw-man-il-film-la-storia-di-reze",
-    "lastSourceDate": "2025-09-18T14:58:00.000Z",
+    "lastSourceDate": "2025-09-20T10:20:00.000Z",
     "theaterReleaseDate": "2025-10-30",
     "sources": [
       {
@@ -6409,6 +6409,12 @@
         "title": "Dopo Demon Slayer: Infinity Castle, ecco i film anime in arrivo nei cinema italiani",
         "description": "Il trionfo di Demon Slayer: Infinity Castle nelle sale ha dimostrato una volta per tutte che gli anime non sono più un fenomeno di nicchia: sono blockbuster capaci di competere con le grandi produzioni...",
         "publishedDate": "2025-09-18T14:58:00.000Z"
+      },
+      {
+        "url": "https://anime.everyeye.it/notizie/chainsaw-man-sogno-film-reze-arc-incassi-stellari-829094.html",
+        "title": "Chainsaw Man, un primo giorno da sogno per il film Reze Arc: incassi stellari",
+        "description": "Un’esplosione al botteghino, come il rombo di una motosega che squarcia il silenzio: così possiamo descrivere il primo giorno del film Chainsaw Man Reze. Con oltre 272.000 spettatori accorsi nelle sale...",
+        "publishedDate": "2025-09-20T10:20:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6818,6 +6824,183 @@
       "video": false,
       "vote_average": 7.7,
       "vote_count": 279
+    }
+  },
+  {
+    "title": "Jujutsu Kaisen 0",
+    "slug": "jujutsu-kaisen-0",
+    "lastSourceDate": "2025-09-20T08:40:00.000Z",
+    "theaterReleaseDate": "2023-03-09",
+    "theaterEndDate": "2023-04-06",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/demon-slayer-infinity-castle-10-film-anime-lasceranno-fiato-829061.html",
+        "title": "Oltre Demon Slayer Infinity Castle: 10 film anime che ti lasceranno senza fiato",
+        "description": "Quando si parla di Demon Slayer, il fenomeno è planetario. Il nuovo film Infinity Castle ha scatenato hype alle stelle, ma se mettiamo da parte per un attimo la frenesia del momento, scopriamo un panorama in...",
+        "publishedDate": "2025-09-20T08:40:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 810693,
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦 0",
+      "overview": "Yuta Okkotsu è uno studente liceale nervoso che soffre di un problema serio: la sua amica d'infanzia Rika si è trasformata in una maledizione e non lo lascerà in pace. Dal momento che Rika non è una maledizione ordinaria, la sua situazione viene notata da Satoru Gojo, un insegnante del liceo Jujutsu, una scuola in cui gli esorcisti alle prime armi imparano a combattere le maledizioni. Gojo convince Yuta ad iscriversi, ma riuscirà a imparare abbastanza in tempo per affrontare la maledizione che lo perseguita?",
+      "popularity": 9.0283,
+      "poster_path": "/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
+      "release_date": "2021-12-24",
+      "title": "Jujutsu kaisen 0 - Il film",
+      "video": false,
+      "vote_average": 8.121,
+      "vote_count": 1549
+    }
+  },
+  {
+    "title": "One Piece Stampede",
+    "slug": "one-piece-stampede",
+    "lastSourceDate": "2025-09-20T08:40:00.000Z",
+    "theaterReleaseDate": "2019-10-24",
+    "theaterEndDate": "2019-12-05",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/demon-slayer-infinity-castle-10-film-anime-lasceranno-fiato-829061.html",
+        "title": "Oltre Demon Slayer Infinity Castle: 10 film anime che ti lasceranno senza fiato",
+        "description": "Quando si parla di Demon Slayer, il fenomeno è planetario. Il nuovo film Infinity Castle ha scatenato hype alle stelle, ma se mettiamo da parte per un attimo la frenesia del momento, scopriamo un panorama in...",
+        "publishedDate": "2025-09-20T08:40:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/55NKqRgstL3u1Oxe2gAAJUtx3jM.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14
+      ],
+      "id": 568012,
+      "original_language": "ja",
+      "original_title": "ONE PIECE STAMPEDE",
+      "overview": "Durante l'Expo dei Pirati, una manifestazione \"fatta dai pirati per i pirati\", si riuniscono i pirati di tutti il mondo. Tra questi, vi sono di certo alcuni di quelli che vengono ritenuti tra i più pericolosi. La Ciurma di Cappello di Paglia non può fare a meno di unirsi a loro per mettersi sulle tracce di un tesoro a lungo perduto e appartenuto nient'altro che a Gol D. Roger.",
+      "popularity": 2.5187,
+      "poster_path": "/yOvjKTFyrBV78c9tCzYrYncvXq4.jpg",
+      "release_date": "2019-01-03",
+      "title": "One Piece Stampede - Il film",
+      "video": true,
+      "vote_average": 7.8,
+      "vote_count": 612
+    }
+  },
+  {
+    "title": "Your Name",
+    "slug": "your-name",
+    "lastSourceDate": "2025-09-20T08:40:00.000Z",
+    "theaterReleaseDate": "2017-01-23",
+    "theaterEndDate": "2017-03-31",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/demon-slayer-infinity-castle-10-film-anime-lasceranno-fiato-829061.html",
+        "title": "Oltre Demon Slayer Infinity Castle: 10 film anime che ti lasceranno senza fiato",
+        "description": "Quando si parla di Demon Slayer, il fenomeno è planetario. Il nuovo film Infinity Castle ha scatenato hype alle stelle, ma se mettiamo da parte per un attimo la frenesia del momento, scopriamo un panorama in...",
+        "publishedDate": "2025-09-20T08:40:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 372058,
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "overview": "Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell’arte o dell’architettura. Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai visitato. Ma quale sarà il segreto che si cela dietro questi strani sogni incrociati?",
+      "popularity": 14.9952,
+      "poster_path": "/8cFxeflG3pVRJcy339HwImTOUlc.jpg",
+      "release_date": "2016-08-26",
+      "title": "Your Name.",
+      "video": false,
+      "vote_average": 8.479,
+      "vote_count": 11988
+    }
+  },
+  {
+    "title": "Il castello errante di Howl",
+    "slug": "il-castello-errante-di-howl",
+    "lastSourceDate": "2025-09-20T08:40:00.000Z",
+    "theaterReleaseDate": "2005-09-09",
+    "theaterEndDate": "2005-11-25",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/demon-slayer-infinity-castle-10-film-anime-lasceranno-fiato-829061.html",
+        "title": "Oltre Demon Slayer Infinity Castle: 10 film anime che ti lasceranno senza fiato",
+        "description": "Quando si parla di Demon Slayer, il fenomeno è planetario. Il nuovo film Infinity Castle ha scatenato hype alle stelle, ma se mettiamo da parte per un attimo la frenesia del momento, scopriamo un panorama in...",
+        "publishedDate": "2025-09-20T08:40:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+      "genre_ids": [
+        14,
+        16,
+        12
+      ],
+      "id": 4935,
+      "original_language": "ja",
+      "original_title": "ハウルの動く城",
+      "overview": "Sophie ha diciotto anni e ogni giorno lavora instancabilmente nel negozio di cappelli del suo defunto padre. Un giorno, durante una rara escursione in città, per caso incontra il Mago Howl. Howl è ardito e bello, ma come tutti i maghi un po' smidollato. La Strega della Spazzatura, equivocando la natura del loro rapporto, getta una maledizione su Sophie, trasformandola in una novantenne rugosa. Sophie va via di casa e girovaga in una distesa desolata dove per caso entra nel castello mobile di Howl. Nascondendo la sua identita', diventa la donna delle pulizie. La vecchia petulante Sophie rimette a posto la casa, con molto piů brio di quanto ne avesse in origine. Cosa farà Sophie e cosa capiterà tra lei e Howl?",
+      "popularity": 15.4934,
+      "poster_path": "/7MGHgBr5oWsZUZX2Ca7UohGHejX.jpg",
+      "release_date": "2004-09-09",
+      "title": "Il castello errante di Howl",
+      "video": false,
+      "vote_average": 8.397,
+      "vote_count": 10521
+    }
+  },
+  {
+    "title": "My Hero Academia: World Heroes’ Mission",
+    "slug": "my-hero-academia-world-heroes-mission",
+    "lastSourceDate": "2025-09-20T08:40:00.000Z",
+    "theaterReleaseDate": "2021-11-18",
+    "theaterEndDate": "2022-01-06",
+    "sources": [
+      {
+        "url": "https://anime.everyeye.it/notizie/demon-slayer-infinity-castle-10-film-anime-lasceranno-fiato-829061.html",
+        "title": "Oltre Demon Slayer Infinity Castle: 10 film anime che ti lasceranno senza fiato",
+        "description": "Quando si parla di Demon Slayer, il fenomeno è planetario. Il nuovo film Infinity Castle ha scatenato hype alle stelle, ma se mettiamo da parte per un attimo la frenesia del momento, scopriamo un panorama in...",
+        "publishedDate": "2025-09-20T08:40:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/g3pIN5kRvmtcdtzjsJomZ1sw2QO.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 768744,
+      "original_language": "ja",
+      "original_title": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+      "overview": "Un misterioso gruppo chiamato Humarize crede fermamente nella teoria della Quirk Singularity Doomsday, secondo la quale quando i quirk si mescolano ulteriormente con le generazioni future, questo potere porterà alla fine dell'umanità. Per salvare tutti, i Pro-Eroi di tutto il mondo chiedono agli eroi in formazione della UA Academy di aiutarli e di formare una squadra di eroi selezionati a livello mondiale.",
+      "popularity": 4.734,
+      "poster_path": "/6P3WlVBSVCzpPNQcl8sGGRYEzwE.jpg",
+      "release_date": "2021-08-06",
+      "title": "My Hero Academia: The Movie - World Heroes' Mission",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 590
     }
   }
 ]
