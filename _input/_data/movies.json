@@ -3850,7 +3850,7 @@
   {
     "title": "La tomba delle lucciole",
     "slug": "la-tomba-delle-lucciole",
-    "lastSourceDate": "2025-09-23T05:55:10.000Z",
+    "lastSourceDate": "2025-09-24T08:52:37.000Z",
     "sources": [
       {
         "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
@@ -3905,6 +3905,12 @@
         "title": "La tomba delle lucciole balza al comando - Il box office di lunedì 22 settembre - CineGuru",
         "description": "L’anime giapponese precede The Conjuring – Il rito finale e Demon Slayer: Kimetsu No Yaiba. Secondo giorni di Cinema in...",
         "publishedDate": "2025-09-23T05:55:10.000Z"
+      },
+      {
+        "url": "https://boxofficebiz.it/news/demon-slayer-il-castello-dellinfinito-sopra-i-4-milioni-di-euro-al-box-office-italia/",
+        "title": "Demon Slayer - Il Castello dell'Infinito sopra i 4 milioni di euro al box office Italia - Box Office",
+        "description": "Nuovo traguardo raggiunto per l'anime distribuito nelle sale da Eagle PicturesDemon Slayer – Kimetsu no Yaiba: Il castello dell’infinito ha superato la soglia dei 4 milioni di euro al box office italiano,...",
+        "publishedDate": "2025-09-24T08:52:37.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3932,7 +3938,7 @@
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Il Castello dell'Infinito",
     "slug": "demon-slayer-kimetsu-no-yaiba-il-castello-dellinfinito",
-    "lastSourceDate": "2025-09-23T05:55:10.000Z",
+    "lastSourceDate": "2025-09-24T08:52:37.000Z",
     "theaterReleaseDate": "2025-09-11",
     "sources": [
       {
@@ -4197,6 +4203,12 @@
         "title": "Demon Slayer: il film supera i 555 milioni di dollari nel mondo",
         "description": "News AnimeDemon Slayer: Il Castello dell’Infinito supera i 555 milioni di dollari nel mondo Eleonora Masala 23/09/2025   Demon Slayer: Kimetsu no Yaiba – Il Castello dell’Infinito continua a fare numeri da...",
         "publishedDate": "2025-09-23T05:29:55.000Z"
+      },
+      {
+        "url": "https://boxofficebiz.it/news/demon-slayer-il-castello-dellinfinito-sopra-i-4-milioni-di-euro-al-box-office-italia/",
+        "title": "Demon Slayer - Il Castello dell'Infinito sopra i 4 milioni di euro al box office Italia - Box Office",
+        "description": "Nuovo traguardo raggiunto per l'anime distribuito nelle sale da Eagle PicturesDemon Slayer – Kimetsu no Yaiba: Il castello dell’infinito ha superato la soglia dei 4 milioni di euro al box office italiano,...",
+        "publishedDate": "2025-09-24T08:52:37.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4219,7 +4231,8 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    }
+    },
+    "theaterEndDate": "2025-09-23"
   },
   {
     "title": "Demon Slayer: Il Castello dell'Infinito",
