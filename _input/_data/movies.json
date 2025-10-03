@@ -5853,7 +5853,7 @@
   {
     "title": "Fullmetal Alchemist: Brotherhood",
     "slug": "fullmetal-alchemist-brotherhood",
-    "lastSourceDate": "2025-07-03T02:02:20.000Z",
+    "lastSourceDate": "2025-10-02T11:27:08.000Z",
     "theaterReleaseDate": "2025-12-08",
     "theaterEndDate": "2025-12-10",
     "sources": [
@@ -5862,6 +5862,12 @@
         "title": "Fullmetal Alchemist: Brotherhood: gli episodi finali al cinema",
         "description": "News Anime Eleonora Masala 03/07/2025   Fullmetal Alchemist: Brotherhood torna al cinema con un evento speciale firmato Dynit. Gli ultimi episodi, dal 59 al 64, verranno proiettati nelle sale italiane l’8, 9...",
         "publishedDate": "2025-07-03T02:02:20.000Z"
+      },
+      {
+        "url": "https://www.cinefilos.it/cinema-news/2025/lucca-comics-games-2025-il-programma-dellarea-movie-676755",
+        "title": "Lucca Comics & Games 2025: il programma dell'Area Movie",
+        "description": "L’Area Movie di Lucca Comics &amp; Games, a cura di QMI, torna per l’edizione 2025 confermandosi uno degli appuntamenti più attesi della manifestazione dedicato al cinema, alla serialità e all’entertainment....",
+        "publishedDate": "2025-10-02T11:27:08.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6798,7 +6804,7 @@
   {
     "title": "Ne Zha – L’ascesa del guerriero di fuoco",
     "slug": "ne-zha-lascesa-del-guerriero-di-fuoco",
-    "lastSourceDate": "2025-09-10T16:00:00.000Z",
+    "lastSourceDate": "2025-10-02T11:27:08.000Z",
     "theaterReleaseDate": "2025-11-06",
     "sources": [
       {
@@ -6812,6 +6818,12 @@
         "title": "Arriva al cinema il film che ha incassato di più nel 2025, non ne hai mai sentito parlare",
         "description": "È mai possibile che il primo film per incassi nel mondo non sia ancora uscito in Italia? E che in molti neanche ne abbiano sentito parlare? La ragione è questa: il successo di Ne Zha 2, che qui da noi sarà...",
         "publishedDate": "2025-09-10T16:00:00.000Z"
+      },
+      {
+        "url": "https://www.cinefilos.it/cinema-news/2025/lucca-comics-games-2025-il-programma-dellarea-movie-676755",
+        "title": "Lucca Comics & Games 2025: il programma dell'Area Movie",
+        "description": "L’Area Movie di Lucca Comics &amp; Games, a cura di QMI, torna per l’edizione 2025 confermandosi uno degli appuntamenti più attesi della manifestazione dedicato al cinema, alla serialità e all’entertainment....",
+        "publishedDate": "2025-10-02T11:27:08.000Z"
       }
     ],
     "tmdbMovie": {
@@ -7259,5 +7271,39 @@
         "publishedDate": "2025-09-22T07:01:18.000Z"
       }
     ]
+  },
+  {
+    "title": "Angel's Egg",
+    "slug": "angels-egg",
+    "lastSourceDate": "2025-10-02T11:27:08.000Z",
+    "theaterReleaseDate": "2025-11-06",
+    "sources": [
+      {
+        "url": "https://www.cinefilos.it/cinema-news/2025/lucca-comics-games-2025-il-programma-dellarea-movie-676755",
+        "title": "Lucca Comics & Games 2025: il programma dell'Area Movie",
+        "description": "L’Area Movie di Lucca Comics &amp; Games, a cura di QMI, torna per l’edizione 2025 confermandosi uno degli appuntamenti più attesi della manifestazione dedicato al cinema, alla serialità e all’entertainment....",
+        "publishedDate": "2025-10-02T11:27:08.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/nZn384qWYugXu6U1N8Ya0Iv0NXE.jpg",
+      "genre_ids": [
+        16,
+        14,
+        9648
+      ],
+      "id": 15916,
+      "original_language": "ja",
+      "original_title": "天使のたまご",
+      "overview": "Una misteriosa ragazzina con un grande uovo si incontra con un soldato con il quale si scambia alcuni scomodi segreti in una solitaria, bellissima e surreale landa popolata solo da ombre irrequiete.",
+      "popularity": 4.6286,
+      "poster_path": "/vPVaktsp0l8wq5ZxaoPkKqD3RJa.jpg",
+      "release_date": "1985-12-22",
+      "title": "L'uovo dell'angelo",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 463
+    }
   }
 ]
