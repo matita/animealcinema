@@ -7311,5 +7311,39 @@
       "vote_average": 7.8,
       "vote_count": 463
     }
+  },
+  {
+    "title": "Chainsaw Man – La storia di Reze",
+    "slug": "chainsaw-man-la-storia-di-reze",
+    "lastSourceDate": "2025-10-07T09:44:29.000Z",
+    "theaterReleaseDate": "2025-10-23",
+    "sources": [
+      {
+        "url": "https://www.bestmovie.it/news/chainsaw-man-tutto-il-riassunto-dellanime-per-chi-vuole-prepararsi-al-nuovo-film/942937/",
+        "title": "Chainsaw Man, tutto il riassunto dell’anime per chi vuole prepararsi al nuovo film",
+        "description": "Chainsaw Man, tutto il riassunto dell’anime per chi vuole prepararsi al nuovo film Mancano pochi giorni all'uscita di La storia di Reze, l'avventura che prosegue la popolarissima serie anime: dove eravamo...",
+        "publishedDate": "2025-10-07T09:44:29.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "チェンソーマン レゼ篇",
+      "overview": "Denji è diventato Chainsaw Man, il ragazzo con il cuore del demone Pochita, ed è entrato nella Quarta divisione speciale dei Devil Hunters. Dopo un appuntamento con Makima, la ragazza dei suoi sogni, Denji cerca riparo per la pioggia. Lì incontra Reze, una ragazza che lavora in un bar.",
+      "popularity": 118.4328,
+      "poster_path": "/A7J9KaSC3BYAqMoR0TKJXDbm0QX.jpg",
+      "release_date": "2025-09-19",
+      "title": "Chainsaw Man - Il film: La storia di Reze",
+      "video": false,
+      "vote_average": 8.688,
+      "vote_count": 16
+    }
   }
 ]
