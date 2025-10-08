@@ -7287,7 +7287,7 @@
   {
     "title": "Angel's Egg",
     "slug": "angels-egg",
-    "lastSourceDate": "2025-10-02T11:27:08.000Z",
+    "lastSourceDate": "2025-10-08T15:18:19.000Z",
     "theaterReleaseDate": "2025-11-06",
     "sources": [
       {
@@ -7295,6 +7295,12 @@
         "title": "Lucca Comics & Games 2025: il programma dell'Area Movie",
         "description": "L’Area Movie di Lucca Comics &amp; Games, a cura di QMI, torna per l’edizione 2025 confermandosi uno degli appuntamenti più attesi della manifestazione dedicato al cinema, alla serialità e all’entertainment....",
         "publishedDate": "2025-10-02T11:27:08.000Z"
+      },
+      {
+        "url": "https://www.obiettivotre.com/cultura/lucca-comics-and-games-2025-eventi-dedicati-al-giappone/",
+        "title": "Lucca Comics and Games 2025: tutti gli eventi dedicati al Giappone - ObiettivoTre",
+        "description": "E’ ufficialmente partito il conto alla rovescia per l’edizione 2025 di Lucca Comics and Games, che si terrà dal 30 ottobre al 2 novembre a Lucca. Come sempre il programma si presenta incredibilmente ricco di...",
+        "publishedDate": "2025-10-08T15:18:19.000Z"
       }
     ],
     "tmdbMovie": {
@@ -7377,5 +7383,39 @@
         "publishedDate": "2025-10-08T11:01:06.000Z"
       }
     ]
+  },
+  {
+    "title": "Fullmetal Alchemist Brotherhood - 15th Anniversary Edition",
+    "slug": "fullmetal-alchemist-brotherhood-15th-anniversary-edition",
+    "lastSourceDate": "2025-10-08T15:18:19.000Z",
+    "theaterReleaseDate": "2025-11-17",
+    "theaterEndDate": "2025-11-19",
+    "sources": [
+      {
+        "url": "https://www.obiettivotre.com/cultura/lucca-comics-and-games-2025-eventi-dedicati-al-giappone/",
+        "title": "Lucca Comics and Games 2025: tutti gli eventi dedicati al Giappone - ObiettivoTre",
+        "description": "E’ ufficialmente partito il conto alla rovescia per l’edizione 2025 di Lucca Comics and Games, che si terrà dal 30 ottobre al 2 novembre a Lucca. Come sempre il programma si presenta incredibilmente ricco di...",
+        "publishedDate": "2025-10-08T15:18:19.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/eCJwrXmMPY5rlaRGC8IMU6Pb6iQ.jpg",
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 1412074,
+      "original_language": "ja",
+      "original_title": "《鋼之鍊金術師BROTHERHOOD 15週年特別版》",
+      "overview": "",
+      "popularity": 1.8725,
+      "poster_path": "/bEgXvq7dxI5QCMwutzpxteiLBgo.jpg",
+      "release_date": "2024-10-25",
+      "title": "《鋼之鍊金術師BROTHERHOOD 15週年特別版》",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1
+    }
   }
 ]
