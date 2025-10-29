@@ -6722,7 +6722,7 @@
   {
     "title": "Chainsaw Man - Il Film: La storia di Reze",
     "slug": "chainsaw-man-il-film-la-storia-di-reze",
-    "lastSourceDate": "2025-10-29T10:55:13.000Z",
+    "lastSourceDate": "2025-10-29T17:05:37.000Z",
     "theaterReleaseDate": "2025-10-30",
     "sources": [
       {
@@ -6856,6 +6856,12 @@
         "title": "Chainsaw Man - La storia di Reze supera i 100 milioni di dollari globali - Box Office",
         "description": "Il film distribuito da Sony Pictures internazionalmente (e in Italia da Eagle Pictures) si sta imponendo come nuovo fenomeno del mondo animeChainsaw Man – Il Film: La Storia di Reze si conferma uno dei più...",
         "publishedDate": "2025-10-29T10:55:13.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/chainsaw-man-il-film-la-storia-di-reze-100-milioni-dollari-box-office-mondiale/",
+        "title": "Chainsaw Man – Il Film: La Storia Di Reze, 100 milioni di dollari di incassi",
+        "description": "News Anime Federico Vascotto 29/10/2025   Chainsaw Man – Il Film: La Storia Di Reze ha superato i 100 milioni di dollari di incasso a livello globale. Si inserisce così nella lista dei film giapponesi con...",
+        "publishedDate": "2025-10-29T17:05:37.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6877,7 +6883,8 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    }
+    },
+    "theaterEndDate": "2025-11-04"
   },
   {
     "title": "Jujutsu Kaisen Hidden Inventory/Premature Death Arc",
