@@ -7486,7 +7486,6 @@
   {
     "title": "Angel's Egg",
     "slug": "angels-egg",
-    "lastSourceDate": "2025-10-29T10:12:17.000Z",
     "theaterReleaseDate": "2025-11-06",
     "sources": [
       {
@@ -7518,6 +7517,11 @@
         "title": "Film e animazione. Da Gumball a Stranger Things",
         "description": "HomeLuccaLucca ComicsFilm e animazione. Da Gumball a Stranger ThingsL’Area Movie di Lucca Comics &amp; Games taglia il traguardo dei 15 anni e lo festeggia con un programma ricco...L’Area Movie di Lucca...",
         "publishedDate": "2025-10-29T10:12:17.000Z"
+      },
+      {
+        "url": "https://www.editorialedomani.it/idee/cultura/lucca-comics-criptico-angels-egg-nei-cinema-italiani-mv0ji7vj",
+        "title": "Il criptico Angel’s Egg arriva (finalmente) nei cinema italiani",
+        "description": "Tenshi no Tamago (in italiano L’uovo dell’angelo, uscito nel 1985 ), come tanti insuccessi prima di lui, è diventato un caposaldo del genere fantascientifico. È il primo lungometraggio del visionario regista..."
       }
     ],
     "tmdbMovie": {
@@ -7539,7 +7543,8 @@
       "video": false,
       "vote_average": 7.8,
       "vote_count": 463
-    }
+    },
+    "theaterEndDate": "2023-12-10"
   },
   {
     "title": "Chainsaw Man – La storia di Reze",
