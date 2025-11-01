@@ -5508,7 +5508,7 @@
   {
     "title": "Fullmetal Alchemist: Brotherhood 15th Anniversary Special Edition",
     "slug": "fullmetal-alchemist-brotherhood-15th-anniversary-special-edition",
-    "lastSourceDate": "2025-10-01T08:29:21.000Z",
+    "lastSourceDate": "2025-11-01T11:18:07.000Z",
     "theaterReleaseDate": "2025-12-08",
     "theaterEndDate": "2025-12-10",
     "sources": [
@@ -5541,6 +5541,12 @@
         "title": "'Fullmetal Alchemist: Brotherhood' al cinema con Animagine",
         "description": "Dynit e Adler Entertainment sono orgogliose di annunciare la nascita di Animagine, la nuova collana che porta al cinema gli anime del presente e del passato. Dai capolavori dei maestri dell’animazione alle produzioni contemporanee, dai film alle serie TV, Animagine porta in sala titoli giapponesi mai arrivati nei cinema italiani,",
         "publishedDate": "2025-10-01T08:29:21.000Z"
+      },
+      {
+        "url": "https://www.bestmovie.it/news/se-vi-siete-persi-questa-leggendaria-serie-anime-tra-poco-potrete-recuperarla-al-cinema/945094/",
+        "title": "Se vi siete persi questa leggendaria serie anime, tra poco potrete recuperarla al cinema",
+        "description": "Se vi siete persi questa leggendaria serie anime, tra poco potrete recuperarla al cinema Sedici anni dopo aver conquistato fan in tutto il mondo, torna in Italia con una speciale riedizione. Ne abbiamo...",
+        "publishedDate": "2025-11-01T11:18:07.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5566,7 +5572,6 @@
   {
     "title": "Tenshi no Tamago",
     "slug": "tenshi-no-tamago",
-    "lastSourceDate": "2025-07-06T06:58:20.000Z",
     "theaterReleaseDate": "2025-07-03",
     "sources": [
       {
@@ -5580,6 +5585,11 @@
         "title": "“Tenshi no Tamago”: quando l’anime diventa una preghiera silenziosa — il capolavoro perduto di Mamoru Oshii arriva finalmente in Italia",
         "description": "Ci sono anime che ti travolgono con l’azione, altri che ti emozionano con le storie d’amore, poi ci sono quelli che ti confondono, ti fanno sentire piccola, smarrita, eppure piena di domande. \"Tenshi no Tamago\", per me, è sempre stato questo: non un semplice film d’animazione, ma un’esperienza esistenziale, un’incursione nell’inconscio, un’opera che non guarda",
         "publishedDate": "2025-07-06T06:58:20.000Z"
+      },
+      {
+        "url": "https://www.editorialedomani.it/idee/cultura/lucca-comics-criptico-angels-egg-nei-cinema-italiani-mv0ji7vj",
+        "title": "Il criptico Angel’s Egg arriva (finalmente) nei cinema italiani",
+        "description": "Tenshi no Tamago (in italiano L’uovo dell’angelo, uscito nel 1985 ), come tanti insuccessi prima di lui, è diventato un caposaldo del genere fantascientifico. È il primo lungometraggio del visionario regista..."
       }
     ],
     "tmdbMovie": {
@@ -5601,7 +5611,8 @@
       "video": false,
       "vote_average": 7.756,
       "vote_count": 446
-    }
+    },
+    "theaterEndDate": "2023-12-10"
   },
   {
     "title": "Fullmetal Alchemist: Brotherhood Special Edition",
