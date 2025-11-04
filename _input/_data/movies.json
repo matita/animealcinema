@@ -7663,7 +7663,26 @@
         "description": "Crunchyroll ha rilasciato un nuovo trailer in italiano per JUJUTSU KAISEN: Esecuzione, che arriverà presto al cinema. Come precedentemente anticipato il film sarà disponibile nei cinema italiani a partire dal...",
         "publishedDate": "2025-10-16T00:00:00.000Z"
       }
-    ]
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 1539104,
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+      "overview": "Un velo cala improvvisamente su Shibuya, nel bel mezzo dei festeggiamenti di Halloween, intrappolando all’interno numerosi civili. Satoru Gojo, il più forte degli stregoni, si getta nella mischia, ignaro che stregoni neri e spiriti maledetti tramano per imprigionarlo. Accompagnato dai compagni di classe e da altri stregoni di prima classe, Yuji Itadori si tuffa in uno scontro tra maledizioni senza precedenti: l’incidente di Shibuya.",
+      "popularity": 11.5389,
+      "poster_path": "/e2EWGvtko8mQD7HPA99KHysNQNN.jpg",
+      "release_date": "2025-11-07",
+      "title": "Jujutsu Kaisen: Esecuzione - L'Incidente di Shibuya x L'Inizio del Gioco di Sterminio",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   },
   {
     "title": "Fullmetal Alchemist Brotherhood - 15th Anniversary Edition",
