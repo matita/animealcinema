@@ -81,10 +81,30 @@
       max-width: 220px;
       flex: 0 0 calc(50% - 1rem);
       box-sizing: border-box;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      border-radius: 0.5rem;
+      overflow: hidden;
+    }
+
+    .movie-list-item:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+
+    .movie-list-item h3 {
+      transition: color 0.2s ease;
+    }
+
+    .movie-list-item:hover h3 {
+      color: #0066cc;
     }
 
     .movie-list-item-poster {
       width: 100%;
+      display: block;
     }
   </style>
 

@@ -1,0 +1,310 @@
+---
+pagination:
+  data: movies
+  size: 1
+  alias: movie
+permalink: "/movie/<%= movie.slug %>/"
+---
+<%
+function formatDate(date) {
+  if (typeof date === 'string' && /^\d{4}$/.test(date)) {
+    return date;
+  }
+
+  const d = date instanceof Date ? date : new Date(date);
+  return new Intl.DateTimeFormat('it', {
+    dateStyle: 'full',
+  }).format(d)
+}
+
+function formatDateShort(date) {
+  if (!date) return '';
+
+  if (typeof date === 'string' && /^\d{4}$/.test(date)) {
+    return date;
+  }
+
+  const d = date instanceof Date ? date : new Date(date);
+
+  // Check if date is valid
+  if (isNaN(d.getTime())) {
+    return String(date);
+  }
+
+  return new Intl.DateTimeFormat('it', {
+    dateStyle: 'short',
+  }).format(d)
+}
+%>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= movie.title %> - Anime al cinema in Italia</title>
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      font-family: Helvetica, Arial, sans-serif;
+      font-weight: 300;
+      background-color: rgb(52.5, 52.5, 52.5);
+      color: #333;
+    }
+
+    main {
+      flex: 1;
+      margin: 0 auto;
+      max-width: 900px;
+      width: 100%;
+      padding: 2rem;
+      box-sizing: border-box;
+    }
+
+    footer {
+      font-size: .8em;
+      color: #ccc;
+      text-align: center;
+      padding: 1rem;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      text-transform: uppercase;
+      margin-top: .5em;
+      margin-bottom: .5em;
+      font-weight: 300;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-bottom: 2rem;
+      color: #eee;
+      text-decoration: none;
+      font-size: 1.2em;
+    }
+
+    .back-link:hover {
+      color: #fff;
+    }
+
+    .hero {
+      background-color: #555;
+      color: #eee;
+      padding: 2em;
+      text-align: center;
+      background-size: cover;
+      background-position: center;
+      margin-bottom: 2rem;
+      border-radius: 1rem;
+    }
+
+    .hero h1 {
+      text-shadow: 0 0 3px black;
+      font-weight: bold;
+      margin: 0;
+    }
+
+    .content {
+      background: #eee;
+      border-radius: 1rem;
+      padding: 2rem;
+    }
+
+    .movie-details {
+      display: flex;
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .movie-poster {
+      flex: 0 0 300px;
+    }
+
+    .movie-poster img {
+      width: 100%;
+      border-radius: 0.5rem;
+    }
+
+    .movie-info {
+      flex: 1;
+    }
+
+    .movie-info h2 {
+      margin-top: 0;
+    }
+
+    .info-row {
+      margin: 1rem 0;
+    }
+
+    .info-label {
+      font-weight: bold;
+      color: #555;
+      text-transform: uppercase;
+      font-size: 0.9em;
+    }
+
+    .info-value {
+      margin-top: 0.5rem;
+    }
+
+    .alternative-titles {
+      color: #666;
+      font-style: italic;
+    }
+
+    .sources {
+      margin-top: 2rem;
+    }
+
+    .sources h2 {
+      border-bottom: 2px solid #333;
+      padding-bottom: 0.5rem;
+    }
+
+    .source-item {
+      background: white;
+      padding: 1rem;
+      margin: 1rem 0;
+      border-radius: 0.5rem;
+      border-left: 4px solid #555;
+    }
+
+    .source-item h3 {
+      margin-top: 0;
+      font-size: 1.1em;
+    }
+
+    .source-item a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    .source-item a:hover {
+      text-decoration: underline;
+    }
+
+    .source-date {
+      color: #888;
+      font-size: 0.9em;
+    }
+
+    .source-description {
+      color: #666;
+      margin-top: 0.5rem;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .movie-details {
+        flex-direction: column;
+      }
+
+      .movie-poster {
+        flex: 0 0 auto;
+        max-width: 300px;
+        margin: 0 auto;
+      }
+    }
+  </style>
+
+  <!-- Last build: <%= new Date() %> -->
+</head>
+<body>
+
+<main>
+  <a href="/" class="back-link">← Torna alla home</a>
+
+  <% if (movie.tmdbMovie?.backdrop_path) { %>
+  <div class="hero" style="background-image: linear-gradient(to bottom, rgba(52.5, 52.5, 52.5, 0.2), rgba(52.5, 52.5, 52.5, 1)), url(/images/w1280<%= movie.tmdbMovie.backdrop_path %>)">
+    <h1><%= movie.title %></h1>
+  </div>
+  <% } else { %>
+  <div class="hero">
+    <h1><%= movie.title %></h1>
+  </div>
+  <% } %>
+
+  <div class="content">
+    <div class="movie-details">
+      <% if (movie.tmdbMovie?.poster_path) { %>
+      <div class="movie-poster">
+        <img src="/images/w500<%= movie.tmdbMovie.poster_path %>" alt="<%= movie.title %>" />
+      </div>
+      <% } %>
+
+      <div class="movie-info">
+        <% if (movie.alternativeTitles && movie.alternativeTitles.length > 0) { %>
+        <div class="info-row">
+          <div class="info-label">Titoli alternativi</div>
+          <div class="info-value alternative-titles">
+            <%= movie.alternativeTitles.join(', ') %>
+          </div>
+        </div>
+        <% } %>
+
+        <% if (movie.theaterReleaseDate) { %>
+        <div class="info-row">
+          <div class="info-label">Data di uscita</div>
+          <div class="info-value">
+            <%= formatDate(movie.theaterReleaseDate) %>
+          </div>
+        </div>
+        <% } %>
+
+        <% if (movie.theaterEndDate) { %>
+        <div class="info-row">
+          <div class="info-label">Ultimo giorno</div>
+          <div class="info-value">
+            <%= formatDate(movie.theaterEndDate) %>
+          </div>
+        </div>
+        <% } %>
+
+        <% if (movie.tmdbMovie?.overview) { %>
+        <div class="info-row">
+          <div class="info-label">Sinossi</div>
+          <div class="info-value">
+            <%= movie.tmdbMovie.overview %>
+          </div>
+        </div>
+        <% } %>
+      </div>
+    </div>
+
+    <% if (movie.sources && movie.sources.length > 0) { %>
+    <div class="sources">
+      <h2>Fonti (<%= movie.sources.length %>)</h2>
+      <% movie.sources.sort((a, b) => new Date(b.publishedDate) - new Date(a.publishedDate)).forEach(source => { %>
+      <div class="source-item">
+        <h3>
+          <a href="<%= source.url %>" target="_blank" rel="noopener noreferrer">
+            <%= source.title %>
+          </a>
+        </h3>
+        <div class="source-date">
+          Pubblicato il <%= formatDateShort(source.publishedDate) %>
+        </div>
+        <% if (source.description) { %>
+        <div class="source-description">
+          <%= source.description %>
+        </div>
+        <% } %>
+      </div>
+      <% }) %>
+    </div>
+    <% } %>
+  </div>
+</main>
+
+<%- include('_includes/footer') %>
+
+</body>
+</html>
