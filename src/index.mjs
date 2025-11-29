@@ -146,13 +146,23 @@ function processMovie(movie, fromArticle, existingMovies) {
     sources.push({ url, title, description, publishedDate });
   }
 
+  // Track alternative titles
+  const alternativeTitles = existingMovie?.alternativeTitles ?? [];
+  const currentTitle = existingMovie?.title ?? movie.title;
+
+  // If this is a new title variant and different from the main title, add it
+  if (movie.title !== currentTitle && !alternativeTitles.includes(movie.title)) {
+    alternativeTitles.push(movie.title);
+  }
+
   const updatedMovie = {
     ...(existingMovie ?? {}),
-    title: existingMovie?.title ?? movie.title ?? '',
+    title: currentTitle,
     slug: finalSlug,
     lastSourceDate: fromArticle.publishedDate,
     theaterReleaseDate: existingMovie?.theaterReleaseDate ?? movie.theaterReleaseDate,
     theaterEndDate: existingMovie?.theaterEndDate ?? movie.theaterEndDate,
+    alternativeTitles,
     sources,
   };
   existingMovies[finalSlug] = updatedMovie;
@@ -165,6 +175,100 @@ async function loadExistingMovies(path) {
     aggregator[movie.slug] = movie;
     return aggregator;
   }, {});
+}
+
+function mergeMoviesByTmdbId(existingMovies) {
+  const moviesByTmdbId = {};
+  const moviesWithoutTmdb = {};
+
+  // Group movies by TMDB ID
+  for (const [slug, movie] of Object.entries(existingMovies)) {
+    if (movie.tmdbMovie?.id) {
+      const tmdbId = movie.tmdbMovie.id;
+      if (!moviesByTmdbId[tmdbId]) {
+        moviesByTmdbId[tmdbId] = [];
+      }
+      moviesByTmdbId[tmdbId].push({ slug, movie });
+    } else {
+      moviesWithoutTmdb[slug] = movie;
+    }
+  }
+
+  const mergedMovies = { ...moviesWithoutTmdb };
+
+  // Merge movies with the same TMDB ID
+  for (const [tmdbId, movieGroup] of Object.entries(moviesByTmdbId)) {
+    if (movieGroup.length === 1) {
+      // No duplicates, keep as is
+      mergedMovies[movieGroup[0].slug] = movieGroup[0].movie;
+      continue;
+    }
+
+    // Multiple movies with same TMDB ID - merge them
+    console.log(`Merging ${movieGroup.length} movies with TMDB ID ${tmdbId}`);
+
+    // Use the first movie as the base
+    const baseMovie = movieGroup[0].movie;
+    const allTitles = new Set([baseMovie.title]);
+    const allSources = [...baseMovie.sources];
+    const allAliases = new Set(baseMovie.aliases || []);
+    const allAlternativeTitles = new Set(baseMovie.alternativeTitles || []);
+
+    // Merge data from other movies
+    for (let i = 1; i < movieGroup.length; i++) {
+      const otherMovie = movieGroup[i].movie;
+
+      // Collect all titles
+      allTitles.add(otherMovie.title);
+      if (otherMovie.alternativeTitles) {
+        otherMovie.alternativeTitles.forEach(t => allAlternativeTitles.add(t));
+      }
+
+      // Merge sources
+      for (const source of otherMovie.sources) {
+        if (!allSources.some(s => s.url === source.url)) {
+          allSources.push(source);
+        }
+      }
+
+      // Merge aliases (slugs of merged movies)
+      allAliases.add(otherMovie.slug);
+      if (otherMovie.aliases) {
+        otherMovie.aliases.forEach(a => allAliases.add(a));
+      }
+
+      // Use the most recent release/end dates
+      if (otherMovie.theaterReleaseDate) {
+        if (!baseMovie.theaterReleaseDate || otherMovie.theaterReleaseDate < baseMovie.theaterReleaseDate) {
+          baseMovie.theaterReleaseDate = otherMovie.theaterReleaseDate;
+        }
+      }
+      if (otherMovie.theaterEndDate) {
+        if (!baseMovie.theaterEndDate || otherMovie.theaterEndDate > baseMovie.theaterEndDate) {
+          baseMovie.theaterEndDate = otherMovie.theaterEndDate;
+        }
+      }
+    }
+
+    // Remove the base title from alternative titles
+    allAlternativeTitles.delete(baseMovie.title);
+    allTitles.delete(baseMovie.title);
+    allTitles.forEach(t => allAlternativeTitles.add(t));
+
+    // Create merged movie
+    const mergedMovie = {
+      ...baseMovie,
+      alternativeTitles: Array.from(allAlternativeTitles).filter(t => t !== baseMovie.title),
+      sources: allSources,
+      aliases: Array.from(allAliases),
+    };
+
+    mergedMovies[baseMovie.slug] = mergedMovie;
+    console.log(`Merged into: ${baseMovie.title} (${baseMovie.slug})`);
+    console.log(`Alternative titles: ${mergedMovie.alternativeTitles.join(', ')}`);
+  }
+
+  return mergedMovies;
 }
 
 const SOURCES_FILE = './_input/_data/sources.json';
@@ -246,16 +350,21 @@ for (const source of sources) {
     console.log(`Downloading ${backdropUrl} to ${backdropPath}`);
     await download(backdropUrl, backdropPath);
   }
-  
-  console.log('Saving movies file');
-  await fs.writeFile(MOVIES_FILE, JSON.stringify(Object.values(existingMovies), null, 2));
-  console.log('Saved movies file');
-  
+
   source.lastUpdateDate = feed.updated;
   console.log('Saving sources file');
   await fs.writeFile(SOURCES_FILE, JSON.stringify(sources, null, 2));
   console.log('Saved sources file');
 }
+
+// Merge duplicate movies with the same TMDB ID
+console.log('Merging duplicate movies by TMDB ID');
+const mergedMovies = mergeMoviesByTmdbId(existingMovies);
+console.log(`After merging: ${Object.values(mergedMovies).length} movies`);
+
+console.log('Saving movies file');
+await fs.writeFile(MOVIES_FILE, JSON.stringify(Object.values(mergedMovies), null, 2));
+console.log('Saved movies file');
 
 
 

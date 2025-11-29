@@ -12,11 +12,38 @@
     .sort((a, b) => a.title.localeCompare(b.title));
 
   const relevantMovies = movies
-    .filter((m) => !m.theaterEndDate || new Date(m.theaterEndDate) > now)
+    .filter((m) => {
+      // Must have a release date
+      if (!m.theaterReleaseDate) return false;
+      // Must not be just a year
+      if (/^\d{4}$/.test(m.theaterReleaseDate)) return false;
+
+      const releaseDate = new Date(m.theaterReleaseDate);
+
+      // If there's an end date, check if it has passed
+      if (m.theaterEndDate) {
+        const endDate = new Date(m.theaterEndDate);
+        if (endDate <= now) return false;
+      } else {
+        // If no end date, exclude movies released more than 30 days ago
+        const daysSinceRelease = (now - releaseDate) / (1000 * 60 * 60 * 24);
+        if (daysSinceRelease > 30) return false;
+      }
+
+      return true;
+    })
     .sort((a, b) => a.theaterReleaseDate?.localeCompare(b.theaterReleaseDate))
     .reduce((agg, movie) => {
       const releaseDate = new Date(movie.theaterReleaseDate);
-      const relativeDate = (movie.theaterReleaseDate && !/^\d{4}$/.test(movie.theaterReleaseDate) && formatRelativeDate(releaseDate)) || 'Annunciati';
+      let relativeDate;
+
+      // If movie has already been released, label it as "Al cinema"
+      if (releaseDate <= now) {
+        relativeDate = 'Al cinema';
+      } else {
+        relativeDate = formatRelativeDate(releaseDate);
+      }
+
       agg[relativeDate] = agg[relativeDate] || [];
       agg[relativeDate].push(movie);
       return agg;
