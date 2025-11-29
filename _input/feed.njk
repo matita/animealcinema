@@ -5,10 +5,10 @@ permalink: /coming-soon.xml
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Anime al Cinema in Italia</title>
   <subtitle>Film anime giapponesi in uscita nei cinema italiani</subtitle>
-  <link href="{{ 'https://animealcinema.surge.sh/coming-soon.xml' }}" rel="self"/>
-  <link href="{{ 'https://animealcinema.surge.sh/' }}"/>
+  <link href="{{ 'https://matita.github.io/animealcinema/coming-soon.xml' }}" rel="self"/>
+  <link href="{{ 'https://matita.github.io/animealcinema/' }}"/>
   <updated>{{ movies | getNewestDate }}</updated>
-  <id>https://animealcinema.surge.sh/</id>
+  <id>https://matita.github.io/animealcinema/</id>
   <author>
     <name>Anime al Cinema</name>
   </author>
@@ -16,15 +16,15 @@ permalink: /coming-soon.xml
   {%- for movie in upcomingMovies %}
   <entry>
     <title>{{ movie.title }}</title>
-    <link href="{{ 'https://animealcinema.surge.sh/movie/' + movie.slug + '/' }}"/>
-    <id>https://animealcinema.surge.sh/movie/{{ movie.slug }}/</id>
+    <link href="{{ 'https://matita.github.io/animealcinema/movie/' + movie.slug + '/' }}"/>
+    <id>https://matita.github.io/animealcinema/movie/{{ movie.slug }}/</id>
     <updated>{{ movie.lastSourceDate | formatISO }}</updated>
     <summary>{{ movie.title }} - In uscita il {{ movie.theaterReleaseDate | formatDateItalian }}{% if movie.theaterEndDate %}, fino al {{ movie.theaterEndDate | formatDateItalian }}{% endif %}.</summary>
     <content type="html">
       <![CDATA[
         <h2>{{ movie.title }}</h2>
         {% if movie.tmdbMovie and movie.tmdbMovie.poster_path %}
-        <p><img src="https://animealcinema.surge.sh/images/w500{{ movie.tmdbMovie.poster_path }}" alt="{{ movie.title }}" /></p>
+        <p><img src="https://matita.github.io/animealcinema/images/w500{{ movie.tmdbMovie.poster_path }}" alt="{{ movie.title }}" /></p>
         {% endif %}
         <p><strong>Data di uscita:</strong> {{ movie.theaterReleaseDate | formatDateItalian }}</p>
         {% if movie.theaterEndDate %}
@@ -41,7 +41,7 @@ permalink: /coming-soon.xml
         {% endfor %}
         </ul>
         {% endif %}
-        <p><a href="https://animealcinema.surge.sh/movie/{{ movie.slug }}/">Vedi dettagli completi</a></p>
+        <p><a href="https://matita.github.io/animealcinema/movie/{{ movie.slug }}/">Vedi dettagli completi</a></p>
       ]]>
     </content>
   </entry>

@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Anime al Cinema in Italia</title>
   <subtitle>Film anime giapponesi in uscita nei cinema italiani</subtitle>
-  <link href="https://animealcinema.surge.sh/coming-soon.xml" rel="self"/>
-  <link href="https://animealcinema.surge.sh/"/>
+  <link href="https://matita.github.io/animealcinema/coming-soon.xml" rel="self"/>
+  <link href="https://matita.github.io/animealcinema/"/>
   <updated>2099-03-31T00:00:00.000Z</updated>
-  <id>https://animealcinema.surge.sh/</id>
+  <id>https://matita.github.io/animealcinema/</id>
   <author>
     <name>Anime al Cinema</name>
   </author>
   <entry>
     <title>JUJUTSU KAISEN: Esecuzione</title>
-    <link href="https://animealcinema.surge.sh/movie/jujutsu-kaisen-esecuzione/"/>
-    <id>https://animealcinema.surge.sh/movie/jujutsu-kaisen-esecuzione/</id>
+    <link href="https://matita.github.io/animealcinema/movie/jujutsu-kaisen-esecuzione/"/>
+    <id>https://matita.github.io/animealcinema/movie/jujutsu-kaisen-esecuzione/</id>
     <updated>2025-10-16T07:12:47.000Z</updated>
     <summary>JUJUTSU KAISEN: Esecuzione - In uscita il lunedì 8 dicembre 2025.</summary>
     <content type="html">
       <![CDATA[
         <h2>JUJUTSU KAISEN: Esecuzione</h2>
         
-        <p><img src="https://animealcinema.surge.sh/images/w500/e2EWGvtko8mQD7HPA99KHysNQNN.jpg" alt="JUJUTSU KAISEN: Esecuzione" /></p>
+        <p><img src="https://matita.github.io/animealcinema/images/w500/e2EWGvtko8mQD7HPA99KHysNQNN.jpg" alt="JUJUTSU KAISEN: Esecuzione" /></p>
         
         <p><strong>Data di uscita:</strong> lunedì 8 dicembre 2025</p>
         
@@ -46,7 +46,7 @@
         
         </ul>
         
-        <p><a href="https://animealcinema.surge.sh/movie/jujutsu-kaisen-esecuzione/">Vedi dettagli completi</a></p>
+        <p><a href="https://matita.github.io/animealcinema/movie/jujutsu-kaisen-esecuzione/">Vedi dettagli completi</a></p>
       ]]>
     </content>
   </entry>
