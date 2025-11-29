@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anime al Cinema in Italia</title>
+  <subtitle>Film anime giapponesi in uscita nei cinema italiani</subtitle>
+  <link href="https://animealcinema.surge.sh/feed.xml" rel="self"/>
+  <link href="https://animealcinema.surge.sh/"/>
+  <updated>2099-03-31T00:00:00.000Z</updated>
+  <id>https://animealcinema.surge.sh/</id>
+  <author>
+    <name>Anime al Cinema</name>
+  </author>
+</feed>

@@ -1,0 +1,49 @@
+---
+permalink: /coming-soon.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anime al Cinema in Italia</title>
+  <subtitle>Film anime giapponesi in uscita nei cinema italiani</subtitle>
+  <link href="{{ 'https://animealcinema.surge.sh/coming-soon.xml' }}" rel="self"/>
+  <link href="{{ 'https://animealcinema.surge.sh/' }}"/>
+  <updated>{{ movies | getNewestDate }}</updated>
+  <id>https://animealcinema.surge.sh/</id>
+  <author>
+    <name>Anime al Cinema</name>
+  </author>
+  {%- set upcomingMovies = movies | filterUpcomingMovies %}
+  {%- for movie in upcomingMovies %}
+  <entry>
+    <title>{{ movie.title }}</title>
+    <link href="{{ 'https://animealcinema.surge.sh/movie/' + movie.slug + '/' }}"/>
+    <id>https://animealcinema.surge.sh/movie/{{ movie.slug }}/</id>
+    <updated>{{ movie.lastSourceDate | formatISO }}</updated>
+    <summary>{{ movie.title }} - In uscita il {{ movie.theaterReleaseDate | formatDateItalian }}{% if movie.theaterEndDate %}, fino al {{ movie.theaterEndDate | formatDateItalian }}{% endif %}.</summary>
+    <content type="html">
+      <![CDATA[
+        <h2>{{ movie.title }}</h2>
+        {% if movie.tmdbMovie and movie.tmdbMovie.poster_path %}
+        <p><img src="https://animealcinema.surge.sh/images/w500{{ movie.tmdbMovie.poster_path }}" alt="{{ movie.title }}" /></p>
+        {% endif %}
+        <p><strong>Data di uscita:</strong> {{ movie.theaterReleaseDate | formatDateItalian }}</p>
+        {% if movie.theaterEndDate %}
+        <p><strong>Ultimo giorno:</strong> {{ movie.theaterEndDate | formatDateItalian }}</p>
+        {% endif %}
+        {% if movie.tmdbMovie and movie.tmdbMovie.overview %}
+        <p>{{ movie.tmdbMovie.overview }}</p>
+        {% endif %}
+        {% if movie.sources and movie.sources.length > 0 %}
+        <h3>Fonti:</h3>
+        <ul>
+        {% for source in movie.sources | sortByDate %}
+          <li><a href="{{ source.url }}">{{ source.title }}</a>{% if source.description %} - {{ source.description }}{% endif %}</li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+        <p><a href="https://animealcinema.surge.sh/movie/{{ movie.slug }}/">Vedi dettagli completi</a></p>
+      ]]>
+    </content>
+  </entry>
+  {%- endfor %}
+</feed>

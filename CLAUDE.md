@@ -85,13 +85,23 @@ The main fetch script runs hourly via GitHub Actions and follows this flow:
 
 - **Input Directory**: `_input/`
 - **Output Directory**: `_site/`
-- **Templates**: EJS templates with Liquid for specific pages
+- **Templates**: EJS templates with Liquid for specific pages, Nunjucks for feed
 - **Data Files**: JSON files in `_input/_data/` are automatically available as global data
 - **Main Template** (`_input/index.ejs`):
   - Categorizes movies by relative time periods (weeks/months/years)
   - Filters movies into: showing now, coming soon, and announced
   - Uses most popular movie backdrop as hero image
   - Displays movies grouped by release date proximity
+- **Movie Detail Pages** (`_input/movie.ejs`):
+  - Uses pagination to generate individual pages for each movie
+  - URL pattern: `/movie/{slug}/`
+  - Shows all sources that mentioned the movie
+  - Displays TMDB metadata (poster, backdrop, synopsis)
+- **RSS/Atom Feed** (`_input/feed.njk`):
+  - Generated at `/coming-soon.xml`
+  - Contains movies with release dates in the next two weeks (from today)
+  - Sorted by release date (earliest first)
+  - Includes poster images, synopsis, and source links
 
 ### Utility Modules
 
