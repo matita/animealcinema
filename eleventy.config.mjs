@@ -6,6 +6,10 @@ export default function (eleventyConfig) {
     '_input/images': '/images',
   });
 
+  // Add global data for base path
+  eleventyConfig.addGlobalData('basePath', process.env.BASE_PATH || '');
+  eleventyConfig.addGlobalData('fullUrl', process.env.FULL_URL || 'http://localhost:8080');
+
   // Filter to get movies showing in the next two weeks
   eleventyConfig.addFilter('filterUpcomingMovies', (movies) => {
     const now = new Date();

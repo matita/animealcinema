@@ -10,15 +10,21 @@ This is an automated content aggregator and static site generator that tracks Ja
 
 ### Core Operations
 - `npm run fetch` - Run the data collection pipeline (fetches articles, extracts movie data, updates JSON files)
-- `npm run build` - Build the static site using Eleventy (generates `_site/` directory)
+- `npm run build` - Build the static site using Eleventy for local development (generates `_site/` directory)
+- `npm run build:prod` - Build for production with GitHub Pages base path (`/animealcinema`)
 - `npm run dev` - Build with live server for local development
 - `npm run deploy` - Deploy to animealcinema.surge.sh
 - `npm run deploy-site` - Deploy to prova.animealcinemainitalia.it
 
 ### Environment Variables
-Required in `.env` file:
+
+**Required in `.env` file:**
 - `OPENAI_API_KEY` - For GPT-4 article analysis
 - `TMDB_API_KEY` - For The Movie Database API access
+
+**Build-time variables (set automatically in GitHub Actions):**
+- `BASE_PATH` - Base path for URLs (empty for local dev, `/animealcinema` for GitHub Pages)
+- `FULL_URL` - Full URL of the site (e.g., `https://matita.github.io`)
 
 ## Architecture
 

@@ -7,6 +7,7 @@
     "fetch": "node src/index.mjs",
     "build": "npx @11ty/eleventy --input=_input",
     "dev": "npm run build -- --serve",
+    "build:prod": "BASE_PATH=/animealcinema FULL_URL=https://matita.github.io npm run build",
     "deploy": "npx surge ./_site --domain animealcinema.surge.sh",
     "deploy-site": "npx surge ./_site --domain prova.animealcinemainitalia.it"
   },

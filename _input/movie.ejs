@@ -220,10 +220,10 @@ function formatDateShort(date) {
 <body>
 
 <main>
-  <a href="/animealcinema" class="back-link">← Torna alla home</a>
+  <a href="<%= basePath %>/" class="back-link">← Torna alla home</a>
 
   <% if (movie.tmdbMovie?.backdrop_path) { %>
-  <div class="hero" style="background-image: linear-gradient(to bottom, rgba(52.5, 52.5, 52.5, 0.2), rgba(52.5, 52.5, 52.5, 1)), url(/images/w1280<%= movie.tmdbMovie.backdrop_path %>)">
+  <div class="hero" style="background-image: linear-gradient(to bottom, rgba(52.5, 52.5, 52.5, 0.2), rgba(52.5, 52.5, 52.5, 1)), url(<%= basePath %>/images/w1280<%= movie.tmdbMovie.backdrop_path %>)">
     <h1><%= movie.title %></h1>
   </div>
   <% } else { %>
@@ -236,7 +236,7 @@ function formatDateShort(date) {
     <div class="movie-details">
       <% if (movie.tmdbMovie?.poster_path) { %>
       <div class="movie-poster">
-        <img src="/animealcinema/images/w500<%= movie.tmdbMovie.poster_path %>" alt="<%= movie.title %>" />
+        <img src="<%= basePath %>/images/w500<%= movie.tmdbMovie.poster_path %>" alt="<%= movie.title %>" />
       </div>
       <% } %>
 

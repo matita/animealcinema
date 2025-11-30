@@ -54,7 +54,7 @@
       .filter((m) => m.tmdbMovie?.backdrop_path)
       .sort((a, b) => b.tmdbMovie.popularity - a.tmdbMovie.popularity)
       [0]?.tmdbMovie.backdrop_path;
-    return backdropPath && `/images/w1280${backdropPath}`;
+    return backdropPath ? `${basePath}/images/w1280${backdropPath}` : null;
   }
 
   function formatRelativeDate(date) {

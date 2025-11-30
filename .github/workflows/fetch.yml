@@ -37,6 +37,9 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
     - run: npm run build --if-present
+      env:
+        BASE_PATH: /animealcinema
+        FULL_URL: https://matita.github.io
     - name: Commit build
       run: |
         git config --global user.name 'Matteo'
