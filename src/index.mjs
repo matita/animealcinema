@@ -98,10 +98,10 @@ async function extractAnimeMoviesFromText(articleText, publishedDate) {
       const animeList = JSON.parse(answer);
       return animeList;
     } catch (error) {
-      console.error('Error parsing response as JSON:', answer);
+      console.log('Error parsing response as JSON:', answer);
     }
   } catch (error) {
-    console.error('API request failed:', error.response ? error.response.data : error.message);
+    console.log('API request failed:', error.response ? error.response.data : error.message);
   }
 
   return null;
