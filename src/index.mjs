@@ -331,24 +331,32 @@ for (const source of sources) {
   
     console.log(`Found a '${tmdbMovie.title}'`);
     movie.tmdbMovie = tmdbMovie;
-  
-    const posterUrlx1 = getImagePath(tmdbMovie.poster_path, { size: 'w342' });
-    const fileNamex1 = path.basename(posterUrlx1);
-    const filePathx1 = path.resolve(IMAGE_DIR, 'w342', fileNamex1);
-    console.log(`Downloading ${posterUrlx1} to ${filePathx1}`);
-    await download(posterUrlx1, filePathx1);
-    
-    const posterUrlx2 = getImagePath(tmdbMovie.poster_path, { size: 'w500' });
-    const fileNamex2 = path.basename(posterUrlx2);
-    const filePathx2 = path.resolve(IMAGE_DIR, 'w500', fileNamex2);
-    console.log(`Downloading ${posterUrlx2} to ${filePathx2}`);
-    await download(posterUrlx2, filePathx2);
 
-    const backdropUrl = getImagePath(tmdbMovie.backdrop_path, { size: 'w1280' });
-    const fileNameBackdrop = path.basename(backdropUrl);
-    const backdropPath = path.resolve(IMAGE_DIR, 'w1280', fileNameBackdrop);
-    console.log(`Downloading ${backdropUrl} to ${backdropPath}`);
-    await download(backdropUrl, backdropPath);
+    if (tmdbMovie.poster_path) {
+      const posterUrlx1 = getImagePath(tmdbMovie.poster_path, { size: 'w342' });
+      const fileNamex1 = path.basename(posterUrlx1);
+      const filePathx1 = path.resolve(IMAGE_DIR, 'w342', fileNamex1);
+      console.log(`Downloading ${posterUrlx1} to ${filePathx1}`);
+      await download(posterUrlx1, filePathx1);
+
+      const posterUrlx2 = getImagePath(tmdbMovie.poster_path, { size: 'w500' });
+      const fileNamex2 = path.basename(posterUrlx2);
+      const filePathx2 = path.resolve(IMAGE_DIR, 'w500', fileNamex2);
+      console.log(`Downloading ${posterUrlx2} to ${filePathx2}`);
+      await download(posterUrlx2, filePathx2);
+    } else {
+      console.log('No poster image available');
+    }
+
+    if (tmdbMovie.backdrop_path) {
+      const backdropUrl = getImagePath(tmdbMovie.backdrop_path, { size: 'w1280' });
+      const fileNameBackdrop = path.basename(backdropUrl);
+      const backdropPath = path.resolve(IMAGE_DIR, 'w1280', fileNameBackdrop);
+      console.log(`Downloading ${backdropUrl} to ${backdropPath}`);
+      await download(backdropUrl, backdropPath);
+    } else {
+      console.log('No backdrop image available');
+    }
   }
 
   source.lastUpdateDate = feed.updated;

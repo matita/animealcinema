@@ -147,26 +147,6 @@
     ]
   },
   {
-    "title": "Gachiakuta",
-    "slug": "gachiakuta",
-    "lastSourceDate": "2025-06-06T17:16:01.000Z",
-    "theaterReleaseDate": "2025-07-04",
-    "sources": [
-      {
-        "url": "https://www.animeclick.it/news/107199-gachiakuta-nuovo-trailer-e-annunciata-la-proiezione-in-anteprima-al-cinema-anche-in-italia",
-        "title": "Gachiakuta: nuovo trailer e annunciata la proiezione in anteprima al cinema anche in Italia",
-        "description": "Crunchyroll ha rilasciato un nuovo trailer di Gachiakuta; anime tratto dall’omonimo manga di Kei Urana, e ha inoltre annunciato che sarà trasmesso in anteprima al cinema in 15 paesi, Italia inclusa. Al...",
-        "publishedDate": "2025-06-06T00:00:00.000Z"
-      },
-      {
-        "url": "https://www.nerdpool.it/gachiakuta-rivelati-un-nuovo-trailer-e-data-di-debutto-dellanime/",
-        "title": "Gachiakuta: rivelati un nuovo trailer e data di debutto dell'anime",
-        "description": "Crunchyroll ha pubblicato un nuovo trailer e poster di Gachiakuta, anime tratto dall’omonimo manga di Kei Urana. Il video rivela che i nuovi episodi andranno in onda a partire dal 6 luglio. Manca circa un...",
-        "publishedDate": "2025-06-06T17:16:01.000Z"
-      }
-    ]
-  },
-  {
     "title": "Demon Slayer: Il castello dell'infinito (Akaza Sairai / Il ritorno di Akaza)",
     "slug": "demon-slayer-il-castello-dellinfinito-akaza-sairai-il-ritorno-di-akaza",
     "lastSourceDate": "2025-07-19T00:00:00.000Z",
@@ -270,6 +250,20 @@
         "title": "Box Office Italia: The Conjuring in testa di un weekend 18-21 settembre debole",
         "description": "Il Box Office Italia del weekend 18-21 settembre è stato particolarmente debole con 3.4 milioni di euro con un calo del 49.2% rispetto allo scorso e del 27.1% rispetto allo scorso anno. Da domenica e fino a...",
         "publishedDate": "2025-09-22T07:01:18.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Alice nel Paese delle Meraviglie: Dive in Wonderland",
+    "slug": "alice-nel-paese-delle-meraviglie-dive-in-wonderland",
+    "theaterReleaseDate": "2026-01-25",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/109439-alice-nel-paese-delle-meraviglie-dive-in-wonderland-dal-25-gennaio-nei-cinema-italiani",
+        "title": "Alice nel Paese delle Meraviglie: Dive in Wonderland dal 25 gennaio nei cinema italiani",
+        "description": "Arriva in Italia dal 25 gennaio il film Fushigi no Kuni de Alice to -Dive in Wonderland- con il titolo Alice nel Paese delle Meraviglie: Dive in Wonderland grazie ai francesi di ADN, che oltre ad essere una...",
+        "publishedDate": "2026-01-17T00:00:00.000Z"
       }
     ]
   },
@@ -6400,6 +6394,42 @@
       "release_date": "2024-11-21",
       "title": "Tokyo Override",
       "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
+    "title": "Gachiakuta",
+    "slug": "gachiakuta",
+    "lastSourceDate": "2025-06-06T17:16:01.000Z",
+    "theaterReleaseDate": "2025-07-04",
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/107199-gachiakuta-nuovo-trailer-e-annunciata-la-proiezione-in-anteprima-al-cinema-anche-in-italia",
+        "title": "Gachiakuta: nuovo trailer e annunciata la proiezione in anteprima al cinema anche in Italia",
+        "description": "Crunchyroll ha rilasciato un nuovo trailer di Gachiakuta; anime tratto dall’omonimo manga di Kei Urana, e ha inoltre annunciato che sarà trasmesso in anteprima al cinema in 15 paesi, Italia inclusa. Al...",
+        "publishedDate": "2025-06-06T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.nerdpool.it/gachiakuta-rivelati-un-nuovo-trailer-e-data-di-debutto-dellanime/",
+        "title": "Gachiakuta: rivelati un nuovo trailer e data di debutto dell'anime",
+        "description": "Crunchyroll ha pubblicato un nuovo trailer e poster di Gachiakuta, anime tratto dall’omonimo manga di Kei Urana. Il video rivela che i nuovi episodi andranno in onda a partire dal 6 luglio. Manca circa un...",
+        "publishedDate": "2025-06-06T17:16:01.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1618270,
+      "original_language": "en",
+      "original_title": "Gachiakuta",
+      "overview": "",
+      "popularity": 0.0714,
+      "poster_path": null,
+      "release_date": "",
+      "title": "Gachiakuta",
+      "video": true,
       "vote_average": 0,
       "vote_count": 0
     }
