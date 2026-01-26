@@ -4628,6 +4628,43 @@
     ]
   },
   {
+    "title": "The Super Mario Galaxy - Il film",
+    "slug": "the-super-mario-galaxy-il-film",
+    "lastSourceDate": "2026-01-26T09:01:15.000Z",
+    "theaterReleaseDate": "2026-04-01",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://it.ign.com/cinematv/223315/news/super-mario-galaxy-il-film-presenta-yoshi-nel-nuovo-trailer-italiano",
+        "title": "Super Mario Galaxy - Il film presenta Yoshi nel nuovo trailer italiano",
+        "description": "Il sequel animato di Nintendo e Illumination arriva ad aprile e introduce uno dei personaggi più amati della saga.                                                    Aggiornato:: Lunedì 26 Gennaio 2026...",
+        "publishedDate": "2026-01-26T09:01:15.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/5U0tqruExz7ssDyr5pwiAGFzI8S.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        35,
+        12,
+        16
+      ],
+      "id": 1226863,
+      "original_language": "en",
+      "original_title": "The Super Mario Galaxy Movie",
+      "overview": "",
+      "popularity": 17.336,
+      "poster_path": "/rl3OBQvawYQdvFv7SWNOx1VwXaj.jpg",
+      "release_date": "2026-04-01",
+      "title": "Super Mario Galaxy - Il film",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
     "title": "Oceania 2",
     "slug": "oceania-2",
     "lastSourceDate": "2025-07-04T09:57:26.000Z",
