@@ -254,20 +254,6 @@
     ]
   },
   {
-    "title": "Alice nel Paese delle Meraviglie: Dive in Wonderland",
-    "slug": "alice-nel-paese-delle-meraviglie-dive-in-wonderland",
-    "theaterReleaseDate": "2026-01-25",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://www.animeclick.it/news/109439-alice-nel-paese-delle-meraviglie-dive-in-wonderland-dal-25-gennaio-nei-cinema-italiani",
-        "title": "Alice nel Paese delle Meraviglie: Dive in Wonderland dal 25 gennaio nei cinema italiani",
-        "description": "Arriva in Italia dal 25 gennaio il film Fushigi no Kuni de Alice to -Dive in Wonderland- con il titolo Alice nel Paese delle Meraviglie: Dive in Wonderland grazie ai francesi di ADN, che oltre ad essere una...",
-        "publishedDate": "2026-01-17T00:00:00.000Z"
-      }
-    ]
-  },
-  {
     "title": "Conan, il ragazzo del futuro – 45° TV Anniversary",
     "slug": "conan-il-ragazzo-del-futuro-45-tv-anniversary",
     "lastSourceDate": "2026-01-26T16:33:00.000Z",
@@ -6301,6 +6287,40 @@
       "fullmetal-alchemist-brotherhood",
       "fullmetal-alchemist-brotherhood-15th-anniversary-edition"
     ]
+  },
+  {
+    "title": "Alice nel Paese delle Meraviglie: Dive in Wonderland",
+    "slug": "alice-nel-paese-delle-meraviglie-dive-in-wonderland",
+    "theaterReleaseDate": "2026-01-25",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/109439-alice-nel-paese-delle-meraviglie-dive-in-wonderland-dal-25-gennaio-nei-cinema-italiani",
+        "title": "Alice nel Paese delle Meraviglie: Dive in Wonderland dal 25 gennaio nei cinema italiani",
+        "description": "Arriva in Italia dal 25 gennaio il film Fushigi no Kuni de Alice to -Dive in Wonderland- con il titolo Alice nel Paese delle Meraviglie: Dive in Wonderland grazie ai francesi di ADN, che oltre ad essere una...",
+        "publishedDate": "2026-01-17T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/5fN4ppKhR1FBHHAerCgIRiXcS1o.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14
+      ],
+      "id": 1418665,
+      "original_language": "ja",
+      "original_title": "不思議の国でアリスと –Dive in Wonderland–",
+      "overview": "Lise Azumino è appena uscita dall'università e non riesce a trovare lavoro. Le sta provando tutte, ma ai colloqui viene sempre scartata. Si sente un fallimento. Peggio: si sente sbagliata e invisibile. L'adorata nonna, che amava moltissimo la storia di Alice nel paese delle meraviglie, ha usato tutto il patrimonio per creare la sua Wonderland. Quando Lise viene chiamata in quel posto per recuperare ciò che le è stato lasciato, si ritrova a vivere un'avventura come nella storia di Lewis Carroll, scendendo giù nella tana del Biaconiglio. Solo che questo Bianconiglio è particolarmente sprezzante, nonché un esperto di social network.",
+      "popularity": 0.8853,
+      "poster_path": "/kqcUfEXrstZapyVcPkm00oJKNpK.jpg",
+      "release_date": "2025-08-29",
+      "title": "Alice nel Paese delle Meraviglie - Dive in Wonderland",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 3
+    }
   },
   {
     "title": "DanDaDan Evil Eye",
