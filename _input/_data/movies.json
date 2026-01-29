@@ -5979,6 +5979,41 @@
     }
   },
   {
+    "title": "The Dangers in My Heart – The Movie",
+    "slug": "the-dangers-in-my-heart-the-movie",
+    "lastSourceDate": "2026-01-29T15:41:45.000Z",
+    "theaterReleaseDate": "2026-02-26",
+    "theaterEndDate": "2026-03-04",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://pressview.it/the-dangers-in-my-heart-the-movie-il-romance-anime-evento-al-cinema-a-febbraio/",
+        "title": "The Dangers in My Heart – The Movie: il romance anime evento al cinema a febbraio",
+        "description": "Questo articolo può contenere link di affiliazione.Eagle Pictures, in collaborazione con Yamato Video, porta nelle sale italiane The Dangers in My Heart – The Movie, diretto da Hiroaki Akagi e Dali Chen, con...",
+        "publishedDate": "2026-01-29T15:41:45.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/b1CO4XDNSYIZE1ev8Z72fcxJjC7.jpg",
+      "genre_ids": [
+        16,
+        10749
+      ],
+      "id": 1363979,
+      "original_language": "ja",
+      "original_title": "劇場版 僕の心のヤバイやつ",
+      "overview": "Kyotaro Ichikawa ripercorre il suo rapporto con Anna Yamada: un legame capace di illuminare le sue paure, sciogliere le insicurezze e dare un nuovo significato alla sua vita. Un sentimento così forte da trasformarsi persino in musica, grazie a una canzone dedicata ad Anna che prenderà vita sul palco con Kana e il suo gruppo, le Primary Color.",
+      "popularity": 5.5797,
+      "poster_path": "/m0SmTFThfKTMZMKxUsxc7vFUla.jpg",
+      "release_date": "2026-02-13",
+      "title": "The Dangers in My Heart: The Movie",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
     "title": "Doraemon il film: Nobita e il racconto del mondo della pittura",
     "slug": "doraemon-il-film-nobita-e-il-racconto-del-mondo-della-pittura",
     "lastSourceDate": "2025-05-05T00:00:00.000Z",
