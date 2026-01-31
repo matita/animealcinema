@@ -256,11 +256,12 @@
   {
     "title": "Conan, il ragazzo del futuro – 45° TV Anniversary",
     "slug": "conan-il-ragazzo-del-futuro-45-tv-anniversary",
-    "lastSourceDate": "2026-01-30T07:45:34.000Z",
+    "lastSourceDate": "2026-01-31T14:30:00.000Z",
     "theaterReleaseDate": "2026-02-09",
     "theaterEndDate": "2026-02-11",
     "alternativeTitles": [
-      "Conan Il Ragazzo del Futuro - 45° TV Anniversary"
+      "Conan Il Ragazzo del Futuro - 45° TV Anniversary",
+      "Conan il ragazzo del futuro – 45° TV Anniversary"
     ],
     "sources": [
       {
@@ -286,6 +287,12 @@
         "title": "Conan, il ragazzo del futuro: clip del film in arrivo al cinema per il 45° TV Anniversary",
         "description": "Leggi su corrieredellosport.it le ultime news sportive e di cronaca, segui i live, consulta i risultati, le statistiche, le foto ed i video di calcio, basket, F1, tennis e molto altro.",
         "publishedDate": "2026-01-30T07:45:34.000Z"
+      },
+      {
+        "url": "https://cinema.everyeye.it/notizie/leggendario-anime-hayao-miyazaki-uscira-cinema-italia-volta-856824.html",
+        "title": "Questo leggendario anime di Hayao Miyazaki uscirà al cinema in Italia per la prima volta",
+        "description": "Sulla scia della recente uscita speciale della nuova versione 4K de L'uovo dell'angelo di Mamoru Oshii, vi segnaliamo che molto presto arriverà nei cinema italiani - e per la prima volta in assoluto - anche...",
+        "publishedDate": "2026-01-31T14:30:00.000Z"
       }
     ]
   },
@@ -5987,10 +5994,12 @@
   {
     "title": "The Dangers in My Heart – The Movie",
     "slug": "the-dangers-in-my-heart-the-movie",
-    "lastSourceDate": "2026-01-30T20:09:35.000Z",
+    "lastSourceDate": "2026-01-30T12:54:02.000Z",
     "theaterReleaseDate": "2026-02-26",
     "theaterEndDate": "2026-03-04",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "The Dangers in My Heart: The Movie"
+    ],
     "sources": [
       {
         "url": "https://pressview.it/the-dangers-in-my-heart-the-movie-il-romance-anime-evento-al-cinema-a-febbraio/",
@@ -6009,6 +6018,12 @@
         "title": "The Dangers in My Hearte: The Movie - Al cinema dal 26 febbraio al 4 marzo - MegaNerd.it",
         "description": "The Dangers in My Heart - The Movie è arrivo nelle nostre sale, pronto a farci ripercorrere la storia del cupo Kyotaro Ichikawa e dell'allegra Anna Yamada. Vediamo insieme tutti i dettagli del fenomeno romance che ha conquistato il cuore di tutti.",
         "publishedDate": "2026-01-30T13:10:10.000Z"
+      },
+      {
+        "url": "https://www.ilcineocchio.it/cinema/the-dangers-in-my-heart-the-movie-trailer-italiano-uscita-cinema/",
+        "title": "Trailer per The Dangers in My Heart: The Movie, l’anime romance evento arriva al cinema",
+        "description": "Home » Cinema » Azione &amp; Avventura » Trailer per The Dangers in My Heart: The Movie, l’anime romance evento arriva al cinema...",
+        "publishedDate": "2026-01-30T12:54:02.000Z"
       }
     ],
     "tmdbMovie": {
