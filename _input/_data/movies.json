@@ -438,6 +438,42 @@
     }
   },
   {
+    "title": "La Principessa Mononoke",
+    "slug": "la-principessa-mononoke",
+    "lastSourceDate": "2026-02-07T15:00:00.000Z",
+    "theaterReleaseDate": "2026-06-04",
+    "theaterEndDate": "2026-06-10",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.panorama.it/tempo-libero/cultura/tutti-pazzi-per-gli-anime-come-lanimazione-giapponese-ha-conquistato-cinema-streaming-e-nuove-generazioni",
+        "title": "Tutti pazzi per gli anime: come l’animazione giapponese ha conquistato cinema, streaming e nuove generazioni",
+        "description": "Al cinema incassano centinaia di milioni di dollari, sulle piattaforme come Netflix metà degli abbonati è un fan. Così i “manga animati” hanno conquistato l’Italia Gli “anime” sono tra noi. Invadono cinema...",
+        "publishedDate": "2026-02-07T15:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+      "genre_ids": [
+        12,
+        14,
+        16
+      ],
+      "id": 128,
+      "original_language": "ja",
+      "original_title": "もののけ姫",
+      "overview": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
+      "popularity": 11.9639,
+      "poster_path": "/3alL6upCn0GX9Rp1RXtGzmJbEQa.jpg",
+      "release_date": "1997-07-12",
+      "title": "Principessa Mononoke",
+      "video": false,
+      "vote_average": 8.321,
+      "vote_count": 8750
+    }
+  },
+  {
     "title": "Toy Story – Il mondo dei Giocattoli",
     "slug": "toy-story-il-mondo-dei-giocattoli",
     "lastSourceDate": "2025-07-04T09:57:26.000Z",
@@ -728,7 +764,7 @@
   {
     "title": "Porco Rosso",
     "slug": "porco-rosso",
-    "lastSourceDate": "2025-04-19T07:29:21.000Z",
+    "lastSourceDate": "2026-02-07T15:00:00.000Z",
     "theaterReleaseDate": "2025-04-25",
     "sources": [
       {
@@ -742,6 +778,12 @@
         "title": "Porco Rosso, torna al cinema il 25 aprile il film di Hayao Miyazaki",
         "description": "Torna al cinema il 25 aprile 2025 Porco Rosso di Hayao Miyazaki, uno dei suoi capolavori in cui è più esplicito il legame del maestro giapponese con l’Italia. Anime che racconta una storia che inneggia alla...",
         "publishedDate": "2025-04-19T07:29:21.000Z"
+      },
+      {
+        "url": "https://www.panorama.it/tempo-libero/cultura/tutti-pazzi-per-gli-anime-come-lanimazione-giapponese-ha-conquistato-cinema-streaming-e-nuove-generazioni",
+        "title": "Tutti pazzi per gli anime: come l’animazione giapponese ha conquistato cinema, streaming e nuove generazioni",
+        "description": "Al cinema incassano centinaia di milioni di dollari, sulle piattaforme come Netflix metà degli abbonati è un fan. Così i “manga animati” hanno conquistato l’Italia Gli “anime” sono tra noi. Invadono cinema...",
+        "publishedDate": "2026-02-07T15:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -764,7 +806,8 @@
       "video": false,
       "vote_average": 7.799,
       "vote_count": 3385
-    }
+    },
+    "alternativeTitles": []
   },
   {
     "title": "PROPHECY",
@@ -2395,7 +2438,7 @@
   {
     "title": "Conan, il ragazzo del futuro",
     "slug": "conan-il-ragazzo-del-futuro",
-    "lastSourceDate": "2026-02-01T06:20:00.000Z",
+    "lastSourceDate": "2026-02-07T15:00:00.000Z",
     "theaterReleaseDate": "1978-05-04",
     "sources": [
       {
@@ -2415,6 +2458,12 @@
         "title": "Uscite cinema febbraio 2026: date, regia e analisi dei film in sala",
         "description": "Guida completa alle uscite al cinema in Italia a febbraio 2026: date, regia, generi, distribuzione, riedizioni, eventi e analisi per orientarsi tra titoli d’autore, thriller, animazione e documentari. Calendario aggiornato con registro modifiche.",
         "publishedDate": "2026-02-01T06:20:00.000Z"
+      },
+      {
+        "url": "https://www.panorama.it/tempo-libero/cultura/tutti-pazzi-per-gli-anime-come-lanimazione-giapponese-ha-conquistato-cinema-streaming-e-nuove-generazioni",
+        "title": "Tutti pazzi per gli anime: come l’animazione giapponese ha conquistato cinema, streaming e nuove generazioni",
+        "description": "Al cinema incassano centinaia di milioni di dollari, sulle piattaforme come Netflix metà degli abbonati è un fan. Così i “manga animati” hanno conquistato l’Italia Gli “anime” sono tra noi. Invadono cinema...",
+        "publishedDate": "2026-02-07T15:00:00.000Z"
       }
     ],
     "tmdbMovie": {
