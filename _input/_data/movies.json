@@ -3743,7 +3743,8 @@
     "title": "Haikyuu!! The Dumpster Battle",
     "slug": "haikyuu-the-dumpster-battle",
     "aliases": [
-      "haikyu-the-dumpster-battle"
+      "haikyu-the-dumpster-battle",
+      "haikyu-battaglia-allultimo-rifiuto"
     ],
     "theaterReleaseDate": "2024-06-01",
     "theaterEndDate": "2024-06-03",
@@ -3758,6 +3759,12 @@
         "title": "Crunchyroll pubblica Haikyu: The Dumpster Battle",
         "description": "Crunchyroll pubblica Haikyu: The Dumpster Battle, uno dei migliori film anime del 2024                                        Un grande...",
         "publishedDate": "2024-11-01T15:19:28.000Z"
+      },
+      {
+        "url": "https://www.akibagamers.it/09-02-2026/plaion-pictures-le-novita-home-video-di-febbraio-2026/",
+        "title": "PLAION PICTURES: le novità Home Video di febbraio 2026",
+        "description": "PLAION PICTURES ha annunciato tutte le novità Home Video che potremo acquistare nel corso di febbraio 2026. Dopo il grande successo al cinema arrivano in DVD e Blu-ray il film animato SPY x FAMILY CODE: White...",
+        "publishedDate": "2026-02-09T00:00:00.000Z"
       }
     ],
     "lastSourceDate": "2024-11-01T15:19:28.000Z",
@@ -3779,7 +3786,10 @@
       "video": false,
       "vote_average": 7.415,
       "vote_count": 142
-    }
+    },
+    "alternativeTitles": [
+      "Haikyu!! Battaglia all’ultimo rifiuto"
+    ]
   },
   {
     "title": "OVERLORD – IL FILM: CAPITOLO DEL SANTO REGNO",
@@ -4126,6 +4136,42 @@
       "video": false,
       "vote_average": 6.5,
       "vote_count": 206
+    }
+  },
+  {
+    "title": "SPY x FAMILY CODE: White",
+    "slug": "spy-x-family-code-white",
+    "lastSourceDate": "2026-02-09T00:00:00.000Z",
+    "theaterReleaseDate": "2025-11-20",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.akibagamers.it/09-02-2026/plaion-pictures-le-novita-home-video-di-febbraio-2026/",
+        "title": "PLAION PICTURES: le novità Home Video di febbraio 2026",
+        "description": "PLAION PICTURES ha annunciato tutte le novità Home Video che potremo acquistare nel corso di febbraio 2026. Dopo il grande successo al cinema arrivano in DVD e Blu-ray il film animato SPY x FAMILY CODE: White...",
+        "publishedDate": "2026-02-09T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/zVDJ4cRgSpHlILSm7kGiklHQ6O7.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        28
+      ],
+      "id": 1062807,
+      "original_language": "ja",
+      "original_title": "劇場版 SPY×FAMILY CODE: White",
+      "overview": "Lui è una spia. Lei è un’assassina. Insieme, Loid e Yor tengono riservata la loro doppia vita, fingendo di essere una famiglia perfetta. Tuttavia, la loro figlia adottiva Anya, una telepate, conosce a loro insaputa gli eccitanti segreti di entrambi. Con la scusa di portare la famiglia a fare un weekend di vacanza invernale, il tentativo di Loid di fare progressi nella sua attuale missione Operazione Strix si rivela difficile quando Anya viene erroneamente coinvolta e scatena eventi che minacciano la pace nel mondo!",
+      "popularity": 7.0863,
+      "poster_path": "/g4M7fV9yVxyEZ8SEVOOsZKu2V2E.jpg",
+      "release_date": "2023-12-22",
+      "title": "SPY x FAMILY CODE: White",
+      "video": false,
+      "vote_average": 7.101,
+      "vote_count": 606
     }
   },
   {
