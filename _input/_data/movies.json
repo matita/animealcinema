@@ -3964,6 +3964,12 @@
         "title": "Dynit: Conan il ragazzo del futuro e Ghost Cat Anzu arrivano al cinema",
         "description": "Riportiamo i comunicati dell'editore:In occasione del 45° anniversario della prima messa in onda televisiva italiana, Dynit e Adler celebrano la serie con la proiezione cinematografica degli ultimi avvincenti...",
         "publishedDate": "2025-07-03T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.comingsoon.it/cinema/news/ghost-cat-anzu-in-anteprima-esclusiva-il-trailer-dell-anime-al-cinema-in/n216853/",
+        "title": "Ghost Cat Anzu, in anteprima esclusiva il trailer dell'anime al cinema in uscita evento, con la voce di Maurizio Merluzzo",
+        "description": "Animagine, nata dalla collaborazione fra Dynit e Adler Entertainment, porta al cinema il 9, 10 e 11 marzo il film anime Ghost Cat Anzu, storia di un esuberante gatto magico che entra nella vita di una bambina orfana. Ve ne mostriamo in anteprima esclusiva il poster e il trailer ufficiali italiani.",
+        "publishedDate": "2026-02-10T12:05:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3986,7 +3992,15 @@
       "video": false,
       "vote_average": 6.7,
       "vote_count": 25
-    }
+    },
+    "theaterReleaseDate": "2026-03-09",
+    "theaterEndDate": "2026-03-11",
+    "alternativeTitles": [
+      "Ghost Cat Anzu"
+    ],
+    "aliases": [
+      "ghost-cat-anzu"
+    ]
   },
   {
     "title": "I Colori dell'Anima - The Colors Within",
