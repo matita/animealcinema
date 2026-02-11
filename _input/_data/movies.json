@@ -3957,7 +3957,7 @@
   {
     "title": "Bakeneko Anzu-chan",
     "slug": "bakeneko-anzu-chan",
-    "lastSourceDate": "2026-02-10T12:05:00.000Z",
+    "lastSourceDate": "2026-02-11T13:02:14.000Z",
     "sources": [
       {
         "url": "https://www.animeclick.it/news/107467-conan-il-ragazzo-del-futuro-e-ghost-cat-anzu-arrivano-al-cinema",
@@ -3970,6 +3970,12 @@
         "title": "Ghost Cat Anzu, in anteprima esclusiva il trailer dell'anime al cinema in uscita evento, con la voce di Maurizio Merluzzo",
         "description": "Animagine, nata dalla collaborazione fra Dynit e Adler Entertainment, porta al cinema il 9, 10 e 11 marzo il film anime Ghost Cat Anzu, storia di un esuberante gatto magico che entra nella vita di una bambina orfana. Ve ne mostriamo in anteprima esclusiva il poster e il trailer ufficiali italiani.",
         "publishedDate": "2026-02-10T12:05:00.000Z"
+      },
+      {
+        "url": "https://pressview.it/trailer-ghost-cat-anzu/",
+        "title": "Ghost Cat Anzu al cinema a marzo: ecco l’anime evento di Animagine",
+        "description": "Questo articolo può contenere link di affiliazione.Animagine, la collana nata dalla collaborazione tra Dynit e Adler Entertainment che porta al cinema gli anime del presente e del passato, annuncia l’uscita...",
+        "publishedDate": "2026-02-11T13:02:14.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4479,7 +4485,7 @@
   {
     "title": "Chainsaw Man: Il Film",
     "slug": "chainsaw-man-il-film",
-    "lastSourceDate": "2025-07-04T00:00:00.000Z",
+    "lastSourceDate": "2026-02-11T13:28:49.000Z",
     "theaterReleaseDate": "2025-10-23",
     "sources": [
       {
@@ -4709,6 +4715,12 @@
         "title": "Chainsaw Man - Il film: La storia di Reze, successo al botteghino",
         "description": "L’adattamento cinematografico, in sala dal 23 Ottobre, prosegue la storia della serie anime tratta dal manga di Tatsuki Fujimoto, intrecciando amore e violenza                © 2025 MAPPA/CHAINSAW MAN...",
         "publishedDate": "2025-10-30T16:13:47.000Z"
+      },
+      {
+        "url": "https://www.meganerd.it/chainsaw-man-la-storia-di-reze-su-crunchyroll/",
+        "title": "Chainsaw Man - Il Film: La Storia di Reze arriva su Crunchyroll - MegaNerd.it",
+        "description": "Non c'è niente da fare, quando Denji si infatua di una donna non capisce più niente e questa volta tocca a una dolce ragazza incontrata per caso in un giorno di pioggia. Siete pronti a vedere cosa accadrà in \"Chainsaw Man - Il Film: La Storia di Reze\"?",
+        "publishedDate": "2026-02-11T13:28:49.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4737,7 +4749,8 @@
       "Chainsaw Man – Il Film: La Storia di Rez",
       "Chainsaw Man – Reze Arc",
       "Chainsaw Man - Il Film: La storia di Reze",
-      "Chainsaw Man – La storia di Reze"
+      "Chainsaw Man – La storia di Reze",
+      "Chainsaw Man – Il Film: La Storia di Reze"
     ],
     "aliases": [
       "chainsaw-man-the-movie-reze-arc",
