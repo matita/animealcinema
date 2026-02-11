@@ -3436,7 +3436,7 @@
   {
     "title": "Scarlet",
     "slug": "scarlet",
-    "lastSourceDate": "2025-09-18T14:58:00.000Z",
+    "lastSourceDate": "2026-02-11T00:00:00.000Z",
     "sources": [
       {
         "url": "https://www.mangaforever.net/arriva-nei-cinema-italiani-scarlet-il-nuovo-film-di-mamoru-hosoda/",
@@ -3461,6 +3461,12 @@
         "title": "Dopo Demon Slayer: Infinity Castle, ecco i film anime in arrivo nei cinema italiani",
         "description": "Il trionfo di Demon Slayer: Infinity Castle nelle sale ha dimostrato una volta per tutte che gli anime non sono più un fenomeno di nicchia: sono blockbuster capaci di competere con le grandi produzioni...",
         "publishedDate": "2025-09-18T14:58:00.000Z"
+      },
+      {
+        "url": "https://www.akibagamers.it/11-02-2026/scarlet-una-proiezione-speciale-per-il-nuovo-film-di-mamoru-hosoda/",
+        "title": "SCARLET: una proiezione speciale per il nuovo film di Mamoru Hosoda",
+        "description": "The Space Cinema annuncia il ritorno di Anime Watch Party con una proiezione speciale di SCARLET, attesissimo nuovo film di Mamoru Hosoda. L’evento si terrà a Roma il prossimo 20 febbraio alle ore 20:30...",
+        "publishedDate": "2026-02-11T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3483,7 +3489,8 @@
       "vote_average": 7.379,
       "vote_count": 413
     },
-    "theaterReleaseDate": "2026"
+    "theaterReleaseDate": "2026",
+    "alternativeTitles": []
   },
   {
     "title": "Blue Giant",
@@ -3957,7 +3964,7 @@
   {
     "title": "Bakeneko Anzu-chan",
     "slug": "bakeneko-anzu-chan",
-    "lastSourceDate": "2026-02-11T13:02:14.000Z",
+    "lastSourceDate": "2026-02-11T15:50:48.000Z",
     "sources": [
       {
         "url": "https://www.animeclick.it/news/107467-conan-il-ragazzo-del-futuro-e-ghost-cat-anzu-arrivano-al-cinema",
@@ -3976,6 +3983,12 @@
         "title": "Ghost Cat Anzu al cinema a marzo: ecco l’anime evento di Animagine",
         "description": "Questo articolo può contenere link di affiliazione.Animagine, la collana nata dalla collaborazione tra Dynit e Adler Entertainment che porta al cinema gli anime del presente e del passato, annuncia l’uscita...",
         "publishedDate": "2026-02-11T13:02:14.000Z"
+      },
+      {
+        "url": "https://www.rbcasting.com/speciali/2026/02/11/ghost-cat-anzu-arriva-al-cinema-con-animagine-il-9-10-e-11-marzo/",
+        "title": "\"Ghost Cat Anzu\" arriva al cinema con Animagine il 9, 10 e 11 marzo - RB Casting",
+        "description": "Still dal film \"Ghost Cat Anzu\" Animagine, la collana nata dalla collaborazione tra Dynit e Adler Entertainment che porta al cinema gli anime del presente e del passato, annuncia l’uscita di “Ghost Cat Anzu”,...",
+        "publishedDate": "2026-02-11T15:50:48.000Z"
       }
     ],
     "tmdbMovie": {
