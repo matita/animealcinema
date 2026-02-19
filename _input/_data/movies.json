@@ -2794,7 +2794,7 @@
   {
     "title": "The Boy and the Heron",
     "slug": "the-boy-and-the-heron",
-    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "lastSourceDate": "2026-02-19T09:56:55.000Z",
     "theaterReleaseDate": "2024-10-07",
     "sources": [
       {
@@ -2820,6 +2820,12 @@
         "title": "La nuova giovinezza degli anime al cinema",
         "description": "Lettura in    2 minA volte il mondo è strano e prende pieghe inaspettate e inspiegabili: è questo il caso del successo incredibile che stanno riscontrando gli anime al cinema negli ultimi anni (anche) nel...",
         "publishedDate": "2025-10-10T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.stilemargherita.it/anime-conquistano-tutti-lascesa-dellanimazione-giapponese-in-cinema-e-streaming/",
+        "title": "Anime conquistano tutti: l'ascesa dell'animazione giapponese in cinema e streaming!",
+        "description": "Condividi con i tuoi amici! Il fenomeno degli “anime” ha ormai conquistato il nostro quotidiano. Questi film d’animazione giapponesi, nota trasposizione dei manga, sono ovunque: nelle sale cinematografiche,...",
+        "publishedDate": "2026-02-19T09:56:55.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2845,7 +2851,8 @@
       "vote_count": 2022
     },
     "alternativeTitles": [
-      "Il ragazzo e l'airone"
+      "Il ragazzo e l'airone",
+      "Il ragazzo e l’airone"
     ],
     "aliases": [
       "il-ragazzo-e-lairone"
