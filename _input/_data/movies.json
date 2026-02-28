@@ -350,21 +350,6 @@
     ]
   },
   {
-    "title": "Kokuho – Il maestro di kabuki",
-    "slug": "kokuho-il-maestro-di-kabuki",
-    "lastSourceDate": "2026-02-27T14:45:00.000Z",
-    "theaterReleaseDate": "2026-04-30",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://www.libero.it/magazine/news/oscar-2026-kokuho-il-maestro-di-kabukil-film-cimena-italiani-quando-esce-195303/amp",
-        "title": "Candidato all'Oscar e campione di incassi al cinema: questo film si farà amare anche in Italia?",
-        "description": "L'acclamato Kokuho – Il maestro di kabuki arriva nelle sale italiane e al Far East Film Festival                                            Libero Magazine               ...",
-        "publishedDate": "2026-02-27T14:45:00.000Z"
-      }
-    ]
-  },
-  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -6479,6 +6464,45 @@
     "aliases": [
       "ado-special-live-shinzou"
     ]
+  },
+  {
+    "title": "Kokuho – Il maestro di kabuki",
+    "slug": "kokuho-il-maestro-di-kabuki",
+    "lastSourceDate": "2026-02-27T18:27:12.000Z",
+    "theaterReleaseDate": "2026-04-30",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.libero.it/magazine/news/oscar-2026-kokuho-il-maestro-di-kabukil-film-cimena-italiani-quando-esce-195303/amp",
+        "title": "Candidato all'Oscar e campione di incassi al cinema: questo film si farà amare anche in Italia?",
+        "description": "L'acclamato Kokuho – Il maestro di kabuki arriva nelle sale italiane e al Far East Film Festival                                            Libero Magazine               ...",
+        "publishedDate": "2026-02-27T14:45:00.000Z"
+      },
+      {
+        "url": "https://www.mondojapan.net/kokuho-il-maestro-di-kabuki-al-far-east-film-festival-28-e-poi-nei-cinema-italiani-la-nuova-e-sontuosa-opera-di-lee-sang-il/",
+        "title": "KOKUHO - IL MAESTRO DI KABUKI: al Far East Film Festival 28 e poi nei cinema italiani la nuova e sontuosa opera di Lee Sang-il! - Mondo Japan",
+        "description": "KOKUHO Il maestro di kabuki Arriva in Italia la nuova e sontuosa opera di Lee Sang-il: prima al Far East Film Festival 28 e poi nei cinema, dal 30 aprile, con la Tucker Film! Emotivamente infuocato e...",
+        "publishedDate": "2026-02-27T18:27:12.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/3C8yAIuXlH4BGCpTwEetIv0VBt8.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1379266,
+      "original_language": "ja",
+      "original_title": "国宝",
+      "overview": "Il giovane Kikuo (Soya Kurokawa), figlio di un boss della yakuza, si fa notare durante un banchetto a Nagasaki esibendosi in un ruolo femminile kabuki. Tra gli ospiti lo nota l'attore kabuki Hanjiro Hanai (Ken Watanabe), che riconosce immediatamente il talento del quattordicenne. Dopo la morte del padre di Kikuo, Hanjiro accoglie il ragazzo con sé e si trasferisce con lui a Osaka. Lì, Kikuo cresce insieme al figlio di Hanjiro, Shunsuke (Keitatsu Koshiyama). Nonostante le loro diverse origini, i due stringono una forte amicizia, mentre vengono formati insieme sotto la guida di Hanjiro. Solo uno di loro però diventerà il più grande maestro del kabuki della sua epoca.",
+      "popularity": 5.5299,
+      "poster_path": "/xxoJMdnlzWFenlCujMSqSdm7Bg1.jpg",
+      "release_date": "2025-06-06",
+      "title": "Kokuho - Il maestro di Kabuki",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 37
+    }
   },
   {
     "title": "Lupin III – The Movie: La stirpe immortale",
