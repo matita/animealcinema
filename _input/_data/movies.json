@@ -320,7 +320,7 @@
   {
     "title": "That Time I Got Reincarnated as a Slime Il Film: Le Lacrime del Mare Azzurro",
     "slug": "that-time-i-got-reincarnated-as-a-slime-il-film-le-lacrime-del-mare-azzurro",
-    "lastSourceDate": "2026-02-28T10:30:00.000Z",
+    "lastSourceDate": "2026-03-05T00:00:00.000Z",
     "theaterReleaseDate": "2026-04-30",
     "alternativeTitles": [],
     "sources": [
@@ -352,6 +352,12 @@
         "title": "That Time I Got Reincarnated as a Slime Il Film: Le Lacrime del Mare Azzurro, il trailer italiano ufficiale",
         "description": "È arrivato il trailer italiano ufficiale That Time I Got Reincarnated as a Slime Il Film: Le Lacrime del Mare Azzurro, al cinema da Crunchyroll e Sony il 30 aprile. È una vicenda parallela agli eventi della terza stagione dell'anime.",
         "publishedDate": "2026-02-28T10:30:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109913-box-office-giappone-il-nuovo-film-di-doraemon-subito-al-comando-segue-that-time-i-got-reincarnated-as-a-slime",
+        "title": "Box Office Giappone: il nuovo film di Doraemon subito al comando, segue That Time I Got Reincarnated as a Slime",
+        "description": "Debutta subito al primo posto del box office giapponese Doraemon the Movie: New Nobita and the Castle of the Undersea Devil, 45° pellicola 2D del franchise e remake del film del 1983. La pellicola ha...",
+        "publishedDate": "2026-03-05T00:00:00.000Z"
       }
     ]
   },
@@ -4616,6 +4622,40 @@
       "video": false,
       "vote_average": 8.376,
       "vote_count": 3866
+    }
+  },
+  {
+    "title": "Rental Family - Nelle vite degli altri",
+    "slug": "rental-family-nelle-vite-degli-altri",
+    "lastSourceDate": "2026-03-05T00:00:00.000Z",
+    "theaterReleaseDate": "2026-03-05",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/109913-box-office-giappone-il-nuovo-film-di-doraemon-subito-al-comando-segue-that-time-i-got-reincarnated-as-a-slime",
+        "title": "Box Office Giappone: il nuovo film di Doraemon subito al comando, segue That Time I Got Reincarnated as a Slime",
+        "description": "Debutta subito al primo posto del box office giapponese Doraemon the Movie: New Nobita and the Castle of the Undersea Devil, 45° pellicola 2D del franchise e remake del film del 1983. La pellicola ha...",
+        "publishedDate": "2026-03-05T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1208348,
+      "original_language": "en",
+      "original_title": "Rental Family",
+      "overview": "Philip Vandarpleog è un attore americano che vive da otto anni a Tokyo, in Giappone, che considera ormai casa propria. Un tempo celebre perché interpretava un grosso tubetto di dentifricio, supereroe di una pubblicità popolarissima, adesso passa da un’audizione all’altra, mentre il suo agente lo manda a fare la comparsa in eventi come matrimoni e funerali. Ed è proprio a un finto funerale che Philip incontra Shinji, il capo di Rental Family, un’agenzia che procura attori per impersonare parenti e amici che non esistono, e lo scrittura: Philip diventa un giornalista amico di un anziano attore, il padre assente di una bambina sino-americana, il compagno di giochi di un appassionato di videogame.",
+      "popularity": 17.7923,
+      "poster_path": "/4OchXepJLKSeFrLdd3Rk6Wj0H5R.jpg",
+      "release_date": "2025-11-20",
+      "title": "Rental Family - Nelle vite degli altri",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 520
     }
   },
   {
