@@ -91,21 +91,6 @@
     ]
   },
   {
-    "title": "L'attacco dei giganti: il film - Parte II - Le ali della libertà",
-    "slug": "lattacco-dei-giganti-il-film-parte-ii-le-ali-della-liberta",
-    "lastSourceDate": "2025-01-24T00:00:00.000Z",
-    "theaterReleaseDate": "2025-02-10",
-    "theaterEndDate": "2025-02-12",
-    "sources": [
-      {
-        "url": "https://movieplayer.it/news/lattacco-dei-giganti-il-film-parte-i-parte-2-maratona-cinema_152149/",
-        "title": "L'attacco dei giganti. Il film – Parte I e Parte II, la maratona al cinema dal 10 al 12 febbraio",
-        "description": "Maratona evento in arrivo: per tre giorni, dal 10 al 12 febbraio, i due lungometraggi de L'attacco dei giganti al cinema uno dopo l'altro.                    L'anime di culto L'attacco dei giganti arriva...",
-        "publishedDate": "2025-01-24T00:00:00.000Z"
-      }
-    ]
-  },
-  {
     "title": "Yattaman La sexy Miss Dronio in Yattaman",
     "slug": "yattaman-la-sexy-miss-dronio-in-yattaman",
     "lastSourceDate": "2025-04-02T00:00:00.000Z",
@@ -1975,12 +1960,18 @@
     }
   },
   {
-    "title": "L’Attacco dei Giganti - Il Film Parte 2 - Le Ali della Libertà",
-    "slug": "lattacco-dei-giganti-il-film-parte-2-le-ali-della-liberta",
-    "lastSourceDate": "2025-02-06T16:39:12.000Z",
+    "title": "L'attacco dei giganti: il film - Parte II - Le ali della libertà",
+    "slug": "lattacco-dei-giganti-il-film-parte-ii-le-ali-della-liberta",
+    "lastSourceDate": "2025-01-24T00:00:00.000Z",
     "theaterReleaseDate": "2025-02-10",
     "theaterEndDate": "2025-02-12",
     "sources": [
+      {
+        "url": "https://movieplayer.it/news/lattacco-dei-giganti-il-film-parte-i-parte-2-maratona-cinema_152149/",
+        "title": "L'attacco dei giganti. Il film – Parte I e Parte II, la maratona al cinema dal 10 al 12 febbraio",
+        "description": "Maratona evento in arrivo: per tre giorni, dal 10 al 12 febbraio, i due lungometraggi de L'attacco dei giganti al cinema uno dopo l'altro.                    L'anime di culto L'attacco dei giganti arriva...",
+        "publishedDate": "2025-01-24T00:00:00.000Z"
+      },
       {
         "url": "https://cpop.it/notizie/lattacco-dei-giganti-il-film-parte-1-e-2-nei-cinema-in-italia-data-e-trailer",
         "title": "L'attacco dei Giganti Il Film Parte 1 e 2 nei cinema in Italia: data e trailer",
@@ -1998,12 +1989,6 @@
         "title": "L'Attacco dei Giganti - Il film arriva nei cinema italiani: data di uscita della Parte 1 e della Parte 2 - Justnerd.it",
         "description": "Adler Entertainment in collaborazione con Dynit è felice di annunciare che ai titoli di I Love Japan, etichetta tenuta a battesimo nei giorni scorsi che riunisce produzioni del Sol Levante ancora inedite sui...",
         "publishedDate": "2025-01-23T20:38:32.000Z"
-      },
-      {
-        "url": "https://movieplayer.it/news/lattacco-dei-giganti-il-film-parte-i-parte-2-maratona-cinema_152149/",
-        "title": "L'attacco dei giganti. Il film – Parte I e Parte II, la maratona al cinema dal 10 al 12 febbraio",
-        "description": "Maratona evento in arrivo: per tre giorni, dal 10 al 12 febbraio, i due lungometraggi de L'attacco dei giganti al cinema uno dopo l'altro.                    L'anime di culto L'attacco dei giganti arriva...",
-        "publishedDate": "2025-01-24T00:00:00.000Z"
       },
       {
         "url": "https://www.corrierenerd.it/lattacco-dei-giganti-il-film/",
@@ -2032,7 +2017,7 @@
     ],
     "tmdbMovie": {
       "adult": false,
-      "backdrop_path": "/a9PEsiwYwP7Uu90OBoumqPnTlGd.jpg",
+      "backdrop_path": "/dSHJ9JRiuGwhhdS819ifScoYx7x.jpg",
       "genre_ids": [
         16,
         28,
@@ -2043,19 +2028,21 @@
       "original_language": "ja",
       "original_title": "劇場版「進撃の巨人」後編～自由の翼～",
       "overview": "Eren scopre che è stato rinchiuso per molto tempo nei sotterranei della sede della commissione e che verrà sottoposto al giudizio della corte marziale, presieduta dal comandante supremo Dallis Zacklay, l'uomo a capo di tutti i tre Corpi militari. Mentre il Corpo di Guarnigione ha del tutto rinunciato ad avanzare pretese su Eren per il terrore che la sua trasformazione in Gigante suscita in molti dei suoi uomini, il Corpo di Gendarmeria desidera studiarlo minuziosamente per poi eliminarlo. La sua unica speranza di salvezza è costituita dal Corpo di Ricerca, nel quale Erin desidera entrare da tempo. Il Corpo lo utilizzerebbe infatti in battaglia per eliminare il maggior numero possibile di nemici...",
-      "popularity": 30.594,
+      "popularity": 9.5927,
       "poster_path": "/r1Vw2VNCENU7rl217A2bdDgmpjy.jpg",
       "release_date": "2015-06-27",
       "title": "L'attacco dei giganti - Il film - Parte 2: Le ali della libertà",
       "video": true,
-      "vote_average": 8.2,
-      "vote_count": 324
+      "vote_average": 8.1,
+      "vote_count": 360
     },
     "alternativeTitles": [
       "L'attacco dei Giganti Parte 2 - Le ali della libertà",
-      "Parte 2 – Le ali della libertà"
+      "Parte 2 – Le ali della libertà",
+      "L’Attacco dei Giganti - Il Film Parte 2 - Le Ali della Libertà"
     ],
     "aliases": [
+      "lattacco-dei-giganti-il-film-parte-2-le-ali-della-liberta",
       "lattacco-dei-giganti-parte-2-le-ali-della-liberta",
       "parte-2-le-ali-della-liberta"
     ]
