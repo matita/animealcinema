@@ -1124,6 +1124,12 @@
         "title": "Film e animazione. Da Gumball a Stranger Things",
         "description": "HomeLuccaLucca ComicsFilm e animazione. Da Gumball a Stranger ThingsL’Area Movie di Lucca Comics &amp; Games taglia il traguardo dei 15 anni e lo festeggia con un programma ricco...L’Area Movie di Lucca...",
         "publishedDate": "2025-10-29T10:12:17.000Z"
+      },
+      {
+        "url": "https://www.corrierenerd.it/events/extra-sci-fi-festival-2026/",
+        "title": "EXTRA Sci-Fi Festival Verona 2026: fantascienza, anime cult e visioni dal futuro conquistano la città",
+        "description": "EXTRA Sci-Fi Festival Verona 2026 porta in città cinema di fantascienza, anime cult, film in concorso, cortometraggi e classici come Il pianeta delle scimmie, Fuga da New York ed E.T. Un viaggio tra distopia, cultura nerd e nuove visioni del genere.",
+        "publishedDate": "2026-03-12T18:16:24.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1150,13 +1156,15 @@
     "alternativeTitles": [
       "L’uovo dell’angelo",
       "Angel’s Egg (4K)",
-      "Angel's Egg"
+      "Angel's Egg",
+      "L'uovo dell'angelo"
     ],
     "aliases": [
       "luovo-dellangelo",
       "angels-egg-4k",
       "angels-egg"
-    ]
+    ],
+    "lastSourceDate": "2026-03-12T18:16:24.000Z"
   },
   {
     "title": "Cloud",
