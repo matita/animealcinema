@@ -1130,6 +1130,11 @@
         "title": "EXTRA Sci-Fi Festival Verona 2026: fantascienza, anime cult e visioni dal futuro conquistano la città",
         "description": "EXTRA Sci-Fi Festival Verona 2026 porta in città cinema di fantascienza, anime cult, film in concorso, cortometraggi e classici come Il pianeta delle scimmie, Fuga da New York ed E.T. Un viaggio tra distopia, cultura nerd e nuove visioni del genere.",
         "publishedDate": "2026-03-12T18:16:24.000Z"
+      },
+      {
+        "url": "https://www.corrierenerd.it/tag/eventi-fantascienza-verona/",
+        "title": "CorriereNerd.it",
+        "description": "Marzo porta sempre con sé una strana magia per chi ama la fantascienza. Forse dipende dal fatto che la primavera somiglia a un piccolo reboot del mondo, oppure perché proprio in questo periodo festival,..."
       }
     ],
     "tmdbMovie": {
@@ -1163,8 +1168,7 @@
       "luovo-dellangelo",
       "angels-egg-4k",
       "angels-egg"
-    ],
-    "lastSourceDate": "2026-03-12T18:16:24.000Z"
+    ]
   },
   {
     "title": "Cloud",
