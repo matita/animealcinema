@@ -321,6 +321,22 @@
     ]
   },
   {
+    "title": "Conan, il ragazzo del futuro 45° anniversario TV",
+    "slug": "conan-il-ragazzo-del-futuro-45-anniversario-tv",
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
+    "theaterReleaseDate": "2026-02-09",
+    "theaterEndDate": "2026-02-11",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -464,16 +480,24 @@
   {
     "title": "La Principessa Mononoke",
     "slug": "la-principessa-mononoke",
-    "lastSourceDate": "2026-02-07T15:00:00.000Z",
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
     "theaterReleaseDate": "2026-06-04",
     "theaterEndDate": "2026-06-10",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "La principessa mononoke"
+    ],
     "sources": [
       {
         "url": "https://www.panorama.it/tempo-libero/cultura/tutti-pazzi-per-gli-anime-come-lanimazione-giapponese-ha-conquistato-cinema-streaming-e-nuove-generazioni",
         "title": "Tutti pazzi per gli anime: come l’animazione giapponese ha conquistato cinema, streaming e nuove generazioni",
         "description": "Al cinema incassano centinaia di milioni di dollari, sulle piattaforme come Netflix metà degli abbonati è un fan. Così i “manga animati” hanno conquistato l’Italia Gli “anime” sono tra noi. Invadono cinema...",
         "publishedDate": "2026-02-07T15:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -788,7 +812,7 @@
   {
     "title": "Porco Rosso",
     "slug": "porco-rosso",
-    "lastSourceDate": "2026-02-07T15:00:00.000Z",
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
     "theaterReleaseDate": "2025-04-25",
     "sources": [
       {
@@ -808,6 +832,12 @@
         "title": "Tutti pazzi per gli anime: come l’animazione giapponese ha conquistato cinema, streaming e nuove generazioni",
         "description": "Al cinema incassano centinaia di milioni di dollari, sulle piattaforme come Netflix metà degli abbonati è un fan. Così i “manga animati” hanno conquistato l’Italia Gli “anime” sono tra noi. Invadono cinema...",
         "publishedDate": "2026-02-07T15:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -831,7 +861,8 @@
       "vote_average": 7.799,
       "vote_count": 3385
     },
-    "alternativeTitles": []
+    "alternativeTitles": [],
+    "theaterEndDate": "2026-04-29"
   },
   {
     "title": "PROPHECY",
@@ -1530,7 +1561,7 @@
   {
     "title": "Memories",
     "slug": "memories",
-    "lastSourceDate": "2025-10-10T00:00:00.000Z",
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
     "theaterReleaseDate": "2025-11-17",
     "theaterEndDate": "2025-11-19",
     "sources": [
@@ -1563,6 +1594,12 @@
         "title": "La nuova giovinezza degli anime al cinema",
         "description": "Lettura in    2 minA volte il mondo è strano e prende pieghe inaspettate e inspiegabili: è questo il caso del successo incredibile che stanno riscontrando gli anime al cinema negli ultimi anni (anche) nel...",
         "publishedDate": "2025-10-10T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1584,7 +1621,8 @@
       "video": false,
       "vote_average": 7.4,
       "vote_count": 487
-    }
+    },
+    "alternativeTitles": []
   },
   {
     "title": "Paprika",
@@ -3488,7 +3526,7 @@
   {
     "title": "Scarlet",
     "slug": "scarlet",
-    "lastSourceDate": "2026-02-21T09:00:00.000Z",
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
     "sources": [
       {
         "url": "https://www.mangaforever.net/arriva-nei-cinema-italiani-scarlet-il-nuovo-film-di-mamoru-hosoda/",
@@ -3537,6 +3575,12 @@
         "title": "Scarlet, del candidato all’Oscar Mamoru Hosoda, stupisce tra Shakespeare e salti nel tempo",
         "description": "È firmato da Mamoru Hosoda l’anime fantasy Scarlet, in uscita a febbraio nei cinema italiani e presentato fuori concorso alla scorsa Mostra d’Arte Cinematografica di Venezia. Hosoda, famoso per titoli quali...",
         "publishedDate": "2026-02-21T09:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4042,7 +4086,7 @@
   {
     "title": "Bakeneko Anzu-chan",
     "slug": "bakeneko-anzu-chan",
-    "lastSourceDate": "2026-03-10T05:34:11.000Z",
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
     "sources": [
       {
         "url": "https://www.animeclick.it/news/107467-conan-il-ragazzo-del-futuro-e-ghost-cat-anzu-arrivano-al-cinema",
@@ -4133,6 +4177,12 @@
         "title": "'Ghost Cat Anzu' al cinema: il gatto fantasma che conquista il cuore dei vivi",
         "description": "Arriva nelle sale italiane solo per tre giorni, dal 9 all’11 marzo, Ghost Cat Anzu, film d’animazione diretto da Yōko Kuno e Nobuhiro Yamashita e distribuito in Italia da Dynit e Adler Entertainment...",
         "publishedDate": "2026-03-10T05:34:11.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6333,9 +6383,11 @@
   {
     "title": "That Time I Got Reincarnated as a Slime Il Film: Le Lacrime del Mare Azzurro",
     "slug": "that-time-i-got-reincarnated-as-a-slime-il-film-le-lacrime-del-mare-azzurro",
-    "lastSourceDate": "2026-03-05T00:00:00.000Z",
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
     "theaterReleaseDate": "2026-04-30",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "That Time I Got Reincarnated as a Slime il film: le lacrime del mare azzurro"
+    ],
     "sources": [
       {
         "url": "https://cinecittanews.it/that-time-i-got-reincarnated-as-a-slime-il-film-arriva-in-sala/",
@@ -6371,6 +6423,12 @@
         "title": "Box Office Giappone: il nuovo film di Doraemon subito al comando, segue That Time I Got Reincarnated as a Slime",
         "description": "Debutta subito al primo posto del box office giapponese Doraemon the Movie: New Nobita and the Castle of the Undersea Devil, 45° pellicola 2D del franchise e remake del film del 1983. La pellicola ha...",
         "publishedDate": "2026-03-05T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6398,12 +6456,13 @@
   {
     "title": "The Dangers in My Heart – The Movie",
     "slug": "the-dangers-in-my-heart-the-movie",
-    "lastSourceDate": "2026-03-18T14:00:47.000Z",
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
     "theaterReleaseDate": "2026-02-26",
     "theaterEndDate": "2026-03-04",
     "alternativeTitles": [
       "The Dangers in My Heart: The Movie",
-      "The Dangers in My Heart - The Movie"
+      "The Dangers in My Heart - The Movie",
+      "The Dangers in My Heart The Movie"
     ],
     "sources": [
       {
@@ -6495,6 +6554,12 @@
         "title": "The Dangers in My Heart: The Movie, la recensione: l’adolescenza goffa che conquista il grande schermo - BadTaste",
         "description": "Se qualcuno ti ha detto che The Dangers in My Heart è “la solita romcom scolastica”, puoi tranquillamente ignorarlo. Quello che sembrava il tipico rapporto da liceo, con mille cliché, ha conquistato il...",
         "publishedDate": "2026-03-18T14:00:47.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6870,13 +6935,21 @@
     "title": "Alice nel Paese delle Meraviglie: Dive in Wonderland",
     "slug": "alice-nel-paese-delle-meraviglie-dive-in-wonderland",
     "theaterReleaseDate": "2026-01-25",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Alice nel paese delle meraviglie: Dive in Wonderland"
+    ],
     "sources": [
       {
         "url": "https://www.animeclick.it/news/109439-alice-nel-paese-delle-meraviglie-dive-in-wonderland-dal-25-gennaio-nei-cinema-italiani",
         "title": "Alice nel Paese delle Meraviglie: Dive in Wonderland dal 25 gennaio nei cinema italiani",
         "description": "Arriva in Italia dal 25 gennaio il film Fushigi no Kuni de Alice to -Dive in Wonderland- con il titolo Alice nel Paese delle Meraviglie: Dive in Wonderland grazie ai francesi di ADN, che oltre ad essere una...",
         "publishedDate": "2026-01-17T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/109270-anime-al-cinema-il-2026-inizia-con-alcuni-dei-peggiori-incassi-di-sempre",
+        "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
+        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
+        "publishedDate": "2026-03-24T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6898,7 +6971,9 @@
       "video": false,
       "vote_average": 7.7,
       "vote_count": 3
-    }
+    },
+    "lastSourceDate": "2026-03-24T00:00:00.000Z",
+    "theaterEndDate": "2026-01-25"
   },
   {
     "title": "DanDaDan Evil Eye",
