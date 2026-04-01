@@ -1291,7 +1291,7 @@
   {
     "title": "Millennium Actress",
     "slug": "millennium-actress",
-    "lastSourceDate": "2025-04-22T08:44:20.000Z",
+    "lastSourceDate": "2026-04-01T00:00:00.000Z",
     "theaterReleaseDate": "2025-05-12",
     "sources": [
       {
@@ -1299,6 +1299,12 @@
         "title": "A maggio torna al Cinema Massimo la rassegna critica dedicata agli Anime d'autore - afNews - Always Forward - Fumetto Animazione et al",
         "description": "Dal 5 al 26 maggio tornerà per il terzo anno consecutivo la rassegna torinese dedicata al cinema d’animazione giapponese. L’appuntamento, a cura di Alessandra Richetto, è ancora una volta presso al Cinema...",
         "publishedDate": "2025-04-22T08:44:20.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/110208-millennium-actress-il-capolavoro-di-satoshi-kon-arriva-al-cinema-l11-12-e-13-maggio",
+        "title": "Millennium Actress, il capolavoro di Satoshi Kon arriva al cinema l'11, 12 e 13 maggio",
+        "description": "Lo avevamo già anticipato in questa news, ovvero lo sbarco al cinema, grazie ad Anime Factory, di  Millennium Actress, straordinario capolavoro del 2001 firmato dal compianto regista Satoshi Kon. La pellicola...",
+        "publishedDate": "2026-04-01T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1321,7 +1327,9 @@
       "video": false,
       "vote_average": 7.835,
       "vote_count": 893
-    }
+    },
+    "theaterEndDate": "2026-05-13",
+    "alternativeTitles": []
   },
   {
     "title": "I Colori dell’Anima",
@@ -1919,6 +1927,44 @@
     }
   },
   {
+    "title": "The Boy and the Beast",
+    "slug": "the-boy-and-the-beast",
+    "lastSourceDate": "2026-03-31T00:00:00.000Z",
+    "theaterReleaseDate": "2015-06-10",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/recensione/79250",
+        "title": " Profilo Utente di esseci ",
+        "description": "\"Il problema delle aspettative non è che vengono puntualmente disilluse, ma che vengono puntualmente create\" (Fabrizio Caramagna)Mamoru Hosoda non si smentisce e con \"Scarlet\" prova a riproporre una lettura...",
+        "publishedDate": "2026-03-31T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/8yniaG7C4iCm0VVTSShAPUZYM3Y.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        18,
+        10751,
+        14
+      ],
+      "id": 315465,
+      "original_language": "ja",
+      "original_title": "バケモノの子",
+      "overview": "Kyuta è un bambino senza genitori. Smarritosi per le vie di Tokio, si ritrova in un universo parallelo dove incontra Kumatetsu, una creatura simile ad un orso che lotta per vivere. Kumatetsu prende Kyuta sotto la sua protezione e gli insegna tutti i segreti dell'arte del combattimento. Ormai cresciuto, il giovane Kyuta torna a Tokio mosso dal desiderio di riscoprire le sue origini. Lì scoprirà l’amore e una verità che non credeva più possibile...Ma proprio nel momento in cui sembrava raggiunta la serenità, i nemici del passato si ripresentano minando la sicurezza dell’intera città. Sarà pronto Kyuta per dimostrare a Kumatetsu di essere il più forte?",
+      "popularity": 5.1928,
+      "poster_path": "/4aSSpaOtOAw4UQIdTTvdZGB2f8p.jpg",
+      "release_date": "2015-07-11",
+      "title": "The Boy and the Beast",
+      "video": false,
+      "vote_average": 7.923,
+      "vote_count": 1584
+    }
+  },
+  {
     "title": "THE LAST: NARUTO THE MOVIE",
     "slug": "the-last-naruto-the-movie",
     "lastSourceDate": "2024-11-09T10:12:00.000Z",
@@ -2510,6 +2556,43 @@
       "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia",
       "parte-1-larco-e-la-freccia-cremisi"
     ]
+  },
+  {
+    "title": "Mirai",
+    "slug": "mirai",
+    "lastSourceDate": "2026-03-31T00:00:00.000Z",
+    "theaterReleaseDate": "2019-05-16",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/recensione/79250",
+        "title": " Profilo Utente di esseci ",
+        "description": "\"Il problema delle aspettative non è che vengono puntualmente disilluse, ma che vengono puntualmente create\" (Fabrizio Caramagna)Mamoru Hosoda non si smentisce e con \"Scarlet\" prova a riproporre una lettura...",
+        "publishedDate": "2026-03-31T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/53H7JtbElETTstolwTnTDxcG5So.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12,
+        18
+      ],
+      "id": 475215,
+      "original_language": "ja",
+      "original_title": "未来のミライ",
+      "overview": "Kun ha quattro anni e un'infanzia felice. Almeno fino a quando non arriva Mirai, la sua sorellina. Geloso fino alle lacrime, Kun cerca tra capricci e ricatti di attirare l'attenzione dei genitori, monopolizzata dai bisogni primari di Mirai. Il suo unico rifugio al disappunto è il giardino di casa dove accadono ogni giorno prodigi straordinari. Ai piedi di un grande albero genealogico e magico, Kun fa la conoscenza degli affetti più cari, colti in età diverse della loro vita: la madre bambina, la sorellina adolescente, il nonno ragazzo, il padre fanciullo. In un viaggio tra passato e futuro, Kun scopre la sua storia e trova il suo posto nel mondo. Un posto che comprende anche Mirai.",
+      "popularity": 3.4583,
+      "poster_path": "/torOnlSKxMWxhGL4GVYXMyG7bzD.jpg",
+      "release_date": "2018-07-20",
+      "title": "Mirai",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 833
+    }
   },
   {
     "title": "Conan, il ragazzo del futuro",
@@ -3286,6 +3369,42 @@
     "aliases": [
       "my-hero-academia-world-heroes-mission"
     ]
+  },
+  {
+    "title": "Belle",
+    "slug": "belle",
+    "lastSourceDate": "2026-03-31T00:00:00.000Z",
+    "theaterReleaseDate": "2022-03-17",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/recensione/79250",
+        "title": " Profilo Utente di esseci ",
+        "description": "\"Il problema delle aspettative non è che vengono puntualmente disilluse, ma che vengono puntualmente create\" (Fabrizio Caramagna)Mamoru Hosoda non si smentisce e con \"Scarlet\" prova a riproporre una lettura...",
+        "publishedDate": "2026-03-31T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/7aiVtavsu145yo6n4ZpazwMDLXL.jpg",
+      "genre_ids": [
+        16,
+        878,
+        18,
+        10402
+      ],
+      "id": 776305,
+      "original_language": "ja",
+      "original_title": "竜とそばかすの姫",
+      "overview": "Il film racconta la storia di Suzu, una ragazza di diciassette anni che ha perso la madre quando era piccola a causa di un incidente e ora vive in una zona rurale col padre. Quando viene a sapere del mondo virtuale chiamato “U”, vi entra con un avatar di nome Belle, attraendo a sé grande attenzione grazie alle sue capacità canore, e in seguito incontrerà una creatura dalla forma di drago.",
+      "popularity": 6.3985,
+      "poster_path": "/qo50IbSWkI30W7Wt6dhAqxNWfeY.jpg",
+      "release_date": "2021-07-16",
+      "title": "Belle",
+      "video": false,
+      "vote_average": 7.632,
+      "vote_count": 859
+    }
   },
   {
     "title": "The First Slam Dunk",
@@ -6678,9 +6797,11 @@
   {
     "title": "Kokuho – Il maestro di kabuki",
     "slug": "kokuho-il-maestro-di-kabuki",
-    "lastSourceDate": "2026-02-27T14:45:00.000Z",
+    "lastSourceDate": "2026-04-01T00:00:00.000Z",
     "theaterReleaseDate": "2026-04-30",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Kokuho - Il maestro di Kabuki"
+    ],
     "sources": [
       {
         "url": "https://www.libero.it/magazine/news/oscar-2026-kokuho-il-maestro-di-kabukil-film-cimena-italiani-quando-esce-195303/amp",
@@ -6693,6 +6814,12 @@
         "title": "KOKUHO - IL MAESTRO DI KABUKI: al Far East Film Festival 28 e poi nei cinema italiani la nuova e sontuosa opera di Lee Sang-il! - Mondo Japan",
         "description": "KOKUHO Il maestro di kabuki Arriva in Italia la nuova e sontuosa opera di Lee Sang-il: prima al Far East Film Festival 28 e poi nei cinema, dal 30 aprile, con la Tucker Film! Emotivamente infuocato e...",
         "publishedDate": "2026-02-27T18:27:12.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/110153-kokuho-il-maestro-di-kabuki-traile-italiano",
+        "title": "Kokuho - Il maestro di kabuki: trailer in italiano del film in sala dal 30 aprile",
+        "description": "La stagione primaverile sta per iniziare, pertanto eccoci a fare un po' di ordine: di seguito troverete curiosità e i più recenti trailer relativi a serie TV, streaming e film al debutto.** Kokuho - Il...",
+        "publishedDate": "2026-04-01T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
