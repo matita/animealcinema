@@ -924,6 +924,41 @@
     }
   },
   {
+    "title": "Suicide Club",
+    "slug": "suicide-club",
+    "lastSourceDate": "2026-04-21T13:28:19.000Z",
+    "theaterReleaseDate": "2026-04-27",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.moviedigger.it/il-cinema-di-sion-sono-arriva-per-la-prima-volta-in-italia/",
+        "title": "Il cinema dell'eccesso, della speranza e delle anime perse di SION SONO arriva per la prima volta in Italia",
+        "description": "Poeta, scrittore e poi regista giapponese, Sion Sono è noto per il suo stile provocatorio, visionario e spesso estremo. Dai primi corti sperimentali fino agli exploit di inizio secolo, con ogni suo film ha...",
+        "publishedDate": "2026-04-21T13:28:19.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/pK8jgMF9o5SBq7grQzVnpeqib7Y.jpg",
+      "genre_ids": [
+        18,
+        27,
+        53
+      ],
+      "id": 12720,
+      "original_language": "ja",
+      "original_title": "自殺サークル",
+      "overview": "Cinquantaquattro ragazze liceali si tengono per mano, sorridono e si suicidano improvvisamente, gettandosi sotto un treno in corsa nella metropolitana di Shinjuku. Il detective Kuroda viene incaricato del caso, e inizia a seguire diverse piste. Intanto Tokyo è sconvolta da una serie di inspiegabili suicidi, commessi da ragazzi e ragazze di età inferiore ai 16 anni. Inizialmente convinto che si tratti di una coincidenza, Kuroda capisce che c'è qualcosa di più.",
+      "popularity": 2.8589,
+      "poster_path": "/gTwhwhfiRxgTSzcQ8sZBAoZSZ5t.jpg",
+      "release_date": "2001-10-29",
+      "title": "Suicide Club",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 550
+    }
+  },
+  {
     "title": "Tokyo Godfathers",
     "slug": "tokyo-godfathers",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -2541,6 +2576,40 @@
     "aliases": [
       "boruto"
     ]
+  },
+  {
+    "title": "The Whispering Star",
+    "slug": "the-whispering-star",
+    "lastSourceDate": "2026-04-21T13:28:19.000Z",
+    "theaterReleaseDate": "2026-04-27",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.moviedigger.it/il-cinema-di-sion-sono-arriva-per-la-prima-volta-in-italia/",
+        "title": "Il cinema dell'eccesso, della speranza e delle anime perse di SION SONO arriva per la prima volta in Italia",
+        "description": "Poeta, scrittore e poi regista giapponese, Sion Sono è noto per il suo stile provocatorio, visionario e spesso estremo. Dai primi corti sperimentali fino agli exploit di inizio secolo, con ogni suo film ha...",
+        "publishedDate": "2026-04-21T13:28:19.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/i7vn2g5bGPosRBS8A4Y6kaz2FZL.jpg",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 355993,
+      "original_language": "ja",
+      "original_title": "ひそひそ星",
+      "overview": "Gli umani sono ormai una specie in via di estinzione e l’80% della popolazione è composta da robot. Machine ID 722 Yoko Suzuki è un’androide il cui compito è quello di consegnare pacchi agli umani dispersi nella galassia: si tratta di oggetti comuni, come una matita, un cappello o un abito, ma per chi li riceve rappresentano qualcosa di più, sono il ricordo di qualcosa che è andato perduto, capace di far battere loro il cuore. Yoko arriva a Whispering Star, la stella dei sussurri, un luogo dove ogni rumore superiore a 30 decibel può uccidere gli abitanti; in punta di piedi cercherà di raggiungere l’indirizzo della destinataria a cui consegnare un pacco dal contenuto misterioso.",
+      "popularity": 1.6043,
+      "poster_path": "/8ursNY89WP7sg9i6BCJtUICRWHB.jpg",
+      "release_date": "2015-09-10",
+      "title": "The Whispering Star",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 128
+    }
   },
   {
     "title": "Your Name",
