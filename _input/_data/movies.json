@@ -6688,7 +6688,8 @@
     "lastSourceDate": "2026-04-08T13:25:41.000Z",
     "theaterReleaseDate": "2026-04-30",
     "alternativeTitles": [
-      "That Time I Got Reincarnated as a Slime il film: le lacrime del mare azzurro"
+      "That Time I Got Reincarnated as a Slime il film: le lacrime del mare azzurro",
+      "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea"
     ],
     "sources": [
       {
@@ -6755,6 +6756,12 @@
         "title": "That time I Got Reincarnated as a Slime Il Film - Ecco il trailer italiano - MegaNerd.it",
         "description": "That Time I Got Reincarnated as a Slime Il Film: Le Lacrime del Mare Azzurro è in arrivo nei nostri cinema grazie a Crunchyroll, pronto a narrarci una storia parallela alla terza stagione che vedrà Rimuru e i suoi compagni alle prese con la Dinastia Stregona di Thalion. Gustiamoci insieme il trailer.",
         "publishedDate": "2026-04-08T13:25:41.000Z"
+      },
+      {
+        "url": "https://www.taxidrivers.it/529034/trailers/tensura-il-film-le-lacrime-del-mare-azzurro-rimuru-e-al-cinema.html",
+        "title": "'TenSura Il Film: Le Lacrime del Mare Azzurro': Rimuru è al cinema!",
+        "description": "L'estate sembra arrivare in anticipo con That Time I Got Reincarnated as a Slime Il Film: Le Lacrime del Mare Azzurro (That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea). Rimuru e gli altri protagonisti di Vita da Slime, l'isekai più amato, e decisamente",
+        "publishedDate": "2026-04-22T13:00:48.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6777,7 +6784,10 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    }
+    },
+    "aliases": [
+      "that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea"
+    ]
   },
   {
     "title": "The Dangers in My Heart – The Movie",
