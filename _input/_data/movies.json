@@ -445,7 +445,7 @@
   {
     "title": "Nausicaä della Valle del vento",
     "slug": "nausicaa-della-valle-del-vento",
-    "lastSourceDate": "2015-09-21T14:21:00.000Z",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
     "theaterReleaseDate": "2015-10-05",
     "theaterEndDate": "2015-10-07",
     "sources": [
@@ -454,6 +454,12 @@
         "title": "[Anime] “Nausicaä della Valle del vento” torna sul Grande Schermo - Ottoetrenta.it",
         "description": "Il 5, 6 e 7 ottobre arriva nelle sale italiane Nausicaä della Valle del vento (1982), secondo lungometraggio del maestro Hayao Miyazaki, dopo lo splendido Lupin III e il castello di Cagliostro del 1979. Nausicaä della Valle del vento contribuì in maniera decisiva alla nascita del famoso Studio Ghibli. Il film verrà riproposto con un nuovo",
         "publishedDate": "2015-09-21T14:21:00.000Z"
+      },
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
       }
     ],
     "tmdbMovie": {
@@ -475,7 +481,8 @@
       "video": false,
       "vote_average": 7.949,
       "vote_count": 3642
-    }
+    },
+    "alternativeTitles": []
   },
   {
     "title": "La Principessa Mononoke",
@@ -676,6 +683,42 @@
     }
   },
   {
+    "title": "Il mio vicino Totoro",
+    "slug": "il-mio-vicino-totoro",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
+    "theaterReleaseDate": "2026-05-10",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
+      "genre_ids": [
+        14,
+        16,
+        10751
+      ],
+      "id": 8392,
+      "title": "Il mio vicino Totoro",
+      "original_language": "ja",
+      "original_title": "となりのトトロ",
+      "overview": "Le sorelline Satsuki e Mei si trasferiscono insieme al padre in una nuova casa in campagna. Per le due bambine inizia un viaggio alla scoperta di un nuovo mondo, abitato da creature fantastiche: dai nerini del buio, spiritelli della fuliggine, a buffi esseri di pelo di varie dimensioni, tra cui Totoro, lo spirito buono della foresta! Insieme a lui, Satsuki e la piccola Mei vivranno una magica e straordinaria avventura all’insegna dell’amicizia!",
+      "popularity": 13.0955,
+      "poster_path": "/86jZDyajHufXUuSFSASuXWOb5gJ.jpg",
+      "release_date": "1988-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.062,
+      "vote_count": 8746
+    }
+  },
+  {
     "title": "Ghost in the Shell",
     "slug": "ghost-in-the-shell",
     "lastSourceDate": "2025-02-22T10:00:00.000Z",
@@ -741,6 +784,44 @@
       "video": false,
       "vote_average": 7.709,
       "vote_count": 17684
+    }
+  },
+  {
+    "title": "Il castello nel cielo",
+    "slug": "il-castello-nel-cielo",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
+    "theaterReleaseDate": "2026-05-03",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/z6OZ2Q4FYELeGoBj9tVDWCvevkj.jpg",
+      "genre_ids": [
+        12,
+        14,
+        16,
+        28,
+        10751
+      ],
+      "id": 10515,
+      "title": "Il castello nel cielo",
+      "original_language": "ja",
+      "original_title": "天空の城ラピュタ",
+      "overview": "Per sfuggire ai pirati dell'aria la giovane Sheeta cade da un aereo, ma si salva levitando nell'aria e atterrando dolcemente tra le braccia di Pazu, un giovane minatore che decide di prendersi cura di lei. Mentre si susseguono i tentativi di catturare Sheeta e la misteriosa pietra che la ragazza porta al collo, cresce la consapevolezza che Sheeta nasconda dei segreti che vanno ben oltre quel che l'apparenza sembri indicare, legati a una misteriosa città nel cielo, Laputa, di cui si favoleggia l'esistenza.",
+      "popularity": 8.0877,
+      "poster_path": "/iokTdyOw4THZuX8YK2LHXbRoV0I.jpg",
+      "release_date": "1986-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.971,
+      "vote_count": 4652
     }
   },
   {
@@ -926,7 +1007,7 @@
   {
     "title": "Suicide Club",
     "slug": "suicide-club",
-    "lastSourceDate": "2026-04-21T13:28:19.000Z",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
     "theaterReleaseDate": "2026-04-27",
     "alternativeTitles": [],
     "sources": [
@@ -935,6 +1016,12 @@
         "title": "Il cinema dell'eccesso, della speranza e delle anime perse di SION SONO arriva per la prima volta in Italia",
         "description": "Poeta, scrittore e poi regista giapponese, Sion Sono è noto per il suo stile provocatorio, visionario e spesso estremo. Dai primi corti sperimentali fino agli exploit di inizio secolo, con ogni suo film ha...",
         "publishedDate": "2026-04-21T13:28:19.000Z"
+      },
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1332,7 +1419,7 @@
   {
     "title": "Millennium Actress",
     "slug": "millennium-actress",
-    "lastSourceDate": "2026-04-20T22:11:32.000Z",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
     "theaterReleaseDate": "2025-05-12",
     "sources": [
       {
@@ -1454,6 +1541,12 @@
         "title": "Millennium Actress arriva al cinema in Italia: l'anteprima al Comicon, le date e dove vederlo - Quart4 Parete",
         "description": "L'indimenticabile capolavoro d'animazione firmato dal geniale Satoshi Kon è pronto a fare il suo attesissimo ritorno sul grande schermo in un'inedita e scintillante versione restaurata in 4K. Se siete fan dell'animazione giapponese e vi state chiedendo quando vedere Millennium Actress al cinema, segnatevi queste date: dall'11 al 13 maggio 2026.",
         "publishedDate": "2026-04-20T22:11:32.000Z"
+      },
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2269,7 +2362,7 @@
   {
     "title": "Cure",
     "slug": "cure",
-    "lastSourceDate": "2025-04-01T14:00:00.000Z",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
     "theaterReleaseDate": "2025-04-01",
     "sources": [
       {
@@ -2295,6 +2388,12 @@
         "title": "Cure esce per la prima volta al cinema in Italia: cosa sapere su un capolavoro dell'horror",
         "description": "Tra i tanti nuovi film in arrivo al cinema questa settimana ce n'è uno che esattamente nuovo non è, ma che fa il suo esordio assoluto sui nostri grandi schermi: per la prima volta dall'uscita originale nel...",
         "publishedDate": "2025-04-01T14:00:00.000Z"
+      },
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2317,7 +2416,8 @@
       "video": false,
       "vote_average": 7.1,
       "vote_count": 7807
-    }
+    },
+    "alternativeTitles": []
   },
   {
     "title": "L'attacco dei giganti",
@@ -2580,7 +2680,7 @@
   {
     "title": "The Whispering Star",
     "slug": "the-whispering-star",
-    "lastSourceDate": "2026-04-21T13:28:19.000Z",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
     "theaterReleaseDate": "2026-04-27",
     "alternativeTitles": [],
     "sources": [
@@ -2589,6 +2689,12 @@
         "title": "Il cinema dell'eccesso, della speranza e delle anime perse di SION SONO arriva per la prima volta in Italia",
         "description": "Poeta, scrittore e poi regista giapponese, Sion Sono è noto per il suo stile provocatorio, visionario e spesso estremo. Dai primi corti sperimentali fino agli exploit di inizio secolo, con ogni suo film ha...",
         "publishedDate": "2026-04-21T13:28:19.000Z"
+      },
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2739,6 +2845,42 @@
       "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia",
       "parte-1-larco-e-la-freccia-cremisi"
     ]
+  },
+  {
+    "title": "Il terzo omicidio",
+    "slug": "il-terzo-omicidio",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
+    "theaterReleaseDate": "2026-05-12",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/kHejbCUiGHVVqIj2RmweEnVb6LJ.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        80
+      ],
+      "id": 434775,
+      "title": "Il terzo omicidio",
+      "original_language": "ja",
+      "original_title": "三度目の殺人",
+      "overview": "Mikuma, accusato di omicidio, rischia la pena di morte. Al processo è rappresentato da Shigemori che inizia a dubitare della sua colpevolezza.",
+      "popularity": 2.3512,
+      "poster_path": "/sA6c6GRKtEPXq7KjWMUJX11e18C.jpg",
+      "release_date": "2017-09-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 281
+    }
   },
   {
     "title": "Mirai",
@@ -4337,6 +4479,40 @@
       "overlord-il-film",
       "overlord-il-capitolo-del-santo-regno"
     ]
+  },
+  {
+    "title": "Ryuji",
+    "slug": "ryuji",
+    "lastSourceDate": "2026-04-24T14:00:30.000Z",
+    "theaterReleaseDate": "2026-05-05",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.lanouvellevague.it/journey-to-the-east-trieste-2026-cinema-orientale/",
+        "title": "Journey to the East Trieste: Miyazaki e cinema orientale all’Aristo",
+        "description": "Dal 26 aprile al 26 maggio 2026 il Cinema Ariston ospita una nuova edizione di Journey to the East, la rassegna dedicata al cinema dell’Estremo Oriente a cura de La Cappella Underground. Un mese di...",
+        "publishedDate": "2026-04-24T14:00:30.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aJ6ksVY2YQIvoXX40ocFnZoSl5c.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 1015361,
+      "title": "魔神英雄伝ワタル 七魂の龍神丸 －再会－",
+      "original_language": "ja",
+      "original_title": "魔神英雄伝ワタル 七魂の龍神丸 －再会－",
+      "overview": "",
+      "popularity": 1.402,
+      "poster_path": "/lPt63RkVzdYRBVfbuWZjn0V9rBE.jpg",
+      "release_date": "2022-01-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   },
   {
     "title": "Versailles no bara",
