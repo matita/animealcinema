@@ -1425,7 +1425,7 @@
   {
     "title": "Millennium Actress",
     "slug": "millennium-actress",
-    "lastSourceDate": "2026-04-30T00:00:00.000Z",
+    "lastSourceDate": "2026-05-02T05:40:34.000Z",
     "theaterReleaseDate": "2025-05-12",
     "sources": [
       {
@@ -1565,6 +1565,12 @@
         "title": "Millennium Actress: clip esclusiva per il film in sala dall'11 maggio",
         "description": "Qui di seguito, vi proponiamo una clip esclusiva di Millennium Actress, film di Satoshi Kon che arriverà nelle sale italianedall'11 al 13 maggio. Decisi a ripercorrere la sua vita, un regista e il suo fido...",
         "publishedDate": "2026-04-30T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.rollingstone.it/cinema-tv/classifiche-liste-cinema-tv/i-film-da-vedere-a-maggio-2026/1027383/",
+        "title": "I film da vedere a maggio 2026",
+        "description": "Questo mese si va \"ai confini della realtà\": tra 'Backrooms', un nuovo capitolo di 'Star Wars', un anime imprescindibile, l'attesa versione \"unita\" delle due parti di 'Kill Bill' e il nuovo lungometraggio (spagnolo) di Almodóvar",
+        "publishedDate": "2026-05-02T05:40:34.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2869,6 +2875,42 @@
       "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia",
       "parte-1-larco-e-la-freccia-cremisi"
     ]
+  },
+  {
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "slug": "kill-bill-the-whole-bloody-affair",
+    "lastSourceDate": "2026-05-02T05:40:34.000Z",
+    "theaterReleaseDate": "2026-05-28",
+    "theaterEndDate": "2026-06-03",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.rollingstone.it/cinema-tv/classifiche-liste-cinema-tv/i-film-da-vedere-a-maggio-2026/1027383/",
+        "title": "I film da vedere a maggio 2026",
+        "description": "Questo mese si va \"ai confini della realtà\": tra 'Backrooms', un nuovo capitolo di 'Star Wars', un anime imprescindibile, l'attesa versione \"unita\" delle due parti di 'Kill Bill' e il nuovo lungometraggio (spagnolo) di Almodóvar",
+        "publishedDate": "2026-05-02T05:40:34.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/qe4Tp0hURXqiih5AV1kHimXIt3u.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 414419,
+      "title": "Kill Bill: The Whole Bloody Affair",
+      "original_language": "en",
+      "original_title": "Kill Bill: The Whole Bloody Affair",
+      "overview": "La Sposa (Uma Thurman) è un'ex killer prezzolata, la migliore in circolazione. Dopo un agguato ordinato dal suo ex mentore ed amante Bill (David Carradine) e perpetrato dalla squadra di assassini di cui faceva parte lei stessa - la Deadly Viper Assassination Squad - la Sposa rimane in coma per quattro lunghi anni e perde la bambina che aveva in grembo. Quando si risveglia all'improvviso, decide di vendicarsi di tutte le persone che le hanno rovinato la vita, lasciando per ultimo l'amato e odiato Bill.",
+      "popularity": 8.8138,
+      "poster_path": "/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+      "release_date": "2011-03-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.057,
+      "vote_count": 1228
+    }
   },
   {
     "title": "Il terzo omicidio",
