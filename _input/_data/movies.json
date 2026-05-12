@@ -1177,6 +1177,43 @@
     }
   },
   {
+    "title": "Macross – Do You Remember Love",
+    "slug": "macross-do-you-remember-love",
+    "lastSourceDate": "2026-05-12T11:09:00.000Z",
+    "theaterReleaseDate": "2026-05-22",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.quotidianopiemontese.it/2026/05/12/anime-musicali-al-cinema-massimo-di-torino-tre-film-per-raccontare-il-rapporto-tra-musica-e-animazione-giapponese/",
+        "title": "“Anime musicali”: al Cinema Massimo di Torino tre film per raccontare il rapporto tra musica e animazione giapponese",
+        "description": "TORINO – Dal 15 al 29 maggio il Cinema Massimo ospiterà “Anime musicali”, rassegna organizzata dal Museo Nazionale del Cinema dedicata al ruolo della musica negli anime giapponesi. L’iniziativa propone tre...",
+        "publishedDate": "2026-05-12T11:09:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/f1MwrnVB8eQyeJc3wQV7k1sZsz1.jpg",
+      "genre_ids": [
+        16,
+        878,
+        10752,
+        28
+      ],
+      "id": 14132,
+      "title": "Macross - Il film",
+      "original_language": "ja",
+      "original_title": "超時空要塞マクロス 愛・おぼえていますか",
+      "overview": "Film che riassume la storia originale della serie, con l'aggiunta di nuove animazioni.  A.D. 2009: la razza umana è nel mezzo di una guerra fra tre schieramenti opposti. Contro i terrestri stanno combattendo due razze aliene, composte da umanoidi giganteschi: gli zentradi (di sesso maschile) e le meltradi (di sesso femminile). L'ultimo baluardo per la salvezza della Terra è il Macross, una gigantesca astronave spaziale, al cui interno si trova una intera città. Proprio all'interno del Macross si sviluppa un intenso triangolo d'amore fra Hikaru Ichijo, giovane pilota dell'aeronautica terrestre, il suo superiore Misa Hayase e Lynn Minmay, quindicenne cantante cinese. Sarà proprio il canto di Mynmai ad avere effetti decisivi sull'esito della guerra.",
+      "popularity": 3.2916,
+      "poster_path": "/j27wHdXbq2VRurUtQiCpePZf11b.jpg",
+      "release_date": "1984-07-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 105
+    }
+  },
+  {
     "title": "Tenshi no Tamago",
     "slug": "tenshi-no-tamago",
     "theaterReleaseDate": "2025-07-03",
@@ -1617,6 +1654,12 @@
         "title": "Millennium Actress di Satoshi Kon per la prima volta nei cinema italiani fino al 13 maggio",
         "description": "Dei quattro lungometraggi realizzati da Satoshi Kon, Millennium Actress è forse quello che più di tutti riesce a indagare uno dei più grandi enigmi della Settima Arte: il cinema è una semplice imitazione della vita o qualcosa del tutto diverso e inconciliabile con essa?",
         "publishedDate": "2026-05-12T14:18:26.000Z"
+      },
+      {
+        "url": "https://www.taxidrivers.it/532848/latest-news/millennium-actress-nelle-sale.html",
+        "title": "'Millennium Actress' le nuove clip: al cinema fino al 13 maggio",
+        "description": "Anime Factory è felice di svelare le due nuove clip italiane di Millennium Actress, il lungometraggio animato di Satoshi Kon, per la prima volta nei cinema italiani da oggi 11 maggio fino al 13 maggio, in...",
+        "publishedDate": "2026-05-12T10:39:58.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1733,6 +1776,42 @@
       "video": false,
       "vote_average": 7.197,
       "vote_count": 935
+    }
+  },
+  {
+    "title": "I sospiri del mio cuore",
+    "slug": "i-sospiri-del-mio-cuore",
+    "lastSourceDate": "2026-05-12T11:09:00.000Z",
+    "theaterReleaseDate": "2026-05-29",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.quotidianopiemontese.it/2026/05/12/anime-musicali-al-cinema-massimo-di-torino-tre-film-per-raccontare-il-rapporto-tra-musica-e-animazione-giapponese/",
+        "title": "“Anime musicali”: al Cinema Massimo di Torino tre film per raccontare il rapporto tra musica e animazione giapponese",
+        "description": "TORINO – Dal 15 al 29 maggio il Cinema Massimo ospiterà “Anime musicali”, rassegna organizzata dal Museo Nazionale del Cinema dedicata al ruolo della musica negli anime giapponesi. L’iniziativa propone tre...",
+        "publishedDate": "2026-05-12T11:09:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10751
+      ],
+      "id": 37797,
+      "title": "I sospiri del mio cuore",
+      "original_language": "ja",
+      "original_title": "耳をすませば",
+      "overview": "La storia inizia durante le vacanze estive del 1994 a Tokyo e narra di Shizuku, comune studentessa delle medie con una normale famiglia: padre, madre e sorella universitaria. Shizuku è appassionata di romanzi e spesso si reca alla biblioteca di quartiere per prendere in prestito numerosi volumi. Un giorno, nel noleggiarne alcuni, si accorge che nella tessera dei noleggi stranamente ricorre sempre un cognome prima del suo: Amasawa, e con la fantasia di un'aspirante scrittrice comincia a fantasticare su chi sia questo ragazzo che pare abbia i suoi stessi gusti.",
+      "popularity": 6.1317,
+      "poster_path": "/haNkdAhMsqQNnD8BmuHh57bSUMm.jpg",
+      "release_date": "1995-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.947,
+      "vote_count": 2267
     }
   },
   {
@@ -1988,6 +2067,42 @@
       "video": false,
       "vote_average": 7.027,
       "vote_count": 475
+    }
+  },
+  {
+    "title": "Redline",
+    "slug": "redline",
+    "lastSourceDate": "2026-05-12T11:09:00.000Z",
+    "theaterReleaseDate": "2026-05-15",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.quotidianopiemontese.it/2026/05/12/anime-musicali-al-cinema-massimo-di-torino-tre-film-per-raccontare-il-rapporto-tra-musica-e-animazione-giapponese/",
+        "title": "“Anime musicali”: al Cinema Massimo di Torino tre film per raccontare il rapporto tra musica e animazione giapponese",
+        "description": "TORINO – Dal 15 al 29 maggio il Cinema Massimo ospiterà “Anime musicali”, rassegna organizzata dal Museo Nazionale del Cinema dedicata al ruolo della musica negli anime giapponesi. L’iniziativa propone tre...",
+        "publishedDate": "2026-05-12T11:09:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/hpiEAclfvNJOYPEIhmVewK3n77c.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878
+      ],
+      "id": 71883,
+      "title": "Redline",
+      "original_language": "ja",
+      "original_title": "レッドライン",
+      "overview": "Redline è il nome della gara automobilistica illegale più grande dell'universo che si svolge una volta ogni cinque anni in un luogo dello spazio che viene rivelato solo un minuto prima della partenza. Il pilota protagonista JP vuole partecipare e ha bisogno di qualificarsi ottenendo una buona posizione alla gara Yellowline, ma prima di tagliare il traguardo qualcosa non va per il verso giusto.",
+      "popularity": 3.0588,
+      "poster_path": "/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg",
+      "release_date": "2009-08-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.509,
+      "vote_count": 555
     }
   },
   {
