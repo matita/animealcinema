@@ -337,6 +337,21 @@
     ]
   },
   {
+    "title": "Maborosi - I bagliori dell'anime",
+    "slug": "maborosi-i-bagliori-dellanime",
+    "lastSourceDate": "2026-05-21T00:00:00.000Z",
+    "theaterReleaseDate": "2026-05-14",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/110269-novita-streaming-maggio-2026-serie-tv-e-film-live-action",
+        "title": "Novità streaming maggio 2026: serie TV e film live action",
+        "description": "Avete la curiosità di vedere qualche drama o film giapponese... ma non sapete come o dove reperire i sottotitoli in italiano. Vorreste rilassarvi sul divano col desiderio di guardare qualcosa in TV, avendo a...",
+        "publishedDate": "2026-05-21T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -562,6 +577,41 @@
       "video": false,
       "vote_average": 7.97,
       "vote_count": 18930
+    }
+  },
+  {
+    "title": "Nobody Knows - Come si diventa adulti",
+    "slug": "nobody-knows-come-si-diventa-adulti",
+    "lastSourceDate": "2026-05-21T00:00:00.000Z",
+    "theaterReleaseDate": "2026-05-25",
+    "theaterEndDate": "2026-05-27",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/110269-novita-streaming-maggio-2026-serie-tv-e-film-live-action",
+        "title": "Novità streaming maggio 2026: serie TV e film live action",
+        "description": "Avete la curiosità di vedere qualche drama o film giapponese... ma non sapete come o dove reperire i sottotitoli in italiano. Vorreste rilassarvi sul divano col desiderio di guardare qualcosa in TV, avendo a...",
+        "publishedDate": "2026-05-21T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/gCD0eMZW1pUitLzH93WYWJYQgGk.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 2517,
+      "title": "Nobody Knows - Come si diventa adulti",
+      "original_language": "ja",
+      "original_title": "誰も知らない",
+      "overview": "Tokyo. Un piccolo appartamento in cui vanno a vivere una giovane madre con il figlio tredicenne. In realtà i figli sono quattro nati da quattro rapporti diversi e vanno tenuti nascosti perchè mai registrati all'anagrafe. Quindi niente scuola, nessuna uscita sul balcone e, per di più, una madre immatura che rovescia sulle spalle del figlio maggiore tutta la responsabilità della conduzione della famiglia fino al giorno in cui si allontana per non fare piu' ritorno. La vita dei quattro piccoli continua ma la tragedia incombe.",
+      "popularity": 3.4476,
+      "poster_path": "/cB8KLEoSEumZs01y6UI38WtWzdK.jpg",
+      "release_date": "2004-08-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.996,
+      "vote_count": 638
     }
   },
   {
@@ -1349,7 +1399,7 @@
   {
     "title": "Arion",
     "slug": "arion",
-    "lastSourceDate": "2026-05-21T14:03:06.000Z",
+    "lastSourceDate": "2026-05-22T10:43:26.000Z",
     "theaterReleaseDate": "2026-06-22",
     "theaterEndDate": "2026-06-24",
     "alternativeTitles": [],
@@ -1377,6 +1427,12 @@
         "title": "Per la prima volta al cinema Arion ∂  FantasyMagazine.it",
         "description": "In occasione del 40esimo anniversario, arriva sul grande schermo l’anime di culto scritto, disegnato e diretto da Yoshikazu Yasuhiko,  leggenda dell’animazione giapponese e  creatore degli iconici character design di Mobile Suit Gundam. - Leggi tutto l'articolo  e guarda il video  su  FantasyMagazine.it",
         "publishedDate": "2024-02-19T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.thinkmovies.it/arion-lepico-anime-anni-80-torna-al-cinema/",
+        "title": "Arion: l’epico anime anni ’80 torna al cinema",
+        "description": "Arion torna al cinema con Nexo Studios: un epico anime anni ’80 tra miti greci e musica di Joe Hisaishi, dal 22 al 24 giugno. Arriva nelle sale la nuova stagione di Nexo Studios ANIME AL CINEMA, il progetto...",
+        "publishedDate": "2026-05-22T10:43:26.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5494,7 +5550,7 @@
   {
     "title": "Chainsaw Man: Il Film",
     "slug": "chainsaw-man-il-film",
-    "lastSourceDate": "2026-03-11T00:00:00.000Z",
+    "lastSourceDate": "2026-05-22T00:00:00.000Z",
     "theaterReleaseDate": "2025-10-23",
     "sources": [
       {
@@ -5736,6 +5792,12 @@
         "title": "Chainsaw Man: la seconda parte del manga di Tatsuki Fujimoto termina questo mese",
         "description": "Il 231° capitolo del manga Chainsaw Man di Tatsuki Fujimoto, ha rivelato martedì che la seconda parte del manga si concluderà con il capitolo successivo, il 24 marzo.Trama: Denji è povero e molto indebitato,...",
         "publishedDate": "2026-03-11T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/110686-crunchyroll-anime-awards-2026-il-programma-di-sabato-23-maggio",
+        "title": "Crunchyroll Anime Awards 2026: il programma di sabato 23 maggio",
+        "description": "Riportiamo il comunicato arrivato in redazione:\r I CRUNCHYROLL ANIME AWARDS INCORONANO I VINCITORI IN UNA CERIMONIA RICCA DI STAR QUESTA SETTIMANA\r Non perdetevi la serata più importante dedicata agli anime...",
+        "publishedDate": "2026-05-22T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5922,7 +5984,7 @@
   {
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle - Part 1",
     "slug": "demon-slayer-kimetsu-no-yaiba-infinity-castle-part-1",
-    "lastSourceDate": "2026-02-19T09:56:55.000Z",
+    "lastSourceDate": "2026-05-22T00:00:00.000Z",
     "theaterReleaseDate": "2025-01-01",
     "sources": [
       {
@@ -6511,6 +6573,12 @@
         "title": "Anime conquistano tutti: l'ascesa dell'animazione giapponese in cinema e streaming!",
         "description": "Condividi con i tuoi amici! Il fenomeno degli “anime” ha ormai conquistato il nostro quotidiano. Questi film d’animazione giapponesi, nota trasposizione dei manga, sono ovunque: nelle sale cinematografiche,...",
         "publishedDate": "2026-02-19T09:56:55.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/110686-crunchyroll-anime-awards-2026-il-programma-di-sabato-23-maggio",
+        "title": "Crunchyroll Anime Awards 2026: il programma di sabato 23 maggio",
+        "description": "Riportiamo il comunicato arrivato in redazione:\r I CRUNCHYROLL ANIME AWARDS INCORONANO I VINCITORI IN UNA CERIMONIA RICCA DI STAR QUESTA SETTIMANA\r Non perdetevi la serata più importante dedicata agli anime...",
+        "publishedDate": "2026-05-22T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6545,7 +6613,8 @@
       "Demon Slayer – Kimetsu No Yaiba: Il castello infinito",
       "Demon Slayer: Infinity Castle",
       "Demon Slayer: Kimetsu no Yaiba - Il Castello dell'Infinito",
-      "Demon Slayer: Il Castello dell’Infinito"
+      "Demon Slayer: Il Castello dell’Infinito",
+      "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito"
     ],
     "aliases": [
       "demon-slayer-kimetsu-no-yaiba-il-castello-dellinfinito",
