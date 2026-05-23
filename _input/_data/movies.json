@@ -585,13 +585,21 @@
     "lastSourceDate": "2026-05-21T00:00:00.000Z",
     "theaterReleaseDate": "2026-05-25",
     "theaterEndDate": "2026-05-27",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Nobody Knows"
+    ],
     "sources": [
       {
         "url": "https://www.animeclick.it/news/110269-novita-streaming-maggio-2026-serie-tv-e-film-live-action",
         "title": "Novità streaming maggio 2026: serie TV e film live action",
         "description": "Avete la curiosità di vedere qualche drama o film giapponese... ma non sapete come o dove reperire i sottotitoli in italiano. Vorreste rilassarvi sul divano col desiderio di guardare qualcosa in TV, avendo a...",
         "publishedDate": "2026-05-21T00:00:00.000Z"
+      },
+      {
+        "url": "https://spacenerd.it/2026/05/riflessi-dellinvisibile-maborosi/",
+        "title": "Riflessi dell'Invisibile: Maborosi, l'esordio di Kore'eda - SpaceNerd.it",
+        "description": "In arrivo al Cinema il primo film del regista palma d'oro Hirokazu Kore-Eda, per la prima volta in sala dal 14 maggio. Dopo aver perso il marito, la giovane Yumiko decide di risposarsi e di trasferirsi con suo figlio Yuichi e la nuova famiglia in un piccolo villaggio sul mare. Qui sembra trovare la serenità, ma i ricordi e le domande del passato tornano a galla e chiedono una risposta. Un viaggio lieve e delicato tra la perdita e la rinascita. Il film è parte della rassegna intitolata “Riflessi dell’invisibile”, che propone un percorso attraverso le opere che hanno segnato l’inizio della sua straordinaria carriera. Dal 14 maggio: \"Maborosi - I bagliori dell'anima\" 25-26-27 maggio: \"Nobody knows - Come si diventa adulti\" 15-16-17 giugno: \"Still walking - Camminando in un giorno d'estate\" 29-30 giugno e 1 luglio: \"After life - Qual è il tuo ricordo più bello?\"",
+        "publishedDate": "2026-05-22T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -612,7 +620,10 @@
       "video": false,
       "vote_average": 7.996,
       "vote_count": 638
-    }
+    },
+    "aliases": [
+      "nobody-knows"
+    ]
   },
   {
     "title": "Il castello errante di Howl",
@@ -1402,7 +1413,9 @@
     "lastSourceDate": "2026-05-22T10:43:26.000Z",
     "theaterReleaseDate": "2026-06-22",
     "theaterEndDate": "2026-06-24",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "ARION"
+    ],
     "sources": [
       {
         "url": "https://www.moviedigger.it/arion-il-colossal-dellanimazione-giapponese-anni-80-arriva-per-la-prima-volta-nei-cinema-italiani/",
@@ -4314,6 +4327,43 @@
     ]
   },
   {
+    "title": "Maborosi",
+    "slug": "maborosi",
+    "lastSourceDate": "2026-05-22T00:00:00.000Z",
+    "theaterReleaseDate": "2026-05-14",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://spacenerd.it/2026/05/riflessi-dellinvisibile-maborosi/",
+        "title": "Riflessi dell'Invisibile: Maborosi, l'esordio di Kore'eda - SpaceNerd.it",
+        "description": "In arrivo al Cinema il primo film del regista palma d'oro Hirokazu Kore-Eda, per la prima volta in sala dal 14 maggio. Dopo aver perso il marito, la giovane Yumiko decide di risposarsi e di trasferirsi con suo figlio Yuichi e la nuova famiglia in un piccolo villaggio sul mare. Qui sembra trovare la serenità, ma i ricordi e le domande del passato tornano a galla e chiedono una risposta. Un viaggio lieve e delicato tra la perdita e la rinascita. Il film è parte della rassegna intitolata “Riflessi dell’invisibile”, che propone un percorso attraverso le opere che hanno segnato l’inizio della sua straordinaria carriera. Dal 14 maggio: \"Maborosi - I bagliori dell'anima\" 25-26-27 maggio: \"Nobody knows - Come si diventa adulti\" 15-16-17 giugno: \"Still walking - Camminando in un giorno d'estate\" 29-30 giugno e 1 luglio: \"After life - Qual è il tuo ricordo più bello?\"",
+        "publishedDate": "2026-05-22T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/JeEKrJUUT29gTsueHrqibGarCr.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10749,
+        14
+      ],
+      "id": 845387,
+      "title": "maboroshi",
+      "original_language": "ja",
+      "original_title": "アリスとテレスのまぼろし工場",
+      "overview": "Masamune è uno studente di terza media che vive in una città completamente isolata a causa dell'improvvisa esplosione in un'acciaieria. Ai residenti è vietato apportare qualsiasi cambiamento e passano le loro soffocanti giornate nella speranza di tornare alla normalità. Un giorno Mutsumi, la misteriosa compagna di classe di Masamune, lo guida alla quinta fornace dell'acciaieria dove incontrano una ragazza che non sa parlare e sembra essere cresciuta come una selvaggia. L'incontro fra i tre sconvolge l'equilibrio del mondo e l'inarrestabile \"impulso d'amore\" di questi ragazzi stanchi della loro vita quotidiana inizia a scatenare effetti distruttivi.",
+      "popularity": 3.7661,
+      "poster_path": "/6IBuqBHZSmoVmYue5VBQFiLNmyO.jpg",
+      "release_date": "2023-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 131
+    }
+  },
+  {
     "title": "Scarlet",
     "slug": "scarlet",
     "lastSourceDate": "2026-03-24T00:00:00.000Z",
@@ -4863,7 +4913,7 @@
   {
     "title": "Versailles no bara",
     "slug": "versailles-no-bara",
-    "lastSourceDate": "2025-02-02T00:00:00.000Z",
+    "lastSourceDate": "2026-05-22T00:00:00.000Z",
     "theaterReleaseDate": "2025-01-31",
     "sources": [
       {
@@ -4877,6 +4927,12 @@
         "title": "Le Rose di Versailles - Lady Oscar - Film (2025)",
         "description": "Le Rose di Versailles Lady Oscar, scheda del film di Ai Yoshimura, con Miyuki Sawashiro, Toshiyuki Toyonaga e Takuya Eguchi, leggi la trama e la recensione, guarda il trailer, ecco quando, come e dove vedere il Film al Cinema, in TV e in Streaming Online.\r\n",
         "publishedDate": null
+      },
+      {
+        "url": "https://www.animeclick.it/news/110686-crunchyroll-anime-awards-2026-il-programma-di-sabato-23-maggio",
+        "title": "Crunchyroll Anime Awards 2026: il programma di sabato 23 maggio",
+        "description": "Riportiamo il comunicato arrivato in redazione:\r I CRUNCHYROLL ANIME AWARDS INCORONANO I VINCITORI IN UNA CERIMONIA RICCA DI STAR QUESTA SETTIMANA\r Non perdetevi la serata più importante dedicata agli anime...",
+        "publishedDate": "2026-05-22T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4901,7 +4957,8 @@
       "vote_count": 0
     },
     "alternativeTitles": [
-      "Le Rose di Versailles - Lady Oscar"
+      "Le Rose di Versailles - Lady Oscar",
+      "Le rose di Versailles - Lady Oscar"
     ],
     "aliases": [
       "le-rose-di-versailles-lady-oscar"
@@ -6626,6 +6683,41 @@
       "demon-slayer-kimetsu-no-yaiba-il-castello-infinito",
       "demon-slayer-infinity-castle"
     ]
+  },
+  {
+    "title": "Mononoke - il film 2: le ceneri dell’ira",
+    "slug": "mononoke-il-film-2-le-ceneri-dellira",
+    "lastSourceDate": "2026-05-22T00:00:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/110686-crunchyroll-anime-awards-2026-il-programma-di-sabato-23-maggio",
+        "title": "Crunchyroll Anime Awards 2026: il programma di sabato 23 maggio",
+        "description": "Riportiamo il comunicato arrivato in redazione:\r I CRUNCHYROLL ANIME AWARDS INCORONANO I VINCITORI IN UNA CERIMONIA RICCA DI STAR QUESTA SETTIMANA\r Non perdetevi la serata più importante dedicata agli anime...",
+        "publishedDate": "2026-05-22T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/wDwfR4rDWRA2fLfLF14SdMOdHOZ.jpg",
+      "genre_ids": [
+        16,
+        14,
+        9648
+      ],
+      "id": 1322218,
+      "title": "Mononoke - Il film 2: Le ceneri dell'ira",
+      "original_language": "ja",
+      "original_title": "劇場版モノノ怪 第二章 火鼠",
+      "overview": "Lo Speziale ritorna quando l'harem di Edo affronta una nuova crisi, mentre faide familiari, turbamenti interiori e profonde invidie danno vita a uno spirito infuriato.",
+      "popularity": 2.5076,
+      "poster_path": "/qp630dE7NBUIK5yR5HGQAE2LgxL.jpg",
+      "release_date": "2025-03-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 27
+    }
   },
   {
     "title": "Kaiju No. 8: Mission Recon",
