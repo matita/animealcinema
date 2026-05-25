@@ -7967,6 +7967,43 @@
     "theaterEndDate": "2026-01-25"
   },
   {
+    "title": "ChaO",
+    "slug": "chao",
+    "lastSourceDate": "2026-05-25T11:54:00.000Z",
+    "theaterReleaseDate": "2026-06-25",
+    "theaterEndDate": "2026-07-01",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.comingsoon.it/cinema/news/chao-in-anteprima-esclusiva-il-trailer-e-il-poster-dell-anime-al-cinema-dal/n223614/",
+        "title": "ChaO, in anteprima esclusiva il trailer e il poster dell'anime al cinema dal 25 giugno, storia di un matrimonio bizzarro",
+        "description": "Vi presentiamo in anteprima esclusiva il trailer ufficiale italiano di ChaO, lungometraggio di animazione distribuito in Italia da Animagine, al cinema dal 25 giungo al 1 luglio: vi si racconta la proposta di matrimonio di una sirena a un tranquillo uomo comune. Lo stile visivo adottato è particolare, come si evince anche dal poster.",
+        "publishedDate": "2026-05-25T11:54:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/f0YrSKFU8Vkr1h8zO4YFeolsMU8.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10749
+      ],
+      "id": 1419053,
+      "title": "ChaO",
+      "original_language": "ja",
+      "original_title": "ChaO",
+      "overview": "Impiegato in un cantiere navale, il tranquillo Stephan tira avanti come può, in un mondo alternativo in cui gli esseri umani e le sirene coesistono. La vita di Stephan cambia radicalmente quando riceve una proposta di matrimonio dall'incontenibile sirena ChaO, principessa del regno delle sirene. Sulle prime l'uomo è travolto dalla situazione: non può dire la sua e deve convivere per forza di cose con ChaO, ma a poco a poco qualcosa comincia a fare breccia in lui, perché il carattere e l'umore di Chao sono travolgenti e incontrollabili. C'è in lei una sincerità che comincia a fare breccia nel muro che Stephan vorrebbe costruire...",
+      "popularity": 1.9391,
+      "poster_path": "/9DUQNctXzcIWuOJDiYlVJdeCZyS.jpg",
+      "release_date": "2025-08-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 5
+    }
+  },
+  {
     "title": "DanDaDan Evil Eye",
     "slug": "dandadan-evil-eye",
     "lastSourceDate": "2025-06-13T18:07:50.000Z",
