@@ -352,6 +352,34 @@
     ]
   },
   {
+    "title": "La Città Incantata",
+    "slug": "la-citta-incantata",
+    "lastSourceDate": "2026-05-25T14:21:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.4pareteita.it/2026/05/25/anime-maggior-incasso-italia/",
+        "title": "I 10 anime con il maggior incasso in Italia - Quart4 Parete",
+        "description": "In Italia l’animazione è sempre andata molto bene al cinema, ma non si può dire lo stesso per i lungometraggi orientali, i quali spesso non hanno ricevuto la giusta attenzione al botteghino (negli anni 70 il...",
+        "publishedDate": "2026-05-25T14:21:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Pokémon – Il Film: Mewtwo Contro Mew",
+    "slug": "pokemon-il-film-mewtwo-contro-mew",
+    "lastSourceDate": "2026-05-25T14:21:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.4pareteita.it/2026/05/25/anime-maggior-incasso-italia/",
+        "title": "I 10 anime con il maggior incasso in Italia - Quart4 Parete",
+        "description": "In Italia l’animazione è sempre andata molto bene al cinema, ma non si può dire lo stesso per i lungometraggi orientali, i quali spesso non hanno ricevuto la giusta attenzione al botteghino (negli anni 70 il...",
+        "publishedDate": "2026-05-25T14:21:00.000Z"
+      }
+    ]
+  },
+  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -541,6 +569,43 @@
       "video": false,
       "vote_average": 8.321,
       "vote_count": 8750
+    }
+  },
+  {
+    "title": "Final Fantasy",
+    "slug": "final-fantasy",
+    "lastSourceDate": "2026-05-25T14:21:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.4pareteita.it/2026/05/25/anime-maggior-incasso-italia/",
+        "title": "I 10 anime con il maggior incasso in Italia - Quart4 Parete",
+        "description": "In Italia l’animazione è sempre andata molto bene al cinema, ma non si può dire lo stesso per i lungometraggi orientali, i quali spesso non hanno ricevuto la giusta attenzione al botteghino (negli anni 70 il...",
+        "publishedDate": "2026-05-25T14:21:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/lsXnU0zkJSianGyxnK3Jhx4vObM.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14,
+        878
+      ],
+      "id": 647,
+      "title": "Final Fantasy VII: Advent Children",
+      "original_language": "ja",
+      "original_title": "Final Fantasy VII: Advent Children",
+      "overview": "Due anni dopo aver sconfitto Sephiroth, Cloud si ritrova nuovamente solo, a rimurginare sul passato chiedendosi se ha agito nel mondo migliore. Il mondo è tornato alla normalità, ma una forte epidemia si sta espandendo su tutto il territorio...",
+      "popularity": 3.7283,
+      "poster_path": "/4JSBRgxq7ezfkkeQCGo4wqXEmPv.jpg",
+      "release_date": "2005-07-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.166,
+      "vote_count": 1245
     }
   },
   {
@@ -1066,6 +1131,43 @@
     }
   },
   {
+    "title": "Pokemon 2: La Forza Di Uno",
+    "slug": "pokemon-2-la-forza-di-uno",
+    "lastSourceDate": "2026-05-25T14:21:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.4pareteita.it/2026/05/25/anime-maggior-incasso-italia/",
+        "title": "I 10 anime con il maggior incasso in Italia - Quart4 Parete",
+        "description": "In Italia l’animazione è sempre andata molto bene al cinema, ma non si può dire lo stesso per i lungometraggi orientali, i quali spesso non hanno ricevuto la giusta attenzione al botteghino (negli anni 70 il...",
+        "publishedDate": "2026-05-25T14:21:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/bS93S5uEVZng4qmDhmDMXTSEuay.jpg",
+      "genre_ids": [
+        12,
+        14,
+        16,
+        878,
+        10751
+      ],
+      "id": 12599,
+      "title": "Pokémon 2 - La forza di uno",
+      "original_language": "ja",
+      "original_title": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
+      "overview": "Un collezionista di Pokémon, Lawrence III, decide di catturare il Pokémon leggendario Lugia intrappolandolo nella sua nave da guerra volante. Per svolgere la sua missione deve prima catturare i tre uccelli leggendari: Articuno, Zapdos e Moltres. Inizia proprio da quest'ultimo, disturbando l'equilibrio meteorologico del pianeta.  A causa dell'imprigionamento del Pokémon di Fuoco, Ash, Misty e Tracey, in viaggio attraverso le Isole Orange, sono costretti a causa del maltempo a rifugiarsi sull'isola Shamuti, proprio nel giorno dedicato ad una tradizionale cerimonia del luogo.",
+      "popularity": 4.8124,
+      "poster_path": "/xiM3hQi1XGbT8B9adiKk9cpmlAs.jpg",
+      "release_date": "1999-07-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.744,
+      "vote_count": 934
+    }
+  },
+  {
     "title": "Suicide Club",
     "slug": "suicide-club",
     "lastSourceDate": "2026-04-29T08:08:37.000Z",
@@ -1410,7 +1512,7 @@
   {
     "title": "Arion",
     "slug": "arion",
-    "lastSourceDate": "2026-05-22T10:43:26.000Z",
+    "lastSourceDate": "2026-05-26T05:48:24.000Z",
     "theaterReleaseDate": "2026-06-22",
     "theaterEndDate": "2026-06-24",
     "alternativeTitles": [
@@ -1446,6 +1548,12 @@
         "title": "Arion: l’epico anime anni ’80 torna al cinema",
         "description": "Arion torna al cinema con Nexo Studios: un epico anime anni ’80 tra miti greci e musica di Joe Hisaishi, dal 22 al 24 giugno. Arriva nelle sale la nuova stagione di Nexo Studios ANIME AL CINEMA, il progetto...",
         "publishedDate": "2026-05-22T10:43:26.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/arion-un-cult-dellanimazione-anni-80-sbarca-nei-cinema-italiani/",
+        "title": "Arion: un cult dell'animazione anni '80 sbarca nei cinema italiani",
+        "description": "News Anime   Eleonora Masala 26/05/2026        Chi ama l’animazione d’altri tempi sa bene quanto sia magico riscoprire quelle perle nascoste che oggi purtroppo si fanno fatica a trovare. Ecco perché c’è una...",
+        "publishedDate": "2026-05-26T05:48:24.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1886,6 +1994,12 @@
         "title": "The Space Cinema presenta \"Comicon Anime Nights\" | The Soundcheck",
         "description": "The Space Cinema presenta “Comicon Anime Nights”: a partire dal 28 maggio sono in arrivo tre esclusivi eventi con le proiezioni di “The First Slam Dunk”, “Dan Da Dan: Evil Eye” e “Dragon Ball Super: Broly – ...",
         "publishedDate": "2025-05-27T02:40:10.000Z"
+      },
+      {
+        "url": "https://www.4pareteita.it/2026/05/25/anime-maggior-incasso-italia/",
+        "title": "I 10 anime con il maggior incasso in Italia - Quart4 Parete",
+        "description": "In Italia l’animazione è sempre andata molto bene al cinema, ma non si può dire lo stesso per i lungometraggi orientali, i quali spesso non hanno ricevuto la giusta attenzione al botteghino (negli anni 70 il...",
+        "publishedDate": "2026-05-25T14:21:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1907,7 +2021,13 @@
       "video": false,
       "vote_average": 7.197,
       "vote_count": 935
-    }
+    },
+    "alternativeTitles": [
+      "Dragon Ball Super: Broly"
+    ],
+    "aliases": [
+      "dragon-ball-super-broly"
+    ]
   },
   {
     "title": "I sospiri del mio cuore",
@@ -2201,6 +2321,43 @@
     }
   },
   {
+    "title": "Doraemon – Il Film",
+    "slug": "doraemon-il-film",
+    "lastSourceDate": "2026-05-25T14:21:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.4pareteita.it/2026/05/25/anime-maggior-incasso-italia/",
+        "title": "I 10 anime con il maggior incasso in Italia - Quart4 Parete",
+        "description": "In Italia l’animazione è sempre andata molto bene al cinema, ma non si può dire lo stesso per i lungometraggi orientali, i quali spesso non hanno ricevuto la giusta attenzione al botteghino (negli anni 70 il...",
+        "publishedDate": "2026-05-25T14:21:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/jfTL29RnWaVRqW3VEcAtXUGx53v.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        14,
+        878
+      ],
+      "id": 70841,
+      "title": "Doraemon: Il film - Il dinosauro di Nobita",
+      "original_language": "ja",
+      "original_title": "映画ドラえもん のび太の恐竜2006",
+      "overview": "Nobita trova un uovo di dinosauro fossilizzato, ma riesce a portarlo alla sua forma originale grazie ad uno dei gadget tecnologici di Doraemon. Dall'uovo nasce un cucciolo di futabasauro di cui Nobita, Doraemon e gli altri decidono di prendersi cura. Tuttavia ben presto il piccolo dinosauro, battezzato Pisuke, diverrà troppo grande per essere tenuto nascosto. Per tale ragione Doraemon e gli altri decidono di viaggiare indietro nel tempo per riportare Pisuke alla sua epoca per permettergli di trascorrere un'esistenza normale.",
+      "popularity": 6.0902,
+      "poster_path": "/eodJQ53V5ClGeuJwSBBlEPh8cro.jpg",
+      "release_date": "2006-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.458,
+      "vote_count": 95
+    }
+  },
+  {
     "title": "Redline",
     "slug": "redline",
     "lastSourceDate": "2026-05-12T11:09:00.000Z",
@@ -2388,13 +2545,19 @@
   {
     "title": "Capitan Harlock",
     "slug": "capitan-harlock",
-    "lastSourceDate": "2025-09-18T09:30:00.000Z",
+    "lastSourceDate": "2026-05-25T14:21:00.000Z",
     "sources": [
       {
         "url": "https://cinema.everyeye.it/notizie/film-incassano-cinema-demon-slayer-domina-numeri-box-office-828569.html",
         "title": "Quali film incassano di più al cinema? Demon Slayer domina, i numeri dal box office",
         "description": "Un nuovo weekend si sta avvicinando e i cinema sono pronti per tornare a riempirsi, anche sopratutto allo straordinario successo del nuovo film anime giapponese Demon Slayer: Il Castello dell'Infinito di...",
         "publishedDate": "2025-09-18T09:30:00.000Z"
+      },
+      {
+        "url": "https://www.4pareteita.it/2026/05/25/anime-maggior-incasso-italia/",
+        "title": "I 10 anime con il maggior incasso in Italia - Quart4 Parete",
+        "description": "In Italia l’animazione è sempre andata molto bene al cinema, ma non si può dire lo stesso per i lungometraggi orientali, i quali spesso non hanno ricevuto la giusta attenzione al botteghino (negli anni 70 il...",
+        "publishedDate": "2026-05-25T14:21:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2415,7 +2578,8 @@
       "video": false,
       "vote_average": 6.6,
       "vote_count": 1052
-    }
+    },
+    "alternativeTitles": []
   },
   {
     "title": "Hunter X Hunter: Phantom Rouge",
@@ -3797,6 +3961,41 @@
       "video": false,
       "vote_average": 6.5,
       "vote_count": 253
+    }
+  },
+  {
+    "title": "Dragon Ball Super: Superhero",
+    "slug": "dragon-ball-super-superhero",
+    "lastSourceDate": "2026-05-25T14:21:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.4pareteita.it/2026/05/25/anime-maggior-incasso-italia/",
+        "title": "I 10 anime con il maggior incasso in Italia - Quart4 Parete",
+        "description": "In Italia l’animazione è sempre andata molto bene al cinema, ma non si può dire lo stesso per i lungometraggi orientali, i quali spesso non hanno ricevuto la giusta attenzione al botteghino (negli anni 70 il...",
+        "publishedDate": "2026-05-25T14:21:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/uR0FopHrAjDlG5q6PZB07a1JOva.jpg",
+      "genre_ids": [
+        16,
+        878,
+        28
+      ],
+      "id": 610150,
+      "title": "Dragon Ball Super: Super Hero",
+      "original_language": "ja",
+      "original_title": "ドラゴンボール超 スーパーヒーロー",
+      "overview": "Goku è nuovamente alle prese con l'Esercito del Fiocco Rosso. Nonostante il Super Saiyan abbia già distrutto questo nemico, alcuni fedeli hanno tenuto vivo lo spirito dell'esercito e sono pronti a scendere di nuovo in battaglia, dopo aver creato gli Androidi perfetti, Gamma 1 e Gamma 2. I due androidi sono stati incaricati di attaccare Piccolo e Gohan, cosicché il nuovo Esercito del Fiocco Rosso possa riuscire indisturbato a portare a termine la sua missione. Solo una persona può fronteggiare questa minaccia, occorre, infatti, che il Super Hero si risvegli...",
+      "popularity": 7.1639,
+      "poster_path": "/qQBBdmGAQQrU4OH8SsgHxtDaA9F.jpg",
+      "release_date": "2022-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.884,
+      "vote_count": 3021
     }
   },
   {
