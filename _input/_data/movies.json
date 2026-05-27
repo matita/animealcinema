@@ -70,27 +70,6 @@
     ]
   },
   {
-    "title": "L'Attacco dei Giganti - Il Film Parte 1 - L’Arco e la Freccia Cremisi e Parte 2 - Le Ali della Libertà",
-    "slug": "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia-cremisi-e-parte-2-le-ali-della-liberta",
-    "lastSourceDate": "2025-01-23T15:45:12.000Z",
-    "theaterReleaseDate": "2025-02-10",
-    "theaterEndDate": "2025-02-12",
-    "sources": [
-      {
-        "url": "https://cpop.it/notizie/lattacco-dei-giganti-il-film-parte-1-e-2-nei-cinema-in-italia-data-e-trailer",
-        "title": "L'attacco dei Giganti Il Film Parte 1 e 2 nei cinema in Italia: data e trailer",
-        "description": "L’Attacco dei Giganti - Il Film Parte 1 - L’Arco e la Freccia Cremisi e Parte 2 - Le Ali della Libertà arrivano nei cinema italiani per la rassegna I Love Japan di Adler Entertainment in collaborazione con...",
-        "publishedDate": "2025-01-23T15:00:00.000Z"
-      },
-      {
-        "url": "https://cinecittanews.it/lattacco-dei-giganti-il-film-in-sala-in-due-parti/",
-        "title": "‘L’attacco dei giganti’, il film in sala in due parti",
-        "description": "L’Attacco dei Giganti – il film. Parte 1 – L’Arco e la Freccia Cremisi e Parte 2 – Le Ali della Libertà saranno al cinema solo il 10, 11 e 12 febbraio con Adler in collaborazione con Dynit.Adler Entertainment...",
-        "publishedDate": "2025-01-23T15:45:12.000Z"
-      }
-    ]
-  },
-  {
     "title": "Yattaman La sexy Miss Dronio in Yattaman",
     "slug": "yattaman-la-sexy-miss-dronio-in-yattaman",
     "lastSourceDate": "2025-04-02T00:00:00.000Z",
@@ -128,26 +107,6 @@
         "title": "DandaDan Stagione 2 al cinema anche in Italia - le date",
         "description": "News, recensioni, guide su fumetto, cinema & serie TV, gioco da tavolo e di ruolo e collezionismo. Tutto quello di cui hai bisogno per rimanere aggiornato sul mondo della cultura pop",
         "publishedDate": "2025-05-13T09:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "title": "Demon Slayer: Il castello dell'infinito (Akaza Sairai / Il ritorno di Akaza)",
-    "slug": "demon-slayer-il-castello-dellinfinito-akaza-sairai-il-ritorno-di-akaza",
-    "lastSourceDate": "2025-07-19T00:00:00.000Z",
-    "theaterReleaseDate": "2025-09-11",
-    "sources": [
-      {
-        "url": "https://www.animeclick.it/news/107431-demon-slayer-il-castello-dellinfinito-trailer-ufficiale-del-nuovo-capitolo",
-        "title": "Demon Slayer - Il castello dell'Infinito: trailer ufficiale del  nuovo capitolo",
-        "description": "Al seguito di una nuova trasmissione del film Demon Slayer: Il treno Mugen sulla Fuji TV, è andato anche in onda il trailer completo della pellicola successiva ovvero Demon Slayer: Il castello dell'infinito...",
-        "publishedDate": "2025-06-29T00:00:00.000Z"
-      },
-      {
-        "url": "https://www.animeclick.it/news/107617-demon-slayer-il-castello-dellinfinito-debutta-il-film-e-a-shinjuku-aprono-le-porte-dellinferno",
-        "title": "Demon Slayer: Il castello dell'infinito - Debutta il film e a Shinjuku aprono le porte dell'inferno",
-        "description": "Grande era in Giappone l'attesa per l'uscita del film Demon Slayer: Il castello dell'infinito (Akaza Sairai / Il ritorno di Akaza), il primo capitolo della trilogia cinematografica che completerà...",
-        "publishedDate": "2025-07-19T00:00:00.000Z"
       }
     ]
   },
@@ -3252,9 +3211,9 @@
     }
   },
   {
-    "title": "L’Attacco dei Giganti - Il Film Parte 1 - L’Arco e la Freccia Cremisi",
-    "slug": "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia-cremisi",
-    "lastSourceDate": "2025-02-06T16:39:12.000Z",
+    "title": "L'Attacco dei Giganti - Il Film Parte 1 - L’Arco e la Freccia Cremisi e Parte 2 - Le Ali della Libertà",
+    "slug": "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia-cremisi-e-parte-2-le-ali-della-liberta",
+    "lastSourceDate": "2025-01-23T15:45:12.000Z",
     "theaterReleaseDate": "2025-02-10",
     "theaterEndDate": "2025-02-12",
     "sources": [
@@ -3309,7 +3268,7 @@
     ],
     "tmdbMovie": {
       "adult": false,
-      "backdrop_path": "/1tmIKXWWDAvMJbbo66HrpZtHCb6.jpg",
+      "backdrop_path": "/sUnJT97Fp9uHkwwhuIzAxtxs3wO.jpg",
       "genre_ids": [
         16,
         28,
@@ -3317,23 +3276,26 @@
         14
       ],
       "id": 379088,
+      "title": "L'attacco dei giganti - Il film - Parte 1: L'arco e la freccia cremisi",
       "original_language": "ja",
       "original_title": "劇場版「進撃の巨人」前編〜紅蓮の弓矢〜",
       "overview": "L'opera è ambientata in un mondo dove i superstiti dell'umanità vivono all'interno di città circondate da enormi mura difensive a causa dell'improvvisa comparsa dei Giganti, enormi creature umanoidi che divorano gli uomini senza un apparente motivo. La storia ruota attorno al giovane Eren Jaeger e a sua sorella adottiva Mikasa Ackermann, le cui vite vengono stravolte dall'attacco di un gigante colossale che conduce alla distruzione della loro città e alla morte della loro madre",
-      "popularity": 21.426,
-      "poster_path": "/k4E04qJvSTQYUPOpYp5YYvdrdcc.jpg",
+      "popularity": 4.197,
+      "poster_path": "/zl620T5IGqKz6Rb8vUdB4mtmznt.jpg",
       "release_date": "2014-11-22",
-      "title": "L'attacco dei giganti - Il film - Parte 1: L'arco e la freccia cremisi",
+      "softcore": false,
       "video": true,
       "vote_average": 8.1,
-      "vote_count": 447
+      "vote_count": 515
     },
     "alternativeTitles": [
       "L'attacco dei Giganti Parte 1 - L'arco e la freccia cremisi",
       "L'Attacco dei Giganti - Il film. Parte 1 - L'Arco e la Freccia",
-      "Parte 1 – L’arco e la freccia cremisi"
+      "Parte 1 – L’arco e la freccia cremisi",
+      "L’Attacco dei Giganti - Il Film Parte 1 - L’Arco e la Freccia Cremisi"
     ],
     "aliases": [
+      "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia-cremisi",
       "lattacco-dei-giganti-parte-1-larco-e-la-freccia-cremisi",
       "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia",
       "parte-1-larco-e-la-freccia-cremisi"
@@ -6251,11 +6213,23 @@
     }
   },
   {
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle - Part 1",
-    "slug": "demon-slayer-kimetsu-no-yaiba-infinity-castle-part-1",
-    "lastSourceDate": "2026-05-25T14:21:00.000Z",
+    "title": "Demon Slayer: Il castello dell'infinito (Akaza Sairai / Il ritorno di Akaza)",
+    "slug": "demon-slayer-il-castello-dellinfinito-akaza-sairai-il-ritorno-di-akaza",
+    "lastSourceDate": "2025-07-19T00:00:00.000Z",
     "theaterReleaseDate": "2025-01-01",
     "sources": [
+      {
+        "url": "https://www.animeclick.it/news/107431-demon-slayer-il-castello-dellinfinito-trailer-ufficiale-del-nuovo-capitolo",
+        "title": "Demon Slayer - Il castello dell'Infinito: trailer ufficiale del  nuovo capitolo",
+        "description": "Al seguito di una nuova trasmissione del film Demon Slayer: Il treno Mugen sulla Fuji TV, è andato anche in onda il trailer completo della pellicola successiva ovvero Demon Slayer: Il castello dell'infinito...",
+        "publishedDate": "2025-06-29T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/107617-demon-slayer-il-castello-dellinfinito-debutta-il-film-e-a-shinjuku-aprono-le-porte-dellinferno",
+        "title": "Demon Slayer: Il castello dell'infinito - Debutta il film e a Shinjuku aprono le porte dell'inferno",
+        "description": "Grande era in Giappone l'attesa per l'uscita del film Demon Slayer: Il castello dell'infinito (Akaza Sairai / Il ritorno di Akaza), il primo capitolo della trilogia cinematografica che completerà...",
+        "publishedDate": "2025-07-19T00:00:00.000Z"
+      },
       {
         "url": "https://www.justnerd.it/demon-slayer-primo-film-trilogia-castello-infinito-nel-2025/",
         "title": "Demon Slayer: nuovo trailer per il primo film della trilogia del \"Castello dell'Infinito\" che arriverà nel 2025 - Justnerd.it",
@@ -6858,24 +6832,24 @@
     ],
     "tmdbMovie": {
       "adult": false,
-      "backdrop_path": "/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
       "genre_ids": [
         16,
         28,
-        14,
-        53
+        14
       ],
       "id": 1311031,
+      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
       "original_language": "ja",
-      "original_title": "劇場版「鬼滅の刃」無限城編",
-      "overview": "Lo scontro sta per raggiungere il suo apice! Chi ne uscirà vincitore?",
-      "popularity": 10.115,
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "Tanjiro Kamado è un ragazzo unitosi a un’organizzazione dedita alla caccia dei demoni chiamata Squadra dei cacciatori di demoni dopo che la sorella minore Nezuko è diventata una di questi mostri. Acquisendo sempre più forza e approfondendo i legami di amicizia con i suoi compagni, Tanjiro ha combattuto molti demoni con i suoi compagni Zenitsu Agatsuma e Inosuke Hashibira. Con il capo della Squadra dei cacciatori di demoni in pericolo, Tanjiro e i Pilastri accorrono al quartier generale, dove però per mano di Muzan Kibutsuji precipitano in un luogo misterioso. Lo spazio in cui Tanjiro e la Squadra dei cacciatori di demoni sono piombati è la fortezza dei demoni: il Castello dell'Infinito. Il campo di battaglia è pronto e lo scontro finale tra la Squadra dei cacciatori di demoni e i demoni si accende.",
+      "popularity": 122.1671,
       "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
       "release_date": "2025-07-18",
-      "title": "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
+      "softcore": false,
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_average": 7.725,
+      "vote_count": 843
     },
     "theaterEndDate": "2025-12-31",
     "alternativeTitles": [
@@ -6890,9 +6864,11 @@
       "Demon Slayer: Kimetsu no Yaiba - Il Castello dell'Infinito",
       "Demon Slayer: Il Castello dell’Infinito",
       "Demon Slayer: Kimetsu no Yaiba - Il Castello dell’Infinito",
-      "Demon Slayer: Kimetsu No Yaiba – Il Castello Dell’Infinito"
+      "Demon Slayer: Kimetsu No Yaiba – Il Castello Dell’Infinito",
+      "Demon Slayer: Kimetsu no Yaiba Infinity Castle - Part 1"
     ],
     "aliases": [
+      "demon-slayer-kimetsu-no-yaiba-infinity-castle-part-1",
       "demon-slayer-kimetsu-no-yaiba-il-castello-dellinfinito",
       "demon-slayer-il-castello-dellinfinito",
       "il-castello-dellinfinito",
