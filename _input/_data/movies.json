@@ -493,7 +493,8 @@
     "theaterReleaseDate": "2026-06-04",
     "theaterEndDate": "2026-06-10",
     "alternativeTitles": [
-      "La principessa mononoke"
+      "La principessa mononoke",
+      "Principessa Mononoke"
     ],
     "sources": [
       {
@@ -507,6 +508,12 @@
         "title": "Anime al cinema: il 2026 inizia con alcuni dei peggiori incassi di sempre",
         "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione permessa in tutto il mondo dalle piattaforme streaming, attivamente spinta dallo...",
         "publishedDate": "2026-03-24T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/cinema-e-streaming-tutti-i-film-anime-in-arrivo-nei-prossimi-mesi/",
+        "title": "Cinema e streaming: tutti i film anime in arrivo nei prossimi mesi",
+        "description": "News Anime   Eleonora Masala 02/06/2026        Se siete appassionati di animazione giapponese, quest’estate farete meglio a tenervi liberi perché l’agenda dei prossimi mesi è letteralmente strapiena di...",
+        "publishedDate": "2026-06-02T07:13:31.000Z"
       }
     ],
     "tmdbMovie": {
@@ -528,7 +535,10 @@
       "video": false,
       "vote_average": 8.321,
       "vote_count": 8750
-    }
+    },
+    "aliases": [
+      "principessa-mononoke"
+    ]
   },
   {
     "title": "Final Fantasy",
@@ -1471,7 +1481,7 @@
   {
     "title": "Arion",
     "slug": "arion",
-    "lastSourceDate": "2026-05-27T00:00:00.000Z",
+    "lastSourceDate": "2026-06-02T07:13:31.000Z",
     "theaterReleaseDate": "2026-06-22",
     "theaterEndDate": "2026-06-24",
     "alternativeTitles": [
@@ -1519,6 +1529,12 @@
         "title": "ARION di Yoshikazu Yasuhiko arriva nei cinema italiani a giugno",
         "description": "Per la stagione ANIME AL CINEMA di Nexo Studios e Yamato Video arriva nelle sale italiane ARION, il film tratto dal manga di Yoshikazu Yasuhiko, storico character designer di Mobile Suit Gundam e autore del...",
         "publishedDate": "2026-05-27T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/cinema-e-streaming-tutti-i-film-anime-in-arrivo-nei-prossimi-mesi/",
+        "title": "Cinema e streaming: tutti i film anime in arrivo nei prossimi mesi",
+        "description": "News Anime   Eleonora Masala 02/06/2026        Se siete appassionati di animazione giapponese, quest’estate farete meglio a tenervi liberi perché l’agenda dei prossimi mesi è letteralmente strapiena di...",
+        "publishedDate": "2026-06-02T07:13:31.000Z"
       }
     ],
     "tmdbMovie": {
@@ -8170,10 +8186,12 @@
   {
     "title": "ChaO",
     "slug": "chao",
-    "lastSourceDate": "2026-05-26T15:07:09.000Z",
+    "lastSourceDate": "2026-06-02T07:13:31.000Z",
     "theaterReleaseDate": "2026-06-25",
     "theaterEndDate": "2026-07-01",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Chao"
+    ],
     "sources": [
       {
         "url": "https://www.comingsoon.it/cinema/news/chao-in-anteprima-esclusiva-il-trailer-e-il-poster-dell-anime-al-cinema-dal/n223614/",
@@ -8192,6 +8210,12 @@
         "title": "\"ChaO\" - dal 25 giugno al 1 luglio al cinema",
         "description": "Dal 25 giugno al 1 luglio arriverà nelle sale italiane come evento speciale \"ChaO\" di Yasuhiro Aoki. \n\n\n\nAnimagine, la collana nata dalla collaborazione tra Dynit e Adler Entertainment che porta al cinema gli anime del presente e del passato, è lieta di annunciare l’uscita di ChaO, che arriverà nell",
         "publishedDate": "2026-05-26T14:42:34.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/cinema-e-streaming-tutti-i-film-anime-in-arrivo-nei-prossimi-mesi/",
+        "title": "Cinema e streaming: tutti i film anime in arrivo nei prossimi mesi",
+        "description": "News Anime   Eleonora Masala 02/06/2026        Se siete appassionati di animazione giapponese, quest’estate farete meglio a tenervi liberi perché l’agenda dei prossimi mesi è letteralmente strapiena di...",
+        "publishedDate": "2026-06-02T07:13:31.000Z"
       }
     ],
     "tmdbMovie": {
