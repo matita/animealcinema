@@ -1557,6 +1557,12 @@
         "url": "http://www.mymovies.it/cinemanews/amp/?news=196232",
         "title": "Arion, dal 22 al 24 giugno al cinema",
         "description": "A quarant&rsquo;anni dall&rsquo;uscita (1986),&nbsp;Arion&nbsp;arriva&nbsp;per la prima volta nei cinema italiani come uno dei pi&ugrave; spettacolari fantasy anime degli anni &rsquo;80, tra mitologia greca, battaglie divine e tragedia eroica."
+      },
+      {
+        "url": "https://thesoundcheck.it/2026/06/17/arion-al-cinema-dal-22-al-24-giugno/",
+        "title": "\"Arion\" - al cinema dal 22 al 24 giugno",
+        "description": "Dal 22 al 24 giugno sarà presente in sala \"Arion\", il colossal dell’animazione giapponese realizzato interamente a mano e dedicato alla mitologia greca. \n\n\n\nArriva nelle sale la nuova stagione di Nexo Studios. Anime al Cinema, il progetto che porta sul grande schermo i capolavori dell’animazione gia",
+        "publishedDate": "2026-06-17T15:49:32.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1580,7 +1586,8 @@
       "video": false,
       "vote_average": 6.4,
       "vote_count": 27
-    }
+    },
+    "lastSourceDate": "2026-06-17T15:49:32.000Z"
   },
   {
     "title": "Cloud",
