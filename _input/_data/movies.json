@@ -7820,7 +7820,7 @@
   {
     "title": "Doraemon il film: Nobita e il racconto del mondo della pittura",
     "slug": "doraemon-il-film-nobita-e-il-racconto-del-mondo-della-pittura",
-    "lastSourceDate": "2025-05-05T00:00:00.000Z",
+    "lastSourceDate": "2026-06-19T05:20:41.000Z",
     "theaterReleaseDate": "2025-02-21",
     "sources": [
       {
@@ -7828,6 +7828,12 @@
         "title": "Doraemon: il tema d'apertura del nuovo film si unisce all'arte",
         "description": "Doraemon il film: Nobita e il racconto del mondo della pittura, lungometraggio che segna il 45° anniversario dei film dedicati alla celeberrima opera di Fujiko F. Fujio, si è mostrato in un nuovo video...",
         "publishedDate": "2025-05-05T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/ecco-gli-anime-che-vedremo-in-estate-su-mediaset/",
+        "title": "La programmazione serie tv anime estiva sui canali Mediaset",
+        "description": "Le prossime usciteEcco gli anime che vedremo in estate su Mediaset   Federico Vascotto 19/06/2026        Sono stati annunciati i listini del palinsesto Mediaset estate 2026 (luglio e agosto). Di seguito le...",
+        "publishedDate": "2026-06-19T05:20:41.000Z"
       }
     ],
     "tmdbMovie": {
@@ -7850,7 +7856,10 @@
       "video": true,
       "vote_average": 5,
       "vote_count": 3
-    }
+    },
+    "alternativeTitles": [
+      "Doraemon – Il film: Nobita e il racconto del mondo della pittura"
+    ]
   },
   {
     "title": "Ado SPECIAL LIVE ‘Shinzou’ al Cinema",
