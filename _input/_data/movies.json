@@ -339,6 +339,22 @@
     ]
   },
   {
+    "title": "Wonderful Life - Qual è il tuo ricordo più bello?",
+    "slug": "wonderful-life-qual-e-il-tuo-ricordo-piu-bello",
+    "lastSourceDate": "2026-06-24T00:00:00.000Z",
+    "theaterReleaseDate": "2026-06-29",
+    "theaterEndDate": "2026-07-01",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/110593-novita-streaming-giugno-2026-serie-tv-e-film-live-action",
+        "title": "Novità streaming giugno 2026: serie TV e film live action",
+        "description": "Avete la curiosità di vedere qualche drama o film giapponese... ma non sapete come o dove reperire i sottotitoli in italiano. Vorreste rilassarvi sul divano col desiderio di guardare qualcosa in TV, avendo a...",
+        "publishedDate": "2026-06-24T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -1722,6 +1738,42 @@
       "vote_count": 571
     },
     "theaterEndDate": "2025-10-28"
+  },
+  {
+    "title": "Still Walking - Camminando un giorno d'estate",
+    "slug": "still-walking-camminando-un-giorno-destate",
+    "lastSourceDate": "2026-06-24T00:00:00.000Z",
+    "theaterReleaseDate": "2026-06-15",
+    "theaterEndDate": "2026-06-17",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/110593-novita-streaming-giugno-2026-serie-tv-e-film-live-action",
+        "title": "Novità streaming giugno 2026: serie TV e film live action",
+        "description": "Avete la curiosità di vedere qualche drama o film giapponese... ma non sapete come o dove reperire i sottotitoli in italiano. Vorreste rilassarvi sul divano col desiderio di guardare qualcosa in TV, avendo a...",
+        "publishedDate": "2026-06-24T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/lvSB0bnLzuxwrfTlI2l13gctWRn.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 25050,
+      "title": "Still Walking - Camminando in un giorno d'estate",
+      "original_language": "ja",
+      "original_title": "歩いても 歩いても",
+      "overview": "Fratello e sorella vanno in visita dagli anziani genitori nella casa nella quale hanno vissuto per decenni, per commemorare la tragica morte del fratello più vecchio avvenuta in un incidente quindici anni prima. A dispetto della comodità della grande casa che ospita tutti, i cambiamenti intervenuti nella vita dei familiari riuniti ridefiniscono le relazioni facendo emergere un caleidoscopio di sentimenti che vanno dall'amore al risentimento.",
+      "popularity": 2.4239,
+      "poster_path": "/8ubHo1bokxUKHZxOAUTYzK65CbR.jpg",
+      "release_date": "2008-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.785,
+      "vote_count": 448
+    }
   },
   {
     "title": "Summer Wars",
