@@ -1376,6 +1376,44 @@
     }
   },
   {
+    "title": "Lupin III – Il castello di Cagliostro",
+    "slug": "lupin-iii-il-castello-di-cagliostro",
+    "lastSourceDate": "2026-06-29T09:55:11.000Z",
+    "theaterReleaseDate": "2026-07-13",
+    "theaterEndDate": "2026-07-15",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.corrierenerd.it/lupin-iii-il-castello-di-cagliostro/",
+        "title": "Lupin III – Il castello di Cagliostro torna al cinema in 4K: il capolavoro di Hayao Miyazaki rivive sul grande schermo",
+        "description": "Lupin III ha sempre avuto quella faccia lì, quella di chi entra nella stanza sapendo già dove si trova l’uscita, dove sono nascosti i gioielli, quale guardia si distrarrà per prima e quale donna potrebbe...",
+        "publishedDate": "2026-06-29T09:55:11.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        80
+      ],
+      "id": 15371,
+      "title": "Lupin III - Il castello di Cagliostro",
+      "original_language": "ja",
+      "original_title": "ルパン三世 カリオストロの城",
+      "overview": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
+      "popularity": 4.2043,
+      "poster_path": "/i6b9YY0TfZM4Ws64oFn933NN2s8.jpg",
+      "release_date": "1979-07-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1147
+    }
+  },
+  {
     "title": "Tenshi no Tamago",
     "slug": "tenshi-no-tamago",
     "theaterReleaseDate": "2025-07-03",
