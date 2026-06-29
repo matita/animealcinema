@@ -1378,7 +1378,7 @@
   {
     "title": "Lupin III – Il castello di Cagliostro",
     "slug": "lupin-iii-il-castello-di-cagliostro",
-    "lastSourceDate": "2026-06-29T09:55:11.000Z",
+    "lastSourceDate": "2026-06-29T14:10:04.000Z",
     "theaterReleaseDate": "2026-07-13",
     "theaterEndDate": "2026-07-15",
     "alternativeTitles": [],
@@ -1388,6 +1388,12 @@
         "title": "Lupin III – Il castello di Cagliostro torna al cinema in 4K: il capolavoro di Hayao Miyazaki rivive sul grande schermo",
         "description": "Lupin III ha sempre avuto quella faccia lì, quella di chi entra nella stanza sapendo già dove si trova l’uscita, dove sono nascosti i gioielli, quale guardia si distrarrà per prima e quale donna potrebbe...",
         "publishedDate": "2026-06-29T09:55:11.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/lupin-iii-il-castello-di-cagliostro-il-film-di-miyazaki-torna-al-cinema/",
+        "title": "Lupin III - Il castello di Cagliostro: il film di Miyazaki torna al cinema",
+        "description": "Le prossime uscite   Federico Vascotto 29/06/2026          Il film anime cult Lupin III – Il castello di Cagliostro di Hayao Miyazaki torna al cinema distribuito da Eagle Pictures in collaborazione con Yamato...",
+        "publishedDate": "2026-06-29T14:10:04.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6380,6 +6386,42 @@
       "video": false,
       "vote_average": 7.486,
       "vote_count": 291
+    }
+  },
+  {
+    "title": "A New Dawn",
+    "slug": "a-new-dawn",
+    "lastSourceDate": "2026-06-29T14:09:19.000Z",
+    "theaterReleaseDate": "2026-07-23",
+    "theaterEndDate": "2026-07-29",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.mangaforever.net/a-new-dawn-lanime-al-cinema-in-italia/",
+        "title": "A New Dawn: l'anime al cinema in Italia",
+        "description": "Le prossime uscite   Federico Vascotto 29/06/2026          Animagine, la collana nata dalla collaborazione tra Dynit e Adler Entertainment che porta al cinema gli anime del presente e del passato, è lieta di...",
+        "publishedDate": "2026-06-29T14:09:19.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/uuVLGMIIGwz9QbBlvDvGlfU5HkI.jpg",
+      "genre_ids": [
+        16,
+        18
+      ],
+      "id": 1279865,
+      "title": "A New Dawn",
+      "original_language": "ja",
+      "original_title": "花緑青が明ける日に",
+      "overview": "La Obito Fireworks, una fabbrica di fuochi d’artificio situata in una lussureggiante foresta, sta affrontando lo sfratto a causa della riqualificazione della città. Keitaro Tatewaki si è rintanato lì da quattro anni, dedicandosi alla produzione di fuochi d’artificio per completare il fantasma “Shuhari” al posto del padre scomparso. Nel frattempo, la sua amica d’infanzia Kaoru, che dopo un certo incidente ha lasciato la sua città natale, vive a Tokyo. Ma con l’avvicinarsi della data dello sfratto, fa visita alla famiglia Tatewaki. I due si incontrano di nuovo e escogitano un piano sorprendente per scoprire il segreto dei fuochi d’artificio perduti. La chiave è un bellissimo pigmento blu chiamato “verderame floreale",
+      "popularity": 1.8912,
+      "poster_path": "/a105UQIL5lblYEeYOtyrsCCjfjO.jpg",
+      "release_date": "2026-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     }
   },
   {
