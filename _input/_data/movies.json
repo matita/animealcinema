@@ -373,7 +373,9 @@
     "slug": "samurai-ballerina-letoile-de-paris-en-fleur",
     "lastSourceDate": "2026-06-30T00:00:00.000Z",
     "theaterReleaseDate": "2026-06-23",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Samurai Ballerina – L'étoile de Paris en fleur"
+    ],
     "sources": [
       {
         "url": "https://www.akibagamers.it/30-06-2026/anime-factory-annuncia-acquisizione-di-due-nuovi-anime/",
@@ -1407,10 +1409,12 @@
   {
     "title": "Lupin III – Il castello di Cagliostro",
     "slug": "lupin-iii-il-castello-di-cagliostro",
-    "lastSourceDate": "2026-06-29T14:10:04.000Z",
+    "lastSourceDate": "2026-06-30T15:00:00.000Z",
     "theaterReleaseDate": "2026-07-13",
     "theaterEndDate": "2026-07-15",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Lupin III: Il castello di Cagliostro"
+    ],
     "sources": [
       {
         "url": "https://www.corrierenerd.it/lupin-iii-il-castello-di-cagliostro/",
@@ -1423,6 +1427,12 @@
         "title": "Lupin III - Il castello di Cagliostro: il film di Miyazaki torna al cinema",
         "description": "Le prossime uscite   Federico Vascotto 29/06/2026          Il film anime cult Lupin III – Il castello di Cagliostro di Hayao Miyazaki torna al cinema distribuito da Eagle Pictures in collaborazione con Yamato...",
         "publishedDate": "2026-06-29T14:10:04.000Z"
+      },
+      {
+        "url": "https://cinema.everyeye.it/notizie/luglio-sar-ricchissimo-film-serie-animate-titoli-cinema-streaming-887416.html",
+        "title": "Luglio sarà ricchissimo di film e serie animate: tutti i titoli tra cinema e streaming",
+        "description": "Altro mese, altro giro di film e serie tv d'animazione in arrivo in Italia tra cinema e piattaforme di streaming on demand: che sia in sala sul grande schermo o sul vostro divano con Netflix, Prime Video,...",
+        "publishedDate": "2026-06-30T15:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6420,7 +6430,7 @@
   {
     "title": "A New Dawn",
     "slug": "a-new-dawn",
-    "lastSourceDate": "2026-06-29T14:09:19.000Z",
+    "lastSourceDate": "2026-06-30T15:00:00.000Z",
     "theaterReleaseDate": "2026-07-23",
     "theaterEndDate": "2026-07-29",
     "alternativeTitles": [],
@@ -6430,6 +6440,12 @@
         "title": "A New Dawn: l'anime al cinema in Italia",
         "description": "Le prossime uscite   Federico Vascotto 29/06/2026          Animagine, la collana nata dalla collaborazione tra Dynit e Adler Entertainment che porta al cinema gli anime del presente e del passato, è lieta di...",
         "publishedDate": "2026-06-29T14:09:19.000Z"
+      },
+      {
+        "url": "https://cinema.everyeye.it/notizie/luglio-sar-ricchissimo-film-serie-animate-titoli-cinema-streaming-887416.html",
+        "title": "Luglio sarà ricchissimo di film e serie animate: tutti i titoli tra cinema e streaming",
+        "description": "Altro mese, altro giro di film e serie tv d'animazione in arrivo in Italia tra cinema e piattaforme di streaming on demand: che sia in sala sul grande schermo o sul vostro divano con Netflix, Prime Video,...",
+        "publishedDate": "2026-06-30T15:00:00.000Z"
       }
     ],
     "tmdbMovie": {
