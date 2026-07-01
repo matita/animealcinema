@@ -386,20 +386,6 @@
     ]
   },
   {
-    "title": "Ghost – Yoru no Hate",
-    "slug": "ghost-yoru-no-hate",
-    "lastSourceDate": "2026-06-30T00:00:00.000Z",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://www.akibagamers.it/30-06-2026/anime-factory-annuncia-acquisizione-di-due-nuovi-anime/",
-        "title": "Anime Factory annuncia l’acquisizione di due nuovi anime",
-        "description": "PLAION PICTURES annuncia che il catalogo di Anime Factory si arricchisce di due nuovi anime molto attesi: Samurai Ballerina e Ghost – Your no Hate.Il primo è una elegante e raffinata produzione ambientata...",
-        "publishedDate": "2026-06-30T00:00:00.000Z"
-      }
-    ]
-  },
-  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -877,13 +863,19 @@
   {
     "title": "Ghost in the Shell",
     "slug": "ghost-in-the-shell",
-    "lastSourceDate": "2025-02-22T10:00:00.000Z",
+    "lastSourceDate": "2026-07-01T00:00:00.000Z",
     "sources": [
       {
         "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
         "title": "Netflix, programmazione quotidiana e nuove uscite (Febbraio 2025) | Teleblog",
         "description": "Ecco la programmazione di Netflix Italia aggiornata quotidianamente e periodicamente: le ultime novità giorno per giorno tra nuovi film, serie tv italiane e internazionali, documentari, anime e...",
         "publishedDate": "2025-02-22T10:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/111086-lucky-red-svela-il-suo-listino-2627-da-kiki-in-4k-al-live-action-di-look-back%25c2%25a0",
+        "title": "Lucky Red svela il suo listino 26/27: da Kiki in 4k al live action di Look Back",
+        "description": "Durante le giornate di Ciné 2026 a Riccione, l'Amministratore Delegato di Lucky Red, Andrea Occhipinti, ha svelato il ricchissimo listino della società fino a gennaio 2027. Accanto alla storica novità...",
+        "publishedDate": "2026-07-01T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -905,7 +897,10 @@
       "video": false,
       "vote_average": 7.9,
       "vote_count": 3462
-    }
+    },
+    "theaterReleaseDate": "2026-12-03",
+    "theaterEndDate": "2026-12-09",
+    "alternativeTitles": []
   },
   {
     "title": "Famiglia",
@@ -1597,6 +1592,43 @@
       "angels-egg-4k",
       "angels-egg"
     ]
+  },
+  {
+    "title": "Kiki - Consegne a domicilio",
+    "slug": "kiki-consegne-a-domicilio",
+    "lastSourceDate": "2026-07-01T00:00:00.000Z",
+    "theaterReleaseDate": "2026-11-19",
+    "theaterEndDate": "2026-11-25",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111086-lucky-red-svela-il-suo-listino-2627-da-kiki-in-4k-al-live-action-di-look-back%25c2%25a0",
+        "title": "Lucky Red svela il suo listino 26/27: da Kiki in 4k al live action di Look Back",
+        "description": "Durante le giornate di Ciné 2026 a Riccione, l'Amministratore Delegato di Lucky Red, Andrea Occhipinti, ha svelato il ricchissimo listino della società fino a gennaio 2027. Accanto alla storica novità...",
+        "publishedDate": "2026-07-01T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/h5pAEVma835u8xoE60kmLVopLct.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 16859,
+      "title": "Kiki - Consegne a domicilio",
+      "original_language": "ja",
+      "original_title": "魔女の宅急便",
+      "overview": "Nella parabola della streghetta dagli umili abiti rivive il consueto viaggio iniziatico di Miyazaki, spesso condotto tra i cieli (in precedenza ne Il castello nel cielo, mentre Porco rosso innalzerà ai massimi livelli il feeling eroico con l'aria) e spesso con una ragazzina come protagonista. Kiki raggiunge la fatidica età di passaggio, quella dei quattordici anni, per abbandonare la dimora natia e scoprire la vecchia Europa, ancora una volta coacervo ideale di stilemi miyazakiani. Modellata su Stoccolma e Lisbona, la città in cui Kiki approda a cavallo della sua scopa volante è il luogo dello smarrimento e dell'emancipazione, in cui l'eroina è da un lato costretta ben presto a una necessaria e dura introspezione, ma può anche sentirsi accettata nonostante la sua diversità; il luogo in cui, attraverso il duro lavoro, conquistare la propria matura autonomia.",
+      "popularity": 11.117,
+      "poster_path": "/m6Kmv8RPluTikRcQT0kIlTibsfD.jpg",
+      "release_date": "1989-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.837,
+      "vote_count": 4610
+    }
   },
   {
     "title": "Arion",
@@ -6402,6 +6434,41 @@
     }
   },
   {
+    "title": "Look Back",
+    "slug": "look-back",
+    "lastSourceDate": "2026-07-01T00:00:00.000Z",
+    "theaterReleaseDate": "2027-01-21",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111086-lucky-red-svela-il-suo-listino-2627-da-kiki-in-4k-al-live-action-di-look-back%25c2%25a0",
+        "title": "Lucky Red svela il suo listino 26/27: da Kiki in 4k al live action di Look Back",
+        "description": "Durante le giornate di Ciné 2026 a Riccione, l'Amministratore Delegato di Lucky Red, Andrea Occhipinti, ha svelato il ricchissimo listino della società fino a gennaio 2027. Accanto alla storica novità...",
+        "publishedDate": "2026-07-01T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
+      "genre_ids": [
+        16,
+        18
+      ],
+      "id": 1244492,
+      "title": "Look Back",
+      "original_language": "ja",
+      "original_title": "ルックバック",
+      "overview": "Fujino, eccessivamente sicura di sé, e Kyomoto, chiusa in se stessa, non potrebbero essere più diverse, ma l'amore per il disegno manga unisce queste due ragazze di provincia, in una toccante storia di crescita e progresso.",
+      "popularity": 8.8135,
+      "poster_path": "/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
+      "release_date": "2024-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.149,
+      "vote_count": 582
+    }
+  },
+  {
     "title": "Baki Hanma VS Kengan Ashura",
     "slug": "baki-hanma-vs-kengan-ashura",
     "lastSourceDate": "2025-02-22T10:00:00.000Z",
@@ -8625,6 +8692,41 @@
     "aliases": [
       "dan-da-dan-evil-eye"
     ]
+  },
+  {
+    "title": "Ghost – Yoru no Hate",
+    "slug": "ghost-yoru-no-hate",
+    "lastSourceDate": "2026-06-30T00:00:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.akibagamers.it/30-06-2026/anime-factory-annuncia-acquisizione-di-due-nuovi-anime/",
+        "title": "Anime Factory annuncia l’acquisizione di due nuovi anime",
+        "description": "PLAION PICTURES annuncia che il catalogo di Anime Factory si arricchisce di due nuovi anime molto attesi: Samurai Ballerina e Ghost – Your no Hate.Il primo è una elegante e raffinata produzione ambientata...",
+        "publishedDate": "2026-06-30T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/66IeuKJQxVN3jcTA8IrrMrt9FqZ.jpg",
+      "genre_ids": [
+        16,
+        878,
+        18
+      ],
+      "id": 1495141,
+      "title": "ghost／夜の果て",
+      "original_language": "ja",
+      "original_title": "ghost／夜の果て",
+      "overview": "",
+      "popularity": 0.3456,
+      "poster_path": "/mT8oDXgPBRnANIo3BgynmTvhLO7.jpg",
+      "release_date": "2027-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
   },
   {
     "title": "JUJUTSU KAISEN: Esecuzione",
