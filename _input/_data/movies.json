@@ -5086,6 +5086,42 @@
     }
   },
   {
+    "title": "Godzilla Minus Zero",
+    "slug": "godzilla-minus-zero",
+    "lastSourceDate": "2026-07-09T00:00:00.000Z",
+    "theaterReleaseDate": "2026-11-05",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111168-godzilla-minus-zero-arriva-dal-5-novembre-nelle-sale-italiane",
+        "title": "Godzilla Minus Zero arriva dal 5 novembre nelle sale italiane",
+        "description": "Riportiamo il comunicato giunto in redazione sull'arrivo di Godzilla Minus Zero nelle sale italiane a partire dal 5 novembre.IL RE DEI MOSTRI TORNA DAL 5 NOVEMBRE AL CINEMADopo la storica vittoria dell’Oscar...",
+        "publishedDate": "2026-07-09T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg",
+      "genre_ids": [
+        878,
+        27,
+        28
+      ],
+      "id": 940721,
+      "title": "Godzilla Minus One",
+      "original_language": "ja",
+      "original_title": "ゴジラ-1.0",
+      "overview": "Dopo la Seconda guerra mondiale, il Giappone è stato ridotto in ginocchio e deve ripartire da zero. In questo contesto, Godzilla appare improvvisamente e fa precipitare il paese in uno stato ancora più negativo: è la situazione più disperata nella storia del Giappone.",
+      "popularity": 11.2058,
+      "poster_path": "/AhO2e2EWYYZk4zxxeynriCufixo.jpg",
+      "release_date": "2023-11-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.579,
+      "vote_count": 3235
+    }
+  },
+  {
     "title": "Il castello invisibile",
     "slug": "il-castello-invisibile",
     "lastSourceDate": "2025-02-22T10:00:00.000Z",
