@@ -403,16 +403,24 @@
   {
     "title": "Assassination Classroom: L'ora di tutti noi",
     "slug": "assassination-classroom-lora-di-tutti-noi",
-    "lastSourceDate": "2026-07-17T00:00:00.000Z",
+    "lastSourceDate": "2026-07-19T09:28:06.000Z",
     "theaterReleaseDate": "2026-09-14",
     "theaterEndDate": "2026-09-16",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Assassination Classroom: L’ora di tutti noi"
+    ],
     "sources": [
       {
         "url": "https://www.animeclick.it/news/111231-assassination-classroom-il-nuovo-film-arriva-nei-cinema-italiani-a-settembre",
         "title": "Assassination Classroom: il nuovo film arriva nei cinema italiani a settembre",
         "description": "Attraverso i propri canali social Yamato Video ed Eagle Picture hanno annunciato che Assassination Classroom: L'ora di tutti noi, nuovo film della popolare serie animata, trasposizione del manga omonimo di...",
         "publishedDate": "2026-07-17T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.corrierenerd.it/assassination-classroom-lora-di-tutti-noi/",
+        "title": "Assassination Classroom: L’ora di tutti noi arriva al cinema in Italia, il ritorno di Koro-sensei emoziona i fan",
+        "description": "Dieci anni possono sembrare un'eternità nel mondo degli anime, dove ogni stagione porta nuovi protagonisti destinati a conquistare il pubblico, eppure esistono storie che non si limitano a essere ricordate:",
+        "publishedDate": "2026-07-19T09:28:06.000Z"
       }
     ]
   },
