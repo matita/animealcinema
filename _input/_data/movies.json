@@ -42,20 +42,6 @@
     "theaterEndDate": "2025-03-05"
   },
   {
-    "title": "La Caccia a Gollum",
-    "slug": "la-caccia-a-gollum",
-    "lastSourceDate": "2024-12-06T02:32:00.000Z",
-    "theaterReleaseDate": "2026-01-01",
-    "sources": [
-      {
-        "url": "https://startupitalia.eu/lifestyle/nuova-trilogia-signore-degli-anelli/",
-        "title": "Una nuova trilogia de Il Signore degli Anelli? Cosa ha detto la sceneggiatrice Philippa Boyens - StartupItalia",
-        "description": "Tra poche settimane uscirà al cinema l'anime \"La guerra dei Rohirrim\". E nei prossimi anni potrebbero uscire altri sceneggiati  La lore de Il Signore degli Anelli è ancora fitta e molte sono le storie...",
-        "publishedDate": "2024-12-06T02:32:00.000Z"
-      }
-    ]
-  },
-  {
     "title": "Senpai Is an Otokonoko: Clear After the Rain",
     "slug": "senpai-is-an-otokonoko-clear-after-the-rain",
     "lastSourceDate": "2024-12-09T00:00:00.000Z",
@@ -5935,6 +5921,41 @@
       "video": false,
       "vote_average": 6.9,
       "vote_count": 12
+    }
+  },
+  {
+    "title": "La Caccia a Gollum",
+    "slug": "la-caccia-a-gollum",
+    "lastSourceDate": "2024-12-06T02:32:00.000Z",
+    "theaterReleaseDate": "2026-01-01",
+    "sources": [
+      {
+        "url": "https://startupitalia.eu/lifestyle/nuova-trilogia-signore-degli-anelli/",
+        "title": "Una nuova trilogia de Il Signore degli Anelli? Cosa ha detto la sceneggiatrice Philippa Boyens - StartupItalia",
+        "description": "Tra poche settimane uscirà al cinema l'anime \"La guerra dei Rohirrim\". E nei prossimi anni potrebbero uscire altri sceneggiati  La lore de Il Signore degli Anelli è ancora fitta e molte sono le storie...",
+        "publishedDate": "2024-12-06T02:32:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aIw4c18EWwQmIWZv0W6s60y47aB.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 1090869,
+      "title": "Il Signore degli Anelli - La caccia a Gollum",
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Hunt for Gollum",
+      "overview": "",
+      "popularity": 3.4817,
+      "poster_path": "/aRtIVdlgVNtvcqFUnuhR3V1RQ7o.jpg",
+      "release_date": "2027-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     }
   },
   {
