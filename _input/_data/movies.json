@@ -389,13 +389,15 @@
   {
     "title": "Assassination Classroom: L'ora di tutti noi",
     "slug": "assassination-classroom-lora-di-tutti-noi",
-    "lastSourceDate": "2026-08-27T13:24:00.000Z",
+    "lastSourceDate": "2026-08-27T13:28:23.000Z",
     "theaterReleaseDate": "2026-09-14",
     "theaterEndDate": "2026-09-16",
     "alternativeTitles": [
       "Assassination Classroom: L’ora di tutti noi",
       "Assassination Classroom – L’Ora di Tutti Noi",
-      "Assassination Classroom - L’ora di tutti noi"
+      "Assassination Classroom - L’ora di tutti noi",
+      "Assassination Classroom – L'ora di tutti noi",
+      "Assassination Classroom – L’ora di tutti noi"
     ],
     "sources": [
       {
@@ -421,6 +423,18 @@
         "title": "Assassination Classroom - L'ora di tutti noi, il trailer italiano del pazzo anime al cinema",
         "description": "Dal 14 al 16 settembre sarà al cinema Assassination Classroom - L’ora di tutti noi di Masaki Kitamura, lungometraggio anime inedito, per festeggiare il decimo anniversario della serie... con un professore veramente strano, Korosensei!",
         "publishedDate": "2026-08-27T13:24:00.000Z"
+      },
+      {
+        "url": "https://www.akibagamers.it/27-08-2026/assassination-classroom-ora-di-tutti-noi-il-film-animato-arriva-nei-cinema-italiani/",
+        "title": "Assassination Classroom – L’ora di tutti noi: il film animato arriva nei cinema italiani",
+        "description": "Eagle Pictures, in collaborazione con Yamato Video, annuncia l’arrivo nei cinema italiani del film Assassination Classroom – L’ora di tutti noi. Il lungometraggio animato di Masaki Kitamura sarà disponibile...",
+        "publishedDate": "2026-08-27T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.lospaziobianco.it/assassination-classroom-lora-di-tutti-noi-solo-al-cinema-il-14-15-e-16-settembre/",
+        "title": "Assassination Classroom – L’ora di tutti noi – Solo al Cinema il 14, 15 e 16 Settembre – Lo Spazio Bianco",
+        "description": "Il film di animazione Assassination Classroom – L’ora di tutti noi di Masaki Kitamura arriverà al cinema grazie a Eagle Pictures in collaborazione con Yamato Video come evento speciale il 14, 15 e 16...",
+        "publishedDate": "2026-08-27T13:28:23.000Z"
       }
     ]
   },
@@ -6853,7 +6867,7 @@
   {
     "title": "Demon Slayer: Il castello dell'infinito (Akaza Sairai / Il ritorno di Akaza)",
     "slug": "demon-slayer-il-castello-dellinfinito-akaza-sairai-il-ritorno-di-akaza",
-    "lastSourceDate": "2026-08-26T00:00:00.000Z",
+    "lastSourceDate": "2026-08-27T14:44:06.000Z",
     "theaterReleaseDate": "2020-10-16",
     "sources": [
       {
@@ -7484,6 +7498,12 @@
         "title": "Demon Slayer: ordine di serie e film",
         "description": "Capire in che ordine guardare Demon Slayer: Kimetsu no Yaiba è meno immediato di quanto sembri. Oltre alle normali stagioni televisive, infatti, la serie comprende il film Mugen Train, una successiva versione...",
         "publishedDate": "2026-08-26T00:00:00.000Z"
+      },
+      {
+        "url": "https://nerdpool.it/il-modello-cinema-di-demon-slayer-si-allarga-e-allunga-le-attese/",
+        "title": "Il modello cinema di Demon Slayer si allarga e allunga le attese",
+        "description": "Il successo planetario di Demon Slayer ha convinto l’industria dell’animazione giapponese che il finale di una serie amata rende molto di più in sala che in televisione. È la tesi di un’analisi firmata da Rohit Jaiswar per ComicBook.com, sito statunitense di cultura pop tra i più letti nel settore: il modello funziona",
+        "publishedDate": "2026-08-27T14:44:06.000Z"
       }
     ],
     "tmdbMovie": {
@@ -7525,7 +7545,8 @@
       "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle",
       "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
       "Demon Slayer: Kimetsu no Yaiba – Il Castello dell’Infinito I",
-      "Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train"
+      "Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train",
+      "Il Castello dell’Infinito"
     ],
     "aliases": [
       "demon-slayer-kimetsu-no-yaiba-infinity-castle-part-1",
@@ -9141,6 +9162,41 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
+    }
+  },
+  {
+    "title": "Sheep in the Box",
+    "slug": "sheep-in-the-box",
+    "lastSourceDate": "2026-08-27T10:42:00.000Z",
+    "theaterReleaseDate": "2026-08-27",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.comingsoon.it/cinema/news/sheep-in-the-box-di-koreeda-l-amore-oltre-la-perdita-nell-era-dell/n230408/",
+        "title": "Sheep in the Box di Koreeda, l'amore oltre la perdita nell'era dell'Intelligenza Artificiale",
+        "description": "Con la consueta sensibilità e amore per i bambini e il loro coraggio, ma con un’ambientazione futuristica inconsueta, Hirokazu Koreeda racconta una storia sulla perdita e la forza dei sentimenti e dei legami familiari. Sheep in the Box è nei nostri cinema dal 27 agosto distribuito da Lucky Red e Bim Distribuzione.",
+        "publishedDate": "2026-08-27T10:42:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/iZCdWpGqKQaAdhysW8gYPTdCP6A.jpg",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 1553969,
+      "title": "Sheep in the Box",
+      "original_language": "ja",
+      "original_title": "箱の中の羊",
+      "overview": "In un futuro prossimo, a Yokohama, la coppia dei Komoto, che ha tragicamente perso il figlio di sette anni Kakeru, decide di avvalersi di REbirth, un programma pensato per le famiglie nella loro situazione: riceveranno in prova gratuita un androide guidato dall'intelligenza artificiale, con le fattezze e i ricordi di Kakeru, destinato a diventare un surrogato in tutto e per tutto del figlio perduto. Il padre Kensuke è inizialmente scettico, laddove la madre Otone si affeziona istantaneamente al nuovo Kakeru, scegliendo di vivere nell'autosuggestione. Finché una visita della madre e della sorella non riportano Otone alla realtà, mentre il nuovo Kakeru stringe segretamente amicizia con altri suoi \"simili\".",
+      "popularity": 5.2518,
+      "poster_path": "/yYFPOWP1Kry7w6BfPTTkgG1E70m.jpg",
+      "release_date": "2026-05-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.091,
+      "vote_count": 11
     }
   },
   {
