@@ -389,7 +389,7 @@
   {
     "title": "Assassination Classroom: L'ora di tutti noi",
     "slug": "assassination-classroom-lora-di-tutti-noi",
-    "lastSourceDate": "2026-08-27T13:28:23.000Z",
+    "lastSourceDate": "2026-08-28T08:15:18.000Z",
     "theaterReleaseDate": "2026-09-14",
     "theaterEndDate": "2026-09-16",
     "alternativeTitles": [
@@ -435,6 +435,12 @@
         "title": "Assassination Classroom – L’ora di tutti noi – Solo al Cinema il 14, 15 e 16 Settembre – Lo Spazio Bianco",
         "description": "Il film di animazione Assassination Classroom – L’ora di tutti noi di Masaki Kitamura arriverà al cinema grazie a Eagle Pictures in collaborazione con Yamato Video come evento speciale il 14, 15 e 16...",
         "publishedDate": "2026-08-27T13:28:23.000Z"
+      },
+      {
+        "url": "https://pressview.it/trailer-assassination-classroom/",
+        "title": "Assassination Classroom - L'ora di tutti noi: gli studenti della classe 3-E tornano al cinema",
+        "description": "Questo articolo può contenere link di affiliazione.Il grande schermo si prepara ad accogliere nuovamente uno dei professori più strambi e amati dell’animazione giapponese. Assassination Classroom – L’ora di...",
+        "publishedDate": "2026-08-28T08:15:18.000Z"
       }
     ]
   },
@@ -3497,6 +3503,12 @@
         "title": "Boruto Naruto the Movie Recensione: un'emozionante sfida tra generazioni",
         "description": "Diretto da Hiroyuki Yamashita, già regista e animatore di svariate puntate di Naruto Shippuden e altri film del franchise, Boruto - Naruto The Movie è un film-ponte tra la serie principale e il suo sequel,...",
         "publishedDate": null
+      },
+      {
+        "url": "https://anime.icrewplay.com/boruto-naruto-the-movie-italiano/",
+        "title": "Boruto: Naruto the Movie in italiano, dove vederlo e cosa sapere",
+        "description": "Boruto: Naruto the Movie italiano esiste con un doppiaggio ufficiale: il film del 2015 è arrivato per la prima volta nei cinema italiani dal 23 al 25 giugno 2025, distribuito da Nexo Studios in collaborazione...",
+        "publishedDate": "2026-08-28T19:48:42.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3522,9 +3534,10 @@
       "vote_count": 1557
     },
     "theaterEndDate": "2025-06-25",
-    "lastSourceDate": null,
+    "lastSourceDate": "2026-08-28T19:48:42.000Z",
     "alternativeTitles": [
-      "Boruto"
+      "Boruto",
+      "Boruto: Naruto the Movie"
     ],
     "aliases": [
       "boruto"
