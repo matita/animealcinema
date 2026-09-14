@@ -387,6 +387,22 @@
     ]
   },
   {
+    "title": "YOUR NAME (10th Anniversary)",
+    "slug": "your-name-10th-anniversary",
+    "lastSourceDate": "2026-09-14T00:00:00.000Z",
+    "theaterReleaseDate": "2026-11-23",
+    "theaterEndDate": "2026-11-25",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111758-dynit-presenta-la-nuova-stagione-anime-al-cinema-madoka-magica-gintama-made-in-abyss-e-your-name",
+        "title": "Dynit presenta la nuova stagione anime al cinema: Madoka Magica, Gintama, Made in Abyss e Your Name",
+        "description": "Riportiamo quanto comunicato sul sito dell'editore Dynit, il tutto preceduto da una dichiarazione di Carlo Cavazzoni, dall’ALFest di Lecce: «È per me un grande piacere presentare la nuova stagione di Anime al...",
+        "publishedDate": "2026-09-14T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -3540,7 +3556,7 @@
   {
     "title": "Your Name",
     "slug": "your-name",
-    "lastSourceDate": "2025-10-10T00:00:00.000Z",
+    "lastSourceDate": "2026-09-14T16:07:45.000Z",
     "theaterReleaseDate": "2017-01-23",
     "theaterEndDate": "2017-03-31",
     "sources": [
@@ -3555,6 +3571,12 @@
         "title": "La nuova giovinezza degli anime al cinema",
         "description": "Lettura in    2 minA volte il mondo è strano e prende pieghe inaspettate e inspiegabili: è questo il caso del successo incredibile che stanno riscontrando gli anime al cinema negli ultimi anni (anche) nel...",
         "publishedDate": "2025-10-10T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.universalmovies.it/dynit-anime-al-cinema-your-name-madoka/",
+        "title": "Dynit Anime al Cinema: your name, madoka magica, gintama",
+        "description": "Your Name, Puella Magi Madoka Magica, Gintama e Made in Abyss saranno i protagonisti della nuova stagione di Anime al Cinema, il progetto cinematografico targato Dynit dedicato all’animazione giapponese....",
+        "publishedDate": "2026-09-14T16:07:45.000Z"
       }
     ],
     "tmdbMovie": {
@@ -3576,7 +3598,8 @@
       "video": false,
       "vote_average": 8.479,
       "vote_count": 11988
-    }
+    },
+    "alternativeTitles": []
   },
   {
     "title": "L'Attacco dei Giganti - Il Film Parte 1 - L’Arco e la Freccia Cremisi e Parte 2 - Le Ali della Libertà",
@@ -4740,6 +4763,18 @@
         "title": "Madoka Magica -Walpurgisnacht: Rising-: annunciata la nuova data di uscita del film",
         "description": "Il sito web ufficiale del film Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising-, sequel ufficiale del terzo film del franchise Puella Magi Madoka Magica - La storia della ribellione , ha...",
         "publishedDate": "2026-02-27T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/111758-dynit-presenta-la-nuova-stagione-anime-al-cinema-madoka-magica-gintama-made-in-abyss-e-your-name",
+        "title": "Dynit presenta la nuova stagione anime al cinema: Madoka Magica, Gintama, Made in Abyss e Your Name",
+        "description": "Riportiamo quanto comunicato sul sito dell'editore Dynit, il tutto preceduto da una dichiarazione di Carlo Cavazzoni, dall’ALFest di Lecce: «È per me un grande piacere presentare la nuova stagione di Anime al...",
+        "publishedDate": "2026-09-14T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.universalmovies.it/dynit-anime-al-cinema-your-name-madoka/",
+        "title": "Dynit Anime al Cinema: your name, madoka magica, gintama",
+        "description": "Your Name, Puella Magi Madoka Magica, Gintama e Made in Abyss saranno i protagonisti della nuova stagione di Anime al Cinema, il progetto cinematografico targato Dynit dedicato all’animazione giapponese....",
+        "publishedDate": "2026-09-14T16:07:45.000Z"
       }
     ],
     "tmdbMovie": {
@@ -4764,7 +4799,15 @@
       "vote_count": 0
     },
     "theaterReleaseDate": "2026-02-01",
-    "alternativeTitles": []
+    "alternativeTitles": [
+      "Puella Magi Madoka Magica the Movie -Il Risveglio di Walpurgis-",
+      "Puella Magi Madoka Magica the Movie – Il risveglio di Walpurgisnacht"
+    ],
+    "theaterEndDate": "2026-12-16",
+    "aliases": [
+      "puella-magi-madoka-magica-the-movie-il-risveglio-di-walpurgis",
+      "puella-magi-madoka-magica-the-movie-il-risveglio-di-walpurgisnacht"
+    ]
   },
   {
     "title": "Il Signore degli Anelli – La guerra dei Rohirrim",
@@ -9085,6 +9128,98 @@
     }
   },
   {
+    "title": "Made in Abyss The Movie Awakening Mystery",
+    "slug": "made-in-abyss-the-movie-awakening-mystery",
+    "lastSourceDate": "2026-09-14T16:07:45.000Z",
+    "theaterReleaseDate": "2027-02-11",
+    "theaterEndDate": "2027-02-17",
+    "alternativeTitles": [
+      "Made in Abyss the Movie – Awakening Mystery"
+    ],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111758-dynit-presenta-la-nuova-stagione-anime-al-cinema-madoka-magica-gintama-made-in-abyss-e-your-name",
+        "title": "Dynit presenta la nuova stagione anime al cinema: Madoka Magica, Gintama, Made in Abyss e Your Name",
+        "description": "Riportiamo quanto comunicato sul sito dell'editore Dynit, il tutto preceduto da una dichiarazione di Carlo Cavazzoni, dall’ALFest di Lecce: «È per me un grande piacere presentare la nuova stagione di Anime al...",
+        "publishedDate": "2026-09-14T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.universalmovies.it/dynit-anime-al-cinema-your-name-madoka/",
+        "title": "Dynit Anime al Cinema: your name, madoka magica, gintama",
+        "description": "Your Name, Puella Magi Madoka Magica, Gintama e Made in Abyss saranno i protagonisti della nuova stagione di Anime al Cinema, il progetto cinematografico targato Dynit dedicato all’animazione giapponese....",
+        "publishedDate": "2026-09-14T16:07:45.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/7vZSK3hXn9fNiaij2YjvNXdwOUn.jpg",
+      "genre_ids": [
+        16,
+        878,
+        14,
+        12
+      ],
+      "id": 1526917,
+      "title": "Made in Abyss The Movie: Awakening Mystery",
+      "original_language": "ja",
+      "original_title": "メイドインアビス 目覚める神秘",
+      "overview": "Lasciatisi alle spalle la caduta del Villaggio dei Narehate nella Città Dorata, Riko riprende la discesa verso il fondo dell’Abisso insieme a Reg, Nanachi e alla loro nuova alleata, la principessa Faputa. Insieme varcano la soglia dell’inesplorato Settimo Strato — la ‘Massa Finale’ —, un luogo in cui la letale maledizione dell’Abisso si fa ancora più spietata e la realtà stessa inizia a deformarsi. Mentre il gruppo si fa strada lungo questo insidioso confine, l’incontro con enigmatici Cercatori come Cravagli e Tepaste li avvicina sempre più a svelare le vere origini dei ricordi perduti di Reg e i segreti custoditi nelle recondite profondità dell’Abisso.",
+      "popularity": 1.0732,
+      "poster_path": "/7HfBlYDlMVaHnvd7NEpZLd8r7FO.jpg",
+      "release_date": "2026-10-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
+    "title": "Gintama the Movie - Yoshiwara in fiamme",
+    "slug": "gintama-the-movie-yoshiwara-in-fiamme",
+    "lastSourceDate": "2026-09-14T16:07:45.000Z",
+    "theaterReleaseDate": "2027-01-14",
+    "theaterEndDate": "2027-01-20",
+    "alternativeTitles": [
+      "Gintama the Movie – Yoshiwara in fiamme"
+    ],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111758-dynit-presenta-la-nuova-stagione-anime-al-cinema-madoka-magica-gintama-made-in-abyss-e-your-name",
+        "title": "Dynit presenta la nuova stagione anime al cinema: Madoka Magica, Gintama, Made in Abyss e Your Name",
+        "description": "Riportiamo quanto comunicato sul sito dell'editore Dynit, il tutto preceduto da una dichiarazione di Carlo Cavazzoni, dall’ALFest di Lecce: «È per me un grande piacere presentare la nuova stagione di Anime al...",
+        "publishedDate": "2026-09-14T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.universalmovies.it/dynit-anime-al-cinema-your-name-madoka/",
+        "title": "Dynit Anime al Cinema: your name, madoka magica, gintama",
+        "description": "Your Name, Puella Magi Madoka Magica, Gintama e Made in Abyss saranno i protagonisti della nuova stagione di Anime al Cinema, il progetto cinematografico targato Dynit dedicato all’animazione giapponese....",
+        "publishedDate": "2026-09-14T16:07:45.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878,
+        35
+      ],
+      "id": 1530941,
+      "title": "Gintama The Movie: Yoshiwara in Fiamme",
+      "original_language": "ja",
+      "original_title": "新劇場版 銀魂 -吉原大炎上-",
+      "overview": "Yoshiwara è un’enorme città sotterranea del piacere, un luogo dove la legge non ha alcun potere. Gintoki Sakata, che a Edo gestisce l’agenzia tuttofare Yorozuya, incontra Seita, un ragazzo orfano che sopravvive facendo il borseggiatore. Seita è alla ricerca della madre da cui è stato separato e sospetta che possa essere Hinowa, la cortigiana più importante di Yoshiwara…",
+      "popularity": 14.6964,
+      "poster_path": "/5F7YrauGDP2tbzz84KKwji2MB3e.jpg",
+      "release_date": "2026-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.9,
+      "vote_count": 17
+    }
+  },
+  {
     "title": "JUJUTSU KAISEN: Esecuzione",
     "slug": "jujutsu-kaisen-esecuzione",
     "lastSourceDate": "2025-10-16T07:12:47.000Z",
@@ -9156,7 +9291,7 @@
   {
     "title": "Assassination Classroom: L'ora di tutti noi",
     "slug": "assassination-classroom-lora-di-tutti-noi",
-    "lastSourceDate": "2026-09-03T13:47:12.000Z",
+    "lastSourceDate": "2026-09-14T12:34:00.000Z",
     "theaterReleaseDate": "2026-09-14",
     "theaterEndDate": "2026-09-16",
     "alternativeTitles": [
@@ -9226,6 +9361,12 @@
         "title": "«Assassination Classroom – L’ora di tutti noi» arriva al cinema per tre giorni - Casting News Magazine",
         "description": "Korosensei e gli studenti della classe 3-E tornano sul grande schermo in «Assassination Classroom – L’ora di tutti noi», il nuovo film d’animazione diretto da Masaki Kitamura. Il lungometraggio arriverà nelle sale italiane il 14, 15 e 16 settembre come evento speciale, distribuito da Eagle Pictures in collaborazione con Yamato Video. Realizzato in occasione del […]",
         "publishedDate": "2026-09-03T13:47:12.000Z"
+      },
+      {
+        "url": "https://www.comingsoon.it/cinema/news/assassination-classroom-l-ora-di-tutti-noi-al-cinema-l-anime-romanzo-di/n231804/",
+        "title": "Assassination Classroom: L'ora di tutti noi, al cinema l'anime, romanzo di formazione politicamente scorretto ",
+        "description": "È al cinema in uscita evento, il 14-15-16 settembre, il delirante Assassination Classroom: L'ora di tutti noi, film anime basato sull'omonima serie e sul manga, romanzo di formazione di una classe di reietti, con professore alieno... e alienato.",
+        "publishedDate": "2026-09-14T12:34:00.000Z"
       }
     ],
     "tmdbMovie": {
