@@ -4744,7 +4744,7 @@
   {
     "title": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising",
     "slug": "puella-magi-madoka-magica-the-movie-walpurgisnacht-rising",
-    "lastSourceDate": "2026-02-27T00:00:00.000Z",
+    "lastSourceDate": "2026-09-14T16:07:45.000Z",
     "sources": [
       {
         "url": "https://www.animeclick.it/news/107490-dynit-madoka-magica-walpurgisnacht-rising-arrivera-al-cinema-in-italia",
@@ -5145,9 +5145,11 @@
   {
     "title": "Witch on the Holy Night",
     "slug": "witch-on-the-holy-night",
-    "lastSourceDate": "2026-09-11T11:02:00.000Z",
+    "lastSourceDate": "2026-09-15T08:16:23.000Z",
     "theaterReleaseDate": "2027-01-28",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "WITCH ON THE HOLY NIGHT"
+    ],
     "sources": [
       {
         "url": "https://screenworld.it/libri-e-fumetti/anime/witch-on-the-holy-night-film-anime-italia-gennaio-2027/",
@@ -5160,6 +5162,12 @@
         "title": "Witch on the Holy Night, il trailer dell'anime dall'omonima visual novel, c'è una data d'uscita",
         "description": "Witch on the Holy Night sarà al cinema dal 28 gennaio 2027: il lungometraggio anime è tratto da un videogioco, per la precisione una visual novel targata Type-Moon, diventata popolare negli ultimi anni anche in Occidente. Ecco il trailer ufficiale del film.",
         "publishedDate": "2026-09-11T11:02:00.000Z"
+      },
+      {
+        "url": "https://sugarpulp.it/witch-on-the-holy-night-anime-italia/",
+        "title": "WITCH ON THE HOLY NIGHT, l'anime ufotable in Italia - Sugarpulp",
+        "description": "WITCH ON THE HOLY NIGHT esce in Italia il 28 gennaio 2027 con Eagle Pictures\nIl film anime WITCH ON THE HOLY NIGHT, animato da ufotable, arriverà nei cinema italiani il 28 gennaio 2027. La distribuzione è affidata a Eagle Pictures.",
+        "publishedDate": "2026-09-15T08:16:23.000Z"
       }
     ],
     "tmdbMovie": {
