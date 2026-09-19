@@ -5194,6 +5194,43 @@
     }
   },
   {
+    "title": "Suzume",
+    "slug": "suzume",
+    "lastSourceDate": "2026-09-19T09:16:00.000Z",
+    "theaterReleaseDate": "2023-04-27",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.comingsoon.it/cinema/news/su-netflix-c-e-un-anime-folle-con-una-sedia-parlante-ma-dietro-c-e-una/n231526/",
+        "title": "Su Netflix c'è un anime folle con una sedia parlante, ma dietro c'è una tragedia reale",
+        "description": "Una ragazzo trasformato, misteriose porte da chiudere e un viaggio attraverso il Giappone per fermare una catastrofe: l'anime di Makoto Shinkai, già regista di Your Name, nasconde molto più di una spettacolare avventura fantasy.",
+        "publishedDate": "2026-09-19T09:16:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
+      "genre_ids": [
+        16,
+        18,
+        12,
+        14
+      ],
+      "id": 916224,
+      "title": "Suzume",
+      "original_language": "ja",
+      "original_title": "すずめの戸締まり",
+      "overview": "La storia ha come protagonista una ragazza di 17 anni, Suzume, che vive in una tranquilla cittadina del Kyushu. Un giorno incontra un giovane viaggiatore che sta cercando una misteriosa \"porta\" e decide di seguirlo. Proprio la ragazza scopre l'esistenza di un vecchio portale tra le rovine delle montagne. La leggenda narra l'esistenza di diverse porte collegate tra loro in tutto il Giappone e che la chiusura di una di esse porti terribili sciagure.",
+      "popularity": 16.2912,
+      "poster_path": "/z05lvxEuMZNgf7VwqBs87GTJJPU.jpg",
+      "release_date": "2022-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.888,
+      "vote_count": 1845
+    }
+  },
+  {
     "title": "Witch on the Holy Night",
     "slug": "witch-on-the-holy-night",
     "theaterReleaseDate": "2027-01-28",
