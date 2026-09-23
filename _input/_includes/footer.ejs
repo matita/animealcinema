@@ -1,19 +1,8 @@
-<%
-  function shortDate(date) {
-    const d = date instanceof Date 
-      ? date 
-      : new Date(date ?? Date.now());
-    return new Intl.DateTimeFormat('it-IT', {
-      year: 'numeric',
-      month: '2-digit',
-      day: '2-digit',
-      hour: '2-digit',
-      minute: '2-digit',
-      timeZone: 'Europe/Rome',
-    }).format(d)
-  }
--%>
-  
-  <footer>Ultimo aggiornamento: <%= shortDate(sources[0].lastUpdateDate) %> &middot; Ultimo build: <%= shortDate() %></footer>
+<footer class="site-footer">
+  <div class="site-footer__inner wrap">
+    <p>Ogni data è collegata agli articoli che la annunciano.</p>
+    <p>Aggiornato il <%= cal.buildTime() %></p>
+  </div>
+</footer>
 </body>
 </html>

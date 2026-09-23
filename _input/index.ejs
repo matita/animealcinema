@@ -1,106 +1,140 @@
-<%- include('_includes/header') %>
 <%
-  const now = new Date();
-  const showingMovies = movies
-    .filter(m => new Date(m.theaterReleaseDate) < now && (!m.theaterEndDate || new Date(m.theaterEndDate) > now))
-    .sort((a, b) => a.title.localeCompare(b.title));
-  const comingMovies = movies
-    .filter(m => new Date(m.theaterReleaseDate) > now)
-    .sort((a, b) => a.theaterReleaseDate.localeCompare(b.theaterReleaseDate));
-  const announcedMovies = movies
-    .filter(m => !m.theaterReleaseDate)
-    .sort((a, b) => a.title.localeCompare(b.title));
+  const sections = cal.homeSections(movies);
+  const today = sections.today;
+  const weekStart = cal.addDays(today, 1);
+  const weekEnd = cal.addDays(today, 7);
+  const nextUpcoming = sections.upcoming[0];
+  const movieUrl = (movie) => `${basePath}/movie/${movie.slug}/`;
+-%>
+<%- include('_includes/head', { pageTitle: 'Anime al cinema in Italia' }) %>
+<%- include('_includes/site-header', { isHome: true, sections }) %>
 
-  const relevantMovies = movies
-    .filter((m) => {
-      // Must have a release date
-      if (!m.theaterReleaseDate) return false;
-      // Must not be just a year
-      if (/^\d{4}$/.test(m.theaterReleaseDate)) return false;
+<main class="wrap home">
 
-      const releaseDate = new Date(m.theaterReleaseDate);
+  <section class="section" id="ora" aria-labelledby="ora-title">
+    <div class="section__head">
+      <h2 class="section__title" id="ora-title"><span class="live-dot" aria-hidden="true"></span>In sala ora</h2>
+      <p class="section__context">Oggi, <%= cal.dateWithWeekday(today) %></p>
+    </div>
 
-      // If there's an end date, check if it has passed
-      if (m.theaterEndDate) {
-        const endDate = new Date(m.theaterEndDate);
-        if (endDate <= now) return false;
-      } else {
-        // If no end date, exclude movies released more than 30 days ago
-        const daysSinceRelease = (now - releaseDate) / (1000 * 60 * 60 * 24);
-        if (daysSinceRelease > 30) return false;
-      }
-
-      return true;
-    })
-    .sort((a, b) => a.theaterReleaseDate?.localeCompare(b.theaterReleaseDate))
-    .reduce((agg, movie) => {
-      const releaseDate = new Date(movie.theaterReleaseDate);
-      let relativeDate;
-
-      // If movie has already been released, label it as "Al cinema"
-      if (releaseDate <= now) {
-        relativeDate = 'Al cinema';
-      } else {
-        relativeDate = formatRelativeDate(releaseDate);
-      }
-
-      agg[relativeDate] = agg[relativeDate] || [];
-      agg[relativeDate].push(movie);
-      return agg;
-    }, {});
-
-  function mostPopularBackdrop() {
-    const backdropPath = Object.values(relevantMovies).flat()
-      .filter((m) => m.tmdbMovie?.backdrop_path)
-      .sort((a, b) => b.tmdbMovie.popularity - a.tmdbMovie.popularity)
-      [0]?.tmdbMovie.backdrop_path;
-    return backdropPath ? `${basePath}/images/w1280${backdropPath}` : null;
-  }
-
-  function formatRelativeDate(date) {
-    const now = new Date();
-    const d = date instanceof Date ? date : new Date(date);
-    const diffTime = d - now;
-    const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24));
-    
-    let unit;
-    let value;
-    
-    /*if (Math.abs(diffDays) < 7) {
-        unit = 'day';
-        value = diffDays + 1;
-    } else */if (Math.abs(diffDays) < 30) {
-        unit = 'week';
-        value = Math.round(diffDays / 7);
-    } else if (Math.abs(diffDays) < 365) {
-        unit = 'month';
-        value = Math.round(diffDays / 30);
-    } else {
-        unit = 'year';
-        value = Math.round(diffDays / 365);
-    }
-    
-    return new Intl.RelativeTimeFormat('it', { numeric: 'auto' }).format(value, unit);
-  }
-%>
-
-<div class="hero" style="background-image: linear-gradient(to bottom, rgba(52.5, 52.5, 52.5, 0.2), rgba(52.5, 52.5, 52.5, 1)), url(<%= mostPopularBackdrop() %>)">
-  <h1>Anime al cinema in Italia</h1>
-</div>
-
-<main>
-  
-<% for (const label in relevantMovies) { %>
-  <section>
-    <h2><%= label %></h2>
-  
-    <div class="movie-list">
-      <% for (const movie of relevantMovies[label]) { %>
-        <%- include('_includes/movie', { movie }) %>
-      <% } %>
-      </div>
+    <% if (sections.now.length) { -%>
+    <ul class="grid-2" role="list">
+      <% sections.now.forEach(({ movie, info }, index) => { -%>
+      <li>
+        <a class="card now-card" href="<%= movieUrl(movie) %>">
+          <%- include('_includes/poster', { movie, size: 'w500', eager: index < 2 }) %>
+          <div class="now-card__body">
+            <span class="eyebrow eyebrow--accent">In sala</span>
+            <h3 class="now-card__title"><%= movie.title %></h3>
+            <div class="now-card__dates">
+              <% if (info.end) { -%>
+              <p class="now-card__range"><%= cal.rangeShort(info.release, info.end) %></p>
+              <p class="now-card__note"><%= info.daysLeft === 0 ? 'Ultimo giorno oggi' : `Ancora ${cal.days(info.daysLeft)} in sala` %></p>
+              <% } else { -%>
+              <p class="now-card__range">Dal <%= cal.dateLong(info.release) %></p>
+              <p class="now-card__note">Fine programmazione non comunicata</p>
+              <% } -%>
+            </div>
+          </div>
+        </a>
+      </li>
+      <% }) -%>
+    </ul>
+    <% } else { -%>
+    <div class="empty-panel">
+      <p class="empty-panel__title">Nessun anime in sala in questo momento.</p>
+    </div>
+    <% } -%>
   </section>
-<% } %>
+
+  <section class="section" id="settimana" aria-labelledby="settimana-title">
+    <div class="section__head">
+      <h2 class="section__title" id="settimana-title">Prossimi 7 giorni</h2>
+      <p class="section__context"><%= cal.rangeLong(weekStart, weekEnd) %></p>
+    </div>
+
+    <% if (sections.week.length) { -%>
+    <ul class="grid-2" role="list">
+      <% sections.week.forEach(({ movie, info }) => { -%>
+      <li>
+        <a class="card week-card" href="<%= movieUrl(movie) %>">
+          <span class="date-block" aria-hidden="true">
+            <span class="date-block__weekday"><%= cal.weekdayShort(info.release) %></span>
+            <span class="date-block__day"><%= cal.dayNumber(info.release) %></span>
+            <span class="date-block__month"><%= cal.monthShort(info.release) %></span>
+          </span>
+          <%- include('_includes/poster', { movie, size: 'w342', eager: false }) %>
+          <span class="week-card__body">
+            <span class="eyebrow eyebrow--soon">Esce <%= cal.weekdayLong(info.release) %></span>
+            <span class="week-card__title"><%= movie.title %></span>
+            <span class="week-card__note"><%= info.end ? `Fino al ${cal.dateLong(info.end, false)}` : 'Fine programmazione non comunicata' %></span>
+          </span>
+        </a>
+      </li>
+      <% }) -%>
+    </ul>
+    <% } else { -%>
+    <div class="empty-panel">
+      <div>
+        <p class="empty-panel__title">Nessuna nuova uscita questa settimana.</p>
+        <% if (nextUpcoming) { -%>
+        <p class="empty-panel__text">La prossima è tra <%= cal.days(nextUpcoming.info.daysUntil) %>.</p>
+        <% } -%>
+      </div>
+      <% if (nextUpcoming) { -%>
+      <a class="next-link" href="<%= movieUrl(nextUpcoming.movie) %>">
+        <%- include('_includes/poster', { movie: nextUpcoming.movie, size: 'w342', eager: false }) %>
+        <span class="next-link__body">
+          <span class="next-link__title"><%= nextUpcoming.movie.title %></span>
+          <span class="next-link__date">dal <%= cal.dateWithWeekday(nextUpcoming.info.release) %></span>
+        </span>
+        <%- include('_includes/icon', { name: 'arrow-right' }) %>
+      </a>
+      <% } -%>
+    </div>
+    <% } -%>
+  </section>
+
+  <section class="section" id="programma" aria-labelledby="programma-title">
+    <div class="section__head">
+      <h2 class="section__title" id="programma-title">In programma</h2>
+      <p class="section__context">Date annunciate da distributori e stampa</p>
+    </div>
+
+    <% if (sections.months.length) { -%>
+    <% sections.months.forEach((group) => { -%>
+    <div class="month">
+      <h3 class="month__head">
+        <span class="month__name"><%= group.month %></span>
+        <span class="month__year"><%= group.year %></span>
+      </h3>
+      <ul class="month__list" role="list">
+        <% group.items.forEach(({ movie, info }) => { -%>
+        <li>
+          <a class="upcoming-card" href="<%= movieUrl(movie) %>">
+            <span class="upcoming-card__day" aria-hidden="true">
+              <span class="upcoming-card__weekday"><%= cal.weekdayShort(info.release) %></span>
+              <span class="upcoming-card__number"><%= cal.dayNumber(info.release) %></span>
+            </span>
+            <%- include('_includes/poster', { movie, size: 'w342', eager: false }) %>
+            <span class="upcoming-card__body">
+              <span class="upcoming-card__title"><%= movie.title %></span>
+              <span class="upcoming-card__range"><%= info.end ? cal.rangeLong(info.release, info.end) : `Dal ${cal.dateLong(info.release, false)}` %></span>
+              <span class="upcoming-card__meta"><%= cal.inDays(info.daysUntil) %><% if (info.daysInTheater) { %><span class="upcoming-card__length"> · <%= cal.days(info.daysInTheater) %> in sala</span><% } %></span>
+            </span>
+          </a>
+        </li>
+        <% }) -%>
+      </ul>
+    </div>
+    <% }) -%>
+    <% } else { -%>
+    <div class="empty-panel">
+      <p class="empty-panel__title">Nessuna uscita annunciata per ora.</p>
+    </div>
+    <% } -%>
+  </section>
+
 </main>
 
 <%- include('_includes/footer') %>

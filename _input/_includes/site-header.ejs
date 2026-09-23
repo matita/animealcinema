@@ -1,0 +1,23 @@
+<%
+  // Params: isHome (bool), sections (home only)
+-%>
+<header class="site-header<%= isHome ? ' site-header--home' : ' site-header--detail' %>">
+  <div class="site-header__inner wrap">
+    <% const brandTag = isHome ? 'h1' : 'div'; -%>
+    <<%= brandTag %> class="brand">
+      <a class="brand__link" href="<%= basePath %>/"<% if (!isHome) { %> aria-label="Anime al cinema, home"<% } %>>
+        <span class="brand__mark" aria-hidden="true">映</span>
+        <span class="brand__name"<% if (!isHome) { %> aria-hidden="true"<% } %>>Anime al cinema</span>
+      </a>
+    </<%= brandTag %>>
+    <% if (isHome) { -%>
+    <nav class="section-nav" aria-label="Sezioni">
+      <ul>
+        <li><a class="pill" href="#ora">In sala <span class="pill__count pill__count--accent"><%= sections.now.length %></span></a></li>
+        <li><a class="pill" href="#settimana">Prossimi 7 giorni <span class="pill__count"><%= sections.week.length %></span></a></li>
+        <li><a class="pill" href="#programma">In programma <span class="pill__count"><%= sections.upcoming.length %></span></a></li>
+      </ul>
+    </nav>
+    <% } -%>
+  </div>
+</header>
