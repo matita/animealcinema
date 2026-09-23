@@ -1,0 +1,12 @@
+<%
+  // Params: movie, size ('w342' | 'w500'), eager (bool)
+  const posterPath = movie.tmdbMovie?.poster_path;
+-%>
+<% if (posterPath) { -%>
+<img class="poster" src="<%= basePath %>/images/<%= size %><%= posterPath %>" alt="Locandina di <%= movie.title %>" width="<%= size === 'w500' ? 500 : 342 %>" height="<%= size === 'w500' ? 750 : 513 %>"<% if (!locals.eager) { %> loading="lazy"<% } %>>
+<% } else { -%>
+<div class="poster poster--missing" role="img" aria-label="Locandina di <%= movie.title %> non disponibile">
+  <span class="poster__note">Locandina non disponibile</span>
+  <span class="poster__title"><%= movie.title %></span>
+</div>
+<% } -%>

@@ -1,14 +1,20 @@
 import ejsPlugin from '@11ty/eleventy-plugin-ejs';
+import * as calendar from './_config/calendar.mjs';
 
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(ejsPlugin);
   eleventyConfig.addPassthroughCopy({
     '_input/images': '/images',
+    '_input/assets': '/assets',
   });
+  eleventyConfig.addWatchTarget('./_config/');
 
   // Add global data for base path
   eleventyConfig.addGlobalData('basePath', process.env.BASE_PATH || '');
   eleventyConfig.addGlobalData('fullUrl', process.env.FULL_URL || 'http://localhost:8080');
+
+  // Date and category helpers shared by index.ejs and movie.ejs
+  eleventyConfig.addGlobalData('cal', () => calendar);
 
   // Filter to get movies showing in the next two weeks
   eleventyConfig.addFilter('filterUpcomingMovies', (movies) => {
