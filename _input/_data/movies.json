@@ -4849,7 +4849,7 @@
       "vote_average": 0,
       "vote_count": 0
     },
-    "theaterReleaseDate": "2026-02-01",
+    "theaterReleaseDate": "2026-12-10",
     "alternativeTitles": [
       "Puella Magi Madoka Magica the Movie -Il Risveglio di Walpurgis-",
       "Puella Magi Madoka Magica the Movie – Il risveglio di Walpurgisnacht"
@@ -5309,28 +5309,7 @@
         "description": "Le prossime uscite   Federico Vascotto 13/07/2026          Dopo la storica vittoria dell’Oscar per i Migliori Effetti Visivi e il successo globale del precedente capitolo, il re dei mostri torna al cinema...",
         "publishedDate": "2026-07-13T05:21:45.000Z"
       }
-    ],
-    "tmdbMovie": {
-      "adult": false,
-      "backdrop_path": "/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg",
-      "genre_ids": [
-        878,
-        27,
-        28
-      ],
-      "id": 940721,
-      "title": "Godzilla Minus One",
-      "original_language": "ja",
-      "original_title": "ゴジラ-1.0",
-      "overview": "Dopo la Seconda guerra mondiale, il Giappone è stato ridotto in ginocchio e deve ripartire da zero. In questo contesto, Godzilla appare improvvisamente e fa precipitare il paese in uno stato ancora più negativo: è la situazione più disperata nella storia del Giappone.",
-      "popularity": 11.2058,
-      "poster_path": "/AhO2e2EWYYZk4zxxeynriCufixo.jpg",
-      "release_date": "2023-11-03",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.579,
-      "vote_count": 3235
-    }
+    ]
   },
   {
     "title": "Il castello invisibile",
