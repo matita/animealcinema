@@ -418,27 +418,6 @@
     ]
   },
   {
-    "title": "Godzilla Minus Zero",
-    "slug": "godzilla-minus-zero",
-    "lastSourceDate": "2026-07-13T05:21:45.000Z",
-    "theaterReleaseDate": "2026-11-05",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://www.animeclick.it/news/111168-godzilla-minus-zero-arriva-dal-5-novembre-nelle-sale-italiane",
-        "title": "Godzilla Minus Zero arriva dal 5 novembre nelle sale italiane",
-        "description": "Riportiamo il comunicato giunto in redazione sull'arrivo di Godzilla Minus Zero nelle sale italiane a partire dal 5 novembre.IL RE DEI MOSTRI TORNA DAL 5 NOVEMBRE AL CINEMADopo la storica vittoria dell’Oscar...",
-        "publishedDate": "2026-07-09T00:00:00.000Z"
-      },
-      {
-        "url": "https://www.mangaforever.net/godzilla-minus-zero-poster-e-data-di-uscita-del-sequel-in-italia/",
-        "title": "Godzilla Minus Zero: poster e data di uscita del sequel in Italia",
-        "description": "Le prossime uscite   Federico Vascotto 13/07/2026          Dopo la storica vittoria dell’Oscar per i Migliori Effetti Visivi e il successo globale del precedente capitolo, il re dei mostri torna al cinema...",
-        "publishedDate": "2026-07-13T05:21:45.000Z"
-      }
-    ]
-  },
-  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -4341,6 +4320,43 @@
     }
   },
   {
+    "title": "I racconti del giardino incantato",
+    "slug": "i-racconti-del-giardino-incantato",
+    "lastSourceDate": "2026-09-24T15:45:00.000Z",
+    "theaterReleaseDate": "2026-10-08",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://cinema.icrewplay.com/racconti-giardino-incantato-uscita/",
+        "title": "I racconti del giardino incantato: uscita, trama e trailer",
+        "description": "I racconti del giardino incantato arriva nei cinema italiani dall’8 ottobre 2026. Il film d’animazione in stop-motion dura 71 minuti, è distribuito da Trent Film in collaborazione con Cinema dei Piccoli e...",
+        "publishedDate": "2026-09-24T15:45:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/AupBUhnJEFedxF4vQ82LU9rOXDC.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        35
+      ],
+      "id": 587370,
+      "title": "I racconti del giardino incantato",
+      "original_language": "cs",
+      "original_title": "Pohádky po babičce",
+      "overview": "Quando Tom (4 anni), Susan (8 anni) e Derek (10 anni) fanno visita al nonno per la prima volta dopo la perdita dell’amatissima nonna, non trovano la stessa allegria che ricordavano. Ispirandosi alla nonna, Susan assume il ruolo di narratrice e crea racconti con elementi di mistero e magia per riportare la vitalità in famiglia.",
+      "popularity": 4.3964,
+      "poster_path": "/kQ6OfkhWIcxmvdfl0Zn3arseo5p.jpg",
+      "release_date": "2025-05-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.455,
+      "vote_count": 11
+    }
+  },
+  {
     "title": "Ni no Kuni",
     "slug": "ni-no-kuni",
     "lastSourceDate": "2025-02-22T10:00:00.000Z",
@@ -5309,6 +5325,48 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
+    }
+  },
+  {
+    "title": "Godzilla Minus Zero",
+    "slug": "godzilla-minus-zero",
+    "lastSourceDate": "2026-07-13T05:21:45.000Z",
+    "theaterReleaseDate": "2026-11-05",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111168-godzilla-minus-zero-arriva-dal-5-novembre-nelle-sale-italiane",
+        "title": "Godzilla Minus Zero arriva dal 5 novembre nelle sale italiane",
+        "description": "Riportiamo il comunicato giunto in redazione sull'arrivo di Godzilla Minus Zero nelle sale italiane a partire dal 5 novembre.IL RE DEI MOSTRI TORNA DAL 5 NOVEMBRE AL CINEMADopo la storica vittoria dell’Oscar...",
+        "publishedDate": "2026-07-09T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/godzilla-minus-zero-poster-e-data-di-uscita-del-sequel-in-italia/",
+        "title": "Godzilla Minus Zero: poster e data di uscita del sequel in Italia",
+        "description": "Le prossime uscite   Federico Vascotto 13/07/2026          Dopo la storica vittoria dell’Oscar per i Migliori Effetti Visivi e il successo globale del precedente capitolo, il re dei mostri torna al cinema...",
+        "publishedDate": "2026-07-13T05:21:45.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+      "genre_ids": [
+        878,
+        27,
+        28
+      ],
+      "id": 940721,
+      "title": "Godzilla Minus One",
+      "original_language": "ja",
+      "original_title": "ゴジラ-1.0",
+      "overview": "Dopo la Seconda guerra mondiale, il Giappone è stato ridotto in ginocchio e deve ripartire da zero. In questo contesto, Godzilla appare improvvisamente e fa precipitare il paese in uno stato ancora più negativo: è la situazione più disperata nella storia del Giappone.",
+      "popularity": 21.6811,
+      "poster_path": "/AhO2e2EWYYZk4zxxeynriCufixo.jpg",
+      "release_date": "2023-11-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 3436
     }
   },
   {
