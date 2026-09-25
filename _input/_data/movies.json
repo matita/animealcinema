@@ -3726,6 +3726,43 @@
     ]
   },
   {
+    "title": "Magic Knight Rayearth",
+    "slug": "magic-knight-rayearth",
+    "lastSourceDate": "2026-09-25T00:00:00.000Z",
+    "theaterReleaseDate": "2026-10-05",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111853-magic-knight-rayearth-i-primi-due-episodi-gratis-in-evento-speciale-al-cinema-a-roma",
+        "title": "Magic Knight Rayearth: i primi due episodi  gratis in evento speciale al cinema a Roma",
+        "description": "Crunchyroll ha annunciato a sorpresa che i primi due episodi di Magic Knight Rayearth, l'atteso nuovo adattamento animato del manga delle CLAMP, saranno trasmessi in anteprima come evento esclusivo per tutti...",
+        "publishedDate": "2026-09-25T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/cqcdWJyDe31hYyDipuyymskYxHA.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        14
+      ],
+      "id": 410839,
+      "title": "Rayearth",
+      "original_language": "ja",
+      "original_title": "レイアース",
+      "overview": "Quando il regno di Cephiro invade la Terra, tre ragazze (Hikaru, Umi e Fuu) vengono scelte per risvegliare spiriti mitici e proteggere il pianeta. Raccolta delle 3 miniserie OVA uscite tra il 25/07/1997 e il 24/11/1997.",
+      "popularity": 1.1239,
+      "poster_path": "/4Zo5vjLNCHGnTW9CrWvM27YXLLf.jpg",
+      "release_date": "1997-07-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 5
+    }
+  },
+  {
     "title": "Kill Bill: The Whole Bloody Affair",
     "slug": "kill-bill-the-whole-bloody-affair",
     "lastSourceDate": "2026-05-02T05:40:34.000Z",
