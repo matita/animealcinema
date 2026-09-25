@@ -5303,6 +5303,12 @@
         "url": "https://www.screenweek.it/witch-on-the-holy-night-nei-cinema-italiani-nel-2027/",
         "title": "Witch on the Holy Night nei cinema italiani nel 2027 | screenWEEK",
         "description": "Cinema Trailer &amp; Video    Sul grande schermo arriverà la visual novel cult di Type-Moon, grazie a Ufotable. Pubblicato il 17 settembre 2026 di Marlen Vazzoler    Ha debuttato online il primo trailer..."
+      },
+      {
+        "url": "https://www.akibagamers.it/25-09-2026/witch-on-the-holy-night-arriva-al-cinema-in-italia/",
+        "title": "Witch on the Holy Night arriva al cinema in Italia",
+        "description": "Crunchyroll ha annunciato l’acquisizione dei diritti e la data di uscita italiana per l’atteso film d’animazione Witch on the Holy Night (Mahoutsukai no Yoru). Realizzato dallo studio ufotable (già celebre...",
+        "publishedDate": "2026-09-25T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5325,7 +5331,8 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    }
+    },
+    "lastSourceDate": "2026-09-25T00:00:00.000Z"
   },
   {
     "title": "Godzilla Minus Zero",
