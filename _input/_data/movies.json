@@ -9385,7 +9385,8 @@
     "theaterReleaseDate": "2027-01-14",
     "theaterEndDate": "2027-01-20",
     "alternativeTitles": [
-      "Gintama the Movie – Yoshiwara in fiamme"
+      "Gintama the Movie – Yoshiwara in fiamme",
+      "Gintama The Movie 2026: Yoshiwara in Fiamme"
     ],
     "sources": [
       {
@@ -9417,6 +9418,12 @@
         "title": "Anime al cinema: arrivano in sala capolavori imperdibili - 5 Motivi",
         "description": "Dynit presenta Anime al Cinema, la nuova stagione cinematografica che celebrerà l’animazione giapponese con titoli mai visti prima sui grandi schermi italiani e film amatissimi dal pubblico. Una stagione che...",
         "publishedDate": "2026-09-17T09:49:12.000Z"
+      },
+      {
+        "url": "https://cinema.icrewplay.com/gintama-movie-2026-uscita-italia/",
+        "title": "Gintama The Movie 2026: uscita in Italia e Lucca",
+        "description": "Gintama The Movie 2026: Yoshiwara in Fiamme arriverà nei cinema italiani dal 14 al 20 gennaio 2027 con Dynit. Prima dell’uscita nazionale il film sarà presentato in anteprima italiana a Lucca Comics &amp;...",
+        "publishedDate": "2026-09-25T18:05:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -9440,7 +9447,10 @@
       "video": false,
       "vote_average": 8.9,
       "vote_count": 17
-    }
+    },
+    "aliases": [
+      "gintama-the-movie-2026-yoshiwara-in-fiamme"
+    ]
   },
   {
     "title": "JUJUTSU KAISEN: Esecuzione",
