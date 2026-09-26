@@ -3571,7 +3571,7 @@
   {
     "title": "Your Name",
     "slug": "your-name",
-    "lastSourceDate": "2026-09-17T09:49:12.000Z",
+    "lastSourceDate": "2026-09-25T17:59:56.000Z",
     "theaterReleaseDate": "2017-01-23",
     "theaterEndDate": "2017-03-31",
     "sources": [
@@ -3610,6 +3610,12 @@
         "title": "Anime al cinema: arrivano in sala capolavori imperdibili - 5 Motivi",
         "description": "Dynit presenta Anime al Cinema, la nuova stagione cinematografica che celebrerà l’animazione giapponese con titoli mai visti prima sui grandi schermi italiani e film amatissimi dal pubblico. Una stagione che...",
         "publishedDate": "2026-09-17T09:49:12.000Z"
+      },
+      {
+        "url": "https://informa-press.it/serie-tv-e-cinema-estranea/",
+        "title": "Serie tv e cinema, tutte le novità dell'ultimo periodo",
+        "description": "Benvenuti lettori, nasce una nuova rubrica all’interno di Informa Press. Parleremo di tutto ciò che riguarda Serie Tv e cinema e daremo le indiscrezioni e le ultime novità. Volete dei consigli sulle ultime...",
+        "publishedDate": "2026-09-25T17:59:56.000Z"
       }
     ],
     "tmdbMovie": {
@@ -9381,12 +9387,13 @@
   {
     "title": "Gintama the Movie - Yoshiwara in fiamme",
     "slug": "gintama-the-movie-yoshiwara-in-fiamme",
-    "lastSourceDate": "2026-09-25T18:05:00.000Z",
+    "lastSourceDate": "2026-09-26T07:45:31.000Z",
     "theaterReleaseDate": "2027-01-14",
     "theaterEndDate": "2027-01-20",
     "alternativeTitles": [
       "Gintama the Movie – Yoshiwara in fiamme",
-      "Gintama The Movie 2026: Yoshiwara in Fiamme"
+      "Gintama The Movie 2026: Yoshiwara in Fiamme",
+      "Gintama the Movie 2026: Yoshiwara in fiamme"
     ],
     "sources": [
       {
@@ -9424,6 +9431,12 @@
         "title": "Gintama The Movie 2026: uscita in Italia e Lucca",
         "description": "Gintama The Movie 2026: Yoshiwara in Fiamme arriverà nei cinema italiani dal 14 al 20 gennaio 2027 con Dynit. Prima dell’uscita nazionale il film sarà presentato in anteprima italiana a Lucca Comics &amp;...",
         "publishedDate": "2026-09-25T18:05:00.000Z"
+      },
+      {
+        "url": "https://pressview.it/gintama-the-movie-2026-yoshiwara-in-fiamme-lanteprima-italiana-a-lucca-comics-games/",
+        "title": "Gintama the Movie 2026: Yoshiwara in fiamme, l’anteprima italiana a Lucca Comics & Games",
+        "description": "Questo articolo può contenere link di affiliazione.Dynit ha annunciato l’arrivo di Gintama the Movie 2026: Yoshiwara in fiamme, che sarà presentato in anteprima italiana a Lucca Comics &amp; Games prima di...",
+        "publishedDate": "2026-09-26T07:45:31.000Z"
       }
     ],
     "tmdbMovie": {
