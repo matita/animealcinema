@@ -6883,7 +6883,7 @@
   {
     "title": "Look Back",
     "slug": "look-back",
-    "lastSourceDate": "2026-07-01T00:00:00.000Z",
+    "lastSourceDate": "2026-09-29T00:00:00.000Z",
     "theaterReleaseDate": "2027-01-21",
     "alternativeTitles": [],
     "sources": [
@@ -6892,6 +6892,12 @@
         "title": "Lucky Red svela il suo listino 26/27: da Kiki in 4k al live action di Look Back",
         "description": "Durante le giornate di Ciné 2026 a Riccione, l'Amministratore Delegato di Lucky Red, Andrea Occhipinti, ha svelato il ricchissimo listino della società fino a gennaio 2027. Accanto alla storica novità...",
         "publishedDate": "2026-07-01T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/111676-look-back-dopo-aver-incantato-venezia-nuovo-trailer-del-film-in-arrivo-al-cinema",
+        "title": "Look Back: dopo aver incantato Venezia, nuovo trailer del film in arrivo al cinema",
+        "description": "La stagione autunnale sta per iniziare, pertanto eccoci a fare un po' di ordine: di seguito troverete curiosità e i più recenti trailer relativi a serie TV, streaming e film al debutto. Look Back -...",
+        "publishedDate": "2026-09-29T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -9688,15 +9694,23 @@
   {
     "title": "Sheep in the Box",
     "slug": "sheep-in-the-box",
-    "lastSourceDate": "2026-08-27T10:42:00.000Z",
+    "lastSourceDate": "2026-09-29T00:00:00.000Z",
     "theaterReleaseDate": "2026-08-27",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Sheep in the box"
+    ],
     "sources": [
       {
         "url": "https://www.comingsoon.it/cinema/news/sheep-in-the-box-di-koreeda-l-amore-oltre-la-perdita-nell-era-dell/n230408/",
         "title": "Sheep in the Box di Koreeda, l'amore oltre la perdita nell'era dell'Intelligenza Artificiale",
         "description": "Con la consueta sensibilità e amore per i bambini e il loro coraggio, ma con un’ambientazione futuristica inconsueta, Hirokazu Koreeda racconta una storia sulla perdita e la forza dei sentimenti e dei legami familiari. Sheep in the Box è nei nostri cinema dal 27 agosto distribuito da Lucky Red e Bim Distribuzione.",
         "publishedDate": "2026-08-27T10:42:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/111676-look-back-dopo-aver-incantato-venezia-nuovo-trailer-del-film-in-arrivo-al-cinema",
+        "title": "Look Back: dopo aver incantato Venezia, nuovo trailer del film in arrivo al cinema",
+        "description": "La stagione autunnale sta per iniziare, pertanto eccoci a fare un po' di ordine: di seguito troverete curiosità e i più recenti trailer relativi a serie TV, streaming e film al debutto. Look Back -...",
+        "publishedDate": "2026-09-29T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
