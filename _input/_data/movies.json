@@ -6900,26 +6900,7 @@
         "publishedDate": "2026-09-29T00:00:00.000Z"
       }
     ],
-    "tmdbMovie": {
-      "adult": false,
-      "backdrop_path": "/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
-      "genre_ids": [
-        16,
-        18
-      ],
-      "id": 1244492,
-      "title": "Look Back",
-      "original_language": "ja",
-      "original_title": "ルックバック",
-      "overview": "Fujino, eccessivamente sicura di sé, e Kyomoto, chiusa in se stessa, non potrebbero essere più diverse, ma l'amore per il disegno manga unisce queste due ragazze di provincia, in una toccante storia di crescita e progresso.",
-      "popularity": 8.8135,
-      "poster_path": "/9GCNAcMo2EyEu1PCC8T0iQk2mm3.jpg",
-      "release_date": "2024-06-28",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.149,
-      "vote_count": 582
-    }
+    "tmdbId": 1591675
   },
   {
     "title": "Baki Hanma VS Kengan Ashura",

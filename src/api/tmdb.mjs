@@ -17,6 +17,18 @@ export const searchMovie = async (title) => {
   return response?.data?.results?.sort((a, b) => b.popularity - a.popularity)?.[0];
 }
 
+export const getMovie = async (id) => {
+  const response = await axios.get(`https://api.themoviedb.org/3/movie/${id}`, {
+    headers: {
+      Accept: 'application/json',
+      Authorization: `Bearer ${process.env.TMDB_API_KEY}`
+    },
+    params: { language: 'it-IT' },
+  });
+  const { genres, ...movie } = response.data;
+  return { ...movie, genre_ids: genres?.map(g => g.id) };
+}
+
 /**
  * 
  * @param {string} fileName 
