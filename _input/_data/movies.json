@@ -6881,28 +6881,6 @@
     }
   },
   {
-    "title": "Look Back",
-    "slug": "look-back",
-    "lastSourceDate": "2026-09-29T00:00:00.000Z",
-    "theaterReleaseDate": "2027-01-21",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://www.animeclick.it/news/111086-lucky-red-svela-il-suo-listino-2627-da-kiki-in-4k-al-live-action-di-look-back%25c2%25a0",
-        "title": "Lucky Red svela il suo listino 26/27: da Kiki in 4k al live action di Look Back",
-        "description": "Durante le giornate di Ciné 2026 a Riccione, l'Amministratore Delegato di Lucky Red, Andrea Occhipinti, ha svelato il ricchissimo listino della società fino a gennaio 2027. Accanto alla storica novità...",
-        "publishedDate": "2026-07-01T00:00:00.000Z"
-      },
-      {
-        "url": "https://www.animeclick.it/news/111676-look-back-dopo-aver-incantato-venezia-nuovo-trailer-del-film-in-arrivo-al-cinema",
-        "title": "Look Back: dopo aver incantato Venezia, nuovo trailer del film in arrivo al cinema",
-        "description": "La stagione autunnale sta per iniziare, pertanto eccoci a fare un po' di ordine: di seguito troverete curiosità e i più recenti trailer relativi a serie TV, streaming e film al debutto. Look Back -...",
-        "publishedDate": "2026-09-29T00:00:00.000Z"
-      }
-    ],
-    "tmdbId": 1591675
-  },
-  {
     "title": "Baki Hanma VS Kengan Ashura",
     "slug": "baki-hanma-vs-kengan-ashura",
     "lastSourceDate": "2025-02-22T10:00:00.000Z",
@@ -9713,6 +9691,85 @@
       "video": false,
       "vote_average": 6.091,
       "vote_count": 11
+    }
+  },
+  {
+    "title": "Look Back",
+    "slug": "look-back",
+    "lastSourceDate": "2026-09-29T00:00:00.000Z",
+    "theaterReleaseDate": "2027-01-21",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111086-lucky-red-svela-il-suo-listino-2627-da-kiki-in-4k-al-live-action-di-look-back%25c2%25a0",
+        "title": "Lucky Red svela il suo listino 26/27: da Kiki in 4k al live action di Look Back",
+        "description": "Durante le giornate di Ciné 2026 a Riccione, l'Amministratore Delegato di Lucky Red, Andrea Occhipinti, ha svelato il ricchissimo listino della società fino a gennaio 2027. Accanto alla storica novità...",
+        "publishedDate": "2026-07-01T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.animeclick.it/news/111676-look-back-dopo-aver-incantato-venezia-nuovo-trailer-del-film-in-arrivo-al-cinema",
+        "title": "Look Back: dopo aver incantato Venezia, nuovo trailer del film in arrivo al cinema",
+        "description": "La stagione autunnale sta per iniziare, pertanto eccoci a fare un po' di ordine: di seguito troverete curiosità e i più recenti trailer relativi a serie TV, streaming e film al debutto. Look Back -...",
+        "publishedDate": "2026-09-29T00:00:00.000Z"
+      }
+    ],
+    "tmdbId": 1591675,
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/ceOdqFmZy5kKImbGThuDHuifGpm.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "homepage": "",
+      "id": 1591675,
+      "imdb_id": "tt39094466",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "ルックバック",
+      "overview": "Fujino, adolescente determinata e piena di talento, sogna di diventare una mangaka. Kyomoto, schiva e solitaria, vive quasi sempre chiusa nella sua stanza, dedicando ogni istante al disegno. Unite dalla stessa passione, le due ragazze, cresciute in una piccola città, inseguono per tredici anni il sogno di diventare autrici di manga.",
+      "popularity": 4.6628,
+      "poster_path": "/6eXDHPwPDTZTgf4wuGIP49bxxJV.jpg",
+      "production_companies": [
+        {
+          "id": 270836,
+          "logo_path": "/zhyffn7bIs0DT0MiMC3NuF4lJBA.png",
+          "name": "K2 Pictures",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2918,
+          "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+          "name": "Shueisha",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2026-09-11",
+      "revenue": 929800,
+      "runtime": 100,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "Look Back",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 12,
+      "genre_ids": [
+        18
+      ]
     }
   },
   {
