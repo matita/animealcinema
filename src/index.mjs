@@ -5,7 +5,7 @@ import * as cheerio from 'cheerio';
 import * as htmlparser2 from 'htmlparser2';
 import * as fs from 'fs/promises';
 import slug from 'slug';
-import { getImagePath, searchMovie } from './api/tmdb.mjs';
+import { getImagePath, getMovie, searchMovie } from './api/tmdb.mjs';
 import { formatDate, formatTime, download } from './utils.mjs';
 import path from 'path';
 
@@ -318,12 +318,17 @@ for (const source of sources) {
   }
 
   for (const movie of Object.values(existingMovies)) {
+    if (movie.tmdbId && movie.tmdbMovie?.id !== movie.tmdbId) {
+      console.log(`Fetching TMDB movie ${movie.tmdbId} for '${movie.title}' (pinned id)`);
+      movie.tmdbMovie = undefined;
+    }
+
     if (movie.tmdbMovie) {
       continue;
     }
   
     console.log(`Searching TMDB for '${movie.title}'`);
-    const tmdbMovie = await searchMovie(movie.title);
+    const tmdbMovie = movie.tmdbId ? await getMovie(movie.tmdbId) : await searchMovie(movie.title);
     if (!tmdbMovie) {
       console.log('No match found on TMDB');
       continue;
