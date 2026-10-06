@@ -3007,6 +3007,123 @@
     }
   },
   {
+    "title": "Magic Knight Rayearth",
+    "slug": "magic-knight-rayearth",
+    "lastSourceDate": "2026-09-25T00:00:00.000Z",
+    "theaterReleaseDate": "2026-10-05",
+    "theaterEndDate": "2026-10-05",
+    "tmdbId": 303272,
+    "tmdbType": "tv",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.animeclick.it/news/111853-magic-knight-rayearth-i-primi-due-episodi-gratis-in-evento-speciale-al-cinema-a-roma",
+        "title": "Magic Knight Rayearth: i primi due episodi  gratis in evento speciale al cinema a Roma",
+        "description": "Crunchyroll ha annunciato a sorpresa che i primi due episodi di Magic Knight Rayearth, l'atteso nuovo adattamento animato del manga delle CLAMP, saranno trasmessi in anteprima come evento esclusivo per tutti...",
+        "publishedDate": "2026-09-25T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/f6MmtdKyrmUt2iHfhEKO6DgrL4a.jpg",
+      "created_by": [],
+      "episode_run_time": [],
+      "homepage": "https://rayearth-anime.com",
+      "id": 303272,
+      "in_production": true,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": null,
+      "last_episode_to_air": null,
+      "next_episode_to_air": {
+        "id": 6609360,
+        "name": "Episodio 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-10-07",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 303272,
+        "still_path": "/KJgzniF7wPLDRecKMBrKhKjtuk.jpg"
+      },
+      "networks": [
+        {
+          "id": 103,
+          "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+          "name": "tv asahi",
+          "origin_country": "JP"
+        }
+      ],
+      "number_of_episodes": 1,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "overview": "",
+      "popularity": 4.25,
+      "poster_path": "/k8TF2vhulNFQj2A1dqH001kuoHn.jpg",
+      "production_companies": [
+        {
+          "id": 171872,
+          "logo_path": "/2aHNRMPYLETYEw1ZW8h9yxSVOVi.png",
+          "name": "E&H production",
+          "origin_country": "JP"
+        },
+        {
+          "id": 172244,
+          "logo_path": "/lz8CdepJJMQiZZ9Cf192IZkGNAG.png",
+          "name": "UNLIMITED PRODUCE by TMS",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2026-10-07",
+          "episode_count": 1,
+          "id": 480464,
+          "name": "Stagione 1",
+          "overview": "",
+          "poster_path": "/goewnVVpG2EWKTPqapxfQBLlegp.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0,
+      "title": "魔法騎士レイアース",
+      "original_title": "魔法騎士レイアース",
+      "release_date": "2026-10-07",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ]
+    }
+  },
+  {
     "title": "The Boy and the Beast",
     "slug": "the-boy-and-the-beast",
     "lastSourceDate": "2026-03-31T00:00:00.000Z",
@@ -3730,46 +3847,6 @@
       "lattacco-dei-giganti-il-film-parte-1-larco-e-la-freccia",
       "parte-1-larco-e-la-freccia-cremisi"
     ]
-  },
-  {
-    "title": "Magic Knight Rayearth",
-    "slug": "magic-knight-rayearth",
-    "lastSourceDate": "2026-09-25T00:00:00.000Z",
-    "theaterReleaseDate": "2026-10-05",
-    "theaterEndDate": "2026-10-05",
-    "tmdbId": 303272,
-    "tmdbType": "tv",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://www.animeclick.it/news/111853-magic-knight-rayearth-i-primi-due-episodi-gratis-in-evento-speciale-al-cinema-a-roma",
-        "title": "Magic Knight Rayearth: i primi due episodi  gratis in evento speciale al cinema a Roma",
-        "description": "Crunchyroll ha annunciato a sorpresa che i primi due episodi di Magic Knight Rayearth, l'atteso nuovo adattamento animato del manga delle CLAMP, saranno trasmessi in anteprima come evento esclusivo per tutti...",
-        "publishedDate": "2026-09-25T00:00:00.000Z"
-      }
-    ],
-    "tmdbMovie": {
-      "adult": false,
-      "backdrop_path": "/cqcdWJyDe31hYyDipuyymskYxHA.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        14
-      ],
-      "id": 410839,
-      "title": "Rayearth",
-      "original_language": "ja",
-      "original_title": "レイアース",
-      "overview": "Quando il regno di Cephiro invade la Terra, tre ragazze (Hikaru, Umi e Fuu) vengono scelte per risvegliare spiriti mitici e proteggere il pianeta. Raccolta delle 3 miniserie OVA uscite tra il 25/07/1997 e il 24/11/1997.",
-      "popularity": 1.1239,
-      "poster_path": "/4Zo5vjLNCHGnTW9CrWvM27YXLLf.jpg",
-      "release_date": "1997-07-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.8,
-      "vote_count": 5
-    }
   },
   {
     "title": "Kill Bill: The Whole Bloody Affair",
