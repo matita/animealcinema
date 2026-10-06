@@ -3737,6 +3737,8 @@
     "lastSourceDate": "2026-09-25T00:00:00.000Z",
     "theaterReleaseDate": "2026-10-05",
     "theaterEndDate": "2026-10-05",
+    "tmdbId": 303272,
+    "tmdbType": "tv",
     "alternativeTitles": [],
     "sources": [
       {

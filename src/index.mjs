@@ -5,7 +5,7 @@ import * as cheerio from 'cheerio';
 import * as htmlparser2 from 'htmlparser2';
 import * as fs from 'fs/promises';
 import slug from 'slug';
-import { getImagePath, getMovie, searchMovie } from './api/tmdb.mjs';
+import { getImagePath, getMovie, getTv, searchMovie } from './api/tmdb.mjs';
 import { formatDate, formatTime, download } from './utils.mjs';
 import path from 'path';
 
@@ -328,7 +328,7 @@ for (const source of sources) {
     }
   
     console.log(`Searching TMDB for '${movie.title}'`);
-    const tmdbMovie = movie.tmdbId ? await getMovie(movie.tmdbId) : await searchMovie(movie.title);
+    const tmdbMovie = movie.tmdbId ? await (movie.tmdbType === 'tv' ? getTv : getMovie)(movie.tmdbId) : await searchMovie(movie.title);
     if (!tmdbMovie) {
       console.log('No match found on TMDB');
       continue;

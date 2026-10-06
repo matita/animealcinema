@@ -29,6 +29,24 @@ export const getMovie = async (id) => {
   return { ...movie, genre_ids: genres?.map(g => g.id) };
 }
 
+export const getTv = async (id) => {
+  const response = await axios.get(`https://api.themoviedb.org/3/tv/${id}`, {
+    headers: {
+      Accept: 'application/json',
+      Authorization: `Bearer ${process.env.TMDB_API_KEY}`
+    },
+    params: { language: 'it-IT' },
+  });
+  const { genres, name, original_name, first_air_date, ...tv } = response.data;
+  return {
+    ...tv,
+    title: name,
+    original_title: original_name,
+    release_date: first_air_date,
+    genre_ids: genres?.map(g => g.id),
+  };
+}
+
 /**
  * 
  * @param {string} fileName 
