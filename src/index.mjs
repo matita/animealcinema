@@ -132,8 +132,14 @@ async function extractAnimeMovies(link, pubDate) {
   }
 }
 
+// Slugs of titles that are not Japanese anime and must never be added
+const EXCLUDED_SLUGS = ['i-racconti-del-giardino-incantato'];
+
 function processMovie(movie, fromArticle, existingMovies) {
   const movieSlug = slug(movie.title);
+  if (EXCLUDED_SLUGS.includes(movieSlug)) {
+    return;
+  }
   const existingMovie = existingMovies[movieSlug] || Object.values(existingMovies).find((m) => m.aliases?.includes(movieSlug));
   const finalSlug = existingMovie?.slug ?? movieSlug;
   if (existingMovie?.lastSourceDate >= fromArticle.publishedDate) {
