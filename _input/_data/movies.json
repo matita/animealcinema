@@ -408,7 +408,28 @@
         "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione in tutto il mondo permessa dalle piattaforme streaming e attivamente spinta dallo...",
         "publishedDate": "2026-10-07T00:00:00.000Z"
       }
-    ]
+    ],
+    "tmdbId": 372058,
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 372058,
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "overview": "Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell’arte o dell’architettura. Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai visitato. Ma quale sarà il segreto che si cela dietro questi strani sogni incrociati?",
+      "popularity": 14.9952,
+      "poster_path": "/8cFxeflG3pVRJcy339HwImTOUlc.jpg",
+      "release_date": "2016-08-26",
+      "title": "Your Name.",
+      "video": false,
+      "vote_average": 8.479,
+      "vote_count": 11988
+    }
   },
   {
     "title": "Shin Gekijōban Keroro Gunsō: Fukkatsu Shite Sokkou Chikyū Metsubō no Kiki de Arimasu!",
@@ -4482,43 +4503,6 @@
       "video": false,
       "vote_average": 7.997,
       "vote_count": 2481
-    }
-  },
-  {
-    "title": "I racconti del giardino incantato",
-    "slug": "i-racconti-del-giardino-incantato",
-    "lastSourceDate": "2026-09-24T15:45:00.000Z",
-    "theaterReleaseDate": "2026-10-08",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://cinema.icrewplay.com/racconti-giardino-incantato-uscita/",
-        "title": "I racconti del giardino incantato: uscita, trama e trailer",
-        "description": "I racconti del giardino incantato arriva nei cinema italiani dall’8 ottobre 2026. Il film d’animazione in stop-motion dura 71 minuti, è distribuito da Trent Film in collaborazione con Cinema dei Piccoli e...",
-        "publishedDate": "2026-09-24T15:45:00.000Z"
-      }
-    ],
-    "tmdbMovie": {
-      "adult": false,
-      "backdrop_path": "/AupBUhnJEFedxF4vQ82LU9rOXDC.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        14,
-        35
-      ],
-      "id": 587370,
-      "title": "I racconti del giardino incantato",
-      "original_language": "cs",
-      "original_title": "Pohádky po babičce",
-      "overview": "Quando Tom (4 anni), Susan (8 anni) e Derek (10 anni) fanno visita al nonno per la prima volta dopo la perdita dell’amatissima nonna, non trovano la stessa allegria che ricordavano. Ispirandosi alla nonna, Susan assume il ruolo di narratrice e crea racconti con elementi di mistero e magia per riportare la vitalità in famiglia.",
-      "popularity": 4.3964,
-      "poster_path": "/kQ6OfkhWIcxmvdfl0Zn3arseo5p.jpg",
-      "release_date": "2025-05-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.455,
-      "vote_count": 11
     }
   },
   {

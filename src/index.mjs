@@ -132,8 +132,14 @@ async function extractAnimeMovies(link, pubDate) {
   }
 }
 
+// Slugs of titles that are not Japanese anime and must never be added
+const EXCLUDED_SLUGS = ['i-racconti-del-giardino-incantato'];
+
 function processMovie(movie, fromArticle, existingMovies) {
   const movieSlug = slug(movie.title);
+  if (EXCLUDED_SLUGS.includes(movieSlug)) {
+    return;
+  }
   const existingMovie = existingMovies[movieSlug] || Object.values(existingMovies).find((m) => m.aliases?.includes(movieSlug));
   const finalSlug = existingMovie?.slug ?? movieSlug;
   if (existingMovie?.lastSourceDate >= fromArticle.publishedDate) {
@@ -237,17 +243,17 @@ function mergeMoviesByTmdbId(existingMovies) {
         otherMovie.aliases.forEach(a => allAliases.add(a));
       }
 
-      // Use the most recent release/end dates
-      if (otherMovie.theaterReleaseDate) {
-        if (!baseMovie.theaterReleaseDate || otherMovie.theaterReleaseDate < baseMovie.theaterReleaseDate) {
-          baseMovie.theaterReleaseDate = otherMovie.theaterReleaseDate;
-        }
-      }
-      if (otherMovie.theaterEndDate) {
-        if (!baseMovie.theaterEndDate || otherMovie.theaterEndDate > baseMovie.theaterEndDate) {
-          baseMovie.theaterEndDate = otherMovie.theaterEndDate;
-        }
-      }
+    }
+
+    // Re-releases share the TMDB id with the original run: use the dates of the
+    // latest run (release and end date taken together from the same entry)
+    const latestRun = movieGroup
+      .map(({ movie }) => movie)
+      .filter((m) => m.theaterReleaseDate || m.theaterEndDate)
+      .sort((a, b) => (b.theaterReleaseDate ?? b.theaterEndDate).localeCompare(a.theaterReleaseDate ?? a.theaterEndDate))[0];
+    if (latestRun) {
+      baseMovie.theaterReleaseDate = latestRun.theaterReleaseDate;
+      baseMovie.theaterEndDate = latestRun.theaterEndDate;
     }
 
     // Remove the base title from alternative titles
