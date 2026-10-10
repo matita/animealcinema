@@ -402,22 +402,6 @@
     ]
   },
   {
-    "title": "Puella Magi Madoka Magica il film -il risveglio di Walpurgis-",
-    "slug": "puella-magi-madoka-magica-il-film-il-risveglio-di-walpurgis",
-    "lastSourceDate": "2026-10-07T00:00:00.000Z",
-    "theaterReleaseDate": "2026-12-10",
-    "theaterEndDate": "2026-12-16",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://www.animeclick.it/news/111128-anime-al-cinema-estate-record-per-le-sale-ma-non-per-lanimazione-giapponese",
-        "title": "Anime al cinema: estate record per le sale, ma non per l'animazione giapponese",
-        "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione in tutto il mondo permessa dalle piattaforme streaming e attivamente spinta dallo...",
-        "publishedDate": "2026-10-07T00:00:00.000Z"
-      }
-    ]
-  },
-  {
     "title": "Metropolis",
     "slug": "metropolis",
     "lastSourceDate": "2099-03-31T00:00:00.000Z",
@@ -5017,7 +5001,8 @@
     "theaterEndDate": "2026-12-16",
     "aliases": [
       "puella-magi-madoka-magica-the-movie-il-risveglio-di-walpurgis",
-      "puella-magi-madoka-magica-the-movie-il-risveglio-di-walpurgisnacht"
+      "puella-magi-madoka-magica-the-movie-il-risveglio-di-walpurgisnacht",
+      "puella-magi-madoka-magica-il-film-il-risveglio-di-walpurgis"
     ]
   },
   {
