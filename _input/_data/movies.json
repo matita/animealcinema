@@ -848,6 +848,41 @@
     }
   },
   {
+    "title": "L'impero dei Sensi",
+    "slug": "limpero-dei-sensi",
+    "lastSourceDate": "2026-10-13T16:39:18.000Z",
+    "theaterReleaseDate": "2026-11-09",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.mondojapan.net/al-cinema-limpero-dei-sensi-il-9-novembre-in-versione-restaurata/",
+        "title": "Al cinema \"L'IMPERO DEI SENSI\" il 9 Novembre in versione restaurata. - Mondo Japan",
+        "description": "DAL 9 NOVEMBRE SARÀ DISTRIBUITA PER LA PRIMA VOLTA AL CINEMA IN ITALIA LA VERSIONE INTEGRALE RESTAURATA de L’IMPERO DEI SENSI (Ai no korīda) di Nagisa Ōshima SVELTATO IL POSTER DEL 50° ANNIVERSARIO CG...",
+        "publishedDate": "2026-10-13T16:39:18.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/g3L6tOvJIRWSkxnhmoEW1SKEvW3.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 5879,
+      "title": "Ecco l'impero dei sensi",
+      "original_language": "ja",
+      "original_title": "愛のコリーダ",
+      "overview": "Tokyo, 1936. Il legame tra la giovane cameriera Abe Sada e Kichi, il proprietario della pensione presso cui presta servizio, è fatto di un amore totalmente dominato dai sensi. La relazione parte dall’attrazione reciproca, si evolve attraverso l’estasi sensuale per precipitare, nel finale, in un baratro erotico.",
+      "popularity": 13.1926,
+      "poster_path": "/7M0TLtiVRsU4dETKezolTW62eo4.jpg",
+      "release_date": "1976-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 764
+    }
+  },
+  {
     "title": "Il mio vicino Totoro",
     "slug": "il-mio-vicino-totoro",
     "lastSourceDate": "2026-04-24T14:00:30.000Z",
@@ -1707,6 +1742,43 @@
       "video": false,
       "vote_average": 7.837,
       "vote_count": 4610
+    }
+  },
+  {
+    "title": "Ken il Guerriero – Il film",
+    "slug": "ken-il-guerriero-il-film",
+    "lastSourceDate": "2026-10-14T13:12:00.000Z",
+    "theaterReleaseDate": "2026-11-30",
+    "theaterEndDate": "2026-12-02",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.lostrillone.tv/news/cultura/504488/ken-il-guerriero-torna-al-cinema-date-e-biglietti.html",
+        "title": "Ken il Guerriero torna al cinema: date e biglietti",
+        "description": "«Sei già morto». Una frase diventata leggendaria, un protagonista entrato nella storia dell'animazione giapponese e un universo post-apocalittico che ha conquistato intere generazioni. Ken il Guerriero torna...",
+        "publishedDate": "2026-10-14T13:12:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878
+      ],
+      "id": 19877,
+      "title": "Ken il guerriero - Il film",
+      "original_language": "ja",
+      "original_title": "北斗の拳",
+      "overview": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
+      "popularity": 2.5818,
+      "poster_path": "/rt7QGQ5bkf7fU7E0iHIJmoJbAen.jpg",
+      "release_date": "1986-03-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 197
     }
   },
   {
