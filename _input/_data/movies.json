@@ -1747,16 +1747,24 @@
   {
     "title": "Ken il Guerriero – Il film",
     "slug": "ken-il-guerriero-il-film",
-    "lastSourceDate": "2026-10-14T13:12:00.000Z",
+    "lastSourceDate": "2026-10-14T13:12:52.000Z",
     "theaterReleaseDate": "2026-11-30",
     "theaterEndDate": "2026-12-02",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Ken il Guerriero – Il Film"
+    ],
     "sources": [
       {
         "url": "https://www.lostrillone.tv/news/cultura/504488/ken-il-guerriero-torna-al-cinema-date-e-biglietti.html",
         "title": "Ken il Guerriero torna al cinema: date e biglietti",
         "description": "«Sei già morto». Una frase diventata leggendaria, un protagonista entrato nella storia dell'animazione giapponese e un universo post-apocalittico che ha conquistato intere generazioni. Ken il Guerriero torna...",
         "publishedDate": "2026-10-14T13:12:00.000Z"
+      },
+      {
+        "url": "https://www.universalmovies.it/ken-il-guerriero-il-film-cinema-nexo/",
+        "title": "Ken il Guerriero - Il Film al cinema rimasterizzato in 4K",
+        "description": "I grandi classici dell’animazione giapponese si preparano a riconquistare il grande schermo. Nell’ambito del progetto Nexo Studios Anime al Cinema, Nexo Studios e Yamato Video hanno annunciato il ritorno in...",
+        "publishedDate": "2026-10-14T09:59:38.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5001,7 +5009,7 @@
   {
     "title": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising",
     "slug": "puella-magi-madoka-magica-the-movie-walpurgisnacht-rising",
-    "lastSourceDate": "2026-09-17T09:49:12.000Z",
+    "lastSourceDate": "2026-10-14T19:05:47.000Z",
     "sources": [
       {
         "url": "https://www.animeclick.it/news/107490-dynit-madoka-magica-walpurgisnacht-rising-arrivera-al-cinema-in-italia",
@@ -5050,6 +5058,12 @@
         "title": "Anime al cinema: arrivano in sala capolavori imperdibili - 5 Motivi",
         "description": "Dynit presenta Anime al Cinema, la nuova stagione cinematografica che celebrerà l’animazione giapponese con titoli mai visti prima sui grandi schermi italiani e film amatissimi dal pubblico. Una stagione che...",
         "publishedDate": "2026-09-17T09:49:12.000Z"
+      },
+      {
+        "url": "https://www.bestmovie.it/news/puella-magi-madoka-magica-il-nuovo-film-anime-in-anteprima-a-lucca-comics-games-2026/979183/",
+        "title": "Puella Magi Madoka Magica, il nuovo film anime in anteprima a Lucca Comics & Games 2026",
+        "description": "Puella Magi Madoka Magica, il nuovo film anime in anteprima a Lucca Comics &amp; Games 2026 \t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\tPer i fan in attesa del nuovo lungometraggio intitolato \"Il risveglio di Walpurgis\" ci...",
+        "publishedDate": "2026-10-14T19:05:47.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5076,7 +5090,8 @@
     "theaterReleaseDate": "2026-12-10",
     "alternativeTitles": [
       "Puella Magi Madoka Magica the Movie -Il Risveglio di Walpurgis-",
-      "Puella Magi Madoka Magica the Movie – Il risveglio di Walpurgisnacht"
+      "Puella Magi Madoka Magica the Movie – Il risveglio di Walpurgisnacht",
+      "Puella Magi Madoka Magica The Movie – Il risveglio di Walpurgis"
     ],
     "theaterEndDate": "2026-12-16",
     "aliases": [
