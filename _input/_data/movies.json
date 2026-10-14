@@ -1655,10 +1655,12 @@
   {
     "title": "Kiki - Consegne a domicilio",
     "slug": "kiki-consegne-a-domicilio",
-    "lastSourceDate": "2026-10-07T00:00:00.000Z",
+    "lastSourceDate": "2026-10-14T06:19:29.000Z",
     "theaterReleaseDate": "2026-11-19",
     "theaterEndDate": "2026-11-25",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Kiki – Consegne a domicilio"
+    ],
     "sources": [
       {
         "url": "https://www.animeclick.it/news/111086-lucky-red-svela-il-suo-listino-2627-da-kiki-in-4k-al-live-action-di-look-back%25c2%25a0",
@@ -1677,6 +1679,12 @@
         "title": "Anime al cinema: estate record per le sale, ma non per l'animazione giapponese",
         "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione in tutto il mondo permessa dalle piattaforme streaming e attivamente spinta dallo...",
         "publishedDate": "2026-10-07T00:00:00.000Z"
+      },
+      {
+        "url": "https://anime.icrewplay.com/kiki-cinema-4k-italia-2026-data-doppiaggio/",
+        "title": "Kiki in 4K al cinema: data italiana e nuovo doppiaggio",
+        "description": "Kiki – Consegne a domicilio torna nei cinema italiani in versione 4K: il listino ufficiale di Lucky Red indica un evento dal 19 novembre 2026 per una settimana. Alcune comunicazioni riprese il 13 ottobre...",
+        "publishedDate": "2026-10-14T06:19:29.000Z"
       }
     ],
     "tmdbMovie": {
