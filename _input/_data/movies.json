@@ -1752,7 +1752,8 @@
     "theaterEndDate": "2026-12-02",
     "alternativeTitles": [
       "Ken il Guerriero – Il Film",
-      "Ken il Guerriero – Il Film (Fist of the North Star)"
+      "Ken il Guerriero – Il Film (Fist of the North Star)",
+      "Hokuto no Ken (Ken il Guerriero – Il Film)"
     ],
     "sources": [
       {
@@ -1790,7 +1791,8 @@
       "vote_count": 197
     },
     "aliases": [
-      "ken-il-guerriero-il-film-fist-of-the-north-star"
+      "ken-il-guerriero-il-film-fist-of-the-north-star",
+      "hokuto-no-ken-ken-il-guerriero-il-film"
     ]
   },
   {
@@ -9555,7 +9557,7 @@
   {
     "title": "Gintama the Movie - Yoshiwara in fiamme",
     "slug": "gintama-the-movie-yoshiwara-in-fiamme",
-    "lastSourceDate": "2026-10-13T14:43:41.000Z",
+    "lastSourceDate": "2026-10-15T09:10:59.000Z",
     "theaterReleaseDate": "2027-01-14",
     "theaterEndDate": "2027-01-20",
     "alternativeTitles": [
@@ -9617,6 +9619,12 @@
         "title": "Gintama The Movie 2026: Yoshiwara in fiamme – in anteprima a Lucca Comics e dal 14 al 20 gennaio al cinema",
         "description": "Dynit è orgogliosa di rilasciare il poster italiano di Gintama the Movie 2026:Yoshiwara in fiamme, che riunisce tutti i personaggi più amati dell’anime. Il filmsarà in anteprima italiana a Lucca Comics & Games, nel programma dell’AreaMovie a cura di QMI, e arriverà poi in tutte le sale dal 14 al",
         "publishedDate": "2026-10-13T14:43:41.000Z"
+      },
+      {
+        "url": "https://www.likeinamovie.it/2026/10/15/gintama-movie-2026-yoshiwara-in-fiamme-cinema/",
+        "title": "“Gintama”, Yoshiwara in fiamme al cinema dal 14 gennaio - Like in a Movie",
+        "description": "Edo, Giappone. Gli alieni hanno invaso il paese, i samurai hanno perso il diritto di portare la spada e un ex guerriero dai capelli argentati tira avanti accettando lavoretti di ogni genere. Questa è la...",
+        "publishedDate": "2026-10-15T09:10:59.000Z"
       }
     ],
     "tmdbMovie": {
