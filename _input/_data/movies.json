@@ -1747,13 +1747,14 @@
   {
     "title": "Ken il Guerriero – Il film",
     "slug": "ken-il-guerriero-il-film",
-    "lastSourceDate": "2026-10-14T13:12:00.000Z",
+    "lastSourceDate": "2026-10-15T08:00:24.000Z",
     "theaterReleaseDate": "2026-11-30",
     "theaterEndDate": "2026-12-02",
     "alternativeTitles": [
       "Ken il Guerriero – Il Film",
       "Ken il Guerriero – Il Film (Fist of the North Star)",
-      "Hokuto no Ken (Ken il Guerriero – Il Film)"
+      "Hokuto no Ken (Ken il Guerriero – Il Film)",
+      "KEN IL GUERRIERO – IL FILM"
     ],
     "sources": [
       {
@@ -1767,6 +1768,12 @@
         "title": "Ken il Guerriero - Il Film al cinema rimasterizzato in 4K",
         "description": "I grandi classici dell’animazione giapponese si preparano a riconquistare il grande schermo. Nell’ambito del progetto Nexo Studios Anime al Cinema, Nexo Studios e Yamato Video hanno annunciato il ritorno in...",
         "publishedDate": "2026-10-14T09:59:38.000Z"
+      },
+      {
+        "url": "https://www.mondojapan.net/ken-il-guerriero-il-film-torna-al-cinema-a-40-anni-dalluscita-30-novembre-1-e-2-dicembre/",
+        "title": "\"Ken il Guerriero - il film\" torna al cinema a 40 anni dall'uscita: 30 novembre, 1 e 2 dicembre - Mondo Japan",
+        "description": "Un’epica dell’animazione destinata all’immortalità. Asian Movie Pulse DOPO AVER PORTATO IN SALA OLTRE 1 MILIONE DI SPETTATORI IL PROGETTO “NEXO STUDIOS ANIME AL CINEMA” TORNA SUL GRANDE SCHERMO CON “KEN IL...",
+        "publishedDate": "2026-10-15T08:00:24.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6407,6 +6414,42 @@
     }
   },
   {
+    "title": "Blue Lock",
+    "slug": "blue-lock",
+    "lastSourceDate": "2026-10-15T11:56:57.000Z",
+    "theaterReleaseDate": "2026-10-30",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.bestmovie.it/news/il-lucca-comics-games-ha-unenorme-sorpresa-per-i-fan-degli-anime-arriva-uno-dei-film-piu-attesi-dellanno/979252/",
+        "title": "Il Lucca Comics & Games ha un'enorme sorpresa per i fan degli anime: arriva uno dei film più attesi dell'anno!",
+        "description": "Il Lucca Comics &amp; Games ha un’enorme sorpresa per i fan degli anime: arriva uno dei film più attesi dell’anno! \t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\tMancano poche settimane all'inizio della manifestazione e il...",
+        "publishedDate": "2026-10-15T11:56:57.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/dJwclPgKPnV7hX3OSlvSBiCmuvB.jpg",
+      "genre_ids": [
+        16,
+        28,
+        18
+      ],
+      "id": 1104844,
+      "title": "Blue Lock Il Film - Episodio Nagi",
+      "original_language": "ja",
+      "original_title": "劇場版ブルーロック -EPISODE 凪-",
+      "overview": "Trecento studenti fanno parte del programma di allenamento delle scuole superiori chiamato \"Blue Lock\", tutti mirano a diventare campioni di calcio e guidare la nazionale maschile giapponese verso la vittoria della prossima Coppa del Mondo. Solo uno di loro, Nagi Seishiro, riuscirà a emergere.",
+      "popularity": 6.7102,
+      "poster_path": "/jj6HZBU4kLow5LpVL3tfQpbIdtk.jpg",
+      "release_date": "2024-04-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 263
+    }
+  },
+  {
     "title": "April Come She Will",
     "slug": "april-come-she-will",
     "lastSourceDate": "2025-04-28T17:12:58.000Z",
@@ -9557,7 +9600,7 @@
   {
     "title": "Gintama the Movie - Yoshiwara in fiamme",
     "slug": "gintama-the-movie-yoshiwara-in-fiamme",
-    "lastSourceDate": "2026-10-15T09:10:59.000Z",
+    "lastSourceDate": "2026-10-15T10:15:35.000Z",
     "theaterReleaseDate": "2027-01-14",
     "theaterEndDate": "2027-01-20",
     "alternativeTitles": [
@@ -9625,6 +9668,12 @@
         "title": "“Gintama”, Yoshiwara in fiamme al cinema dal 14 gennaio - Like in a Movie",
         "description": "Edo, Giappone. Gli alieni hanno invaso il paese, i samurai hanno perso il diritto di portare la spada e un ex guerriero dai capelli argentati tira avanti accettando lavoretti di ogni genere. Questa è la...",
         "publishedDate": "2026-10-15T09:10:59.000Z"
+      },
+      {
+        "url": "https://www.voto10.it/anime-comics/gintama-the-movie-2026-uscita-italia/",
+        "title": "Gintama torna al cinema: Yoshiwara in fiamme arriva in Italia - Voto 10 - Solo il meglio",
+        "description": "Gintama si prepara a tornare sul grande schermo italiano. Dynit ha annunciato l'arrivo di Gintama the Movie 2026: Yoshiwara in fiamme, il nuovo film dedicato all'amatissima serie anime, che sarà nelle",
+        "publishedDate": "2026-10-15T10:15:35.000Z"
       }
     ],
     "tmdbMovie": {
