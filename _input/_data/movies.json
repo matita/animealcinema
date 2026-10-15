@@ -6418,7 +6418,9 @@
     "slug": "blue-lock",
     "lastSourceDate": "2026-10-15T11:56:57.000Z",
     "theaterReleaseDate": "2026-10-30",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Blue Lock: Episode Nagi"
+    ],
     "sources": [
       {
         "url": "https://www.bestmovie.it/news/il-lucca-comics-games-ha-unenorme-sorpresa-per-i-fan-degli-anime-arriva-uno-dei-film-piu-attesi-dellanno/979252/",
@@ -6447,7 +6449,10 @@
       "video": false,
       "vote_average": 7.6,
       "vote_count": 263
-    }
+    },
+    "aliases": [
+      "blue-lock-episode-nagi"
+    ]
   },
   {
     "title": "April Come She Will",
