@@ -6430,9 +6430,7 @@
     "slug": "blue-lock",
     "lastSourceDate": "2026-10-15T11:56:57.000Z",
     "theaterReleaseDate": "2026-10-30",
-    "alternativeTitles": [
-      "Blue Lock: Episode Nagi"
-    ],
+    "alternativeTitles": [],
     "sources": [
       {
         "url": "https://www.bestmovie.it/news/il-lucca-comics-games-ha-unenorme-sorpresa-per-i-fan-degli-anime-arriva-uno-dei-film-piu-attesi-dellanno/979252/",
@@ -6441,30 +6439,11 @@
         "publishedDate": "2026-10-15T11:56:57.000Z"
       }
     ],
-    "tmdbMovie": {
-      "adult": false,
-      "backdrop_path": "/dJwclPgKPnV7hX3OSlvSBiCmuvB.jpg",
-      "genre_ids": [
-        16,
-        28,
-        18
-      ],
-      "id": 1104844,
-      "title": "Blue Lock Il Film - Episodio Nagi",
-      "original_language": "ja",
-      "original_title": "劇場版ブルーロック -EPISODE 凪-",
-      "overview": "Trecento studenti fanno parte del programma di allenamento delle scuole superiori chiamato \"Blue Lock\", tutti mirano a diventare campioni di calcio e guidare la nazionale maschile giapponese verso la vittoria della prossima Coppa del Mondo. Solo uno di loro, Nagi Seishiro, riuscirà a emergere.",
-      "popularity": 6.7102,
-      "poster_path": "/jj6HZBU4kLow5LpVL3tfQpbIdtk.jpg",
-      "release_date": "2024-04-19",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 263
-    },
     "aliases": [
       "blue-lock-episode-nagi"
-    ]
+    ],
+    "theaterEndDate": "2026-10-30",
+    "tmdbId": 1623376
   },
   {
     "title": "April Come She Will",
