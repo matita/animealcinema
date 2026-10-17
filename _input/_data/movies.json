@@ -1747,7 +1747,7 @@
   {
     "title": "Ken il Guerriero – Il film",
     "slug": "ken-il-guerriero-il-film",
-    "lastSourceDate": "2026-10-16T14:24:16.000Z",
+    "lastSourceDate": "2026-10-16T00:00:00.000Z",
     "theaterReleaseDate": "2026-11-30",
     "theaterEndDate": "2026-12-02",
     "alternativeTitles": [
@@ -6426,26 +6426,6 @@
     }
   },
   {
-    "title": "Blue Lock",
-    "slug": "blue-lock",
-    "lastSourceDate": "2026-10-15T11:56:57.000Z",
-    "theaterReleaseDate": "2026-10-30",
-    "alternativeTitles": [],
-    "sources": [
-      {
-        "url": "https://www.bestmovie.it/news/il-lucca-comics-games-ha-unenorme-sorpresa-per-i-fan-degli-anime-arriva-uno-dei-film-piu-attesi-dellanno/979252/",
-        "title": "Il Lucca Comics & Games ha un'enorme sorpresa per i fan degli anime: arriva uno dei film più attesi dell'anno!",
-        "description": "Il Lucca Comics &amp; Games ha un’enorme sorpresa per i fan degli anime: arriva uno dei film più attesi dell’anno! \t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\tMancano poche settimane all'inizio della manifestazione e il...",
-        "publishedDate": "2026-10-15T11:56:57.000Z"
-      }
-    ],
-    "aliases": [
-      "blue-lock-episode-nagi"
-    ],
-    "theaterEndDate": "2026-10-30",
-    "tmdbId": 1623376
-  },
-  {
     "title": "April Come She Will",
     "slug": "april-come-she-will",
     "lastSourceDate": "2025-04-28T17:12:58.000Z",
@@ -10067,6 +10047,78 @@
       "video": true,
       "vote_average": 0,
       "vote_count": 0
+    }
+  },
+  {
+    "title": "Blue Lock",
+    "slug": "blue-lock",
+    "lastSourceDate": "2026-10-15T11:56:57.000Z",
+    "theaterReleaseDate": "2026-10-30",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.bestmovie.it/news/il-lucca-comics-games-ha-unenorme-sorpresa-per-i-fan-degli-anime-arriva-uno-dei-film-piu-attesi-dellanno/979252/",
+        "title": "Il Lucca Comics & Games ha un'enorme sorpresa per i fan degli anime: arriva uno dei film più attesi dell'anno!",
+        "description": "Il Lucca Comics &amp; Games ha un’enorme sorpresa per i fan degli anime: arriva uno dei film più attesi dell’anno! \t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\tMancano poche settimane all'inizio della manifestazione e il...",
+        "publishedDate": "2026-10-15T11:56:57.000Z"
+      }
+    ],
+    "aliases": [
+      "blue-lock-episode-nagi"
+    ],
+    "theaterEndDate": "2026-10-30",
+    "tmdbId": 1623376,
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/znXyQgqITDm8fJxcvmlRpKlw49T.jpg",
+      "belongs_to_collection": null,
+      "budget": 0,
+      "homepage": "",
+      "id": 1623376,
+      "imdb_id": "tt39400168",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_title": "ブルーロック",
+      "overview": "",
+      "popularity": 3.5074,
+      "poster_path": "/8EOuBxH8cqkVFdblOOduNsC0TuU.jpg",
+      "production_companies": [
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "release_date": "2026-08-07",
+      "revenue": 0,
+      "runtime": 128,
+      "softcore": false,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "title": "ブルーロック",
+      "video": false,
+      "vote_average": 9,
+      "vote_count": 3,
+      "genre_ids": [
+        28,
+        18
+      ]
     }
   }
 ]
