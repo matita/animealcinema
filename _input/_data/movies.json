@@ -5003,6 +5003,42 @@
     "lastSourceDate": "2025-05-27T02:40:10.000Z"
   },
   {
+    "title": "Wildwood",
+    "slug": "wildwood",
+    "lastSourceDate": "2026-10-19T11:00:00.000Z",
+    "theaterReleaseDate": "2026-10-22",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://cinema.icrewplay.com/wildwood-adatto-bambini-eta-pg13/",
+        "title": "Wildwood è adatto ai bambini? Età, PG-13 e classificazione",
+        "description": "Wildwood – I segreti del bosco proibito arriva nei cinema italiani il 22 ottobre 2026 ed è indicato dal distributore Notorious Pictures come «adatto a tutti». Negli Stati Uniti, però, ha ricevuto il rating...",
+        "publishedDate": "2026-10-19T11:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14
+      ],
+      "id": 791523,
+      "title": "Wildwood - I segreti del bosco proibito",
+      "original_language": "en",
+      "original_title": "Wildwood",
+      "overview": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "popularity": 17.4806,
+      "poster_path": "/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
+      "release_date": "2026-10-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 2
+    }
+  },
+  {
     "title": "Jujutsu Kaisen 0",
     "slug": "jujutsu-kaisen-0",
     "lastSourceDate": "2025-09-20T08:40:00.000Z",
