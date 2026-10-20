@@ -5007,7 +5007,9 @@
     "slug": "wildwood",
     "lastSourceDate": "2026-10-19T11:00:00.000Z",
     "theaterReleaseDate": "2026-10-22",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Wildwood – I segreti del bosco proibito"
+    ],
     "sources": [
       {
         "url": "https://cinema.icrewplay.com/wildwood-adatto-bambini-eta-pg13/",
@@ -5036,7 +5038,10 @@
       "video": false,
       "vote_average": 10,
       "vote_count": 2
-    }
+    },
+    "aliases": [
+      "wildwood-i-segreti-del-bosco-proibito"
+    ]
   },
   {
     "title": "Jujutsu Kaisen 0",
