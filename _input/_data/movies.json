@@ -5011,7 +5011,7 @@
   {
     "title": "Wildwood",
     "slug": "wildwood",
-    "lastSourceDate": "2026-10-19T11:00:00.000Z",
+    "lastSourceDate": "2026-10-22T05:00:00.000Z",
     "theaterReleaseDate": "2026-10-22",
     "alternativeTitles": [
       "Wildwood – I segreti del bosco proibito"
@@ -5022,6 +5022,12 @@
         "title": "Wildwood è adatto ai bambini? Età, PG-13 e classificazione",
         "description": "Wildwood – I segreti del bosco proibito arriva nei cinema italiani il 22 ottobre 2026 ed è indicato dal distributore Notorious Pictures come «adatto a tutti». Negli Stati Uniti, però, ha ricevuto il rating...",
         "publishedDate": "2026-10-19T11:00:00.000Z"
+      },
+      {
+        "url": "https://cinema.icrewplay.com/wildwood-laika-come-e-stato-realizzato/",
+        "title": "Wildwood: i segreti dei 142.000 volti e dei set LAIKA",
+        "description": "Wildwood non è un film animato interamente al computer: il fantasy di LAIKA nasce da pupazzi, scenografie e alberi costruiti fisicamente, fotografati fotogramma per fotogramma. Nel resoconto della VIEW...",
+        "publishedDate": "2026-10-22T05:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5087,7 +5093,7 @@
   {
     "title": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising",
     "slug": "puella-magi-madoka-magica-the-movie-walpurgisnacht-rising",
-    "lastSourceDate": "2026-10-14T23:40:13.000Z",
+    "lastSourceDate": "2026-10-22T12:22:13.000Z",
     "sources": [
       {
         "url": "https://www.animeclick.it/news/107490-dynit-madoka-magica-walpurgisnacht-rising-arrivera-al-cinema-in-italia",
@@ -5154,6 +5160,12 @@
         "title": "Madoka Magica, Il risveglio di Walpurgis in anteprima a Lucca",
         "description": "Puella Magi Madoka Magica (foto Dynit)            Puella Magi Madoka Magica The Movie – Il risveglio di Walpurgis arriverà al cinema in Italia con Dynit, dopo un’anteprima nazionale a Lucca Comics &amp;...",
         "publishedDate": "2026-10-14T23:40:13.000Z"
+      },
+      {
+        "url": "https://sugarpulp.it/lucca-comics-games-2026-novita-area-movie/",
+        "title": "Lucca Comics & Games 2026: le novità dell'Area Movie",
+        "description": "Anteprime cinematografiche, grandi serie TV, incontri con gli attori e installazioni immersive. Tutti gli appuntamenti dell’Area Movie di Lucca Comics & Games 2026, dal 28 ottobre al 1° novembre.\nL’Area Movie di Lucca Comics & Games 2026 si prepara ad accogliere alcuni dei franchise più popolari del cinema, della televisione e dell’animazione internazionale. QMI, che cura",
+        "publishedDate": "2026-10-22T12:22:13.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5181,7 +5193,8 @@
     "alternativeTitles": [
       "Puella Magi Madoka Magica the Movie -Il Risveglio di Walpurgis-",
       "Puella Magi Madoka Magica the Movie – Il risveglio di Walpurgisnacht",
-      "Puella Magi Madoka Magica The Movie – Il risveglio di Walpurgis"
+      "Puella Magi Madoka Magica The Movie – Il risveglio di Walpurgis",
+      "Puella Magi Madoka Magica The Movie – Il Risveglio di Walpurgis"
     ],
     "theaterEndDate": "2026-12-16",
     "aliases": [
@@ -7337,6 +7350,42 @@
       "video": false,
       "vote_average": 9,
       "vote_count": 1
+    }
+  },
+  {
+    "title": "Hunger Games – L'Alba sulla Mietitura",
+    "slug": "hunger-games-lalba-sulla-mietitura",
+    "lastSourceDate": "2026-10-22T12:22:13.000Z",
+    "theaterReleaseDate": "2026-11-19",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://sugarpulp.it/lucca-comics-games-2026-novita-area-movie/",
+        "title": "Lucca Comics & Games 2026: le novità dell'Area Movie",
+        "description": "Anteprime cinematografiche, grandi serie TV, incontri con gli attori e installazioni immersive. Tutti gli appuntamenti dell’Area Movie di Lucca Comics & Games 2026, dal 28 ottobre al 1° novembre.\nL’Area Movie di Lucca Comics & Games 2026 si prepara ad accogliere alcuni dei franchise più popolari del cinema, della televisione e dell’animazione internazionale. QMI, che cura",
+        "publishedDate": "2026-10-22T12:22:13.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 1300968,
+      "title": "Hunger Games - L'alba sulla mietitura",
+      "original_language": "en",
+      "original_title": "The Hunger Games: Sunrise on the Reaping",
+      "overview": "",
+      "popularity": 21.6863,
+      "poster_path": "/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg",
+      "release_date": "2026-11-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     }
   },
   {
@@ -10105,7 +10154,7 @@
   {
     "title": "Blue Lock",
     "slug": "blue-lock",
-    "lastSourceDate": "2026-10-15T11:56:57.000Z",
+    "lastSourceDate": "2026-10-22T12:22:13.000Z",
     "theaterReleaseDate": "2026-10-30",
     "alternativeTitles": [],
     "sources": [
@@ -10114,6 +10163,12 @@
         "title": "Il Lucca Comics & Games ha un'enorme sorpresa per i fan degli anime: arriva uno dei film più attesi dell'anno!",
         "description": "Il Lucca Comics &amp; Games ha un’enorme sorpresa per i fan degli anime: arriva uno dei film più attesi dell’anno! \t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\tMancano poche settimane all'inizio della manifestazione e il...",
         "publishedDate": "2026-10-15T11:56:57.000Z"
+      },
+      {
+        "url": "https://sugarpulp.it/lucca-comics-games-2026-novita-area-movie/",
+        "title": "Lucca Comics & Games 2026: le novità dell'Area Movie",
+        "description": "Anteprime cinematografiche, grandi serie TV, incontri con gli attori e installazioni immersive. Tutti gli appuntamenti dell’Area Movie di Lucca Comics & Games 2026, dal 28 ottobre al 1° novembre.\nL’Area Movie di Lucca Comics & Games 2026 si prepara ad accogliere alcuni dei franchise più popolari del cinema, della televisione e dell’animazione internazionale. QMI, che cura",
+        "publishedDate": "2026-10-22T12:22:13.000Z"
       }
     ],
     "aliases": [
