@@ -3838,7 +3838,7 @@
   {
     "title": "YOUR NAME (10th Anniversary)",
     "slug": "your-name-10th-anniversary",
-    "lastSourceDate": "2026-10-26T15:30:00.000Z",
+    "lastSourceDate": "2026-10-26T18:02:34.000Z",
     "theaterReleaseDate": "2026-11-23",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
@@ -3905,6 +3905,12 @@
         "title": "Your Name festeggia 10 anni e torna al cinema in Italia, per la prima volta in 4K: tutte le date",
         "description": "In queste ore è stato annunciato che Dynit, in occasione del decimo anniversario di Your Name, capolavoro del cinema d'animazione giapponese firmato da Makoto Shinkai, riporterà il film nelle sale italiane, e...",
         "publishedDate": "2026-10-26T15:30:00.000Z"
+      },
+      {
+        "url": "https://www.universalmovies.it/your-name-4k-cinema-makoto-shinkai-dynit-2026/",
+        "title": "Your Name al cinema in 4K: le date e i dettagli con Dynit",
+        "description": "In occasione del decimo anniversario dalla prima uscita nelle sale, Your Name, celebre lungometraggio d’animazione diretto da Makoto Shinkai, torna sui grandi schermi italiani. Proiettato per la prima volta...",
+        "publishedDate": "2026-10-26T18:02:34.000Z"
       }
     ],
     "tmdbId": 372058,
@@ -5678,7 +5684,7 @@
   {
     "title": "Godzilla Minus Zero",
     "slug": "godzilla-minus-zero",
-    "lastSourceDate": "2026-10-12T11:17:39.753Z",
+    "lastSourceDate": "2026-10-26T17:58:16.000Z",
     "theaterReleaseDate": "2026-11-05",
     "alternativeTitles": [],
     "sources": [
@@ -5699,6 +5705,12 @@
         "title": "Godzilla Minus Zero, il trailer del film",
         "description": "Ambientato in Giappone nel 1949, due anni dopo gli eventi narrati nel precedente capitolo Godzilla Minus One, segue ancora una volta le vicende di Kōichi e Niriko, ora alle prese con nuove minacce. Uscirà il...",
         "publishedDate": "2026-10-12T11:17:39.753Z"
+      },
+      {
+        "url": "https://www.universalmovies.it/godzilla-minus-zero-lucca-comics-anteprima/",
+        "title": "Godzilla Minus Zero, Lucca Comics & Games e l'anteprima",
+        "description": "In vista del ritorno in sala del celebre franchise dedicato al Re dei Mostri, PLAION Pictures ha svelato le iniziative promozionali per Godzilla Minus Zero. Il film, distribuito in Italia da PLAION Pictures...",
+        "publishedDate": "2026-10-26T17:58:16.000Z"
       }
     ],
     "tmdbMovie": {
