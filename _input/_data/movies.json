@@ -921,7 +921,7 @@
   {
     "title": "Ghost in the Shell",
     "slug": "ghost-in-the-shell",
-    "lastSourceDate": "2026-10-07T00:00:00.000Z",
+    "lastSourceDate": "2026-10-25T16:41:54.000Z",
     "sources": [
       {
         "url": "https://www.teleblog.it/400820/netflix/netflix-novita-quotidiane.html/amp",
@@ -946,6 +946,12 @@
         "title": "Anime al cinema: estate record per le sale, ma non per l'animazione giapponese",
         "description": "L'animazione giapponese sta oggi vivendo il suo periodo di massima espansione internazionale, grazie alla grande diffusione in tutto il mondo permessa dalle piattaforme streaming e attivamente spinta dallo...",
         "publishedDate": "2026-10-07T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.zazoom.it/2026-10-25/kore-eda-godzilla-minus-zero-e-gintama-anime-e-cinema-giapponese-a-lucca/19847225/",
+        "title": "Kore-eda Godzilla Minus Zero e Gintama | anime e cinema giapponese a Lucca",
+        "description": "Il cinema e l’animazione giapponesi avranno un ruolo di primo piano nell’area Movie di Lucca Comics &amp; Games 2026. Il nome di punta è Hirokazu Kore-eda, regista premiato con la Palma d’oro a Cannes per Un...",
+        "publishedDate": "2026-10-25T16:41:54.000Z"
       }
     ],
     "tmdbMovie": {
@@ -1690,11 +1696,12 @@
   {
     "title": "Kiki - Consegne a domicilio",
     "slug": "kiki-consegne-a-domicilio",
-    "lastSourceDate": "2026-10-14T06:19:29.000Z",
+    "lastSourceDate": "2026-10-25T16:41:54.000Z",
     "theaterReleaseDate": "2026-11-19",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
-      "Kiki – Consegne a domicilio"
+      "Kiki – Consegne a domicilio",
+      "Kiki, consegne a domicilio"
     ],
     "sources": [
       {
@@ -1720,6 +1727,12 @@
         "title": "Kiki in 4K al cinema: data italiana e nuovo doppiaggio",
         "description": "Kiki – Consegne a domicilio torna nei cinema italiani in versione 4K: il listino ufficiale di Lucky Red indica un evento dal 19 novembre 2026 per una settimana. Alcune comunicazioni riprese il 13 ottobre...",
         "publishedDate": "2026-10-14T06:19:29.000Z"
+      },
+      {
+        "url": "https://www.zazoom.it/2026-10-25/kore-eda-godzilla-minus-zero-e-gintama-anime-e-cinema-giapponese-a-lucca/19847225/",
+        "title": "Kore-eda Godzilla Minus Zero e Gintama | anime e cinema giapponese a Lucca",
+        "description": "Il cinema e l’animazione giapponesi avranno un ruolo di primo piano nell’area Movie di Lucca Comics &amp; Games 2026. Il nome di punta è Hirokazu Kore-eda, regista premiato con la Palma d’oro a Cannes per Un...",
+        "publishedDate": "2026-10-25T16:41:54.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2885,6 +2898,12 @@
         "url": "https://www.gamesurf.it/recensioni/film/hello-spank-il-film-mai-visto-in-italia-recensione-anime-yamato",
         "title": "Hello Spank, recensione del film inedito, ora disponibile in Italia",
         "description": "Hello! Spank. Il Film. Le Pene D’Amore di Spank porta in sala in Italia un anime molto amato dal pubblico della televisione lineare e la testimonianza di un’opera che oggi appare lontanissima."
+      },
+      {
+        "url": "https://gametimers.it/ken-il-guerriero-torna-al-cinema-in-italia-il-film-del-1986-rivive-per-il-40-anniversario/",
+        "title": "Ken il Guerriero torna al cinema in Italia: il film del 1986 rivive per il 40° anniversario",
+        "description": "Ken il Guerriero si prepara a tornare nei cinema italiani per celebrare quarant’anni di uno dei lungometraggi più iconici dell’animazione giapponese. Grazie all’iniziativa di Nexo Studios, realizzata in...",
+        "publishedDate": "2026-10-26T10:55:07.000Z"
       }
     ],
     "tmdbMovie": {
@@ -2905,7 +2924,11 @@
       "video": false,
       "vote_average": 6.5,
       "vote_count": 75
-    }
+    },
+    "lastSourceDate": "2026-10-26T10:55:07.000Z",
+    "theaterReleaseDate": "2026-11-30",
+    "theaterEndDate": "2026-12-02",
+    "alternativeTitles": []
   },
   {
     "title": "Dragon Ball Z: La battaglia degli dei",
@@ -3815,7 +3838,7 @@
   {
     "title": "YOUR NAME (10th Anniversary)",
     "slug": "your-name-10th-anniversary",
-    "lastSourceDate": "2026-10-07T00:00:00.000Z",
+    "lastSourceDate": "2026-10-26T15:30:00.000Z",
     "theaterReleaseDate": "2026-11-23",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
@@ -3876,6 +3899,12 @@
         "title": "Serie tv e cinema, tutte le novità dell'ultimo periodo",
         "description": "Benvenuti lettori, nasce una nuova rubrica all’interno di Informa Press. Parleremo di tutto ciò che riguarda Serie Tv e cinema e daremo le indiscrezioni e le ultime novità. Volete dei consigli sulle ultime...",
         "publishedDate": "2026-09-25T17:59:56.000Z"
+      },
+      {
+        "url": "https://anime.everyeye.it/notizie/your-name-festeggia-10-anni-torna-cinema-italia-4k-date-908093.html",
+        "title": "Your Name festeggia 10 anni e torna al cinema in Italia, per la prima volta in 4K: tutte le date",
+        "description": "In queste ore è stato annunciato che Dynit, in occasione del decimo anniversario di Your Name, capolavoro del cinema d'animazione giapponese firmato da Makoto Shinkai, riporterà il film nelle sale italiane, e...",
+        "publishedDate": "2026-10-26T15:30:00.000Z"
       }
     ],
     "tmdbId": 372058,
@@ -10045,7 +10074,7 @@
   {
     "title": "Look Back",
     "slug": "look-back",
-    "lastSourceDate": "2026-09-29T00:00:00.000Z",
+    "lastSourceDate": "2026-10-25T16:41:54.000Z",
     "theaterReleaseDate": "2027-01-21",
     "alternativeTitles": [],
     "sources": [
@@ -10060,6 +10089,12 @@
         "title": "Look Back: dopo aver incantato Venezia, nuovo trailer del film in arrivo al cinema",
         "description": "La stagione autunnale sta per iniziare, pertanto eccoci a fare un po' di ordine: di seguito troverete curiosità e i più recenti trailer relativi a serie TV, streaming e film al debutto. Look Back -...",
         "publishedDate": "2026-09-29T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.zazoom.it/2026-10-25/kore-eda-godzilla-minus-zero-e-gintama-anime-e-cinema-giapponese-a-lucca/19847225/",
+        "title": "Kore-eda Godzilla Minus Zero e Gintama | anime e cinema giapponese a Lucca",
+        "description": "Il cinema e l’animazione giapponesi avranno un ruolo di primo piano nell’area Movie di Lucca Comics &amp; Games 2026. Il nome di punta è Hirokazu Kore-eda, regista premiato con la Palma d’oro a Cannes per Un...",
+        "publishedDate": "2026-10-25T16:41:54.000Z"
       }
     ],
     "tmdbId": 1591675,
