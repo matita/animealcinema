@@ -3838,12 +3838,13 @@
   {
     "title": "YOUR NAME (10th Anniversary)",
     "slug": "your-name-10th-anniversary",
-    "lastSourceDate": "2026-10-26T18:02:34.000Z",
+    "lastSourceDate": "2026-10-27T17:28:19.000Z",
     "theaterReleaseDate": "2026-11-23",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
       "Your Name. 10th Anniversary",
-      "Your Name"
+      "Your Name",
+      "Your Name."
     ],
     "sources": [
       {
@@ -3911,6 +3912,12 @@
         "title": "Your Name al cinema in 4K: le date e i dettagli con Dynit",
         "description": "In occasione del decimo anniversario dalla prima uscita nelle sale, Your Name, celebre lungometraggio d’animazione diretto da Makoto Shinkai, torna sui grandi schermi italiani. Proiettato per la prima volta...",
         "publishedDate": "2026-10-26T18:02:34.000Z"
+      },
+      {
+        "url": "https://www.skuola.net/news/trend/your-name-cinema-4k-decimo-anniversario.html",
+        "title": "Dieci anni dopo, la cometa di Your Name torna al cinema: quando e dove vederlo di nuovo sul grande schermo",
+        "description": "Due ragazzi che non si sono mai incontrati, un misterioso scambio di corpi e una cometa destinata a cambiare per sempre le loro vite.\r Sono passati dieci anni da quando Your Name. ha conquistato il pubblico...",
+        "publishedDate": "2026-10-27T17:28:19.000Z"
       }
     ],
     "tmdbId": 372058,
