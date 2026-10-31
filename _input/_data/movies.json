@@ -1696,12 +1696,13 @@
   {
     "title": "Kiki - Consegne a domicilio",
     "slug": "kiki-consegne-a-domicilio",
-    "lastSourceDate": "2026-10-25T16:41:54.000Z",
+    "lastSourceDate": "2026-10-31T00:00:00.000Z",
     "theaterReleaseDate": "2026-11-19",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
       "Kiki – Consegne a domicilio",
-      "Kiki, consegne a domicilio"
+      "Kiki, consegne a domicilio",
+      "Kiki consegne a domicilio"
     ],
     "sources": [
       {
@@ -1733,6 +1734,12 @@
         "title": "Kore-eda Godzilla Minus Zero e Gintama | anime e cinema giapponese a Lucca",
         "description": "Il cinema e l’animazione giapponesi avranno un ruolo di primo piano nell’area Movie di Lucca Comics &amp; Games 2026. Il nome di punta è Hirokazu Kore-eda, regista premiato con la Palma d’oro a Cannes per Un...",
         "publishedDate": "2026-10-25T16:41:54.000Z"
+      },
+      {
+        "url": "https://movieplayer.it/news/lucca-comics-2026-31-ottobre-godzilla-harry-potter-one-piece_171754/",
+        "title": "Lucca Comics 2026: Godzilla Minus Zero in anteprima, Harry Potter, One Piece e gli appuntamenti del 31 ottobre",
+        "description": "L&#x27;anteprima di Godzilla Minus Zero guida il programma di Halloween, tra il documentario sulla nuova serie di Harry Potter, gli appuntamenti dedicati a One Piece e Crunchyroll, le novità dell&#x27;animazione e una serata di proiezioni horror con ospiti speciali",
+        "publishedDate": "2026-10-31T00:00:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -10324,6 +10331,43 @@
         28,
         18
       ]
+    }
+  },
+  {
+    "title": "Star Detective PreCure! The Movie",
+    "slug": "star-detective-precure-the-movie",
+    "lastSourceDate": "2026-10-31T00:00:00.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://movieplayer.it/news/lucca-comics-2026-31-ottobre-godzilla-harry-potter-one-piece_171754/",
+        "title": "Lucca Comics 2026: Godzilla Minus Zero in anteprima, Harry Potter, One Piece e gli appuntamenti del 31 ottobre",
+        "description": "L&#x27;anteprima di Godzilla Minus Zero guida il programma di Halloween, tra il documentario sulla nuova serie di Harry Potter, gli appuntamenti dedicati a One Piece e Crunchyroll, le novità dell&#x27;animazione e una serata di proiezioni horror con ospiti speciali",
+        "publishedDate": "2026-10-31T00:00:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/misJa6SmXR1GWUBtgjHNB90LayE.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35,
+        10751
+      ],
+      "id": 1663937,
+      "title": "映画名探偵プリキュア！ ⠀不思議な庭と2人の秘密",
+      "original_language": "ja",
+      "original_title": "映画名探偵プリキュア！ ⠀不思議な庭と2人の秘密",
+      "overview": "",
+      "popularity": 2.8265,
+      "poster_path": "/bJg5Eh20xrIQIBgwCKJWLbajCsL.jpg",
+      "release_date": "2026-09-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     }
   }
 ]
