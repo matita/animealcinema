@@ -2942,7 +2942,8 @@
       "video": false,
       "vote_average": 5.1,
       "vote_count": 67
-    }
+    },
+    "theaterReleaseDate": "2026-11-26"
   },
   {
     "title": "Ken il Guerriero",
@@ -5777,7 +5778,7 @@
   {
     "title": "Godzilla Minus Zero",
     "slug": "godzilla-minus-zero",
-    "lastSourceDate": "2026-11-03T08:00:00.000Z",
+    "lastSourceDate": "2026-11-04T11:13:00.000Z",
     "theaterReleaseDate": "2026-11-05",
     "alternativeTitles": [],
     "sources": [
@@ -5822,6 +5823,12 @@
         "title": "Lucca Comics 2026: avventuroso viaggio nella cultura pop",
         "description": "Mai come quest’anno arrivare al Lucca Comics mi è sembrata letteralmente un’impresa: tra vari impegni e il finimondo economico dei giorni precedenti, la strada verso la cittadina toscana diventava sempre più...",
         "publishedDate": "2026-11-03T08:00:00.000Z"
+      },
+      {
+        "url": "https://cinema.everyeye.it/articoli/speciale-godzilla-minus-zero-ritorno-re-mostri-novita-aspettative-67792.html",
+        "title": "Godzilla Minus Zero, il ritorno del re dei mostri tra novità e aspettative",
+        "description": "In un momento storico in cui tutto viene ingigantito dal digitale è sempre bello tornare alla tangibilità degli effetti pratici, magari dal budget contenuto: così Godzilla Minus One aveva conquistato...",
+        "publishedDate": "2026-11-04T11:13:00.000Z"
       }
     ],
     "tmdbMovie": {
