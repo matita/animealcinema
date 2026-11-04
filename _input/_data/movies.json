@@ -2911,6 +2911,40 @@
     }
   },
   {
+    "title": "Fool Night",
+    "slug": "fool-night",
+    "lastSourceDate": "2026-11-03T15:04:37.000Z",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://nerdpool.it/netflix-le-uscite-di-novembre-2026-in-italia-film-e-serie-in-arrivo/",
+        "title": "Netflix, le uscite di novembre 2026 in Italia: film e serie in arrivo",
+        "description": "Novembre porta su Netflix un catalogo ricco e vario. Ci sono grandi ritorni come Black Doves e L’imperatrice, una nuova serie crime italiana, l’atteso film di Lee Chang-dong e i primi titoli a tem…",
+        "publishedDate": "2026-11-03T15:04:37.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/viHDt7yHqZYjnzvLbfP8BCWXmdx.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 74225,
+      "title": "Killer Party",
+      "original_language": "en",
+      "original_title": "Killer Party",
+      "overview": "Una festa studentesca in una casa abbandonata ha esiti macabri perché tra le sue mura sono stati consumati atroci delitti.",
+      "popularity": 3.6101,
+      "poster_path": "/ym1KgAPOfmVYSh31mzK56jytqfT.jpg",
+      "release_date": "1986-05-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 67
+    }
+  },
+  {
     "title": "Ken il Guerriero",
     "slug": "ken-il-guerriero",
     "sources": [
