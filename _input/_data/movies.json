@@ -5778,9 +5778,11 @@
   {
     "title": "Godzilla Minus Zero",
     "slug": "godzilla-minus-zero",
-    "lastSourceDate": "2026-11-04T11:13:00.000Z",
+    "lastSourceDate": "2026-11-04T12:55:10.000Z",
     "theaterReleaseDate": "2026-11-05",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "GODZILLA MINUS ZERO"
+    ],
     "sources": [
       {
         "url": "https://www.animeclick.it/news/111168-godzilla-minus-zero-arriva-dal-5-novembre-nelle-sale-italiane",
@@ -5829,6 +5831,12 @@
         "title": "Godzilla Minus Zero, il ritorno del re dei mostri tra novità e aspettative",
         "description": "In un momento storico in cui tutto viene ingigantito dal digitale è sempre bello tornare alla tangibilità degli effetti pratici, magari dal budget contenuto: così Godzilla Minus One aveva conquistato...",
         "publishedDate": "2026-11-04T11:13:00.000Z"
+      },
+      {
+        "url": "https://sugarpulp.it/godzilla-minus-zero-italia/",
+        "title": "In Italia GODZILLA MINUS ZERO arriva il 12 novembre - Sugarpulp",
+        "description": "Regia, sceneggiatura ed effetti visivi di Takashi Yamazaki\nGODZILLA MINUS ZERO è uscito nelle sale giapponesi il 3 novembre per Toho, tre giorni prima dell'arrivo negli Stati Uniti. In Italia il film arriva il 12 novembre, distribuito da Plaion Pictures.\nCalendario internazionale\nSecondo il calendario diffuso da Toho,",
+        "publishedDate": "2026-11-04T12:55:10.000Z"
       }
     ],
     "tmdbMovie": {
