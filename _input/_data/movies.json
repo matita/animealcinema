@@ -3893,7 +3893,7 @@
   {
     "title": "YOUR NAME (10th Anniversary)",
     "slug": "your-name-10th-anniversary",
-    "lastSourceDate": "2026-10-30T16:14:00.000Z",
+    "lastSourceDate": "2026-11-10T14:38:35.000Z",
     "theaterReleaseDate": "2026-11-23",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
@@ -3985,6 +3985,12 @@
         "title": "Your Name torna al cinema in 4K: il capolavoro di Makoto Shinkai festeggia dieci anni sul grande schermo",
         "description": "A dieci anni dalla sua uscita, Your Name, il celebre film d’animazione diretto da Makoto Shinkai, torna al cinema in Italia il 23, 24 e 25 novembre 2026, per la prima volta in 4K. Distribuito da D…",
         "publishedDate": "2026-10-30T16:14:00.000Z"
+      },
+      {
+        "url": "https://thesoundcheck.it/2026/11/10/your-name-il-23-24-e-25-novembre-al-cinema-per-la-prima-volta-in-4k/",
+        "title": "Your Name: il 23, 24 e 25 novembre al cinema per la prima volta in 4K",
+        "description": "Il capolavoro di Makoto Shinkai torna in sala per il suo 10° anniversario con Dynit. Svelata una clip italiana.\n\n\n\nA dieci anni dalla sua prima uscita, Your Name, il capolavoro di Makoto Shinkai che ha conquistato il pubblico di tutto il mondo, torna sui grandi schermi italiani con Dynit il 23, 24 e",
+        "publishedDate": "2026-11-10T14:38:35.000Z"
       }
     ],
     "tmdbId": 372058,
@@ -9776,13 +9782,21 @@
     "title": "Ghost – Yoru no Hate",
     "slug": "ghost-yoru-no-hate",
     "lastSourceDate": "2026-06-30T00:00:00.000Z",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Ghost End of Night"
+    ],
     "sources": [
       {
         "url": "https://www.akibagamers.it/30-06-2026/anime-factory-annuncia-acquisizione-di-due-nuovi-anime/",
         "title": "Anime Factory annuncia l’acquisizione di due nuovi anime",
         "description": "PLAION PICTURES annuncia che il catalogo di Anime Factory si arricchisce di due nuovi anime molto attesi: Samurai Ballerina e Ghost – Your no Hate.Il primo è una elegante e raffinata produzione ambientata...",
         "publishedDate": "2026-06-30T00:00:00.000Z"
+      },
+      {
+        "url": "https://topgamesitalia.com/ghost-end-of-night-trailer-uscita-italia/",
+        "title": "Ghost End of Night trailer e uscita in Italia",
+        "description": "Ti serve un riassunto? Ghost End of Night ha un nuovo trailer e arriverà anche in Italia nel 2027 con Anime Factory. Il primo lungometraggio originale diretto da Shingo Natsume immagina una società che ha...",
+        "publishedDate": "2026-11-10T09:39:58.000Z"
       }
     ],
     "tmdbMovie": {
@@ -9805,7 +9819,11 @@
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    }
+    },
+    "theaterEndDate": "2027",
+    "aliases": [
+      "ghost-end-of-night"
+    ]
   },
   {
     "title": "Made in Abyss The Movie Awakening Mystery",
