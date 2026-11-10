@@ -6569,7 +6569,7 @@
   {
     "title": "SPY x FAMILY CODE: White",
     "slug": "spy-x-family-code-white",
-    "lastSourceDate": "2026-11-09T08:56:53.000Z",
+    "lastSourceDate": "2026-11-09T00:17:34.000Z",
     "theaterReleaseDate": "2025-11-20",
     "alternativeTitles": [
       "SPY×FAMILY CODE White"
@@ -10154,6 +10154,44 @@
       "video": false,
       "vote_average": 7.1,
       "vote_count": 11
+    }
+  },
+  {
+    "title": "Detective Conan L’angelo ribelle dell’autostrada",
+    "slug": "detective-conan-langelo-ribelle-dellautostrada",
+    "lastSourceDate": "2026-11-10T02:35:45.000Z",
+    "theaterReleaseDate": "2026-12-13",
+    "theaterEndDate": "2026-12-17",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://topgamesitalia.com/detective-conan-angelo-ribelle-autostrada-cinema-italia/",
+        "title": "Detective Conan al cinema in Italia dal 13 dicembre",
+        "description": "Ti serve un riassunto? Detective Conan torna al cinema in Italia dal 13 al 17 dicembre 2026 con L’angelo ribelle dell’autostrada. Yamato Video ed Eagle Pictures portano in sala il ventinovesimo film della...",
+        "publishedDate": "2026-11-10T02:35:45.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/zT5S4GNs8Eu2gIkGORoN6yC1uE2.jpg",
+      "genre_ids": [
+        28,
+        16,
+        9648,
+        80
+      ],
+      "id": 1545621,
+      "title": "Detective Conan: L'angelo ribelle dell'autostrada",
+      "original_language": "ja",
+      "original_title": "名探偵コナン ハイウェイの堕天使",
+      "overview": "Quando si verifica una serie di incidenti stradali mortali, le indagini di Conan Edogawa suggeriscono che non si tratti di semplici fatalità, bensì di un piano orchestrato. Man mano che svela una cospirazione che coinvolge identità celate e tecnologie avanzate, il caso si trasforma in una frenetica corsa contro il tempo: Conan deve fermare una mente criminale calcolatrice prima che altre vite vadano perdute.",
+      "popularity": 8.2618,
+      "poster_path": "/l2kfiNoRi6ofM5pSjr1rCloOfpx.jpg",
+      "release_date": "2026-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 22
     }
   },
   {
