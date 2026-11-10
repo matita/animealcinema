@@ -6569,15 +6569,29 @@
   {
     "title": "SPY x FAMILY CODE: White",
     "slug": "spy-x-family-code-white",
-    "lastSourceDate": "2026-02-09T00:00:00.000Z",
+    "lastSourceDate": "2026-11-09T08:56:53.000Z",
     "theaterReleaseDate": "2025-11-20",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "SPY×FAMILY CODE White"
+    ],
     "sources": [
       {
         "url": "https://www.akibagamers.it/09-02-2026/plaion-pictures-le-novita-home-video-di-febbraio-2026/",
         "title": "PLAION PICTURES: le novità Home Video di febbraio 2026",
         "description": "PLAION PICTURES ha annunciato tutte le novità Home Video che potremo acquistare nel corso di febbraio 2026. Dopo il grande successo al cinema arrivano in DVD e Blu-ray il film animato SPY x FAMILY CODE: White...",
         "publishedDate": "2026-02-09T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.likeinamovie.it/2026/11/09/spy-x-family-4-stagione-film-2027/",
+        "title": "Spy x Family 4 nel 2027, in arrivo anche il secondo film - Like in a Movie",
+        "description": "Una spia che si è inventata una famiglia, una bambina che legge nel pensiero, una moglie che di notte fa la killer e un cane che vede il futuro. Loid, Anya, Yor e Bond torneranno due volte: domenica 8...",
+        "publishedDate": "2026-11-09T08:56:53.000Z"
+      },
+      {
+        "url": "https://topgamesitalia.com/spy-x-family-stagione-4-film-2027/",
+        "title": "Spy x Family stagione 4 e nuovo film nel 2027",
+        "description": "Ti serve un riassunto? SPY×FAMILY stagione 4 arriverà in Giappone nel 2027 e nello stesso anno i Forger torneranno al cinema con un secondo film. L’annuncio dell’8 novembre, durante l’evento Anime Extra...",
+        "publishedDate": "2026-11-09T00:17:34.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6600,7 +6614,10 @@
       "video": false,
       "vote_average": 7.101,
       "vote_count": 606
-    }
+    },
+    "aliases": [
+      "spyfamily-code-white"
+    ]
   },
   {
     "title": "Hokage – Ombra di fuoco",
