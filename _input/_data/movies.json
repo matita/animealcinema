@@ -1696,7 +1696,7 @@
   {
     "title": "Kiki - Consegne a domicilio",
     "slug": "kiki-consegne-a-domicilio",
-    "lastSourceDate": "2026-10-31T00:00:00.000Z",
+    "lastSourceDate": "2026-11-11T18:12:30.000Z",
     "theaterReleaseDate": "2026-11-19",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
@@ -1740,6 +1740,12 @@
         "title": "Lucca Comics 2026: Godzilla Minus Zero in anteprima, Harry Potter, One Piece e gli appuntamenti del 31 ottobre",
         "description": "L&#x27;anteprima di Godzilla Minus Zero guida il programma di Halloween, tra il documentario sulla nuova serie di Harry Potter, gli appuntamenti dedicati a One Piece e Crunchyroll, le novità dell&#x27;animazione e una serata di proiezioni horror con ospiti speciali",
         "publishedDate": "2026-10-31T00:00:00.000Z"
+      },
+      {
+        "url": "https://www.universalmovies.it/kiki-consegne-a-domicilio-4k-cinema/",
+        "title": "Kiki - Consegne a domicilio torna al cinema in 4K",
+        "description": "Uno dei capolavori più amati dello Studio Ghibli sta per tornare sul grande schermo in una veste completamente rinnovata. Dal 3 al 9 dicembre, Kiki – Consegne a domicilio arriverà nuovamente nei cinema...",
+        "publishedDate": "2026-11-11T18:12:30.000Z"
       }
     ],
     "tmdbMovie": {
@@ -6575,10 +6581,11 @@
   {
     "title": "SPY x FAMILY CODE: White",
     "slug": "spy-x-family-code-white",
-    "lastSourceDate": "2026-11-09T00:17:34.000Z",
+    "lastSourceDate": "2026-11-11T14:04:33.000Z",
     "theaterReleaseDate": "2025-11-20",
     "alternativeTitles": [
-      "SPY×FAMILY CODE White"
+      "SPY×FAMILY CODE White",
+      "SPY×FAMILY CODE: White"
     ],
     "sources": [
       {
@@ -6598,6 +6605,12 @@
         "title": "Spy x Family stagione 4 e nuovo film nel 2027",
         "description": "Ti serve un riassunto? SPY×FAMILY stagione 4 arriverà in Giappone nel 2027 e nello stesso anno i Forger torneranno al cinema con un secondo film. L’annuncio dell’8 novembre, durante l’evento Anime Extra...",
         "publishedDate": "2026-11-09T00:17:34.000Z"
+      },
+      {
+        "url": "https://popcorntv.it/anime-manga/spyxfamily-quarta-stagione-e-secondo-film-attesi-nel-2027/",
+        "title": "SPY×FAMILY, quarta stagione e secondo film attesi nel 2027",
+        "description": "Il mondo di SPY×FAMILY si prepara a tornare sia sul piccolo sia sul grande schermo. La quarta stagione dell’anime tratto dal manga di Tatsuya Endo è stata fissata per il 2027, anno in cui è previsto anche il...",
+        "publishedDate": "2026-11-11T14:04:33.000Z"
       }
     ],
     "tmdbMovie": {
