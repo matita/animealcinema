@@ -3905,7 +3905,7 @@
   {
     "title": "YOUR NAME (10th Anniversary)",
     "slug": "your-name-10th-anniversary",
-    "lastSourceDate": "2026-11-10T14:38:35.000Z",
+    "lastSourceDate": "2026-11-17T15:20:00.000Z",
     "theaterReleaseDate": "2026-11-23",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
@@ -4003,6 +4003,12 @@
         "title": "Your Name: il 23, 24 e 25 novembre al cinema per la prima volta in 4K",
         "description": "Il capolavoro di Makoto Shinkai torna in sala per il suo 10° anniversario con Dynit. Svelata una clip italiana.\n\n\n\nA dieci anni dalla sua prima uscita, Your Name, il capolavoro di Makoto Shinkai che ha conquistato il pubblico di tutto il mondo, torna sui grandi schermi italiani con Dynit il 23, 24 e",
         "publishedDate": "2026-11-10T14:38:35.000Z"
+      },
+      {
+        "url": "https://www.comingsoon.it/cinema/news/puella-magi-madoka-magica-the-movie-il-risveglio-di-walpurgis-il-trailer/n236034/",
+        "title": "Puella Magi Madoka Magica The Movie - Il risveglio di Walpurgis, il trailer dell'anime in esclusiva ",
+        "description": "Possiamo mostrarvi in esclusiva il trailer italiano di Puella Magi Madoka Magica The Movie - Il risveglio di Walpurgis, l'anime che sarà al cinema dal 10 al 16 dicembre. Dopo Your Name, sarà il secondo film nei cinema con Dynit come distributore indipendente.",
+        "publishedDate": "2026-11-17T15:20:00.000Z"
       }
     ],
     "tmdbId": 372058,
@@ -5220,7 +5226,7 @@
   {
     "title": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising",
     "slug": "puella-magi-madoka-magica-the-movie-walpurgisnacht-rising",
-    "lastSourceDate": "2026-11-08T14:34:11.000Z",
+    "lastSourceDate": "2026-11-17T15:20:00.000Z",
     "sources": [
       {
         "url": "https://www.animeclick.it/news/107490-dynit-madoka-magica-walpurgisnacht-rising-arrivera-al-cinema-in-italia",
@@ -5317,6 +5323,12 @@
         "title": "Lucca Comics & Games 2026, lo staff di Puella Magi Madoka Magica ci racconta Il risveglio di Walpurgis",
         "description": "Quindici anni fa, Puella Magi Madoka Magica ha cambiato il mondo degli anime. E non solo quelli maho shojo, legati all’immaginario delle maghette. Il progetto, nato da una serie di congiunzioni astrali che...",
         "publishedDate": "2026-11-08T14:34:11.000Z"
+      },
+      {
+        "url": "https://www.comingsoon.it/cinema/news/puella-magi-madoka-magica-the-movie-il-risveglio-di-walpurgis-il-trailer/n236034/",
+        "title": "Puella Magi Madoka Magica The Movie - Il risveglio di Walpurgis, il trailer dell'anime in esclusiva ",
+        "description": "Possiamo mostrarvi in esclusiva il trailer italiano di Puella Magi Madoka Magica The Movie - Il risveglio di Walpurgis, l'anime che sarà al cinema dal 10 al 16 dicembre. Dopo Your Name, sarà il secondo film nei cinema con Dynit come distributore indipendente.",
+        "publishedDate": "2026-11-17T15:20:00.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5346,7 +5358,8 @@
       "Puella Magi Madoka Magica the Movie – Il risveglio di Walpurgisnacht",
       "Puella Magi Madoka Magica The Movie – Il risveglio di Walpurgis",
       "Puella Magi Madoka Magica The Movie – Il Risveglio di Walpurgis",
-      "Puella Magi Madoka Magica Movie 4"
+      "Puella Magi Madoka Magica Movie 4",
+      "Puella Magi Madoka Magica The Movie - Il risveglio di Walpurgis"
     ],
     "theaterEndDate": "2026-12-16",
     "aliases": [
@@ -10196,16 +10209,24 @@
   {
     "title": "Detective Conan L’angelo ribelle dell’autostrada",
     "slug": "detective-conan-langelo-ribelle-dellautostrada",
-    "lastSourceDate": "2026-11-10T02:35:45.000Z",
+    "lastSourceDate": "2026-11-17T11:45:16.000Z",
     "theaterReleaseDate": "2026-12-13",
     "theaterEndDate": "2026-12-17",
-    "alternativeTitles": [],
+    "alternativeTitles": [
+      "Detective Conan – L’angelo ribelle dell’autostrada"
+    ],
     "sources": [
       {
         "url": "https://topgamesitalia.com/detective-conan-angelo-ribelle-autostrada-cinema-italia/",
         "title": "Detective Conan al cinema in Italia dal 13 dicembre",
         "description": "Ti serve un riassunto? Detective Conan torna al cinema in Italia dal 13 al 17 dicembre 2026 con L’angelo ribelle dell’autostrada. Yamato Video ed Eagle Pictures portano in sala il ventinovesimo film della...",
         "publishedDate": "2026-11-10T02:35:45.000Z"
+      },
+      {
+        "url": "https://www.thinkmovies.it/detective-conan-langelo-ribelle-dellautostrada-di-takahiro-hasui-arriva-nei-cinema-italiani-come-evento-speciale/",
+        "title": "Detective Conan – L’angelo ribelle dell’autostrada di Takahiro Hasui arriva nei cinema italiani come evento speciale",
+        "description": "Arriva nei cinema italiani a dicembre come evento speciale: Detective Conan – L’angelo ribelle dell’autostrada di Takahiro Hasui. Detective Conan – L’angelo ribelle dell’autostrada di Takahiro Hasui, il nuovo...",
+        "publishedDate": "2026-11-17T11:45:16.000Z"
       }
     ],
     "tmdbMovie": {
