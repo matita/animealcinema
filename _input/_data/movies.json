@@ -10046,6 +10046,44 @@
     ]
   },
   {
+    "title": "Hexe: Il Regno delle Streghe",
+    "slug": "hexe-il-regno-delle-streghe",
+    "lastSourceDate": "2026-11-19T16:15:00.000Z",
+    "theaterReleaseDate": "2026-11-26",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://cinema.icrewplay.com/hexe-doppiatrici-italiane/",
+        "title": "Hexe, chi sono le doppiatrici italiane e i loro film Disney preferiti",
+        "description": "Le voci italiane di Hexe: Il Regno delle Streghe sono Mariasole Pollio, Claudia Pandolfi e Isabella Ferrari: interpretano rispettivamente Billie Doe, sua madre Alice e la Regina Celeste. Nell’intervista...",
+        "publishedDate": "2026-11-19T16:15:00.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751,
+        14,
+        35
+      ],
+      "id": 1538497,
+      "title": "Hexe - Il regno delle streghe",
+      "original_language": "en",
+      "original_title": "Hexed",
+      "overview": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
+      "popularity": 42.8688,
+      "poster_path": "/v7CwUke6H7LhVHR5VMb1RXUWNp5.jpg",
+      "release_date": "2026-11-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  },
+  {
     "title": "JUJUTSU KAISEN: Esecuzione",
     "slug": "jujutsu-kaisen-esecuzione",
     "lastSourceDate": "2025-10-16T07:12:47.000Z",
@@ -10228,7 +10266,7 @@
   {
     "title": "Detective Conan L’angelo ribelle dell’autostrada",
     "slug": "detective-conan-langelo-ribelle-dellautostrada",
-    "lastSourceDate": "2026-11-18T10:28:48.000Z",
+    "lastSourceDate": "2026-11-18T09:04:21.000Z",
     "theaterReleaseDate": "2026-12-13",
     "theaterEndDate": "2026-12-17",
     "alternativeTitles": [
