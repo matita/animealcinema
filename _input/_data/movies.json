@@ -3912,7 +3912,7 @@
   {
     "title": "YOUR NAME (10th Anniversary)",
     "slug": "your-name-10th-anniversary",
-    "lastSourceDate": "2026-11-20T09:00:00.000Z",
+    "lastSourceDate": "2026-11-21T00:04:35.000Z",
     "theaterReleaseDate": "2026-11-23",
     "theaterEndDate": "2026-11-25",
     "alternativeTitles": [
@@ -4034,6 +4034,12 @@
         "title": "Your Name: perché Taki e Mitsuha dimenticano i nomi?",
         "description": "Nel finale di Your Name, Taki e Mitsuha perdono progressivamente i ricordi del loro incontro soprannaturale, ma continuano a sentire di cercare qualcuno di importante. Il film non offre una regola che spieghi...",
         "publishedDate": "2026-11-20T09:00:00.000Z"
+      },
+      {
+        "url": "https://www.velvetcinema.it/2026/11/21/your-name-cinema-novembre-2026-4k/",
+        "title": "Your Name cinema novembre 2026: riedizione 4K dal 23-25",
+        "description": "Your Name torna al cinema in 4K: il capolavoro di Makoto Shinkai di nuovo sullo schermo a novembre  Mancano appena due giorni e i cinema italiani si preparano ad accogliere di nuovo uno dei capolavori...",
+        "publishedDate": "2026-11-21T00:04:35.000Z"
       }
     ],
     "tmdbId": 372058,
@@ -5372,6 +5378,18 @@
         "title": "Madoka Magica Walpurgis trailer date e card al cinema",
         "description": "Ti serve un riassunto? Madoka Magica Il risveglio di Walpurgis ha un nuovo trailer italiano e un appuntamento preciso con il pubblico: sarà nei cinema dal 10 al 16 dicembre 2026, distribuito da Dynit. Per chi...",
         "publishedDate": "2026-11-19T19:54:06.000Z"
+      },
+      {
+        "url": "https://www.mangaforever.net/madoka-homura-rebellion/",
+        "title": "Madoka Magica: perché Homura ha riscritto il mondo? MangaForever.net",
+        "description": "Perché Homura Akemi, dopo aver dedicato la propria vita a salvare Madoka Kaname, arriva a riscrivere il mondo contro la volontà dell’amica? È una delle domande più importanti lasciate in sospeso da Puella...",
+        "publishedDate": "2026-11-19T13:16:48.000Z"
+      },
+      {
+        "url": "https://popcorntv.it/cinema/madoka-magica-il-mondo-di-homura-prima-del-nuovo-film/",
+        "title": "Madoka Magica, il mondo di Homura prima del nuovo film",
+        "description": "Il nuovo capitolo di Puella Magi Madoka Magica riparte dalla frattura aperta da Homura Akemi alla fine di Rebellion. Il risveglio di Walpurgis, seguito ufficiale del film del 2013, arriverà nei cinema...",
+        "publishedDate": "2026-11-21T09:03:18.000Z"
       }
     ],
     "tmdbMovie": {
@@ -5404,7 +5422,8 @@
       "Puella Magi Madoka Magica Movie 4",
       "Puella Magi Madoka Magica The Movie - Il risveglio di Walpurgis",
       "Puella Magi Madoka Magica The Movie: Il risveglio di Walpurgis",
-      "Madoka Magica Il risveglio di Walpurgis"
+      "Madoka Magica Il risveglio di Walpurgis",
+      "Il risveglio di Walpurgis"
     ],
     "theaterEndDate": "2026-12-16",
     "aliases": [
@@ -5412,7 +5431,8 @@
       "puella-magi-madoka-magica-the-movie-il-risveglio-di-walpurgisnacht",
       "puella-magi-madoka-magica-il-film-il-risveglio-di-walpurgis",
       "puella-magi-madoka-magica-movie-4",
-      "madoka-magica-il-risveglio-di-walpurgis"
+      "madoka-magica-il-risveglio-di-walpurgis",
+      "il-risveglio-di-walpurgis"
     ]
   },
   {
@@ -9902,6 +9922,40 @@
     "aliases": [
       "ghost-end-of-night"
     ]
+  },
+  {
+    "title": "The Nameless Ballad",
+    "slug": "the-nameless-ballad",
+    "lastSourceDate": "2026-11-21T00:04:35.000Z",
+    "theaterReleaseDate": "2026-11-05",
+    "alternativeTitles": [],
+    "sources": [
+      {
+        "url": "https://www.velvetcinema.it/2026/11/21/your-name-cinema-novembre-2026-4k/",
+        "title": "Your Name cinema novembre 2026: riedizione 4K dal 23-25",
+        "description": "Your Name torna al cinema in 4K: il capolavoro di Makoto Shinkai di nuovo sullo schermo a novembre  Mancano appena due giorni e i cinema italiani si preparano ad accogliere di nuovo uno dei capolavori...",
+        "publishedDate": "2026-11-21T00:04:35.000Z"
+      }
+    ],
+    "tmdbMovie": {
+      "adult": false,
+      "backdrop_path": "/uAlvhDqN1PVMq8q984ckXo9am4l.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1511829,
+      "title": "The Nameless Ballad",
+      "original_language": "it",
+      "original_title": "The Nameless Ballad",
+      "overview": "Sam Gallo è un giovane musicista di successo dalla personalità fragile e introversa. Schiacciato dalla pressione di dover creare nuove canzoni e tormentato da dipendenze che non riesce a superare, Sam si ritira in una villa italiana isolata in cerca di ispirazione. Ma le sue vulnerabilità lo rendono la preda perfetta per le presenze oscure che si nascondono nella casa: entità che si nutrono della sua angoscia e delle sue paure più profonde, trascinandolo in un labirinto di visioni, tormento e autodistruzione. Coinvolta in questa spirale di orrore è anche la sua compagna Tania.",
+      "popularity": 0.7552,
+      "poster_path": "/g691fkK4mB5GCFziGG7gZP6oP2Y.jpg",
+      "release_date": "2026-11-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.85,
+      "vote_count": 10
+    }
   },
   {
     "title": "Made in Abyss The Movie Awakening Mystery",
